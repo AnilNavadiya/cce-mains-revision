@@ -29,6 +29,11 @@
    📖 [FUNDAMENTAL_RIGHTS_EQUALITY_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_EQUALITY_NOTES_GUJARATI.md)  
    *(કલમ ૧૨-૧૮, કાયદા સમક્ષ સમાનતા, ભેદભાવ નિષેધ, EWS ૧૦૩મો સુધારો, ઈન્દ્રા સાહની કેસ, અસ્પૃશ્યતા નિવારણ, ખિતાબોની નાબૂદી)*
 
+5. **મૂળભૂત અધિકારો - ભાગ ૨: સ્વતંત્રતાનો અધિકાર (Fundamental Rights: ભાગ-૩, કલમ ૧૯ થી ૨૨):**  
+   📖 [FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md)  
+   *(કલમ ૧૯-૨૨, ૬ સ્વતંત્રતાઓ, વાજબી નિયંત્રણો, પ્રેસ/RTI/ધ્વજ કેસ, કલમ ૨૦ દોષસિદ્ધિ રક્ષણ, કલમ ૨૧ જીવનનો હક & મેનકા ગાંધી કેસ, પુટ્ટાસ્વામી પ્રાઈવસી કેસ, કલમ ૨૧-A RTE, કલમ ૨૨ અટકાયત)*
+
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
