@@ -33,6 +33,11 @@
    📖 [FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md)  
    *(કલમ ૧૯-૨૨, ૬ સ્વતંત્રતાઓ, વાજબી નિયંત્રણો, પ્રેસ/RTI/ધ્વજ કેસ, કલમ ૨૦ દોષસિદ્ધિ રક્ષણ, કલમ ૨૧ જીવનનો હક & મેનકા ગાંધી કેસ, પુટ્ટાસ્વામી પ્રાઈવસી કેસ, કલમ ૨૧-A RTE, કલમ ૨૨ અટકાયત)*
 
+6. **મૂળભૂત અધિકારો - ભાગ ૩: શોષણ વિરુદ્ધ, ધાર્મિક સ્વતંત્રતા & લઘુમતી અધિકારો (કલમ ૨૩ થી ૩૦):**  
+   📖 [FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md)  
+   *(કલમ ૨૩ વેઠપ્રથા/માનવ તસ્કરી, કલમ ૨૪ બાળમજૂરી નિષેધ, કલમ ૨૫ અંતઃકરણ/સંથારા/કિરપાણ, કલમ ૨૬ ધાર્મિક વહીવટ, કલમ ૨૭ કરવેરા નિષેધ vs ફી, કલમ ૨૮ શાળાઓમાં ધાર્મિક શિક્ષણ, કલમ ૨૯-૩૦ લઘુમતી સંસ્થાઓ)*
+
+
 
 ---
 
