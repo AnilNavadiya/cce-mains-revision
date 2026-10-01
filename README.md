@@ -37,6 +37,11 @@
    📖 [FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md)  
    *(કલમ ૨૩ વેઠપ્રથા/માનવ તસ્કરી, કલમ ૨૪ બાળમજૂરી નિષેધ, કલમ ૨૫ અંતઃકરણ/સંથારા/કિરપાણ, કલમ ૨૬ ધાર્મિક વહીવટ, કલમ ૨૭ કરવેરા નિષેધ vs ફી, કલમ ૨૮ શાળાઓમાં ધાર્મિક શિક્ષણ, કલમ ૨૯-૩૦ લઘુમતી સંસ્થાઓ)*
 
+7. **મૂળભૂત અધિકારો - ભાગ ૪: સંવિધાનિક ઉપચારો, ૫ રિટ્સ & સંસદની સત્તાઓ (કલમ ૩૧ થી ૩૫):**  
+   📖 [FUNDAMENTAL_RIGHTS_PART4_REMEDIES_WRITS_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_PART4_REMEDIES_WRITS_NOTES_GUJARATI.md)  
+   *(કલમ ૩૧ સંપત્તિ અધિકાર રદ & ૩૦૦-ક, ૩૧A-C, કલમ ૩૨ ડૉ. આંબેડકર "આત્મા અને હૃદય", ૫ રિટ્સ: હેબિયસ કોર્પસ, મેન્ડેમસ, પ્રોહિબિશન, સર્શિયોરરી, ક્વો વોરન્ટો, કલમ ૩૨ vs ૨૨૬ હાઈકોર્ટ રિટ સત્તા, કલમ ૩૩ સશસ્ત્ર દળો, કલમ ૩૪ માર્શલ લો, કલમ ૩૫ સંસદ સત્તા)*
+
+
 
 
 ---
