@@ -21,11 +21,19 @@ git remote remove origin 2>/dev/null || true
 git remote add origin "$REPO_URL"
 git branch -M main
 echo "Pushing to $REPO_URL..."
-git push -u origin main
 
-echo ""
-echo "=========================================================="
-echo "✅ Code successfully pushed to GitHub!"
-echo "🌐 Automated GitHub Actions will now build and deploy the web portal."
-echo "👉 Check your repository Actions tab to watch the build."
-echo "=========================================================="
+if git push -u origin main; then
+  echo ""
+  echo "=========================================================="
+  echo "✅ Code successfully pushed to GitHub!"
+  echo "🌐 Automated GitHub Actions will now build and deploy the web portal."
+  echo "👉 Check your repository Actions tab to watch the build."
+  echo "=========================================================="
+else
+  echo ""
+  echo "❌ Error: Push નિષ્ફળ થયું!"
+  echo "કારણ: GitHub પર 'cce-mains-revision' નામની રીપોઝીટરી હજુ સુધી બનેલી નથી."
+  echo "કૃપા કરીને પહેલા https://github.com/new પર જઈને 'cce-mains-revision' નામથી રીપોઝીટરી Create કરો, અને પછી ફરીથી આ કમાન્ડ ચલાવો."
+  exit 1
+fi
+
