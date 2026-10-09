@@ -1,8 +1,9 @@
 # ⚖️ સર્વોચ્ચ અદાલત (Supreme Court of India) - ભાગ ૨: સંપૂર્ણ માસ્ટર રિવિઝન નોટ્સ
 ### (અધિકારક્ષેત્રો - મૂળ, રીટ, અપીલીય, સલાહકારી, અભિલેખ અદાલત, પુનરાવલોકન, અનુચ્છેદ ૧૪૨ પૂર્ણ ન્યાય, PIL, CCE Mains મોડેલ Q&A અને ૨૦ MCQs)
 
-**સંદર્ભ લેક્ચર:** ડૉ. દિનેશ ગેહલોત (Utkarsh Classes)  
-**વિડિયો લિંક:** [https://www.youtube.com/watch?v=oyt5ViCTy6o](https://www.youtube.com/watch?v=oyt5ViCTy6o)  
+**સંદર્ભ લેક્ચર્સ:** ડૉ. દિનેશ ગેહલોત (Utkarsh Classes)  
+**વિડિયો લિંક ૧ (લેટેસ્ટ):** [https://www.youtube.com/live/_9Or7yw2XBA](https://www.youtube.com/live/_9Or7yw2XBA)  
+**વિડિયો લિંક ૨ (સંપૂર્ણ લેક્ચર):** [https://www.youtube.com/watch?v=oyt5ViCTy6o](https://www.youtube.com/watch?v=oyt5ViCTy6o)  
 **વિષય:** ભારતીય બંધારણ અને રાજ્યવ્યવસ્થા | સર્વોચ્ચ અદાલત (ભાગ-૨) | લંબાઈ: ૯૪ મિનિટ
 
 ---
