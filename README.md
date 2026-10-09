@@ -123,6 +123,18 @@
 25. **મહત્વના બંધારણીય સુધારાઓ અને મહત્વપૂર્ણ તથ્યો - ભાગ ૧ (Constitutional Amendments & Facts):**  
     📖 [CONSTITUTION_IMPORTANT_FACTS_PART1_NOTES_GUJARATI.md](./polity_notes/CONSTITUTION_IMPORTANT_FACTS_PART1_NOTES_GUJARATI.md)  
     *(સુધારાની ૩ પદ્ધતિઓ અનુ. ૩૬૮, ૧૨૩મો ખરડો/૧૦૨મો NCBC, ૧૦૪મો સુધારો SC/ST ૨૦૩૦ & એંગ્લો-ઇન્ડિયન નાબૂદી, સામૂહિક જવાબદારી ૭૫(૩) & ૧૬૪(૨), ૯૧મો સુધારો ૧૫% કદ, વિધાન પરિષદ ૧૬૯)*
+
+---
+
+## 🏛️ વિભાગ ૩: જાહેર વહીવટ અને શાસન (Public Administration & Governance - ૨૦ ગુણ)
+> **માસ્ટર નોટ્સ ફોલ્ડર:** [`./public_admin_notes/`](./public_admin_notes/)  
+> **વિડિયો લેક્ચર સ્ત્રોત:** હેમંત શાહ સર (LearningPocket GPSC)
+
+1. **જાહેર વહીવટના મૂળભૂત સિદ્ધાંતો - ભાગ ૧ (અર્થ, વ્યાખ્યા, ક્ષેત્ર, ૫ તબક્કાનો વિકાસ & જાહેર વિ. ખાનગી વહીવટ):**  
+   📖 [PUBLIC_ADMINISTRATION_PART1_MEANING_SCOPE_EVOLUTION_NOTES_GUJARATI.md](./public_admin_notes/PUBLIC_ADMINISTRATION_PART1_MEANING_SCOPE_EVOLUTION_NOTES_GUJARATI.md)  
+   🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-1 Live Video](https://www.youtube.com/live/_IUPWvu-Xbo?si=45Muwh58XAZBS0Ds)  
+   *(વ્યુત્પત્તિ ad + ministrare, વૂડ્રો વિલ્સન ૧૮૮૭, એલ.ડી. વ્હાઇટ ૧૯૨૬, ગુલિકનું POSDCORB, મેરિયમ કાતર થિયરી, વિકાસના ૫ તબક્કા, NPA મિન્નોબ્રૂક પરિષદ ૧૯૬૮, સાયમન કહેવતો, ફ્રેડ રિગ્સ પ્રિઝમેટિક મોડેલ, જાહેર વિ. ખાનગી વહીવટ)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
