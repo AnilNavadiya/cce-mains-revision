@@ -11,126 +11,118 @@
 ---
 
 ## 📚 વિષયવાર રિવિઝન નોટ્સ (Gujarati Revision Notes)
+> 📁 **તમામ બંધારણ અને રાજવ્યવસ્થાની નોટ્સ [polity_notes/](./polity_notes/) ડિરેક્ટરીમાં એકત્રિત કરવામાં આવી છે.**
 
-### ■ વિભાગ ૧: ભારતીય રાજ્યવ્યવસ્થા અને બંધારણ (૨૦ ગુણ)
+### ■ વિભાગ ૧: ભારતીય રાજ્યવ્યવસ્થા અને બંધારણ (૨૦ ગુણ) - [`polity_notes/`](./polity_notes/)
 1. **બંધારણ સભા અને ઐતિહાસિક પૃષ્ઠભૂમિ (Constituent Assembly):**  
-   📖 [CONSTITUENT_ASSEMBLY_NOTES_GUJARATI.md](./CONSTITUENT_ASSEMBLY_NOTES_GUJARATI.md)  
+   📖 [CONSTITUENT_ASSEMBLY_NOTES_GUJARATI.md](./polity_notes/CONSTITUENT_ASSEMBLY_NOTES_GUJARATI.md)  
    *(ઐતિહાસિક માંગ, કેબિનેટ મિશન, સભ્ય સંખ્યા, સમિતિઓ, પ્રથમ બેઠક, સ્વીકૃતિ અને અમલીકરણ)*
 
 2. **ભારતીય બંધારણનું આમુખ (Preamble of the Constitution):**  
-   📖 [PREAMBLE_NOTES_GUJARATI.md](./PREAMBLE_NOTES_GUJARATI.md)  
+   📖 [PREAMBLE_NOTES_GUJARATI.md](./polity_notes/PREAMBLE_NOTES_GUJARATI.md)  
    *(ઉદ્દેશ્ય પ્રસ્તાવ, મુખ્ય શબ્દો, ૪૨મો સુધારો ૧૯૭૬, બેરુબારી અને કેશવાનંદ ભારતી કેસ)*
 
 3. **સંઘ અને તેનું રાજ્યક્ષેત્ર (The Union & Its Territory: ભાગ-૧, કલમ ૧ થી ૪):**  
-   📖 [UNION_AND_TERRITORY_NOTES_GUJARATI.md](./UNION_AND_TERRITORY_NOTES_GUJARATI.md)  
+   📖 [UNION_AND_TERRITORY_NOTES_GUJARATI.md](./polity_notes/UNION_AND_TERRITORY_NOTES_GUJARATI.md)  
    *(કલમ ૧ થી ૪, ધર આયોગ, JVP સમિતિ, ફઝલ અલી પંચ, ૭મો સુધારો ૧૯૫૬, નવા રાજ્યોની રચના)*
 
 4. **મૂળભૂત અધિકારો - ભાગ ૧: સમાનતાનો અધિકાર (Fundamental Rights: ભાગ-૩, કલમ ૧૨ થી ૧૮):**  
-   📖 [FUNDAMENTAL_RIGHTS_EQUALITY_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_EQUALITY_NOTES_GUJARATI.md)  
+   📖 [FUNDAMENTAL_RIGHTS_EQUALITY_NOTES_GUJARATI.md](./polity_notes/FUNDAMENTAL_RIGHTS_EQUALITY_NOTES_GUJARATI.md)  
    *(કલમ ૧૨-૧૮, કાયદા સમક્ષ સમાનતા, ભેદભાવ નિષેધ, EWS ૧૦૩મો સુધારો, ઈન્દ્રા સાહની કેસ, અસ્પૃશ્યતા નિવારણ, ખિતાબોની નાબૂદી)*
 
 5. **મૂળભૂત અધિકારો - ભાગ ૨: સ્વતંત્રતાનો અધિકાર (Fundamental Rights: ભાગ-૩, કલમ ૧૯ થી ૨૨):**  
-   📖 [FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md)  
+   📖 [FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md](./polity_notes/FUNDAMENTAL_RIGHTS_FREEDOM_NOTES_GUJARATI.md)  
    *(કલમ ૧૯-૨૨, ૬ સ્વતંત્રતાઓ, વાજબી નિયંત્રણો, પ્રેસ/RTI/ધ્વજ કેસ, કલમ ૨૦ દોષસિદ્ધિ રક્ષણ, કલમ ૨૧ જીવનનો હક & મેનકા ગાંધી કેસ, પુટ્ટાસ્વામી પ્રાઈવસી કેસ, કલમ ૨૧-A RTE, કલમ ૨૨ અટકાયત)*
 
 6. **મૂળભૂત અધિકારો - ભાગ ૩: શોષણ વિરુદ્ધ, ધાર્મિક સ્વતંત્રતા & લઘુમતી અધિકારો (કલમ ૨૩ થી ૩૦):**  
-   📖 [FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md)  
+   📖 [FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md](./polity_notes/FUNDAMENTAL_RIGHTS_PART3_EXPLOITATION_RELIGION_NOTES_GUJARATI.md)  
    *(કલમ ૨૩ વેઠપ્રથા/માનવ તસ્કરી, કલમ ૨૪ બાળમજૂરી નિષેધ, કલમ ૨૫ અંતઃકરણ/સંથારા/કિરપાણ, કલમ ૨૬ ધાર્મિક વહીવટ, કલમ ૨૭ કરવેરા નિષેધ vs ફી, કલમ ૨૮ શાળાઓમાં ધાર્મિક શિક્ષણ, કલમ ૨૯-૩૦ લઘુમતી સંસ્થાઓ)*
 
 7. **મૂળભૂત અધિકારો - ભાગ ૪: સંવિધાનિક ઉપચારો, ૫ રિટ્સ & સંસદની સત્તાઓ (કલમ ૩૧ થી ૩૫):**  
-   📖 [FUNDAMENTAL_RIGHTS_PART4_REMEDIES_WRITS_NOTES_GUJARATI.md](./FUNDAMENTAL_RIGHTS_PART4_REMEDIES_WRITS_NOTES_GUJARATI.md)  
+   📖 [FUNDAMENTAL_RIGHTS_PART4_REMEDIES_WRITS_NOTES_GUJARATI.md](./polity_notes/FUNDAMENTAL_RIGHTS_PART4_REMEDIES_WRITS_NOTES_GUJARATI.md)  
    *(કલમ ૩૧ સંપત્તિ અધિકાર રદ & ૩૦૦-ક, ૩૧A-C, કલમ ૩૨ ડૉ. આંબેડકર "આત્મા અને હૃદય", ૫ રિટ્સ: હેબિયસ કોર્પસ, મેન્ડેમસ, પ્રોહિબિશન, સર્શિયોરરી, ક્વો વોરન્ટો, કલમ ૩૨ vs ૨૨૬ હાઈકોર્ટ રિટ સત્તા, કલમ ૩૩ સશસ્ત્ર દળો, કલમ ૩૪ માર્શલ લો, કલમ ૩૫ સંસદ સત્તા)*
 
 8. **રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો (DPSP: ભાગ-૪, કલમ ૩૬ થી ૫૧):**  
-   📖 [DPSP_DIRECTIVE_PRINCIPLES_NOTES_GUJARATI.md](./DPSP_DIRECTIVE_PRINCIPLES_NOTES_GUJARATI.md)  
+   📖 [DPSP_DIRECTIVE_PRINCIPLES_NOTES_GUJARATI.md](./polity_notes/DPSP_DIRECTIVE_PRINCIPLES_NOTES_GUJARATI.md)  
    *(આયર્લેન્ડ સ્ત્રોત, ૧૯૩૫ ઇન્સ્ટ્રુમેન્ટ ઓફ ઇન્સ્ટ્રક્શન્સ, કલ્યાણકારી રાજ્ય & સામાજિક-આર્થિક લોકશાહી, કલમ ૩૭ અપ્રવર્તનીય છતાં શાસનમાં પાયારૂપ, કલમ ૩૮-૩૯ સમાન કામ સમાન વેતન, કલમ ૩૯-A મફત કાનૂની સહાય & NALSA, કલમ ૪૦ ગ્રામ પંચાયતો ૭૩મો સુધારો, કલમ ૪૧-૪૩ મનરેગા/પ્રસૂતિ સહાય/કુટિર ઉદ્યોગ, કલમ ૪૪ UCC, કલમ ૪૫ ECCE, કલમ ૪૭ નશાબંધી, કલમ ૪૮ ગૌહત્યા પ્રતિબંધ & ૪૮-A પર્યાવરણ, કલમ ૫૦ ન્યાયતંત્ર અલગતા, કલમ ૫૧ આંતરરાષ્ટ્રીય શાંતિ/વિદેશ નીતિ, ૩ વૈચારિક જૂથો: સમાજવાદી/ગાંધીવાદી/ઉદારવાદી)*
 
 9. **મૂળભૂત ફરજો (Fundamental Duties: ભાગ-૪-A, કલમ ૫૧-A):**  
-   📖 [FUNDAMENTAL_DUTIES_NOTES_GUJARATI.md](./FUNDAMENTAL_DUTIES_NOTES_GUJARATI.md)  
+   📖 [FUNDAMENTAL_DUTIES_NOTES_GUJARATI.md](./polity_notes/FUNDAMENTAL_DUTIES_NOTES_GUJARATI.md)  
    *(પૃષ્ઠભૂમિ, USSR સ્ત્રોત, સ્વર્ણસિંહ સમિતિ ભલામણો (સ્વીકૃત અને અસ્વીકૃત), ૪૨મો સુધારો ૧૯૭૬ (૧૦ ફરજો), ૮૬મો સુધારો ૨૦૦૨ (૧૧મી ફરજ), તમામ ૧૧ ફરજો ૫૧-A(a) થી (k) નું વિશ્લેષણ, અપ્રવર્તનીય સ્વરૂપ, વર્મા સમિતિ ૧૯૯૯ અને સંસદીય કાયદાઓ)*
 
-10. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૧ (The President of India - Part 1: કલમ ૫૨ થી ૬૨ & ૭૧):**  
-    📖 [PRESIDENT_OF_INDIA_PART1_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART1_NOTES_GUJARATI.md)  
-    *(ભાગ-૫ કારોબારી, રાષ્ટ્રપતિ બંધારણીય વડા & પ્રથમ નાગરિક, સશસ્ત્ર દળોના સર્વોચ્ચ સેનાપતિ, મતદાર મંડળ કલમ ૫૪ (કોણ મત આપે/કોણ ન આપે), ચૂંટણી પદ્ધતિ કલમ ૫૫ PR-STV આયર્લેન્ડ સ્ત્રોત, ધારાસભ્ય અને સાંસદના મત મૂલ્યની ગણતરી (૧૯૭૧ વસ્તી ૮૪મો સુધારો), કાર્યકાળ કલમ ૫૬, પુનઃચૂંટણી કલમ ૫૭, લાયકાતો કલમ ૫૮, ૫૦ પ્રસ્તાવક-૫૦ અનુમોદક & ₹૧૫,૦૦૦ ડિપોઝિટ, શપથ કલમ ૬૦ CJI દ્વારા, મહાભિયોગ પ્રક્રિયા કલમ ૬૧, પદ રિક્તતા કલમ ૬૨ & કાર્યકારી રાષ્ટ્રપતિ, ચૂંટણી વિવાદો કલમ ૭૧ સુપ્રીમ કોર્ટ)*
+10. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૧ થી ૮ (The President of India - Parts 1 to 8):**  
+    * 📖 [PRESIDENT_OF_INDIA_PART1_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART1_NOTES_GUJARATI.md) *(હોદ્દો, મતદાર મંડળ, ચૂંટણી પદ્ધતિ, શપથ, મહાભિયોગ કલમ ૫૨-૬૨)*
+    * 📖 [PRESIDENT_OF_INDIA_PART2_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART2_NOTES_GUJARATI.md) *(કારોબારી & ધારાકીય સત્તાઓ, વીટો, વટહુકમ કલમ ૧૨૩, ક્ષમાદાન કલમ ૭૨)*
+    * 📖 [PRESIDENT_OF_INDIA_PART3_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART3_NOTES_GUJARATI.md) *(કટોકટી સત્તાઓ, વિવેકાધીન સત્તાઓ & ૧૫ રાષ્ટ્રપતિઓ)*
+    * 📖 [PRESIDENT_OF_INDIA_PART4_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART4_NOTES_GUJARATI.md) *(૧૫ રાષ્ટ્રપતિઓનો ગહન જીવનપરિચય & ભારત vs USA vs UK તુલના)*
+    * 📖 [PRESIDENT_OF_INDIA_PART5_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART5_NOTES_GUJARATI.md) *(વીટો સત્તાઓ ૧૧૧ & ૨૦૧, વટહુકમ ૧૨૩, કૂપર & વાધવા કેસ)*
+    * 📖 [PRESIDENT_OF_INDIA_PART6_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART6_NOTES_GUJARATI.md) *(ક્ષમાદાન ૭૨, સલાહકારી ૧૪૩, નાણાકીય & સૈન્ય સત્તાઓ)*
+    * 📖 [PRESIDENT_OF_INDIA_PART7_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART7_NOTES_GUJARATI.md) *(રાષ્ટ્રીય કટોકટી અનુચ્છેદ ૩૫૨, ૪૪મો સુધારો, કલમ ૩૫૮ vs ૩૫૯)*
+    * 📖 [PRESIDENT_OF_INDIA_PART8_NOTES_GUJARATI.md](./polity_notes/PRESIDENT_OF_INDIA_PART8_NOTES_GUJARATI.md) *(રાષ્ટ્રપતિ શાસન ૩૫૬, બોમ્માઈ કેસ & નાણાકીય કટોકટી ૩૬૦)*
 
-11. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૨: સત્તાઓ અને કાર્યો (The President of India - Part 2: Powers & Functions):**  
-    📖 [PRESIDENT_OF_INDIA_PART2_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART2_NOTES_GUJARATI.md)  
-    *(કારોબારી સત્તાઓ: કલમ ૭૪-૭૫ મંત્રીપરિષદ સલાહ ૪૪મો સુધારો, મહત્વપૂર્ણ નિમણૂકો CAG/CEC/UPSC/ગવર્નર, કલમ ૭૬ એટર્ની જનરલ, કલમ ૭૭-૭૮; ધારાકીય સત્તાઓ: કલમ ૮૫ સત્ર/વિસર્જન, કલમ ૮૭ વિશેષ સંબોધન, કલમ ૧૦૮ સંયુક્ત બેઠક, કલમ ૮૦ ૧૨ સભ્યો નામાંકન; કલમ ૧૧૧ વીટો સત્તાઓ: આંત્યંતિક, નિલંબનકારી & પોકેટ વીટો (જ્ઞાની ઝૈલ સિંહ ૧૯૮૬ ડાક બિલ); કલમ ૧૨૩ વટહુકમ સત્તા (૬ અઠવાડિયા/૭.૫ મહિના, કૂપર & વાધવા કેસ); કલમ ૭૨ ક્ષમાદાન સત્તા (૫ પ્રકારો: ક્ષમા, લઘુકરણ, ઘટાડો, વિરામ, મોકૂફી, કોર્ટ માર્શલ & ફાંસી સત્તા); કલમ ૧૪૩ સુપ્રીમ કોર્ટ સલાહ; નાણાકીય/કટોકટી સત્તાઓ (૩૫૨, ૩૫૬, ૩૬૦) અને ભારતના રાષ્ટ્રપતિઓનો ઇતિહાસ)*
+11. **કેન્દ્રીય કારોબારી: ભારતના ઉપરાષ્ટ્રપતિ (Vice President of India - Articles 63 to 71):**  
+    📖 [VICE_PRESIDENT_OF_INDIA_NOTES_GUJARATI.md](./polity_notes/VICE_PRESIDENT_OF_INDIA_NOTES_GUJARATI.md)  
+    *(અમેરિકન મોડેલ, રાજ્યસભાના હોદ્દાની રૂએ સભાપતિ, ચૂંટણી મંડળ, કાર્યકાળ, દૂર કરવાની પ્રક્રિયા & તુલના)*
 
-12. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૩: કટોકટી, વિવેકાધીન સત્તાઓ અને ૧૫ રાષ્ટ્રપતિઓ (The President of India - Part 3):**  
-    📖 [PRESIDENT_OF_INDIA_PART3_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART3_NOTES_GUJARATI.md)  
-    *(કટોકટી સત્તાઓ: કલમ ૩૫૨ રાષ્ટ્રીય કટોકટી ૪૪મો સુધારો (સશસ્ત્ર વિદ્રોહ, કેબિનેટ લેખિત ભલામણ, ૧ મહિનો વિશેષ બહુમતી, કલમ ૨૦-૨૧ રક્ષણ), કલમ ૩૫૬ રાષ્ટ્રપતિ શાસન & બોમ્માઈ કેસ ૧૯૯૪, કલમ ૩૬૦ નાણાકીય કટોકટી; વિવેકાધીન સત્તાઓ; ૧૯૫૦ થી વર્તમાન તમામ ૧૫ રાષ્ટ્રપતિઓ: ડૉ. રાજેન્દ્ર પ્રસાદ, રાધાકૃષ્ણન, ઝાકીર હુસૈન, વી. વી. ગીરી, હિદાયતુલ્લાહ CJI, નીલમ સંજીવ રેડ્ડી બિનહરીફ, જ્ઞાની ઝૈલ સિંહ પોકેટ વીટો, કે. આર. નારાયણન પ્રથમ દલિત, અબ્દુલ કલામ મિસાઈલ મેન, પ્રતિભા પાટીલ પ્રથમ મહિલા, પ્રણબ મુખર્જી, દ્રૌપદી મુર્મુ પ્રથમ આદિવાસી & સ્વતંત્ર ભારતમાં જન્મેલા)*
+12. **કેન્દ્રીય કારોબારી: ભારતના વડાપ્રધાન & મંત્રીપરિષદ (Prime Minister & Council of Ministers):**  
+    📖 [PRIME_MINISTER_OF_INDIA_NOTES_GUJARATI.md](./polity_notes/PRIME_MINISTER_OF_INDIA_NOTES_GUJARATI.md)  
+    *(વાસ્તવિક કારોબારી વડા, કલમ ૭૪, ૭૫, ૭૭, ૭૮, સામૂહિક જવાબદારી, ૯૧મો સુધારો & કેબિનેટ)*
 
-13. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૪: તમામ ૧૫ રાષ્ટ્રપતિઓનું વિશ્લેષણ, કાર્યકારી રાષ્ટ્રપતિ & તુલનાત્મક અભ્યાસ (The President of India - Part 4):**  
-    📖 [PRESIDENT_OF_INDIA_PART4_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART4_NOTES_GUJARATI.md)  
-    *(રાષ્ટ્રપતિ ઉત્તરાધિકાર કાયદો ૧૯૬૯, CJI મોહમ્મદ હિદાયતુલ્લાહ, ૩ કાર્યકારી રાષ્ટ્રપતિઓ (ગીરી, હિદાયતુલ્લાહ, જત્તી), તમામ ૧૫ રાષ્ટ્રપતિઓનો ગહન જીવનપરિચય & ઐતિહાસિક નિર્ણયો, ઉપરાષ્ટ્રપતિમાંથી રાષ્ટ્રપતિ બનેલા ૬ મહાનુભાવો, પદ પર અવસાન પામેલા ૨ રાષ્ટ્રપતિ, પૂર્વે ભારત રત્ન વિજેતા ૩ રાષ્ટ્રપતિ, વાસ્તવિક વીટો & પુનર્વિચારણા કિસ્સાઓ (ઝૈલ સિંહ, નારાયણન, કલામ), ભારત vs. અમેરિકા vs. બ્રિટન પ્રમુખપદની બંધારણીય તુલના અને CCE Mains પ્રશ્નોત્તરી)*
+13. **કેન્દ્રીય કારોબારી: ભારતના એટર્ની જનરલ (Attorney General of India - Articles 76 & 88):**  
+    📖 [ATTORNEY_GENERAL_OF_INDIA_NOTES_GUJARATI.md](./polity_notes/ATTORNEY_GENERAL_OF_INDIA_NOTES_GUJARATI.md)  
+    *(દેશના સર્વોચ્ચ કાયદા અધિકારી, લાયકાતો, રાષ્ટ્રપતિની મરજી, સંસદમાં ભાષણ/હાજરીનો હક કલમ ૮૮)*
 
-14. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૫: વીટો સત્તાઓ (૧૧૧ & ૨૦૧), વટહુકમ (૧૨૩) અને સીમાચિહ્નરૂપ ચુકાદાઓ (The President of India - Part 5):**  
-    📖 [PRESIDENT_OF_INDIA_PART5_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART5_NOTES_GUJARATI.md)  
-    *(વીટો સંકલ્પના, ૪ વૈશ્વિક પ્રકારો અને ભારતમાં સ્થિતિ, કલમ ૧૧૧ રાષ્ટ્રપતિના ૩ વિકલ્પો, ૨૪મો સુધારો ૧૯૭૧ અને બંધારણીય સુધારા ખરડા પર વીટો નિષેધ, કલમ ૨૦૦ & ૨૦૧ રાજ્ય વિધાનમંડળના ખરડાઓ પર રાષ્ટ્રપતિનો સંપૂર્ણ આંત્યંતિક વીટો, કલમ ૧૨૩ વટહુકમ સત્તા (શરતો, ૬ અઠવાડિયા/૭.૫ મહિના), ન્યાયિક ચુકાદાઓ: કૂપર કેસ ૧૯૭૦, ૩૮મો vs ૪૪મો સુધારો ૧૯૭૮, ડી. સી. વાધવા કેસ ૧૯૮૭ (બંધારણ સાથે છેતરપિંડી), કૃષ્ણ કુમાર સિંહ કેસ ૨૦૧૭ (૭ જજોની બેંચ), કેન્દ્રીય vs રાજ્ય ખરડા તુલના અને CCE Mains પ્રશ્નોત્તરી)*
+14. **સંસદ: લોકસભા અને રાજ્યસભા (Parliament: Lok Sabha & Rajya Sabha):**  
+    * 📖 [LOK_SABHA_FORMATION_AND_COMPOSITION_NOTES_GUJARATI.md](./polity_notes/LOK_SABHA_FORMATION_AND_COMPOSITION_NOTES_GUJARATI.md) *(લોકસભા રચના, બેઠકો, અનામત, સ્પીકર & કાર્યકાળ)*
+    * 📖 [RAJYA_SABHA_FORMATION_AND_COMPOSITION_NOTES_GUJARATI.md](./polity_notes/RAJYA_SABHA_FORMATION_AND_COMPOSITION_NOTES_GUJARATI.md) *(રાજ્યસભા રચના, ૨૫૦ બેઠકો, ૧૨ નામાંકિત, વિશેષ સત્તાઓ કલમ ૨૪૯ & ૩૧૨)*
 
-15. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૬: ન્યાયિક (૭૨ & ૧૪૩), નાણાકીય, સૈન્ય & રાજદ્વારી સત્તાઓ (The President of India - Part 6):**  
-    📖 [PRESIDENT_OF_INDIA_PART6_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART6_NOTES_GUJARATI.md)  
-    *(અનુચ્છેદ ૭૨ ક્ષમાદાનના ૫ પ્રકારો (ક્ષમા, લઘુકરણ, ઘટાડો, વિરામ, મોકૂફી), રાષ્ટ્રપતિ vs રાજ્યપાલ કલમ ૧૬૧ તુલના (કોર્ટ માર્શલ અને ફાંસી માફી), સીમાચિહ્નરૂપ ચુકાદાઓ: મરૂ રામ ૧૯૮૦, કેહર સિંહ ૧૯૮૯, ઈપૂરુ સુધાકર ૨૦૦૬, શત્રુઘ્ન ચૌહાણ ૨૦૧૪ (અતિશય વિલંબ પર ફાંસી રદ); અનુચ્છેદ ૧૪૩ સર્વોચ્ચ અદાલતની સલાહકારી સત્તા (૧૪૩(૧) vs ૧૪૩(૨) અને મુખ્ય ૧૫ રેફરન્સ); નાણાકીય સત્તાઓ: બજેટ કલમ ૧૧૨, નાણાકીય ખરડો કલમ ૧૧૦-૧૧૭, આકસ્મિક નિધિ કલમ ૨૬૭, નાણાં પંચ કલમ ૨૮૦; સૈન્ય અને રાજદ્વારી સત્તાઓ તથા CCE Mains પ્રશ્નોત્તરી)*
+15. **સંસદીય પ્રક્રિયાઓ અને સમિતિઓ (Parliamentary Procedures & Committees - Parts 1 to 4):**  
+    * 📖 [PARLIAMENTARY_PROCEDURES_PART1_NOTES_GUJARATI.md](./polity_notes/PARLIAMENTARY_PROCEDURES_PART1_NOTES_GUJARATI.md) *(સત્રો, આહ્વાન, સત્રાવસાન, પ્રશ્નકાળ & શૂન્યકાળ)*
+    * 📖 [PARLIAMENTARY_PROCEDURES_PART2_NOTES_GUJARATI.md](./polity_notes/PARLIAMENTARY_PROCEDURES_PART2_NOTES_GUJARATI.md) *(પ્રસ્તાવો: અવિશ્વાસ પ્રસ્તાવ, કામરોકો પ્રસ્તાવ, વિશેષાધિકાર પ્રસ્તાવ)*
+    * 📖 [PARLIAMENTARY_PROCEDURES_PART3_COMMITTEES_NOTES_GUJARATI.md](./polity_notes/PARLIAMENTARY_PROCEDURES_PART3_COMMITTEES_NOTES_GUJARATI.md) *(સંસદીય સમિતિઓ: PAC, અંદાજ સમિતિ, જાહેર સાહસો સમિતિ)*
+    * 📖 [PARLIAMENTARY_PROCEDURES_PART4_NOTES_GUJARATI.md](./polity_notes/PARLIAMENTARY_PROCEDURES_PART4_NOTES_GUJARATI.md) *(બજેટ પ્રક્રિયા, નાણાકીય ખરડો કલમ ૧૧૦ & કાપ દરખાસ્તો)*
 
-16. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૭: કટોકટી સત્તાઓ (રાષ્ટ્રીય કટોકટી - અનુચ્છેદ ૩૫૨) (The President of India - Part 7):**  
-    📖 [PRESIDENT_OF_INDIA_PART7_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART7_NOTES_GUJARATI.md)  
-    *(ભાગ ૧૮ કટોકટી જોગવાઈઓ સ્ત્રોત (૧૯૩૫ અધિનિયમ અને વાઇમર બંધારણ); ૩ પ્રકારની કટોકટીઓ; અનુચ્છેદ ૩૫૨ રાષ્ટ્રીય કટોકટીના ૩ આધારો (યુદ્ધ, બાહ્ય આક્રમણ, સશસ્ત્ર વિદ્રોહ); ૪૪મો સુધારો ૧૯૭૮ સુરક્ષા કવચો ('આંતરિક અશાંતિ' રદ, કેબિનેટ લેખિત ભલામણ અનુચ્છેદ ૩૫૨(૩), ૧ મહિનામાં સંસદીય વિશેષ બહુમતી, દર ૬ મહિને પુનઃમંજૂરી, અનંતકાળ વિસ્તરણ, લોકસભા સાદી બહુમતી અસ્વીકાર & ૧/૧૦ સભ્યોની વિશેષ બેઠક); કટોકટીની અસરો: કેન્દ્ર-રાજ્ય સંબંધો, અનુચ્છેદ ૨૫૦ રાજ્ય સૂચિ પર સંસદીય કાયદો, અનુચ્છેદ ૮૩(૨) લોકસભા કાર્યકાળ વિસ્તરણ; અનુચ્છેદ ૩૫૮ vs અનુચ્છેદ ૩૫૯ (અનુચ્છેદ ૧૯ નિલંબન vs કલમ ૨૦-૨૧ ની અખંડિત સુરક્ષા); ભારતમાં ૩ ઐતિહાસિક કટોકટીઓ ૧૯૬૨, ૧૯૭૧, ૧૯૭૫ રાષ્ટ્રપતિઓ અને વડાપ્રધાનો તથા CCE Mains પ્રશ્નોત્તરી)*
+16. **ભારતીય ન્યાયતંત્ર: સર્વોચ્ચ અદાલત (Supreme Court of India - Parts 1, 2, 3 & 5):**  
+    * 📖 [SUPREME_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md](./polity_notes/SUPREME_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md) *(સંરચના, કોલેજિયમ, NJAC કેસ, લાયકાતો & મહાભિયોગ)*
+    * 📖 [SUPREME_COURT_PART2_JURISDICTION_POWERS_NOTES_GUJARATI.md](./polity_notes/SUPREME_COURT_PART2_JURISDICTION_POWERS_NOTES_GUJARATI.md) *(મૂળ અધિકારક્ષેત્ર ૧૩૧, રિટ ૩૨, અપીલીય ૧૩૨-૧૩૬, સલાહકારી ૧૪૩, પૂર્ણ ન્યાય ૧૪૨)*
+    * 📖 [SUPREME_COURT_PART3_LANDMARK_CASES_CJIS_NOTES_GUJARATI.md](./polity_notes/SUPREME_COURT_PART3_LANDMARK_CASES_CJIS_NOTES_GUJARATI.md) *(સીમાચિહ્નરૂપ ચુકાદાઓ, કેશવાનંદ ભારતી, મેનકા ગાંધી, મિનર્વા મિલ્સ & CJIs)*
+    * 📖 [SUPREME_COURT_PART5_JUDICIAL_REVIEW_ACTIVISM_NOTES_GUJARATI.md](./polity_notes/SUPREME_COURT_PART5_JUDICIAL_REVIEW_ACTIVISM_NOTES_GUJARATI.md) *(ન્યાયિક સમીક્ષા, ન્યાયિક સક્રિયતા, PIL & ન્યાયતંત્રની સ્વાયત્તતાના ૯ સ્તંભો)*
 
-17. **કેન્દ્રીય કારોબારી: ભારતના રાષ્ટ્રપતિ - ભાગ ૮: કટોકટી સત્તાઓ (રાષ્ટ્રપતિ શાસન ૩૫૬ અને નાણાકીય કટોકટી ૩૬૦) (The President of India - Part 8):**  
-    📖 [PRESIDENT_OF_INDIA_PART8_NOTES_GUJARATI.md](./PRESIDENT_OF_INDIA_PART8_NOTES_GUJARATI.md)  
-    *(અનુચ્છેદ ૩૫૫ કેન્દ્રની ફરજ; અનુચ્છેદ ૩૫૬ રાષ્ટ્રપતિ શાસનના આધારો (રાજ્યપાલ રિપોર્ટ કે અન્યથા & અનુચ્છેદ ૩૬૫ કેન્દ્રના નિર્દેશોનું ઉલ્લંઘન); ૨ મહિનામાં સંસદીય સાદી બહુમતી; ૬ મહિનાની મુદત; ૪૪મો સુધારો ૧૯૭૮ (૧ વર્ષ પછી ૨ શરતો: કલમ ૩૫૨ રાષ્ટ્રીય કટોકટી અને ચૂંટણી પંચનું સર્ટિફિકેટ; મહત્તમ ૩ વર્ષની સીમા); રાષ્ટ્રપતિ શાસનની અસરો (મંત્રીપરિષદ બરખાસ્ત, વિધાનસભા સ્થગિત/વિસર્જિત, સંસદ ધારાકીય સત્તા, હાઈકોર્ટની સત્તા અકબંધ); સીમાચિહ્નરૂપ એસ. આર. બોમ્માઈ કેસ ૧૯૯૪ (ન્યાયિક સમીક્ષા, ફ્લોર ટેસ્ટ અનિવાર્ય, સરકાર પુનઃસ્થાપનાની અદાલતી સત્તા); ડૉ. આંબેડકરનું "મૃતપત્ર" કથન; ઐતિહાસિક ઉપયોગ (૧૯૫૧ પંજાબ પ્રથમ, રાજસ્થાન ૪ વખત, ૧૨૫+ દુરુપયોગ); અનુચ્છેદ ૩૬૦ નાણાકીય કટોકટી (૨ મહિના સાદી બહુમતી, અનિશ્ચિત સમય, પુનઃમંજૂરી મુક્તિ, ન્યાયાધીશોના પગાર-ભથ્થાં ઘટાડો, નાણાકીય ખરડા અનામત, ભારતમાં ૦ વખત ઉપયોગ); ૩ કટોકટીઓની સર્વગ્રાહી તુલના અને CCE Mains પ્રશ્નોત્તરી)*
+17. **ભારતીય ન્યાયતંત્ર: વડી અદાલત & રાજ્ય કારોબારી (High Court & State Executive):**  
+    * 📖 [HIGH_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md](./polity_notes/HIGH_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md) *(હાઈકોર્ટ રચના, રિટ સત્તા ૨૨૬, તાબાની અદાલતો, રાજ્યપાલ ૧૫૩-૧૬૧)*
+    * 📖 [STATE_GOVERNMENT_EXECUTIVE_LEGISLATURE_NOTES_GUJARATI.md](./polity_notes/STATE_GOVERNMENT_EXECUTIVE_LEGISLATURE_NOTES_GUJARATI.md) *(રાજ્ય કારોબારી, મુખ્યમંત્રી, વિધાનસભા & ધારાકીય પ્રક્રિયા)*
 
-18. **કેન્દ્રીય કારોબારી: ભારતના ઉપરાષ્ટ્રપતિ (Vice President of India - Articles 63 to 71):**  
-    📖 [VICE_PRESIDENT_OF_INDIA_NOTES_GUJARATI.md](./VICE_PRESIDENT_OF_INDIA_NOTES_GUJARATI.md)  
-    *(ભાગ ૫ પ્રકરણ ૧; અનુચ્છેદ ૬૩ અમેરિકન મોડેલ પરથી દ્વિતીય સર્વોચ્ચ હોદ્દો; અનુચ્છેદ ૬૪ અને ૮૯ રાજ્યસભાના હોદ્દાની રૂએ સભાપતિ (રૂ. ૪ લાખ વેતન, નિર્ણાયક મત અનુચ્છેદ ૧૦૦(૧), દૂર કરવાની દરખાસ્ત વખતે અધ્યક્ષતા પર રોક અનુચ્છેદ ૯૨); અનુચ્છેદ ૬૫ મહત્તમ ૬ મહિના કાર્યવાહક રાષ્ટ્રપતિ (રાષ્ટ્રપતિનું વેતન અને ભથ્થાં); અનુચ્છેદ ૬૬ ચૂંટણી મંડળ (સંસદના બંને ગૃહોના તમામ ચૂંટાયેલા + ૧૨ નામાંકિત સભ્યો, રાજ્ય વિધાનસભાઓ ભાગ લેતી નથી); ૨૦ પ્રસ્તાવક + ૨૦ ટેકેદાર, ₹૧૫,૦૦૦ ડિપોઝિટ; લાયકાતો (૩૫ વર્ષ, રાજ્યસભા સભ્યપદ યોગ્યતા, લાભનું પદ ન હોવું); અનુચ્છેદ ૬૭ કાર્યકાળ ૫ વર્ષ, રાષ્ટ્રપતિને રાજીનામું; દૂર કરવાની પ્રક્રિયા (માત્ર રાજ્યસભામાં ૧૪ દિવસ પૂર્વ નોટિસ, તાત્કાલિક સભ્યોની બહુમતી - Effective Majority અને લોકસભાની સાદી સંમતિ, બંધારણમાં કોઈ ગ્રાઉન્ડ નહીં); અનુચ્છેદ ૬૮ આકસ્મિક ખાલી જગ્યા ભરવા 'યથાશીઘ્ર' ચૂંટણી; અનુચ્છેદ ૬૯ રાષ્ટ્રપતિ સમક્ષ શપથ; અનુચ્છેદ ૭૦ અને રાષ્ટ્રપતિ (કાર્યોનું નિર્વહન) અધિનિયમ ૧૯૬૯ (CJI હિદાયતુલ્લાહ); અનુચ્છેદ ૭૧ સુપ્રીમ કોર્ટ દ્વારા ચૂંટણી વિવાદોનો આખરી નિકાલ; ભારત વિ. અમેરિકા ઉપરાષ્ટ્રપતિ પદની તુલના, રાષ્ટ્રપતિ વિ. ઉપરાષ્ટ્રપતિ તુલના, ઐતિહાસિક ઉપરાષ્ટ્રપતિઓ અને CCE Mains ૨/૫/૧૦ ગુણ મોડેલ પ્રશ્નોત્તરી)*
+18. **વિધાન પરિષદ અને ભારતીય ચૂંટણી પંચ (Vidhan Parishad & Election Commission):**  
+    📖 [VIDHAN_PARISHAD_AND_ELECTION_COMMISSION_NOTES_GUJARATI.md](./polity_notes/VIDHAN_PARISHAD_AND_ELECTION_COMMISSION_NOTES_GUJARATI.md)  
+    *(વિધાન પરિષદ ૧૬૯, ચૂંટણી પદ્ધતિ ૫ વર્ગો; ભારતીય ચૂંટણી પંચ કલમ ૩૨૪-૩૨૯, CEC મહાભિયોગ રક્ષણ)*
 
-19. **કેન્દ્રીય કારોબારી: ભારતના વડાપ્રધાન (Prime Minister of India - Articles 74, 75, 77, 78 & 352):**  
-    📖 [PRIME_MINISTER_OF_INDIA_NOTES_GUJARATI.md](./PRIME_MINISTER_OF_INDIA_NOTES_GUJARATI.md)  
-    *(ભાગ ૫ પ્રકરણ ૧; વાસ્તવિક કારોબારી વડા (De Facto Head); અનુચ્છેદ ૭૪ મંત્રીપરિષદની સહાય અને સલાહ, ૪૨મો સુધારો ૧૯૭૬ (સલાહ ફરજિયાત) & ૪૪મો સુધારો ૧૯૭૮ (૧ વાર પુનર્વિચારની સત્તા); અનુચ્છેદ ૭૫ રાષ્ટ્રપતિ દ્વારા વડાપ્રધાનની નિમણૂક, લોકસભામાં બહુમતી પક્ષના નેતા, મંત્રીઓની વડાપ્રધાનની ભલામણથી નિમણૂક, સંસદ સભ્યપદની ૬ મહિનાની શરત (અનુચ્છેદ ૭૫(૫)), ૨૫ વર્ષ (લોકસભા) કે ૩૦ વર્ષ (રાજ્યસભા), ત્રીજી અનુસૂચિ હેઠળ મંત્રી તરીકે શપથ, વડાપ્રધાનના રાજીનામા/અવસાનથી સમગ્ર મંત્રીપરિષદનું વિસર્જન; અનુચ્છેદ ૭૭ ભારત સરકારના કાર્યોનું સંચાલન અને ખાતા ફાળવણીનો વિશેષાધિકાર; અનુચ્છેદ ૭૮ વડાપ્રધાનના ૩ બંધારણીય કર્તવ્યો (વહીવટી અને કાયદાકીય નિર્ણયો રાષ્ટ્રપતિને જણાવવા); ગૃહના નેતા (Leader of the House) વિ. લોકસભામાં બહુમતી પક્ષના નેતાનો સંસદીય તફાવત; રાજ્યસભામાંથી વડાપ્રધાન બનેલા નેતાઓ (ઈન્દિરા ગાંધી, દેવગૌડા, ગુજરાલ, ડૉ. મનમોહન સિંહ); વડાપ્રધાનના અધ્યક્ષપદ હેઠળની સંસ્થાઓ: નીતિ આયોગ, આંતર-રાજ્ય પરિષદ (અનુચ્છેદ ૨૬૩), રાષ્ટ્રીય એકતા પરિષદ, NDMA; મંત્રીપરિષદ વિ. કેબિનેટ (અનુચ્છેદ ૩૫૨ ૪૪મો સુધારો) અને CCE Mains ૨/૫/૧૦ ગુણ મોડેલ પ્રશ્નોત્તરી)*
+19. **બંધારણીય સંસ્થાઓ: ભારતના નિયંત્રક અને મહાલેખાપરીક્ષક - CAG (Articles 148 to 151):**  
+    📖 [CAG_COMPTROLLER_AND_AUDITOR_GENERAL_NOTES_GUJARATI.md](./polity_notes/CAG_COMPTROLLER_AND_AUDITOR_GENERAL_NOTES_GUJARATI.md)  
+    *(જાહેર નાણાંના વાલી, વોરન્ટ નિમણૂક, ૧૯૭૬ હિસાબ વિભાજન, CGA vs CAG & PAC ના માર્ગદર્શક)*
 
-20. **બંધારણીય સંસ્થાઓ: ભારતના નિયંત્રક અને મહાલેખાપરીક્ષક - CAG (Articles 148 to 151):**  
-    📖 [CAG_COMPTROLLER_AND_AUDITOR_GENERAL_NOTES_GUJARATI.md](./CAG_COMPTROLLER_AND_AUDITOR_GENERAL_NOTES_GUJARATI.md)  
-    *(ભાગ ૫ પ્રકરણ ૫; જાહેર નાણાંના સંરક્ષક; ડૉ. આંબેડકર દ્વારા લોકશાહીના ૪ સ્તંભોમાં સ્થાન (SC, EC, UPSC, CAG); અનુચ્છેદ ૧૪૮ રાષ્ટ્રપતિ દ્વારા અધિપત્ર (Warrant under hand and seal) હેઠળ નિમણૂક, ૬ વર્ષ અથવા ૬૫ વર્ષનો કાર્યકાળ, સુપ્રીમ કોર્ટ જજ સમાન દૂર કરવાની રીત (કદાચાર/અસમર્થતા સાબિતી પર સંસદની વિશેષ બહુમતી), નિવૃત્તિ બાદ સરકારી નોકરી પર પૂર્ણ પ્રતિબંધ, સંચિત નિધિ પર ભારિત પગાર-ખર્ચ; અનુચ્છેદ ૧૪૯ સત્તાઓ અને કાર્યો (CAG Act 1971); ૧૯૭૬ નું વિભાજન: કેન્દ્ર સરકારના હિસાબ રાખવાનું (Accounting) કાર્ય CGA (Controller General of Accounts) ને સોંપાયું & CAG પાસે માત્ર ઓડિટિંગ (Auditing) રહ્યું (રાજ્યો માટે બંને કાર્યો ચાલુ); અનુચ્છેદ ૧૫૦ હિસાબોનું ફોર્મેટ રાષ્ટ્રપતિ CAG ની સલાહથી નક્કી કરે; અનુચ્છેદ ૧૫૧ ઓડિટ અહેવાલો (રાષ્ટ્રપતિ સંસદમાં અને રાજ્યપાલ વિધાનમંડળમાં મૂકાવે); જાહેર હિસાબ સમિતિ (PAC - ૨૨ સભ્યો) ના 'મિત્ર, દાર્શનિક અને માર્ગદર્શક'; ભારત વિ. બ્રિટન CAG તુલના; પ્રથમ CAG વી. નરહરિ રાવ થી વર્તમાન CAG અને CCE Mains ૨/૫/૧૦ ગુણ મોડેલ પ્રશ્નોત્તરી)*
+20. **લોકપાલ, લોકાયુક્ત અને કેન્દ્રીય તકેદારી આયોગ - CVC (Lokpal, Lokayukta & CVC):**  
+    📖 [LOKPAL_LOKAYUKTA_AND_CVC_NOTES_GUJARATI.md](./polity_notes/LOKPAL_LOKAYUKTA_AND_CVC_NOTES_GUJARATI.md)  
+    *(ઓમ્બુડ્સમેન, લોકપાલ અધિનિયમ ૨૦૧૩, ૧+૮ સભ્યો, વડાપ્રધાન તપાસ, CVC Act ૨૦૦૩, ૪ વર્ષ/૬૫ વર્ષ મુદત)*
 
-21. **ભારતીય ન્યાયતંત્ર: સર્વોચ્ચ અદાલત (Supreme Court of India - ભાગ ૧ થી ૫):**  
-    📖 [SUPREME_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md](./SUPREME_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md)  
-    📖 [SUPREME_COURT_PART2_JURISDICTION_POWERS_NOTES_GUJARATI.md](./SUPREME_COURT_PART2_JURISDICTION_POWERS_NOTES_GUJARATI.md)  
-    📖 [SUPREME_COURT_PART3_LANDMARK_CASES_CJIS_NOTES_GUJARATI.md](./SUPREME_COURT_PART3_LANDMARK_CASES_CJIS_NOTES_GUJARATI.md)  
-    📖 [SUPREME_COURT_PART5_JUDICIAL_REVIEW_ACTIVISM_NOTES_GUJARATI.md](./SUPREME_COURT_PART5_JUDICIAL_REVIEW_ACTIVISM_NOTES_GUJARATI.md)  
-    *(ભાગ ૫ પ્રકરણ ૪, અનુચ્છેદ ૧૨૪-૧૪૭; ડૉ. દિનેશ ગેહલોત (ઉત્કર્ષ ક્લાસીસ) ના લેટેસ્ટ ૫ લેક્ચર્સ આધારિત સંપૂર્ણ માસ્ટર રિવિઝન નોટ્સ; ૧૭૭૩ રેગ્યુલેટિંગ એક્ટ થી ૧૯૫૦ સ્થાપના; જજોની સંખ્યા ૩૪; ૪ જજીસ કેસો, કોલેજિયમ પ્રણાલી & NJAC રદ; લાયકાતો, શપથ, મહાભિયોગ પ્રક્રિયા (જજીસ ઇન્ક્વાયરી એક્ટ ૧૯૬૮); પ્રારંભિક (૧૩૧), રિટ (૩૨ vs ૨૨૬), અપીલીય (૧૩૨-૧૩૬), સલાહકારી (૧૪૩), પુનરાવલોકન (૧૩૭ & ક્યુરેટિવ પિટિશન), પૂર્ણ ન્યાય સત્તા (૧૪૨), અદાલતના નિયમો (૧૪૫), બંધારણીય બેંચ (૫ જજ), સંચિત નિધિ ભારિત ખર્ચ (૧૪૬), ન્યાયિક પુનરાવલોકન (Judicial Review - માર્બરી વિ. મેડિસન ૧૮૦૩), ન્યાયિક સક્રિયતા વિ. અતિરેક વિ. સંયમ, ન્યાયતંત્રની સ્વાયત્તતાના ૯ સ્તંભો, CCE Mains ૨/૫/૧૦ ગુણ મોડેલ પ્રશ્નોત્તરી અને ૬૮ પરીક્ષાલક્ષી MCQs)*
+21. **માહિતીનો અધિકાર (RTI Act 2005), CIC, SIC & આયોજન પંચ:**  
+    📖 [RTI_CIC_AND_PLANNING_COMMISSION_NOTES_GUJARATI.md](./polity_notes/RTI_CIC_AND_PLANNING_COMMISSION_NOTES_GUJARATI.md)  
+    *(RTI કાયદો, ૩૦ દિવસ/૪૮ કલાક, CIC/SIC રચના, આયોજન પંચ ૧૯૫૦ & NDC ૧૯૫૨)*
 
-22. **ભારતીય ન્યાયતંત્ર: વડી અદાલત & રાજ્ય કારોબારી (High Court & State Executive - ભાગ ૧):**  
-    📖 [HIGH_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md](./HIGH_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md)  
-    *(ભાગ ૬ પ્રકરણ ૫ & ૬, અનુચ્છેદ ૨૧૪-૨૩૭; ૧૮૬૧ હાઈકોર્ટ એક્ટ; જજોની નિમણૂક, બદલી (૨૨૨), અપર અને કાર્યકારી ન્યાયાધીશો (૨૨૪); પગાર રાજ્યની સંચિત નિધિમાંથી & પેન્શન ભારતની સંચિત નિધિમાંથી (૨૨૧); રિટ અધિકારક્ષેત્ર (૨૨૬ vs ૩૨), તાબાની અદાલતો પર અધીક્ષણ (૨૨૭), જિલ્લા ન્યાયાધીશોની નિમણૂક (૨૩૩); રાજ્યપાલની નિમણૂક (૧૫૫), વોરન્ટ, સરકારીયા & પુંછી કમિશન, બી.પી. સિંઘલ કેસ ૨૦૧૦, વિવેકાધિકાર (૧૬૩ vs ૭૪), વીટો સત્તાઓ (૨૦૦ & ૨૦૧) અને વટહુકમ (૨૧૩))*
+22. **નીતિ આયોગ, રાજ્ય પુનર્ગઠન, ગઠબંધન સરકાર & નાગરિક અધિકાર પત્ર:**  
+    📖 [NITI_AAYOG_STATE_REORGANIZATION_COALITION_CITIZEN_CHARTER_NOTES_GUJARATI.md](./polity_notes/NITI_AAYOG_STATE_REORGANIZATION_COALITION_CITIZEN_CHARTER_NOTES_GUJARATI.md)  
+    *(નીતિ આયોગ ૨૦૧૫ બોટમ-અપ મોડેલ, ધાર/JVP/ફઝલ અલી આયોગ, ૧૯૭૭ મોરારજી ગઠબંધન & સિટિઝન ચાર્ટર)*
 
-23. **વિધાન પરિષદ અને ભારતીય ચૂંટણી પંચ (Legislative Council & Election Commission):**  
-    📖 [VIDHAN_PARISHAD_AND_ELECTION_COMMISSION_NOTES_GUJARATI.md](./VIDHAN_PARISHAD_AND_ELECTION_COMMISSION_NOTES_GUJARATI.md)  
-    *(ભાગ ૬ અનુચ્છેદ ૧૬૯ & ૧૭૧, ૬ રાજ્યો, સભ્ય સંખ્યા, ચૂંટણી પદ્ધતિ ૫ વર્ગો, રાજ્યપાલ નામાંકન (સહકારી ચળવળ), વિલંબકારી સત્તાઓ; ભાગ ૧૫ અનુચ્છેદ ૩૨૪-૩૨૯, ૨૫ જાન્યુઆરી રાષ્ટ્રીય મતદાતા દિવસ, ૧૯૯૩ ત્રિ-સદસ્યીય પંચ, ૬૧મો સુધારો ૧૮ વર્ષ વય, CEC મહાભિયોગ રક્ષણ, સુકુમાર સેન & વી.એસ. રમાદેવી)*
+23. **સંઘીય માળખું અને કેન્દ્ર-રાજ્ય સંબંધો (Federal Structure & Centre-State Relations):**  
+    📖 [FEDERAL_STRUCTURE_AND_CENTRE_STATE_RELATIONS_NOTES_GUJARATI.md](./polity_notes/FEDERAL_STRUCTURE_AND_CENTRE_STATE_RELATIONS_NOTES_GUJARATI.md)  
+    *(સમવાયતંત્ર, ૭મી અનુસૂચિ યાદીઓ, સરકારીયા & પુંછી કમિશન, બોમ્માઈ કેસ & આંતર-રાજ્ય પરિષદ કલમ ૨૬૩)*
 
-24. **લોકપાલ, લોકાયુક્ત અને કેન્દ્રીય તકેદારી આયોગ - CVC (Lokpal, Lokayukta & CVC):**  
-    📖 [LOKPAL_LOKAYUKTA_AND_CVC_NOTES_GUJARATI.md](./LOKPAL_LOKAYUKTA_AND_CVC_NOTES_GUJARATI.md)  
-    *(ઓમ્બુડ્સમેન સ્વીડન ૧૮૦૯, ડૉ. એલ.એમ. સિંઘવી ૧૯૬૩, પ્રથમ ARC ૧૯૬૬, ૧૯૬૮-૨૦૧૧ બિલો, ૨૦૧૧ અન્ના હજારે IAC આંદોલન; લોકપાલ અધિનિયમ ૨૦૧૩ ૧+૮ સભ્યો, પસંદગી સમિતિ (PM, સ્પીકર, LoP, CJI, ન્યાયશાસ્ત્રી), ૫ વર્ષ/૭૦ વર્ષ કાર્યકાળ, વડાપ્રધાન પર તપાસ (૫ વિષયો મુક્ત, ૨/૩ બહુમતી, ઇન-કેમેરા), CBI સુપરિન્ટેન્ડન્સ; રાજ્યોમાં લોકાયુક્ત (ઓડિશા ૧૯૭૦, મહારાષ્ટ્ર ૧૯૭૧, ગુજરાત ૧૯૮૬); કેન્દ્રીય તકેદારી આયોગ CVC (સંથાનમ સમિતિ ૧૯૬૪, વિનીત નારાયણ કેસ ૧૯૯૭, CVC Act ૨૦૦૩, ૪ વર્ષ/૬૫ વર્ષ વિશિષ્ટ કાર્યકાળ અને વ્હિસલ બ્લોઅર્સ એક્ટ))*
+24. **પંચાયતી રાજ અને જિલ્લા આયોજન સમિતિ (Panchayati Raj & DPC - 73rd CAA):**  
+    📖 [PANCHAYATI_RAJ_AND_DISTRICT_PLANNING_COMMITTEE_NOTES_GUJARATI.md](./polity_notes/PANCHAYATI_RAJ_AND_DISTRICT_PLANNING_COMMITTEE_NOTES_GUJARATI.md)  
+    *(બળવંતરાય મહેતા, નાગૌર ૧૯૫૯, ૭૩મો સુધારો ૧૯૯૨, કલમ ૨૪૩ થી ૨૪૩-O, DPC ૨૪૩-ZD, PESA Act ૧૯૯૬)*
 
-25. **માહિતીનો અધિકાર (RTI), CIC, SIC, આયોજન પંચ, NDC અને નીતિ આયોગ:**  
-    📖 [RTI_CIC_AND_PLANNING_COMMISSION_NOTES_GUJARATI.md](./RTI_CIC_AND_PLANNING_COMMISSION_NOTES_GUJARATI.md)  
-    *(સ્વીડન ૧૭૬૬, કલમ ૧૯(૧)(a), રાજ નારાયણ & એસ.પી. ગુપ્તા કેસ, MKSS અરુણા રોય "હમારા પૈસા હમારા હિસાબ", તમિલનાડુ ૧૯૯૭ પ્રથમ રાજ્ય, RTI Act ૨૦૦૫ ૧૨ ઓક્ટોબર અમલ; ૩૦ દિવસ, ૪૮ કલાક (જીવન-સ્વતંત્રતા), કલમ ૨૦ દંડ દૈનિક ₹૨૫૦ મહત્તમ ₹૨૫,૦૦૦; CIC/SIC રચના, પસંદગી સમિતિ, ૨૦૧૯ ના સુધારા; આયોજન પંચ ૧૫ માર્ચ ૧૯૫૦ "સુપર કેબિનેટ", NDC ૬ ઓગસ્ટ ૧૯૫૨; નીતિ આયોગ ૧ જાન્યુઆરી ૨૦૧૫ સહકારી સંઘવાદ & બોટમ-અપ મોડેલ)*
-
-26. **નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન, ગઠબંધન સરકાર અને નાગરિક અધિકાર પત્ર (NITI Aayog, Reorganisation of States, Coalition Government & Citizen's Charter):**  
-    📖 [NITI_AAYOG_STATE_REORGANIZATION_COALITION_CITIZEN_CHARTER_NOTES_GUJARATI.md](./NITI_AAYOG_STATE_REORGANIZATION_COALITION_CITIZEN_CHARTER_NOTES_GUJARATI.md)  
-    *(નીતિ આયોગ ૧ જાન્યુઆરી ૨૦૧૫, સંરચના, ઉપાધ્યક્ષ સુમન બેરી (કેબિનેટ મંત્રી દરજ્જો), CEO બી.વી.આર. સુબ્રમણ્યમ, ગવર્નિંગ કાઉન્સિલ, સહકારી & સ્પર્ધાત્મક સંઘવાદ, બોટમ-અપ વિ. ટોપ-ડાઉન, આયોજન પંચ તુલના; રાજ્યોનું પુનર્ગઠન: મૂળ બંધારણ Part A,B,C,D (૨૯ ઘટકો), ૧૯૪૮ ધાર આયોગ, ૧૯૪૮ JVP સમિતિ, પોટ્ટી શ્રીરામુલુ બલિદાન, ૧ ઓક્ટોબર ૧૯૫૩ આંધ્ર રાજ્ય, ફઝલ અલી આયોગ (SRC ૧૯૫૩), ૭મો સુધારો ૧૯૫૬ (૧૪ રાજ્યો + ૬ UTs), ૧૯૬૦ બોમ્બે વિભાજન (૧૫મું રાજ્ય ગુજરાત) થી ૨૦૧૯ J&K પુનર્ગઠન (૨૮ રાજ્યો + ૮ UTs); ગઠબંધન સરકારો: ૧૯૭૭ મોરારજી દેસાઈ જનતા પાર્ટી (પ્રથમ બિન-કોંગ્રેસી), ૧૯૮૯ નેશનલ ફ્રન્ટ, ૧૯૯૬ યુનાઇટેડ ફ્રન્ટ, ૧૯૯૯ NDA (વાજપેયી - પ્રથમ ૫ વર્ષ પૂર્ણ), UPA અને ૨૦૨૪ NDA, ગઠબંધન ધર્મ, CMP; સિટિઝન ચાર્ટર: ૧૯૯૧ જ્હોન મેજર (UK), ૧૯૯૭ મુખ્યમંત્રી પરિષદ (I.K. Gujral) ભારતમાં સ્વીકાર, DARPG, ૬ સિદ્ધાંતો, સેવોત્તમ મોડેલ (૨૦૦૬ - ૩ સ્તંભો), મધ્યપ્રદેશ ૨૦૧૦ પ્રથમ લોક સેવા ગેરંટી અધિનિયમ, ગુજરાત જાહેર સેવા હક અધિનિયમ ૨૦૧૩)*
-
-27. **સંઘીય માળખું અને કેન્દ્ર-રાજ્ય સંબંધો (Federal Structure & Centre-State Relations):**  
-    📖 [FEDERAL_STRUCTURE_AND_CENTRE_STATE_RELATIONS_NOTES_GUJARATI.md](./FEDERAL_STRUCTURE_AND_CENTRE_STATE_RELATIONS_NOTES_GUJARATI.md)  
-    *(Foedus લૅટિન ઉત્પત્તિ, USA "Coming Together" વિ. કેનેડા/ભારત "Holding Together", કલમ ૧ "Union of States", ૭ સમવાયી લક્ષણો vs એકતંત્રી લક્ષણો, વિદ્વાનોના મંતવ્યો: કે.સી. વ્હીઅર "અર્ધ-સમવાયી", ગ્રેનવિલ ઓસ્ટિન "સહકારી સંઘવાદ", મોરિસ જોન્સ; ધારાસભીય સંબંધો ભાગ ૧૧ કલમ ૨૪૫-૨૫૫, ૭મી અનુસૂચિની ૩ યાદીઓ (સંઘ ૧૦૦, રાજ્ય ૬૧, સમવર્તી ૫૨), ૪૨મો સુધારો ૧૯૭૬ ૫ વિષયો, સંસદની રાજ્ય યાદી પર ૫ વિશેષ સત્તાઓ કલમ ૨૪૯, ૨૫૦, ૨૫૨, ૨૫૩, ૩૫૬; વહીવટી સંબંધો કલમ ૨૫૬-૨૬૩, કલમ ૩૬૫ કેન્દ્ર નિર્દેશો, કલમ ૨૬૨ જળ વિવાદ ટ્રિબ્યુનલ, કલમ ૨૬૩ આંતર-રાજ્ય પરિષદ (PM અધ્યક્ષ); નાણાકીય સંબંધો કલમ ૨૬૮-૨૯૩, GST કલમ ૨૭૯-A, કલમ ૨૮૦ નાણા પંચ; રાજમન્નાર સમિતિ ૧૯૬૯, સરકારીયા કમિશન ૧૯૮૩ (૨૪૭ ભલામણો, કલમ ૩૫૬ "Last Resort", કાયમી આંતર-રાજ્ય પરિષદ), પુંછી કમિશન ૨૦૦૭ (મહાભિયોગથી રાજ્યપાલ દૂર કરવા, સ્થાનિક કટોકટી); એસ. આર. બોમ્માઈ કેસ ૧૯૯૪ (સમવાયતંત્ર બંધારણનું મૂળભૂત માળખું, કલમ ૩૫૬ ન્યાયિક સમીક્ષા, ફ્લોર ટેસ્ટ અનિવાર્ય))*
-
-28. **પંચાયતી રાજ અને જિલ્લા આયોજન સમિતિ (Panchayati Raj & District Planning Committee - 73rd CAA & Article 243-ZD):**  
-    📖 [PANCHAYATI_RAJ_AND_DISTRICT_PLANNING_COMMITTEE_NOTES_GUJARATI.md](./PANCHAYATI_RAJ_AND_DISTRICT_PLANNING_COMMITTEE_NOTES_GUJARATI.md)  
-    *(ચોલ ઉત્તરમેરૂર શિલાલેખ (કુદવોલાઈ પદ્ધતિ), ૧૮૮૨ લોર્ડ રિપન ("સ્થાનિક સ્વરાજ્યના પિતા"), અનુચ્છેદ ૪૦ ગાંધીવાદી સિદ્ધાંત; ૧૯૫૨ સામુદાયિક વિકાસ કાર્યક્રમ (CDP); ૧૯૫૭ બળવંતરાય મહેતા સમિતિ ("લોકશાહી વિકેન્દ્રીકરણ", ત્રિ-સ્તરીય મોડેલ); ૨ ઓક્ટોબર ૧૯૫૯ નાગૌર (રાજસ્થાન) પ્રથમ ઉદ્ઘાટન & ૧૧ ઓક્ટોબર ૧૯૫૯ આંધ્રપ્રદેશ; ૧૯૭૭ અશોક મહેતા સમિતિ (દ્વિ-સ્તરીય મોડેલ & પક્ષીય ચૂંટણી); ૧૯૮૫ જી.વી.કે. રાવ સમિતિ ("મૂળિયા વિનાનું ઘાસ", DDO પદ); ૧૯૮૬ ડૉ. એલ.એમ. સિંઘવી સમિતિ (બંધારણીય દરજ્જો & ન્યાય પંચાયત); ૧૯૮૮ થુંગન સમિતિ; ૭૩મો બંધારણીય સુધારો ૧૯૯૨ (ભાગ-૯, ૧૧મી અનુસૂચિ ૨૯ વિષયો, ૨૪ એપ્રિલ ૧૯૯૩ રાષ્ટ્રીય પંચાયતી રાજ દિવસ); અનુચ્છેદ ૨૪૩ થી ૨૪૩-O સંપૂર્ણ કલમવાર વિશ્લેષણ (૨૪૩-A ગ્રામસભા, ૨૪૩-B ત્રિ-સ્તરીય રચના & ૨૦ લાખ છૂટછાટ, ૨૪૩-C ચૂંટણી, ૨૪૩-D મહિલાઓ માટે ૧/૩ ન્યૂનતમ અનામત, ૨૪૩-E ૫ વર્ષ મુદત & ૬ માસમાં ચૂંટણી, ૨૪૩-F ૨૧ વર્ષ વય, ૨૪૩-I રાજ્ય નાણા આયોગ SFC, ૨૪૩-K રાજ્ય ચૂંટણી આયોગ SEC, ૨૪૩-O અદાલતી હસ્તક્ષેપ રોક); અનુચ્છેદ ૨૪૩-ZD જિલ્લા આયોજન સમિતિ DPC (૪/૫ ચૂંટાયેલા સભ્યો); અનુચ્છેદ ૨૪૩-ZE મહાનગર આયોજન સમિતિ MPC (૨/૩ ચૂંટાયેલા સભ્યો); PESA Act ૧૯૯૬ (દિલીપ સિંહ ભૂરિયા સમિતિ); ગુજરાત પંચાયત અધિનિયમ ૧૯૯૩ (૫૦% મહિલા અનામત, સામાજિક ન્યાય સમિતિ) અને CCE Mains ૨/૫/૧૦ ગુણ મોડેલ પ્રશ્નોત્તરી તથા ૨૦ MCQs)*
-
-29. **મહત્વના બંધારણીય સુધારાઓ અને મહત્વપૂર્ણ તથ્યો - ભાગ ૧ (Constitutional Amendments, Article 334 & Parliamentary Facts):**  
-    📖 [CONSTITUTION_IMPORTANT_FACTS_PART1_NOTES_GUJARATI.md](./CONSTITUTION_IMPORTANT_FACTS_PART1_NOTES_GUJARATI.md)  
-    *(ડૉ. દિનેશ ગેહલોત (ઉત્કર્ષ ક્લાસીસ) ના 'મહત્વપૂર્ણ તથ્યો - ૧' લેક્ચર આધારિત રિવિઝન નોટ્સ; કઠોર વિ. પરિવર્તનશીલ બંધારણ (UK vs USA vs ભારત); ભાગ-૨૦ અનુચ્છેદ ૩૬૮ સુધારાની ૩ પદ્ધતિઓ (સાદી બહુમતી, વિશેષ બહુમતી, વિશેષ + અડધા રાજ્યોની સાદી બહુમતી); સાદી બહુમતીથી થતા ફેરફારો (અનુ. ૨, ૩, ૧૧, ૧૬૯) અનુચ્છેદ ૩૬૮ હેઠળ સુધારો ન ગણાય; સુધારા ખરડો (Bill) વિ. કાયદો (Act) નો તફાવત (૧૨૨મો ખરડો/૧૦૧મો GST, ૧૨૩મો ખરડો/૧૦૨મો NCBC કલમ ૩૩૮B, ૧૨૪મો ખરડો/૧૦૩મો EWS, ૧૨૬મો ખરડો/૧૦૪મો SC-ST અનામત, ૧૨૮મો ખરડો/૧૦૬મો મહિલા અનામત); અનુચ્છેદ ૩૩૪ અને ૧૦૪મો સુધારો ૨૦૨૦ (SC/ST અનામત ૨૦૩૦ સુધી વધારવી & એંગ્લો-ઇન્ડિયન નામાંકન રદ); સંસદીય વ્યવસ્થા: કારોબારીની સામૂહિક જવાબદારી (અનુચ્છેદ ૭૫(૩) લોકસભા પ્રત્યે & ૧૬૪(૨) વિધાનસભા પ્રત્યે); ૯૧મો સુધારો ૨૦૦૩ (મંત્રી પરિષદનું કદ ૧૫% મર્યાદિત & લઘુત્તમ ૧૨ મંત્રીઓ); વિધાન પરિષદ સર્જન/નાબૂદી (અનુચ્છેદ ૧૬૯ - વિધાનસભા વિશેષ બહુમતી + સંસદ સાદી બહુમતી); કટોકટીમાં કાર્યકાળ વિસ્તરણ અને CCE Mains પ્રશ્નોત્તરી તથા ૧૦ MCQs)*
+25. **મહત્વના બંધારણીય સુધારાઓ અને મહત્વપૂર્ણ તથ્યો - ભાગ ૧ (Constitutional Amendments & Facts):**  
+    📖 [CONSTITUTION_IMPORTANT_FACTS_PART1_NOTES_GUJARATI.md](./polity_notes/CONSTITUTION_IMPORTANT_FACTS_PART1_NOTES_GUJARATI.md)  
+    *(સુધારાની ૩ પદ્ધતિઓ અનુ. ૩૬૮, ૧૨૩મો ખરડો/૧૦૨મો NCBC, ૧૦૪મો સુધારો SC/ST ૨૦૩૦ & એંગ્લો-ઇન્ડિયન નાબૂદી, સામૂહિક જવાબદારી ૭૫(૩) & ૧૬૪(૨), ૯૧મો સુધારો ૧૫% કદ, વિધાન પરિષદ ૧૬૯)*
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
