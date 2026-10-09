@@ -2,9 +2,10 @@
 ### (મુખ્ય ન્યાયાધીશ (CJI) ની નિમણૂક & "કોણ બનશે મુખ્ય ન્યાયાધીશ?", વરિષ્ઠતા પરંપરા અને ઉલ્લંઘન, MoP, Master of the Roster, ૨૦૧૮ ની ૪ જજોની પ્રેસ કોન્ફરન્સ, મહત્વના CJIs ના Factoids, મહિલા ન્યાયાધીશો, ૧૮ ઐતિહાસિક લેન્ડમાર્ક ચુકાદાઓ, CCE Mains મોડેલ Q&A અને ૨૦ MCQs)
 
 **સંદર્ભ લેક્ચર્સ:** ડૉ. દિનેશ ગેહલોત (Utkarsh Classes)  
-**વિડિયો લિંક ૧ (લેટેસ્ટ - "કોણ બનશે મુખ્ય ન્યાયાધીશ"):** [https://www.youtube.com/live/ayW3GYHMwHA](https://www.youtube.com/live/ayW3GYHMwHA)  
-**વિડિયો લિંક ૨ (સંપૂર્ણ લેક્ચર - Landmark Cases & CJIs):** [https://www.youtube.com/watch?v=zjr3bBBTJO8](https://www.youtube.com/watch?v=zjr3bBBTJO8)  
-**વિષય:** ભારતીય બંધારણ અને રાજ્યવ્યવસ્થા | સર્વોચ્ચ અદાલત (ભાગ-૩) | લંબાઈ: ૧૫૮ મિનિટ (સંયુક્ત)
+**વિડિયો લિંક ૧ (લેટેસ્ટ ભાગ-૩):** [https://www.youtube.com/live/_GE8OrG3S0I](https://www.youtube.com/live/_GE8OrG3S0I)  
+**વિડિયો લિંક ૨ (કોણ બનશે મુખ્ય ન્યાયાધીશ):** [https://www.youtube.com/live/ayW3GYHMwHA](https://www.youtube.com/live/ayW3GYHMwHA)  
+**વિડિયો લિંક ૩ (સંપૂર્ણ લેક્ચર - Landmark Cases & CJIs):** [https://www.youtube.com/watch?v=zjr3bBBTJO8](https://www.youtube.com/watch?v=zjr3bBBTJO8)  
+**વિષય:** ભારતીય બંધારણ અને રાજ્યવ્યવસ્થા | સર્વોચ્ચ અદાલત (ભાગ-૩) | લંબાઈ: ૧૯૭ મિનિટ (સંયુક્ત)
 
 ---
 
