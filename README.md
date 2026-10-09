@@ -135,6 +135,11 @@
    🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-1 Live Video](https://www.youtube.com/live/_IUPWvu-Xbo?si=45Muwh58XAZBS0Ds)  
    *(વ્યુત્પત્તિ ad + ministrare, વૂડ્રો વિલ્સન ૧૮૮૭, એલ.ડી. વ્હાઇટ ૧૯૨૬, ગુલિકનું POSDCORB, મેરિયમ કાતર થિયરી, વિકાસના ૫ તબક્કા, NPA મિન્નોબ્રૂક પરિષદ ૧૯૬૮, સાયમન કહેવતો, ફ્રેડ રિગ્સ પ્રિઝમેટિક મોડેલ, જાહેર વિ. ખાનગી વહીવટ)*
 
+2. **સંગઠન અને સંગઠનના પાયાના સિદ્ધાંતો - ભાગ ૨ (અધિકારશ્રેણી, આજ્ઞાની એકતા, ગ્રેક્યુનાસ સૂત્ર, સત્તા સોંપણી, લાઇન & સ્ટાફ):**  
+   📖 [PUBLIC_ADMINISTRATION_PART2_ORGANIZATION_PRINCIPLES_NOTES_GUJARATI.md](./public_admin_notes/PUBLIC_ADMINISTRATION_PART2_ORGANIZATION_PRINCIPLES_NOTES_GUJARATI.md)  
+   🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-2 Live Video](https://www.youtube.com/live/zDSUvwX-T1s?si=Fqi6fNzFLI2R0izU)  
+   *(સંગઠન Organon, ઔપચારિક વિ. અનૌપચારિક, ચેસ્ટર બર્નાર્ડ જીવનરક્ત, ફેયોલનો ગેંગ પ્લેન્ક, આજ્ઞાની એકતા વિ. ટેલર કાર્યાત્મક ફોરમેનશીપ ૮ બોસ, નિયંત્રણ વિસ્તાર અને ગ્રેક્યુનાસ સૂત્ર, સત્તા સોંપણીનો સુવર્ણ નિયમ, સંકલન મૂની, લાઇન-સ્ટાફ-સહાયક એજન્સીઓ)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
