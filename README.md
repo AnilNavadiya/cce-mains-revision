@@ -97,7 +97,7 @@
     📖 [SUPREME_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md](./SUPREME_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md)  
     📖 [SUPREME_COURT_PART2_JURISDICTION_POWERS_NOTES_GUJARATI.md](./SUPREME_COURT_PART2_JURISDICTION_POWERS_NOTES_GUJARATI.md)  
     📖 [SUPREME_COURT_PART3_LANDMARK_CASES_CJIS_NOTES_GUJARATI.md](./SUPREME_COURT_PART3_LANDMARK_CASES_CJIS_NOTES_GUJARATI.md)  
-    *(ભાગ ૫ પ્રકરણ ૪, અનુચ્છેદ ૧૨૪-૧૪૭; ૧૭૭૩ રેગ્યુલેટિંગ એક્ટ થી ૧૯૫૦ સ્થાપના; જજોની સંખ્યા ૩૪; ૩ જજીસ કેસો અને કોલેજિયમ પ્રણાલી; લાયકાતો, શપથ, મહાભિયોગ પ્રક્રિયા (જજીસ ઇન્ક્વાયરી એક્ટ ૧૯૬૮); પ્રારંભિક, રિટ, અપીલીય, સલાહકારી (૧૪૩), પુનરાવલોકન (૧૩૭) અને પૂર્ણ ન્યાય સત્તા (૧૪૨); ૧૬ સીમાચિહ્નરૂપ ચુકાદાઓ અને CJIs નો ઇતિહાસ)*
+    *(ભાગ ૫ પ્રકરણ ૪, અનુચ્છેદ ૧૨૪-૧૪૭; ડૉ. દિનેશ ગેહલોત (ઉત્કર્ષ ક્લાસીસ) ના લેટેસ્ટ લેક્ચર આધારિત સંપૂર્ણ માસ્ટર રિવિઝન નોટ્સ; ૧૭૭૩ રેગ્યુલેટિંગ એક્ટ થી ૧૯૫૦ સ્થાપના; જજોની સંખ્યા ૩૪; ૪ જજીસ કેસો, કોલેજિયમ પ્રણાલી & NJAC રદ; લાયકાતો, શપથ, મહાભિયોગ પ્રક્રિયા (જજીસ ઇન્ક્વાયરી એક્ટ ૧૯૬૮); પ્રારંભિક (૧૩૧), રિટ (૩૨ vs ૨૨૬), અપીલીય (૧૩૨-૧૩૬), સલાહકારી (૧૪૩), પુનરાવલોકન (૧૩૭ & ક્યુરેટિવ પિટિશન) અને પૂર્ણ ન્યાય સત્તા (૧૪૨); ૧૮ સીમાચિહ્નરૂપ ચુકાદાઓ, CJIs નો ઇતિહાસ, CCE Mains ૨/૫/૧૦ ગુણ મોડેલ પ્રશ્નોત્તરી અને ૬૦ પરીક્ષાલક્ષી MCQs)*
 
 22. **ભારતીય ન્યાયતંત્ર: વડી અદાલત & રાજ્ય કારોબારી (High Court & State Executive - ભાગ ૧):**  
     📖 [HIGH_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md](./HIGH_COURT_PART1_ORGANIZATION_NOTES_GUJARATI.md)  
