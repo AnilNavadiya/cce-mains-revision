@@ -140,6 +140,26 @@
    🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-2 Live Video](https://www.youtube.com/live/zDSUvwX-T1s?si=Fqi6fNzFLI2R0izU)  
    *(સંગઠન Organon, ઔપચારિક વિ. અનૌપચારિક, ચેસ્ટર બર્નાર્ડ જીવનરક્ત, ફેયોલનો ગેંગ પ્લેન્ક, આજ્ઞાની એકતા વિ. ટેલર કાર્યાત્મક ફોરમેનશીપ ૮ બોસ, નિયંત્રણ વિસ્તાર અને ગ્રેક્યુનાસ સૂત્ર, સત્તા સોંપણીનો સુવર્ણ નિયમ, સંકલન મૂની, લાઇન-સ્ટાફ-સહાયક એજન્સીઓ)*
 
+3. **ભારતીય વહીવટ અને સનદી સેવાઓની ઉત્ક્રાંતિ - ભાગ ૩ (મૌર્યથી બ્રિટિશ કાળ, મેકોલે, લી કમિશન અને સરદાર પટેલ):**  
+   📖 [PUBLIC_ADMINISTRATION_PART3_INDIAN_ADMIN_CIVIL_SERVICES_EVOLUTION_NOTES_GUJARATI.md](./public_admin_notes/PUBLIC_ADMINISTRATION_PART3_INDIAN_ADMIN_CIVIL_SERVICES_EVOLUTION_NOTES_GUJARATI.md)  
+   🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-3 Live Video](https://www.youtube.com/live/9bpFs1K8qPc?si=6q9nHJuBNSZb5bc7)  
+   *(કૌટિલ્ય સપ્તાંગ સિદ્ધાંત, દિલ્હી સલ્તનત ૪ મંત્રાલયો, ચોલ કુદાવલાઈ ગ્રામ વહીવટ, શેરશાહ સૂરી સરકાર-પરગણા, અકબર મનસબદારી જાત-સવાર & ટોડરમલ દહસાલા, શિવાજી અષ્ટપ્રધાન, વોરન હેસ્ટિંગ્સ કલેક્ટર ૧૭૭૨, કોર્નવોલીસ સિવિલ સર્વિસ પિતા & કોડ ૧૭૯૩, મેકોલે સમિતિ ૧૮૫૪, સત્યેન્દ્રનાથ ટાગોર પ્રથમ ICS ૧૮૬૩, લી કમિશન & ૧ ઓક્ટોબર ૧૯૨૬ PSC સ્થાપના, સરદાર પટેલ સ્ટીલ ફ્રેમ ૨૧ એપ્રિલ, અનુચ્છેદ ૩૧૧, ૩૧૨, ૩૧૫)*
+
+4. **અમલદારશાહી, વહીવટી સુધારણા અને સુશાસન - ભાગ ૪ (મેક્સ વેબર, ARC 1 & 2, RTI Act 2005, સિટિઝન ચાર્ટર):**  
+   📖 [PUBLIC_ADMINISTRATION_PART4_BUREAUCRACY_REFORMS_GOOD_GOVERNANCE_NOTES_GUJARATI.md](./public_admin_notes/PUBLIC_ADMINISTRATION_PART4_BUREAUCRACY_REFORMS_GOOD_GOVERNANCE_NOTES_GUJARATI.md)  
+   🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-4 Live Video](https://www.youtube.com/live/68wzP1_wZxk?si=xHGF70uARYTCUVXa)  
+   *(મેક્સ વેબર કાયદાકીય-તાર્કિક અમલદારશાહી મોડેલ, લાલફીતાશાહી, ૧મો ARC ૧૯૬૬ મોરારજી દેસાઈ, ૨મો ARC ૨૦૦૫ વીરપ્પા મોઈલી, યોજના આયોગ વિ. નીતિ આયોગ બોટમ-અપ, સુશાસનના ૮ સ્તંભો & SMART Governance, RTI Act 2005 MKSS અરુણા રોય, સમયમર્યાદા ૩૦ દિવસ/૪૮ કલાક, સિટિઝન ચાર્ટર ૧૯૯૧ જોન મેજર UK ૬ સિદ્ધાંતો, કેન્દ્રીય સચિવાલય પદાનુક્રમ & નાણા મંત્રાલય ૬ વિભાગો)*
+
+5. **કેન્દ્રીય અને રાજ્ય વહીવટી માળખું, ગૌણ વિધાન અને લાભનું પદ - ભાગ ૫:**  
+   📖 [PUBLIC_ADMINISTRATION_PART5_CENTRAL_STATE_ADMIN_DELEGATED_LEGISLATION_OFFICE_OF_PROFIT_GUJARATI.md](./public_admin_notes/PUBLIC_ADMINISTRATION_PART5_CENTRAL_STATE_ADMIN_DELEGATED_LEGISLATION_OFFICE_OF_PROFIT_GUJARATI.md)  
+   🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-5 Live Video](https://www.youtube.com/live/dgSSHGrnFEc?si=tY3Dm19x2lfYCK2u)  
+   *(મંત્રાલય વિભાજન સચિવથી સેક્શન ઓફિસર, લેટરલ એન્ટ્રી વિવાદ & ACC, કેનિંગ પોર્ટફોલિયો ૧૮૫૯/૧૮૬૧, કેબિનેટ સચિવ દેશના સર્વોચ્ચ સનદી સેવક, રાજ્યના મુખ્ય સચિવ બહુવિધ ભૂમિકાઓ, સચિવાલય સ્ટાફ વિ. નિર્દેશાલય લાઇન, કલેક્ટર vs DDO, મામલતદાર vs TDO, ગૌણ વિધાન Delegated Legislation, અનુચ્છેદ ૧૩ પૃથક્કરણ અને ગ્રહણતા સિદ્ધાંત, લાભનું પદ Office of Profit અનુચ્છેદ ૧૦૨ & ૧૯૧)*
+
+6. **ઈ-ગવર્નન્સ, ગુજરાતના અગ્રણી પ્રોજેક્ટ્સ અને જાહેર નીતિ ચક્ર - ભાગ ૬:**  
+   📖 [PUBLIC_ADMINISTRATION_PART6_E_GOVERNANCE_GUJARAT_PROJECTS_PUBLIC_POLICY_GUJARATI.md](./public_admin_notes/PUBLIC_ADMINISTRATION_PART6_E_GOVERNANCE_GUJARAT_PROJECTS_PUBLIC_POLICY_GUJARATI.md)  
+   🎥 [LearningPocket GPSC - જાહેર વહીવટ Part-6 Live Video](https://www.youtube.com/live/DdQzWU5vDUU)  
+   *(ઈ-ગવર્નન્સ વિકાસના ૪ તબક્કા, ૪ મોડલ્સ G2C, G2B, G2G, G2E, NeGP ૨૦૦૬ & ડિજિટલ ઇન્ડિયા ૯ સ્તંભો, ગુજરાત પ્રોજેક્ટ્સ: GSWAN & GSDC, SWAGAT ૪ સ્તરો UN Public Service Award 2010, ATVT જનસેવા કેન્દ્રો, e-Dhara ભૂલેખ ૭/૧૨ & ૮-અ, i-Khedut સિંગલ વિન્ડો પોર્ટલ, e-Nagar ૫૨+ શહેરી સેવાઓ, e-GujCop પોલીસ નેટવર્ક, CM Dashboard વાસ્તવિક સમય મોનિટરિંગ, જાહેર નીતિ ચક્ર થોમસ ડાઇ, ચાર્લ્સ લિન્ડબ્લોમ Incremental Model Muddling Through, ટોપ-ડાઉન વિ. બોટમ-અપ, સોશિયલ ઓડિટ MKSS & મનરેગા કલમ ૧૭)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
