@@ -162,6 +162,17 @@
 
 ---
 
+## 🧠 વિભાગ ૪: જાહેર સેવામાં શિસ્ત અને નૈતિકતા (Ethics in Public Service - ૧૦ ગુણ)
+> **માસ્ટર નોટ્સ ફોલ્ડર:** [`./ethics_notes/`](./ethics_notes/)  
+> **વિડિયો લેક્ચર સ્ત્રોત:** ભોરાણીયા સર (Bhoraniya's Guidance)
+
+1. **નીતિશાસ્ત્ર અને માનવ સંવાદ - ભાગ ૧ (અર્થ, સ્વરૂપ, નિર્ધારકો, ૪ શાખાઓ, માનવ સંબંધો & મૂલ્ય ઘડતર):**  
+   📖 [ETHICS_PART1_ETHICS_AND_HUMAN_INTERFACE_NOTES_GUJARATI.md](./ethics_notes/ETHICS_PART1_ETHICS_AND_HUMAN_INTERFACE_NOTES_GUJARATI.md)  
+   🎥 [Bhoraniya's Guidance - L1 :- નીતિશાસ્ત્ર અને માનવ સંવાદ Video](https://www.youtube.com/watch?v=j6KFdYRYZF4)  
+   *(વ્યુત્પત્તિ Ethos & Mores, આદર્શમૂલક વિજ્ઞાન Normative Science, કાયદો એ નૈતિકતાનું ન્યૂનતમ ધોરણ, માનવીય ક્રિયાઓ Actus Humanus વિ. Actus Hominis, નૈતિક નિર્ધારકો: સાધન-સાધ્ય-પરિસ્થિતિ ગાંધીજીનો સિદ્ધાંત, ૪ શાખાઓ: Descriptive, Normative કાન્ટનો કર્તવ્યવાદ & બેન્થમનો ઉપયોગિતાવાદ, Meta-ethics, Applied Ethics, ખાનગી વિ. જાહેર સંબંધો & હિતોનો સંઘર્ષ, મૂલ્ય ઘડતરમાં પરિવાર-શાળા-સમાજની ભૂમિકા)*
+
+---
+
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
 
 ### પગલું ૧: ગીટ કમિટ કરો (Commit code)
