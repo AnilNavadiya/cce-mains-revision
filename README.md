@@ -171,6 +171,11 @@
    🎥 [Bhoraniya's Guidance - L1 :- નીતિશાસ્ત્ર અને માનવ સંવાદ Video](https://www.youtube.com/watch?v=j6KFdYRYZF4)  
    *(વ્યુત્પત્તિ Ethos & Mores, આદર્શમૂલક વિજ્ઞાન Normative Science, કાયદો એ નૈતિકતાનું ન્યૂનતમ ધોરણ, માનવીય ક્રિયાઓ Actus Humanus વિ. Actus Hominis, નૈતિક નિર્ધારકો: સાધન-સાધ્ય-પરિસ્થિતિ ગાંધીજીનો સિદ્ધાંત, ૪ શાખાઓ: Descriptive, Normative કાન્ટનો કર્તવ્યવાદ & બેન્થમનો ઉપયોગિતાવાદ, Meta-ethics, Applied Ethics, ખાનગી વિ. જાહેર સંબંધો & હિતોનો સંઘર્ષ, મૂલ્ય ઘડતરમાં પરિવાર-શાળા-સમાજની ભૂમિકા)*
 
+2. **નીતિશાસ્ત્ર અને માનવ સંવાદ - ભાગ ૨ (પરિણામો, સાધ્ય વિ. સાધન મૂલ્યો, મહાન નેતાઓના ઉપદેશો & સામાજિકીકરણ):**  
+   📖 [ETHICS_PART2_ETHICS_AND_HUMAN_INTERFACE_PART2_NOTES_GUJARATI.md](./ethics_notes/ETHICS_PART2_ETHICS_AND_HUMAN_INTERFACE_PART2_NOTES_GUJARATI.md)  
+   🎥 [Bhoraniya's Guidance - L2 :- નીતિશાસ્ત્ર અને માનવ સંવાદ-Part 2 Video](https://www.youtube.com/watch?v=RgkLsvyGCn8)  
+   *(નૈતિકતાના પરિણામો: વ્યક્તિગત શાંતિ, સામાજિક મૂડી, આર્થિક ટકાઉપણું, સુશાસન; સાધ્ય મૂલ્યો Terminal Values વિ. સાધન મૂલ્યો Instrumental Values; મહાન નેતાઓ: ગાંધીજીના ૭ સામાજિક પાપો & ટ્રસ્ટીશીપ, વિવેકાનંદ દરિદ્ર નારાયણ, આંબેડકર બંધારણીય નૈતિકતા, સરદાર પટેલ સ્ટીલ ફ્રેમ, કલામ સાદગી; મૂલ્ય ઘડતરમાં પરિવાર, શિક્ષણ અને સમાજની ભૂમિકા)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
