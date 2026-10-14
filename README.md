@@ -176,6 +176,11 @@
    🎥 [Bhoraniya's Guidance - L2 :- નીતિશાસ્ત્ર અને માનવ સંવાદ-Part 2 Video](https://www.youtube.com/watch?v=RgkLsvyGCn8)  
    *(નૈતિકતાના પરિણામો: વ્યક્તિગત શાંતિ, સામાજિક મૂડી, આર્થિક ટકાઉપણું, સુશાસન; સાધ્ય મૂલ્યો Terminal Values વિ. સાધન મૂલ્યો Instrumental Values; મહાન નેતાઓ: ગાંધીજીના ૭ સામાજિક પાપો & ટ્રસ્ટીશીપ, વિવેકાનંદ દરિદ્ર નારાયણ, આંબેડકર બંધારણીય નૈતિકતા, સરદાર પટેલ સ્ટીલ ફ્રેમ, કલામ સાદગી; મૂલ્ય ઘડતરમાં પરિવાર, શિક્ષણ અને સમાજની ભૂમિકા)*
 
+3. **નાગરિક સેવાઓ માટે મનોવલણ - ભાગ ૧ (અર્થ, વિભાવના, સ્વરૂપ, CAB મોડેલ & અંગત વિ. જાહેર જીવન):**  
+   📖 [ETHICS_PART3_ATTITUDE_PART1_CAB_MODEL_NOTES_GUJARATI.md](./ethics_notes/ETHICS_PART3_ATTITUDE_PART1_CAB_MODEL_NOTES_GUJARATI.md)  
+   🎥 [Bhoraniya's Guidance - L3 :- વલણ (Attitude) - Part 1 Video](https://www.youtube.com/watch?v=kpx6C0b8HQQ)  
+   *(અંગત વિ. જાહેર જીવનમાં નૈતિકતા, સગાવાદ Nepotism અને હિતોનો સંઘર્ષ Conflict of Interest, પાશ્ચાત્ય પરિપ્રેક્ષ્ય બિલ ક્લિન્ટન કેસ, મનોવલણની વ્યાખ્યા અને લાક્ષણિકતાઓ, Attitude matters the most: સિંહ-ગરુડ-ધોની-યુવરાજ, મનોવલણનું CAB ત્રિ-પરિમાણીય મોડેલ: Cognitive બોધાત્મક, Affective ભાવાત્મક, Behavioral વર્તનાત્મક, વાસ્તવિક કેસો: માર્લબોરો બ્રાન્ડિંગ, રાષ્ટ્રવાદ અને મતદાન વર્તન, સામાજિક જ્ઞાતિવાદ, માર્કેટિંગમાં ભય/લાલચ, સનદી સેવામાં યોગ્યતા Aptitude વિ. મનોવલણ Attitude)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
