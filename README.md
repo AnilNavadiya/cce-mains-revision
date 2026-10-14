@@ -181,6 +181,11 @@
    🎥 [Bhoraniya's Guidance - L3 :- વલણ (Attitude) - Part 1 Video](https://www.youtube.com/watch?v=kpx6C0b8HQQ)  
    *(અંગત વિ. જાહેર જીવનમાં નૈતિકતા, સગાવાદ Nepotism અને હિતોનો સંઘર્ષ Conflict of Interest, પાશ્ચાત્ય પરિપ્રેક્ષ્ય બિલ ક્લિન્ટન કેસ, મનોવલણની વ્યાખ્યા અને લાક્ષણિકતાઓ, Attitude matters the most: સિંહ-ગરુડ-ધોની-યુવરાજ, મનોવલણનું CAB ત્રિ-પરિમાણીય મોડેલ: Cognitive બોધાત્મક, Affective ભાવાત્મક, Behavioral વર્તનાત્મક, વાસ્તવિક કેસો: માર્લબોરો બ્રાન્ડિંગ, રાષ્ટ્રવાદ અને મતદાન વર્તન, સામાજિક જ્ઞાતિવાદ, માર્કેટિંગમાં ભય/લાલચ, સનદી સેવામાં યોગ્યતા Aptitude વિ. મનોવલણ Attitude)*
 
+4. **નાગરિક સેવાઓ માટે મનોવલણ - ભાગ ૨ (ઘડતરના પરિબળો, પ્રેરક સંચાર Persuasion, સ્વચ્છ ભારત & વહીવટી દ્વિધાઓ):**  
+   📖 [ETHICS_PART4_ATTITUDE_PART2_FORMATION_PERSUASION_NOTES_GUJARATI.md](./ethics_notes/ETHICS_PART4_ATTITUDE_PART2_FORMATION_PERSUASION_NOTES_GUJARATI.md)  
+   🎥 [Bhoraniya's Guidance - L4 :- વલણ (Attitude) - Part 2 Video](https://www.youtube.com/watch?v=YKVC3EY71kw)  
+   *(મનોવલણ ઘડતરના પરિબળો: સામાજિકીકરણ, પ્રત્યક્ષ વિ. પરોક્ષ અનુભવો, સામાજિક-આર્થિક સંદર્ભ; પ્રેરક સંચારનો ત્રિકોણ: સ્રોતની વિશ્વસનીયતા, સંદેશની રચના, લક્ષિત શ્રોતા; બૂમરેંગ અસર Boomerang effect; સ્વચ્છ ભારત મિશન ODF & "ખુશબૂ ગુજરાત કી" કેસ સ્ટડી; સનદી સેવામાં નૈતિક દ્વિધાઓ અને ૪-પગથિયાંવાળો કેસ સ્ટડી ઉકેલ: કાકાના આવાસનો કેસ - કાયદો વિ. કરુણા; સામાજિક સમસ્યાઓ: દહેજ પ્રથા, લિંગભેદ, જાહેર મિલકત પ્રત્યે ઉદાસીનતા; સમય વ્યવસ્થાપન & જીવન પ્રાથમિકતાઓ: બરણી અને પથ્થરની વાર્તા Jar of Life)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
