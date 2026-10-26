@@ -518,16 +518,16 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_w1_1',
               question: 'કેબિનેટ મિશન યોજના ૧૯૪૬ મુજબ બંધારણ સભામાં કુલ કેટલી બેઠકો નક્કી કરવામાં આવી હતી?',
-              options: ['૨૯૬ બેઠકો', '૩૮૯ બેઠકો', '૨૦૭ બેઠકો', '૨૮૪ બેઠકો'],
-              correctOptionIndex: 1,
+              options: ['૩૮૯ બેઠકો', '૨૮૪ બેઠકો', '૨૯૬ બેઠકો', '૨૦૭ બેઠકો'],
+              correctOptionIndex: 0,
               explanation: 'કેબિનેટ મિશન યોજના મુજબ બંધારણ સભામાં કુલ ૩૮૯ બેઠકો નક્કી થઈ હતી (૨૯૬ બ્રિટિશ ભારત + ૯૩ દેશી રજવાડાં). દર ૧૦ લાખની વસ્તી દીઠ અંદાજે ૧ બેઠક ફાળવાઈ હતી.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_2',
               question: '૯ ડિસેમ્બર ૧૯૪૬ના રોજ યોજાયેલી બંધારણ સભાની પ્રથમ બેઠકમાં કેટલા સભ્યો ઉપસ્થિત રહ્યા હતા?',
-              options: ['૩૮૯ સભ્યો', '૨૯૬ સભ્યો', '૨૦૭ સભ્યો', '૨૮૪ સભ્યો'],
-              correctOptionIndex: 2,
+              options: ['૩૮૯ સભ્યો', '૨૦૭ સભ્યો', '૨૯૬ સભ્યો', '૨૮૪ સભ્યો'],
+              correctOptionIndex: 1,
               explanation: 'પ્રથમ બેઠકમાં માત્ર ૨૦૭ સભ્યો હાજર રહ્યા હતા. મુસ્લિમ લીગે (૭૩ સભ્યો) બેઠકનો બહિષ્કાર કર્યો હતો અને દેશી રજવાડાંઓએ ત્યારે ભાગ લેવાનું નક્કી નહોતું કર્યું.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
@@ -537,17 +537,17 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'બધા જ સભ્યો જનતા દ્વારા પ્રત્યક્ષ રીતે ચૂંટાયેલા હતા',
                 'બધા જ સભ્યો બ્રિટિશ વાઇસરોય દ્વારા મનોનીત હતા',
-                'બ્રિટિશ ભારતના સભ્યો ચૂંટાયેલા અને રજવાડાંના સભ્યો રાજાઓ દ્વારા નામાંકિત હતા',
-                'ફક્ત કોંગ્રેસ પક્ષના સભ્યો જ બંધારણ સભામાં સામેલ હતા'
+                'ફક્ત કોંગ્રેસ પક્ષના સભ્યો જ બંધારણ સભામાં સામેલ હતા',
+                'બ્રિટિશ ભારતના સભ્યો ચૂંટાયેલા અને રજવાડાંના સભ્યો રાજાઓ દ્વારા નામાંકિત હતા'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'બંધારણ સભા આંશિક ચૂંટાયેલી અને આંશિક નામાંકિત હતી. બ્રિટિશ ભારતના ૨૯૬ સભ્યો પ્રાંતીય ધારાસભાઓ દ્વારા અપ્રત્યક્ષ ચૂંટાયેલા હતા, જ્યારે દેશી રજવાડાંના ૯૩ સભ્યો રાજાઓ દ્વારા નામાંકિત હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_4',
               question: 'દેશના ભાગલા પૂર્વે ડૉ. બી. આર. આંબેડકર બંધારણ સભામાં કયા વિસ્તારમાંથી ચૂંટાયા હતા?',
-              options: ['બોમ્બે પ્રેસિડેન્સી', 'જેસુર-કુલ્ના (બંગાળ)', 'મધ્ય પ્રાંત (CP & Berar)', 'પંજાબ પ્રાંત'],
+              options: ['મધ્ય પ્રાંત (CP & Berar)', 'જેસુર-કુલ્ના (બંગાળ)', 'પંજાબ પ્રાંત', 'બોમ્બે પ્રેસિડેન્સી'],
               correctOptionIndex: 1,
               explanation: 'બોમ્બેમાં પરાજય બાદ આંબેડકરજી મુસ્લિમ લીગના સમર્થનથી બંગાળના જેસુર-કુલ્ના મતવિસ્તારમાંથી ચૂંટાયા હતા. ભાગલા પછી આ વિસ્તાર પૂર્વ પાકિસ્તાનમાં જતાં તેઓ ફરી બોમ્બે (પૂણે) થી ચૂંટાયા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
@@ -555,39 +555,39 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_w1_5',
               question: 'પ્રારૂપ (મુસદ્દા / Drafting) સમિતિમાં ડી. પી. ખેતાનના આકસ્મિક અવસાન બાદ તેમના સ્થાને કોની નિમણૂક કરવામાં આવી હતી?',
-              options: ['એન. માધવરાવ', 'ટી. ટી. કૃષ્ણમાચારી', 'એન. ગોપાલાસ્વામી આયંગર', 'અલ્લાદી કૃષ્ણસ્વામી ઐયર'],
-              correctOptionIndex: 1,
+              options: ['ટી. ટી. કૃષ્ણમાચારી', 'અલ્લાદી કૃષ્ણસ્વામી ઐયર', 'એન. માધવરાવ', 'એન. ગોપાલાસ્વામી આયંગર'],
+              correctOptionIndex: 0,
               explanation: '૧૯૪૮માં ડી. પી. ખેતાનના અવસાન પછી ટી. ટી. કૃષ્ણમાચારી સભ્ય બન્યા હતા. જ્યારે બી. એલ. મિત્તરના રાજીનામા બાદ એન. માધવરાવ સભ્ય બન્યા હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_6',
               question: 'બંધારણ સભા જ્યારે દેશની વિધાયિકા (કામચલાઉ સંસદ) તરીકે કાર્ય કરતી ત્યારે તેની અધ્યક્ષતા કોણ કરતું?',
-              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'ડૉ. સચ્ચિદાનંદ સિંહા', 'જી. વી. માવળંકર', 'પંડિત જવાહરલાલ નેહરુ'],
-              correctOptionIndex: 2,
+              options: ['પંડિત જવાહરલાલ નેહરુ', 'ડૉ. સચ્ચિદાનંદ સિંહા', 'ડૉ. રાજેન્દ્ર પ્રસાદ', 'જી. વી. માવળંકર'],
+              correctOptionIndex: 3,
               explanation: 'બંધારણ સભાની બેવડી ભૂમિકા હતી: જ્યારે તે બંધારણ નિર્માણનું કામ કરતી ત્યારે અધ્યક્ષ ડૉ. રાજેન્દ્ર પ્રસાદ હતા, અને જ્યારે દેશના કાયદા ઘડવા વિધાયિકા/સંસદ તરીકે મળતી ત્યારે અધ્યક્ષ જી. વી. માવળંકર હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_7',
               question: '૨૬ નવેમ્બર ૧૯૪૯ ના રોજ બંધારણ અંગીકૃત થતાંની સાથે જ તાત્કાલિક કેટલા અનુચ્છેદો અમલમાં આવ્યા હતા?',
-              options: ['૧૫ અનુચ્છેદો', '૧૬ અનુચ્છેદો', '૨૦ અનુચ્છેદો', 'સમગ્ર બંધારણ'],
-              correctOptionIndex: 1,
+              options: ['સમગ્ર બંધારણ', '૨૦ અનુચ્છેદો', '૧૬ અનુચ્છેદો', '૧૫ અનુચ્છેદો'],
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૩૯૪ માં દર્શાવ્યા મુજબ નાગરિકતા, ચૂંટણી અને કામચલાઉ સંસદ સંબંધી કુલ ૧૬ અનુચ્છેદો (૫, ૬, ૭, ૮, ૯, ૬૦, ૩૨૪, ૩૬૬, ૩૬૭, ૩૭૯, ૩૮૦, ૩૮૮, ૩૯૧, ૩૯૨, ૩૯૩ અને ૩૯૪) ૨૬ નવેમ્બર ૧૯૪૯ના રોજ જ લાગુ થઈ ગયા હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_8',
               question: '૨૪ જાન્યુઆરી ૧૯૫૦ ના રોજ બંધારણની મૂળ નકલ પર કેટલા સભ્યોએ હસ્તાક્ષર કર્યા હતા?',
-              options: ['૨૦૭ સભ્યો', '૨૮૪ સભ્યો', '૨૯૬ સભ્યો', '૩૮૯ સભ્યો'],
-              correctOptionIndex: 1,
+              options: ['૨૦૭ સભ્યો', '૩૮૯ સભ્યો', '૨૮૪ સભ્યો', '૨૯૬ સભ્યો'],
+              correctOptionIndex: 2,
               explanation: 'બંધારણ સભાની છેલ્લી બેઠક ૨૪ જાન્યુઆરી ૧૯૫૦ના રોજ યોજાઈ જેમાં ૨૮૪ સભ્યોએ હસ્તાક્ષર કર્યા. પ્રથમ હસ્તાક્ષર જવાહરલાલ નેહરુએ અને અંતિમ હસ્તાક્ષર રાષ્ટ્રપતિ ડૉ. રાજેન્દ્ર પ્રસાદે કર્યા હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_9',
               question: 'બંધારણ સભાની સરખામણી "એક એવા લગ્ન જેની દુલ્હન જ ગાયબ છે" સાથે કોણે કરી હતી?',
-              options: ['લોર્ડ માઉન્ટબેટન', 'વિન્સ્ટન ચર્ચિલ', 'ગ્રેનવિલ ઓસ્ટિન', 'ક્લેમેન્ટ એટલી'],
+              options: ['ગ્રેનવિલ ઓસ્ટિન', 'વિન્સ્ટન ચર્ચિલ', 'લોર્ડ માઉન્ટબેટન', 'ક્લેમેન્ટ એટલી'],
               correctOptionIndex: 1,
               explanation: 'બ્રિટનના પૂર્વ વડાપ્રધાન વિન્સ્ટન ચર્ચિલે મુસ્લિમ લીગની ગેરહાજરી પર કટાક્ષ કરતા બંધારણ સભાને "દુલ્હન વિનાના લગ્ન" અને "હિન્દુઓની સંસ્થા" કહી હતી.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
@@ -595,48 +595,48 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_w1_10',
               question: 'ડૉ. આંબેડકરને માત્ર ભારતીય બંધારણના જનક (Father) જ નહીં, પરંતુ "જનની (Mother of Constitution)" પણ કોણે કહ્યા હતા?',
-              options: ['કે. વી. રાવ', 'ડૉ. રાજેન્દ્ર પ્રસાદ', 'કનૈયાલાલ મુનશી', 'નઝીરૂદ્દીન અહેમદ'],
-              correctOptionIndex: 0,
+              options: ['નઝીરૂદ્દીન અહેમદ', 'કનૈયાલાલ મુનશી', 'કે. વી. રાવ', 'ડૉ. રાજેન્દ્ર પ્રસાદ'],
+              correctOptionIndex: 2,
               explanation: 'બંધારણ સભાના સભ્ય કે. વી. રાવે ડૉ. આંબેડકરના અનન્ય યોગદાનને ધ્યાનમાં રાખીને તેમને ભારતીય બંધારણના પિતા અને માતા (Father & Mother) બંને કહ્યા હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_11',
               question: 'ડૉ. આંબેડકરના પુનરાગમન માટે બોમ્બે વિધાનસભામાંથી કયા કોંગ્રેસી સભ્ય પાસે રાજીનામું અપાવવામાં આવ્યું હતું?',
-              options: ['બી. જી. ખેર', 'એમ. આર. જયકર', 'કે. એમ. મુનશી', 'સર બી. એન. રાવ'],
-              correctOptionIndex: 1,
+              options: ['સર બી. એન. રાવ', 'બી. જી. ખેર', 'એમ. આર. જયકર', 'કે. એમ. મુનશી'],
+              correctOptionIndex: 2,
               explanation: 'જેસુર-કુલ્ના પાકિસ્તાનમાં જતાં આંબેડકરજીની સીટ રદ થઈ હતી. ડૉ. રાજેન્દ્ર પ્રસાદ અને બી. એન. રાવની ભલામણથી એમ. આર. જયકર (M. R. Jayakar) પાસે બોમ્બે બેઠક પરથી રાજીનામું અપાવી આંબેડકરજીને બિનહરીફ ચૂંટવામાં આવ્યા હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_12',
               question: 'પ્રથમ સામાન્ય ચૂંટણી ૧૯૫૨માં યોજાઈ તે પહેલાં, ૧૯૫૧માં થયેલો પ્રથમ બંધારણીય સુધારો કોના દ્વારા પસાર કરવામાં આવ્યો હતો?',
-              options: ['બ્રિટિશ સંસદ દ્વારા', 'રાષ્ટ્રપતિના વટહુકમ દ્વારા', 'બંધારણ સભા (કામચલાઉ સંસદ) દ્વારા', 'સર્વોચ્ચ અદાલત દ્વારા'],
-              correctOptionIndex: 2,
+              options: ['બ્રિટિશ સંસદ દ્વારા', 'રાષ્ટ્રપતિના વટહુકમ દ્વારા', 'સર્વોચ્ચ અદાલત દ્વારા', 'બંધારણ સભા (કામચલાઉ સંસદ) દ્વારા'],
+              correctOptionIndex: 3,
               explanation: 'બંધારણ સભા જ ૨૬ જાન્યુઆરી ૧૯૫૦ પછી ચૂંટાયેલી સંસદ ન આવી ત્યાં સુધી કામચલાઉ સંસદ (Provisional Parliament) તરીકે કાર્યરત રહી હતી, અને તેણે જ ૧૯૫૧ માં પ્રથમ સુધારો (૯મી અનુસૂચિ) પસાર કર્યો હતો.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_13',
               question: '"સભા જ કોંગ્રેસ હતી અને કોંગ્રેસ જ ભારત હતું" - બંધારણ સભા અંગે આ પ્રસિદ્ધ વિધાન કોનું છે?',
-              options: ['વિન્સ્ટન ચર્ચિલ', 'ગ્રેનવિલ ઓસ્ટિન', 'લોર્ડ સાયમન', 'સર આઇવર જેનિંગ્સ'],
-              correctOptionIndex: 1,
+              options: ['ગ્રેનવિલ ઓસ્ટિન', 'વિન્સ્ટન ચર્ચિલ', 'લોર્ડ સાયમન', 'સર આઇવર જેનિંગ્સ'],
+              correctOptionIndex: 0,
               explanation: 'અમેરિકન બંધારણશાસ્ત્રી ગ્રેનવિલ ઓસ્ટિને તેમના પુસ્તક "The Indian Constitution: Cornerstone of a Nation" માં લખ્યું હતું કે "બંધારણ સભા એક પક્ષીય દેશની એક પક્ષીય સંસ્થા હતી. સભા જ કોંગ્રેસ હતી અને કોંગ્રેસ જ ભારત હતું."',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_14',
               question: 'બંધારણ સભામાં સામેલ કુલ ૧૫ મહિલા સભ્યોમાં એકમાત્ર મુસ્લિમ મહિલા કોણ હતા?',
-              options: ['બેગમ એઝાઝ રસૂલ', 'ફાતિમા બીવી', 'અસગરી બેગમ', 'અમ્મુ સ્વામીનાથન'],
-              correctOptionIndex: 0,
+              options: ['ફાતિમા બીવી', 'અમ્મુ સ્વામીનાથન', 'બેગમ એઝાઝ રસૂલ', 'અસગરી બેગમ'],
+              correctOptionIndex: 2,
               explanation: 'બંધારણ સભામાં એકમાત્ર મુસ્લિમ મહિલા સભ્ય બેગમ એઝાઝ રસૂલ (Begum Aizaz Rasul) હતા. જ્યારે એકમાત્ર દલિત મહિલા દાક્ષાયણી વેલાયુધન હતા.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
             McqModel(
               id: 'mcq_w1_15',
               question: 'કયા ઐતિહાસિક ચુકાદામાં સુપ્રીમ કોર્ટે સ્વીકાર્યું કે આમુખ એ બંધારણનો અવિભાજ્ય અંગ છે અને તેમાં મૂળભૂત માળખાને અક્ષુણ્ણ રાખી સુધારો કરી શકાય છે?',
-              options: ['બેરૂબારી કેસ (૧૯૬૦)', 'ગોલકનાથ કેસ (૧૯૬૭)', 'કેશવાનંદ ભારતી કેસ (૧૯૭૩)', 'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)'],
-              correctOptionIndex: 2,
+              options: ['કેશવાનંદ ભારતી કેસ (૧૯૭૩)', 'બેરૂબારી કેસ (૧૯૬૦)', 'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)', 'ગોલકનાથ કેસ (૧૯૬૭)'],
+              correctOptionIndex: 0,
               explanation: 'કેશવાનંદ ભારતી વિરુદ્ધ કેરળ રાજ્ય (૧૯૭૩) માં ૧૩ ન્યાયાધીશોની બેંચે ૭:૬ ની બહુમતીથી ઠરાવ્યું કે આમુખ બંધારણનો અંગ છે અને ૩૬૮ હેઠળ તેમાં મૂળભૂત માળખાને નુકસાન પહોંચાડ્યા વિના સુધારો કરી શકાય છે.',
               sourceVideoTitle: 'Constituent Assembly (Utkarsh Classes)',
             ),
@@ -644,12 +644,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_p1_order_of_words',
               question: 'ભારતીય બંધારણના આમુખમાં રાજ્યનું સ્વરૂપ દર્શાવતા શબ્દોનો સાચો ક્રમ કયો છે?',
               options: [
-                'સાર્વભૌમ, લોકશાહી, સમાજવાદી, બિનસાંપ્રદાયિક, પ્રજાસત્તાક',
                 'સાર્વભૌમ, સમાજવાદી, પંથનિરપેક્ષ (બિનસાંપ્રદાયિક), લોકતાંત્રિક, ગણરાજ્ય',
-                'સમાજવાદી, સાર્વભૌમ, બિનસાંપ્રદાયિક, પ્રજાસત્તાક, લોકશાહી',
-                'સાર્વભૌમ, બિનસાંપ્રદાયિક, સમાજવાદી, લોકશાહી, પ્રજાસત્તાક'
+                'સાર્વભૌમ, લોકશાહી, સમાજવાદી, બિનસાંપ્રદાયિક, પ્રજાસત્તાક',
+                'સાર્વભૌમ, બિનસાંપ્રદાયિક, સમાજવાદી, લોકશાહી, પ્રજાસત્તાક',
+                'સમાજવાદી, સાર્વભૌમ, બિનસાંપ્રદાયિક, પ્રજાસત્તાક, લોકશાહી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'આમુખમાં ૫ શબ્દોનો સાચો ક્રમ છે: સાર્વભૌમ (Sovereign), સમાજવાદી (Socialist), પંથનિરપેક્ષ/બિનસાંપ્રદાયિક (Secular), લોકતાંત્રિક (Democratic), ગણરાજ્ય/પ્રજાસત્તાક (Republic). શોર્ટ ટ્રીક: SO-SO-SE-DE-RE.',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -669,23 +669,23 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_p1_justice_count',
               question: 'આમુખમાં નાગરિકો માટે કેટલા પ્રકારના ન્યાય (Justice) નો ઉલ્લેખ કરવામાં આવ્યો છે?',
-              options: ['૨ પ્રકારના', '૩ પ્રકારના (સામાજિક, આર્થિક, રાજકીય)', '૪ પ્રકારના', '૫ પ્રકારના'],
-              correctOptionIndex: 1,
+              options: ['૨ પ્રકારના', '૪ પ્રકારના', '૫ પ્રકારના', '૩ પ્રકારના (સામાજિક, આર્થિક, રાજકીય)'],
+              correctOptionIndex: 3,
               explanation: 'આમુખમાં ૩ પ્રકારના ન્યાયનો ઉલ્લેખ છે: સામાજિક, આર્થિક અને રાજકીય ન્યાય. આ સિદ્ધાંત ૧૯૧૭ ની રશિયન ક્રાંતિમાંથી લેવામાં આવ્યો છે.',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_p1_liberty_count',
               question: 'ભારતીય બંધારણના આમુખમાં કુલ કેટલા પ્રકારની સ્વતંત્રતા (Liberty) ની ખાતરી આપવામાં આવી છે?',
-              options: ['૩ પ્રકારની', '૪ પ્રકારની', '૫ પ્રકારની', '૭ પ્રકારની'],
-              correctOptionIndex: 2,
+              options: ['૫ પ્રકારની', '૪ પ્રકારની', '૩ પ્રકારની', '૭ પ્રકારની'],
+              correctOptionIndex: 0,
               explanation: 'આમુખમાં ૫ પ્રકારની સ્વતંત્રતાનો ઉલ્લેખ છે: ૧. વિચાર (Thought), ૨. અભિવ્યક્તિ (Expression), ૩. વિશ્વાસ (Belief), ૪. ધર્મ (Faith), ૫. ઉપાસના (Worship). આ આદર્શ ફ્રેન્ચ ક્રાંતિમાંથી લેવાયેલ છે.',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_p1_horoscope_quote',
               question: 'આમુખને "આપણા સાર્વભૌમ લોકતાંત્રિક પ્રજાસત્તાકની જન્મકુંડળી (Political Horoscope)" તરીકે કોણે વર્ણવ્યું હતું?',
-              options: ['ડૉ. બી. આર. આંબેડકર', 'કનૈયાલાલ માણેકલાલ મુનશી (કે. એમ. મુનશી)', 'જવાહરલાલ નેહરુ', 'એન. એ. પાલખીવાલા'],
+              options: ['જવાહરલાલ નેહરુ', 'કનૈયાલાલ માણેકલાલ મુનશી (કે. એમ. મુનશી)', 'એન. એ. પાલખીવાલા', 'ડૉ. બી. આર. આંબેડકર'],
               correctOptionIndex: 1,
               explanation: 'ડૉ. કે. એમ. મુનશીએ આમુખને "Political Horoscope (રાજકીય જન્મકુંડળી)" ની ઉપમા આપી હતી. જ્યારે એન. એ. પાલખીવાલાએ તેને "બંધારણનું ઓળખપત્ર" કહ્યું હતું.',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -693,8 +693,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_p1_id_card_quote',
               question: 'આમુખને "બંધારણનું ઓળખપત્ર (Identity Card of the Constitution)" કોણે કહ્યું હતું?',
-              options: ['એન. એ. પાલખીવાલા', 'ઠાકુરદાસ ભાર્ગવ', 'સર અર્નેસ્ટ બાર્કર', 'ડૉ. રાજેન્દ્ર પ્રસાદ'],
-              correctOptionIndex: 0,
+              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'ઠાકુરદાસ ભાર્ગવ', 'સર અર્નેસ્ટ બાર્કર', 'એન. એ. પાલખીવાલા'],
+              correctOptionIndex: 3,
               explanation: 'પ્રખ્યાત બંધારણશાસ્ત્રી અને વકીલ એન. એ. પાલખીવાલા (N. A. Palkhivala) એ આમુખને "બંધારણનું ઓળખપત્ર" ગણાવ્યું હતું.',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -702,20 +702,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_p1_kesavananda_verdict',
               question: 'કયા કેસમાં સર્વોચ્ચ અદાલતે બેરૂબારી કેસનો ચુકાદો ઉલટાવીને આમુખને "બંધારણનો અવિભાજ્ય અંગ" જાહેર કર્યો?',
               options: [
-                'ગોલકનાથ કેસ (૧૯૬૭)',
-                'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
                 'મિનર્વા મિલ્સ કેસ (૧૯૮૦)',
-                'ઇન્દિરા સાહની કેસ (૧૯૯૨)'
+                'ઇન્દિરા સાહની કેસ (૧૯૯૨)',
+                'ગોલકનાથ કેસ (૧૯૬૭)',
+                'કેશવાનંદ ભારતી કેસ (૧૯૭૩)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'કેશવાનંદ ભારતી કેસ (૧૯૭૩) માં ૧૩ જજોની બેંચે ૭:૬ ની બહુમતીથી ઠરાવ્યું કે આમુખ બંધારણનો અવિભાજ્ય અંગ છે અને તેમાં કલમ ૩૬૮ હેઠળ મૂળભૂત માળખાને નુકસાન કર્યા વિના સુધારો કરી શકાય છે.',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_p1_source_of_power',
               question: 'ભારતીય બંધારણમાં સત્તાનો આખરી સ્ત્રોત કોણ છે, જે આમુખના પ્રારંભિક શબ્દો પરથી સ્પષ્ટ થાય છે?',
-              options: ['ભારતની સંસદ', 'સર્વોચ્ચ અદાલત (સુપ્રીમ કોર્ટ)', 'ભારતના રાષ્ટ્રપતિ', 'ભારતના લોકો (We, the People of India)'],
-              correctOptionIndex: 3,
+              options: ['ભારતની સંસદ', 'સર્વોચ્ચ અદાલત (સુપ્રીમ કોર્ટ)', 'ભારતના લોકો (We, the People of India)', 'ભારતના રાષ્ટ્રપતિ'],
+              correctOptionIndex: 2,
               explanation: 'આમુખ "અમે ભારતના લોકો" (We, the People of India) થી શરૂ થાય છે, જે દર્શાવે છે કે બંધારણ ભારતના લોકોએ બનાવ્યું છે અને સાર્વભૌમ સત્તા લોકોના હાથમાં છે (Popular Sovereignty).',
               sourceVideoTitle: 'Preamble (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -724,11 +724,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૧ મુજબ ભારત શું છે?',
               options: [
                 'રાજ્યોનું સમવાયતંત્ર (Federation of States)',
-                'રાજ્યોનો સંઘ (Union of States)',
                 'રાજ્યોનું મહાસંઘ (Confederation of States)',
-                'એકતંત્રી રાષ્ટ્ર (Unitary State)'
+                'એકતંત્રી રાષ્ટ્ર (Unitary State)',
+                'રાજ્યોનો સંઘ (Union of States)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧(૧) માં સ્પષ્ટ શબ્દોમાં જણાવેલ છે: "India, that is Bharat, shall be a Union of States" (ઇન્ડિયા અર્થાત્ ભારત, રાજ્યોનો સંઘ રહેશે). આ સંકલ્પના કેનેડાના બંધારણમાંથી લેવાયેલ છે.',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -738,10 +738,10 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'સંસદમાં ૨/૩ બહુમતી',
                 'સંબંધિત રાજ્ય વિધાનસભાની સંપૂર્ણ સંમતિ',
-                'સંસદમાં ખરડો રજૂ કરતાં પહેલાં રાષ્ટ્રપતિની પૂર્વ ભલામણ/મંજૂરી',
-                'સુપ્રીમ કોર્ટની મંજૂરી'
+                'સુપ્રીમ કોર્ટની મંજૂરી',
+                'સંસદમાં ખરડો રજૂ કરતાં પહેલાં રાષ્ટ્રપતિની પૂર્વ ભલામણ/મંજૂરી'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩ હેઠળનો ખરડો સંસદના કોઈપણ ગૃહમાં માત્ર રાષ્ટ્રપતિની પૂર્વ ભલામણથી જ રજૂ થઈ શકે છે. રાજ્ય વિધાનસભાનો મત માત્ર સલાહકારી છે અને સંસદમાં તે સામાન્ય બહુમતીથી પસાર થાય છે.',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -750,11 +750,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ભારતીય સંઘીય વ્યવસ્થાને કયા નામે ઓળખવામાં આવે છે?',
               options: [
                 'અવિભાજ્ય રાજ્યોનો અવિભાજ્ય સંઘ',
-                'વિભાજ્ય રાજ્યોનો અવિભાજ્ય સંઘ (Indestructible Union of Destructible States)',
                 'વિભાજ્ય રાજ્યોનો વિભાજ્ય સંઘ',
+                'વિભાજ્ય રાજ્યોનો અવિભાજ્ય સંઘ (Indestructible Union of Destructible States)',
                 'અવિભાજ્ય રાજ્યોનો વિભાજ્ય સંઘ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ભારતમાં સંસદ રાજ્યોનો નકશો કે સીમા ગમે ત્યારે બદલી શકે છે પરંતુ કોઈપણ રાજ્ય સંઘમાંથી અલગ થઈ શકતું નથી. આથી ભારત "વિભાજ્ય રાજ્યોનો અવિભાજ્ય સંઘ" કહેવાય છે. (જ્યારે અમેરિકા અવિભાજ્ય રાજ્યોનો અવિભાજ્ય સંઘ છે).',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -762,28 +762,28 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ut_berubari_case',
               question: 'કયા કેસમાં સુપ્રીમ કોર્ટે સ્પષ્ટ કર્યું કે ભારતનો પ્રદેશ વિદેશી રાષ્ટ્રને સોંપવા માટે કલમ ૩૬૮ હેઠળ બંધારણીય સુધારો કરવો ફરજિયાત છે?',
               options: [
-                'બેરૂબારી યુનિયન કેસ (૧૯૬૦)',
+                'મિનર્વા મિલ્સ કેસ (૧૯૮૦)',
                 'ગોલકનાથ કેસ (૧૯૬૭)',
                 'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
-                'મિનર્વા મિલ્સ કેસ (૧૯૮૦)'
+                'બેરૂબારી યુનિયન કેસ (૧૯૬૦)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'બેરૂબારી કેસ (૧૯૬૦) માં સુપ્રીમ કોર્ટે ઠરાવ્યું કે અનુચ્છેદ ૩ માત્ર આંતરિક પુનર્ગઠન માટે છે. ભારતનો પ્રદેશ અન્ય રાષ્ટ્રને આપવા માટે અનુચ્છેદ ૩૬૮ હેઠળ બંધારણીય સુધારો (૯મો સુધારો ૧૯૬૦) કરવો પડે.',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_ut_first_linguistic_state',
               question: 'ભાષાવાર આધારે રચાયેલું સ્વતંત્ર ભારતનું સૌપ્રથમ રાજ્ય કયું હતું?',
-              options: ['ગુજરાત', 'આંધ્ર રાજ્ય (Andhra State)', 'મહારાષ્ટ્ર', 'પંજાબ'],
-              correctOptionIndex: 1,
+              options: ['પંજાબ', 'ગુજરાત', 'આંધ્ર રાજ્ય (Andhra State)', 'મહારાષ્ટ્ર'],
+              correctOptionIndex: 2,
               explanation: 'પોટ્ટી શ્રીરામુલુના ૫૬ દિવસના ઉપવાસ બાદ અવસાન થતાં ૧ ઓક્ટોબર ૧૯૫૩ ના રોજ મદ્રાસમાંથી તેલુગુ ભાષી "આંધ્ર રાજ્ય" સૌપ્રથમ ભાષાવાર રાજ્ય બન્યું હતું.',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_ut_fazal_ali_commission',
               question: '૧૯૫૩ માં રચાયેલા રાજ્ય પુનર્ગઠન આયોગ (ફઝલ અલી આયોગ) માં નીચેનામાંથી કયા સભ્ય સામેલ નહોતા?',
-              options: ['ન્યાયમૂર્તિ ફઝલ અલી', 'કે. એમ. પન્નીકર', 'એચ. એન. કુંઝરૂ', 'એસ. કે. ધાર'],
-              correctOptionIndex: 3,
+              options: ['એસ. કે. ધાર', 'એચ. એન. કુંઝરૂ', 'કે. એમ. પન્નીકર', 'ન્યાયમૂર્તિ ફઝલ અલી'],
+              correctOptionIndex: 0,
               explanation: 'ફઝલ અલી આયોગમાં ૩ સભ્યો હતા: અધ્યક્ષ ફઝલ અલી, કે. એમ. પન્નીકર અને એચ. એન. કુંઝરૂ. એસ. કે. ધાર ૧૯૪૮ ના ધાર આયોગના અધ્યક્ષ હતા.',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -791,12 +791,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ut_1956_act_states',
               question: '૭મા બંધારણીય સુધારા ૧૯૫૬ (રાજ્ય પુનર્ગઠન અધિનિયમ) અન્વયે ૧ નવેમ્બર ૧૯૫૬ ના રોજ ભારતમાં કેટલા રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો અસ્તિત્વમાં આવ્યા?',
               options: [
+                '૨૮ રાજ્યો અને ૮ UT',
                 '૧૨ રાજ્યો અને ૫ UT',
-                '૧૪ રાજ્યો અને ૬ UT',
                 '૧૬ રાજ્યો અને ૩ UT',
-                '૨૮ રાજ્યો અને ૮ UT'
+                '૧૪ રાજ્યો અને ૬ UT'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૧ નવેમ્બર ૧૯૫૬ ના રોજ ૪ વર્ગીય વ્યવસ્થા (ભાગ A, B, C, D) નાબૂદ કરીને ૧૪ રાજ્યો અને ૬ કેન્દ્રશાસિત પ્રદેશો (UTs) ની રચના કરવામાં આવી હતી.',
               sourceVideoTitle: 'The Union and its Territory (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1528,8 +1528,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_fr_source_part',
               question: 'ભારતીય બંધારણમાં મૂળભૂત હકો (Fundamental Rights) કયા દેશના બંધારણમાંથી પ્રેરિત થઈને સામેલ કરવામાં આવ્યા છે?',
-              options: ['યુનાઇટેડ કિંગડમ (બ્રિટન)', 'યુનાઇટેડ સ્ટેટ્સ ઓફ અમેરિકા (USA)', 'કેનેડા', 'આયર્લેન્ડ'],
-              correctOptionIndex: 1,
+              options: ['યુનાઇટેડ કિંગડમ (બ્રિટન)', 'કેનેડા', 'આયર્લેન્ડ', 'યુનાઇટેડ સ્ટેટ્સ ઓફ અમેરિકા (USA)'],
+              correctOptionIndex: 3,
               explanation: 'ભારતીય બંધારણના ભાગ-૩ માં સમાવિષ્ટ મૂળભૂત હકો યુએસએ (USA) ના "Bill of Rights" માંથી પ્રેરિત છે. આ ભાગને ભારતનો "મેગ્ના કાર્ટા" પણ કહેવામાં આવે છે.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1537,19 +1537,19 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_citizens_only',
               question: 'નીચેનામાંથી કયા મૂળભૂત અધિકારો "માત્ર ભારતીય નાગરિકો" ને જ પ્રાપ્ત થાય છે, વિદેશીઓને નહીં?',
               options: [
-                'અનુચ્છેદ ૧૪, ૧૯, ૨૧, ૨૫',
-                'અનુચ્છેદ ૧૫, ૧૬, ૧૯, ૨૯ અને ૩૦',
                 'અનુચ્છેદ ૧૪, ૨૦, ૨૧, ૨૨',
-                'અનુચ્છેદ ૨૧, ૨૧-A, ૨૫, ૨૮'
+                'અનુચ્છેદ ૧૪, ૧૯, ૨૧, ૨૫',
+                'અનુચ્છેદ ૨૧, ૨૧-A, ૨૫, ૨૮',
+                'અનુચ્છેદ ૧૫, ૧૬, ૧૯, ૨૯ અને ૩૦'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'બંધારણના અનુચ્છેદ ૧૫, ૧૬, ૧૯, ૨૯ અને ૩૦ એવા ૫ અધિકારો છે જે માત્ર ભારતના નાગરિકોને જ મળે છે. બાકીના અધિકારો નાગરિક અને વિદેશી બંનેને પ્રાપ્ત છે.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art14_equality_source',
               question: 'અનુચ્છેદ ૧૪ માં સમાવિષ્ટ "કાયદાનું સમાન રક્ષણ" (Equal Protection of Laws) નો સિદ્ધાંત કયા દેશમાંથી લેવામાં આવ્યો છે?',
-              options: ['બ્રિટન', 'અમેરિકા (USA)', 'ફ્રાન્સ', 'જર્મની'],
+              options: ['બ્રિટન', 'અમેરિકા (USA)', 'જર્મની', 'ફ્રાન્સ'],
               correctOptionIndex: 1,
               explanation: '"કાયદાનું સમાન રક્ષણ" અમેરિકાના બંધારણમાંથી લેવાયેલ હકારાત્મક ખ્યાલ છે. જ્યારે "કાયદા સમક્ષ સમાનતા" બ્રિટિશ બંધારણમાંથી લેવાયેલ નકારાત્મક ખ્યાલ છે.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -1560,8 +1560,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'ધર્મ, મૂળવંશ, જ્ઞાતિ, લિંગ, જન્મસ્થળ',
                 'ધર્મ, જ્ઞાતિ, ભાષા, રહેઠાણ, લિંગ',
-                'ધર્મ, સંપત્તિ, શિક્ષણ, લિંગ, જ્ઞાતિ',
-                'ધર્મ, મૂળવંશ, જ્ઞાતિ, રહેઠાણ, વ્યવસાય'
+                'ધર્મ, મૂળવંશ, જ્ઞાતિ, રહેઠાણ, વ્યવસાય',
+                'ધર્મ, સંપત્તિ, શિક્ષણ, લિંગ, જ્ઞાતિ'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૫(૧) માં માત્ર ૫ આધારો દર્શાવેલ છે: ધર્મ (Religion), મૂળવંશ (Race), જ્ઞાતિ (Caste), લિંગ (Sex) અને જન્મસ્થળ (Place of Birth).',
@@ -1570,24 +1570,24 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_fr_ews_amendment',
               question: 'શિક્ષણ સંસ્થાઓ અને સરકારી નોકરીઓમાં આર્થિક રીતે નબળા વર્ગ (EWS) ને ૧૦% અનામત કયા બંધારણીય સુધારા દ્વારા આપવામાં આવી?',
-              options: ['૧૦૧મો સુધારો ૨૦૧૬', '૧૦૨મો સુધારો ૨૦૧૮', '૧૦૩મો સુધારો ૨૦૧૯', '૧૦૪મો સુધારો ૨૦૨૦'],
-              correctOptionIndex: 2,
+              options: ['૧૦૪મો સુધારો ૨૦૨૦', '૧૦૨મો સુધારો ૨૦૧૮', '૧૦૧મો સુધારો ૨૦૧૬', '૧૦૩મો સુધારો ૨૦૧૯'],
+              correctOptionIndex: 3,
               explanation: '૧૦૩મા બંધારણીય સુધારા ૨૦૧૯ દ્વારા અનુચ્છેદ ૧૫(૬) અને અનુચ્છેદ ૧૬(૬) ઉમેરીને EWS વર્ગ માટે ૧૦% અનામતની જોગવાઈ કરવામાં આવી.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_indira_sawhney_case',
               question: 'ઓબીસી (OBC) અનામત અને ૫૦% ની મહત્તમ મર્યાદા સંબંધિત ઐતિહાસિક "ઇન્દિરા સાહની કેસ" નો ચુકાદો કયા વર્ષમાં આવ્યો હતો?',
-              options: ['૧૯૮૯', '૧૯૯૦', '૧૯૯૨', '૧૯૯૫'],
-              correctOptionIndex: 2,
+              options: ['૧૯૯૫', '૧૯૯૦', '૧૯૮૯', '૧૯૯૨'],
+              correctOptionIndex: 3,
               explanation: 'ઇન્દિરા સાહની વિ. ભારત સંઘ (૧૯૯૨) માં સુપ્રીમ કોર્ટે ઓબીસી ૨૭% અનામત કાયદેસર ઠરાવી અને અનામતની કુલ ટકાવારી ૫૦% થી ન વધવી જોઈએ તેવો ઐતિહાસિક સિદ્ધાંત આપ્યો.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art17_untouchability',
               question: 'અસ્પૃશ્યતા નાબૂદી અંગે ભારતીય બંધારણમાં કયો અનુચ્છેદ જોગવાઈ કરે છે?',
-              options: ['અનુચ્છેદ ૧૫', 'અનુચ્છેદ ૧૬', 'અનુચ્છેદ ૧૭', 'અનુચ્છેદ ૧૮'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૧૮', 'અનુચ્છેદ ૧૭', 'અનુચ્છેદ ૧૫', 'અનુચ્છેદ ૧૬'],
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૭ કોઈપણ સ્વરૂપે અસ્પૃશ્યતાના આચરણને નિષેધ કરે છે અને શિક્ષાપાત્ર ગુનો બનાવે છે. આ માટે નાગરિક અધિકાર સંરક્ષણ અધિનિયમ ૧૯૫૫ અમલમાં છે.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1595,12 +1595,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_art18_padma_case',
               question: 'કયા કેસમાં સર્વોચ્ચ અદાલતે ચુકાદો આપ્યો કે ભારતરત્ન અને પદ્મ પુરસ્કારો એ અનુચ્છેદ ૧૮ હેઠળ પ્રતિબંધિત "ખિતાબ" નથી પરંતુ "રાષ્ટ્રીય પુરસ્કાર" છે?',
               options: [
-                'બાલાજી રાઘવન વિ. ભારત સંઘ (૧૯૯૬)',
                 'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
+                'બાલાજી રાઘવન વિ. ભારત સંઘ (૧૯૯૬)',
                 'મેનકા ગાંધી કેસ (૧૯૭૮)',
                 'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બાલાજી રાઘવન કેસ (૧૯૯૬) માં સુપ્રીમ કોર્ટે ઠરાવ્યું કે રાષ્ટ્રીય પુરસ્કારો (ભારતરત્ન, પદ્મશ્રી વગેરે) એ સન્માન છે, ખિતાબ નથી. પરંતુ તેનો ઉપયોગ નામના આગળ કે પાછળ કરી શકાતો નથી.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1608,20 +1608,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_art12_definition',
               question: 'અનુચ્છેદ ૧૨ હેઠળ "રાજ્ય" (State) ની વ્યાખ્યામાં નીચેનામાંથી કોનો સમાવેશ થાય છે?',
               options: [
-                'માત્ર ભારત સરકાર અને સંસદ',
-                'માત્ર રાજ્ય સરકાર અને વિધાનમંડળ',
                 'કેન્દ્ર સરકાર, સંસદ, રાજ્ય સરકાર, વિધાનમંડળ, તમામ સ્થાનિક અને અન્ય સત્તાવાળાઓ (LIC, ONGC વગેરે)',
-                'માત્ર સરકારી અને ખાનગી કંપનીઓ'
+                'માત્ર સરકારી અને ખાનગી કંપનીઓ',
+                'માત્ર ભારત સરકાર અને સંસદ',
+                'માત્ર રાજ્ય સરકાર અને વિધાનમંડળ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૨ માં કેન્દ્ર અને રાજ્યની કારોબારી-ધારાસભા ઉપરાંત નગરપાલિકાઓ, પંચાયતો અને તમામ વૈધાનિક સત્તાવાળાઓ (LIC, ONGC, RBI વગેરે) નો રાજ્ય તરીકે સમાવેશ થાય છે.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art19_six_freedoms',
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૧૯(૧) હેઠળ મૂળ બંધારણમાં ૭ સ્વતંત્રતાઓ હતી, હાલમાં કેટલી સ્વતંત્રતાઓ નાગરિકોને ઉપલબ્ધ છે?',
-              options: ['૫', '૬', '૭', '૮'],
-              correctOptionIndex: 1,
+              options: ['૬', '૮', '૭', '૫'],
+              correctOptionIndex: 0,
               explanation: 'મૂળ બંધારણમાં ૭ સ્વતંત્રતાઓ હતી. ૪૪મા બંધારણીય સુધારા ૧૯૭૮ દ્વારા ૧૯(૧)(f) મિલકત ખરીદવા/વેચવાની સ્વતંત્રતા રદ કરાતાં હાલમાં ૬ મૂળભૂત સ્વતંત્રતાઓ ઉપલબ્ધ છે.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1629,20 +1629,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_press_flag_case',
               question: 'સન્માનપૂર્વક રાષ્ટ્રીય ધ્વજ લહેરાવવો એ કયા કેસમાં સર્વોચ્ચ અદાલતે અનુચ્છેદ ૧૯(૧)(ક) હેઠળ મૂળભૂત અધિકાર જાહેર કર્યો?',
               options: [
-                'નવીન જિંદાલ વિ. ભારત સંઘ (૨૦૦૪)',
-                'મેનકા ગાંધી કેસ (૧૯૭૮)',
                 'સાકેલ પેપર્સ કેસ (૧૯૬૨)',
-                'ઈન્દિરા સાહની કેસ (૧૯૯૨)'
+                'મેનકા ગાંધી કેસ (૧૯૭૮)',
+                'ઈન્દિરા સાહની કેસ (૧૯૯૨)',
+                'નવીન જિંદાલ વિ. ભારત સંઘ (૨૦૦૪)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ભારત સંઘ વિ. નવીન જિંદાલ (૨૦૦૪) કેસમાં સુપ્રીમ કોર્ટે ઠરાવ્યું કે દરેક નાગરિકને સન્માનપૂર્વક ત્રિરંગો લહેરાવવાનો અધિકાર વાણી અને અભિવ્યક્તિની સ્વતંત્રતા (અનુચ્છેદ ૧૯(૧)(ક)) નો ભાગ છે.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_cooperative_amendment',
               question: 'અનુચ્છેદ ૧૯(૧)(ગ) હેઠળ સંગઠનો સાથે "સહકારી મંડળીઓ" (Co-operative Societies) રચવાનો અધિકાર કયા સુધારાથી ઉમેરાયો?',
-              options: ['૪૨મો સુધારો ૧૯૭૬', '૪૪મો સુધારો ૧૯૭૮', '૮૬મો સુધારો ૨૦૦૨', '૯૭મો સુધારો ૨૦૧૧'],
-              correctOptionIndex: 3,
+              options: ['૪૪મો સુધારો ૧૯૭૮', '૯૭મો સુધારો ૨૦૧૧', '૮૬મો સુધારો ૨૦૦૨', '૪૨મો સુધારો ૧૯૭૬'],
+              correctOptionIndex: 1,
               explanation: '૯૭મા બંધારણીય સુધારા અધિનિયમ, ૨૦૧૧ દ્વારા અનુચ્છેદ ૧૯(૧)(ગ) માં સહકારી મંડળીઓ રચવાની સ્વતંત્રતાને મૂળભૂત અધિકાર તરીકે સામેલ કરવામાં આવી.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1657,8 +1657,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_fr_double_jeopardy',
               question: '"Double Jeopardy" (એક જ ગુના માટે એકથી વધુ વાર અદાલતી કેસ અને સજા સામે રક્ષણ) કયા અનુચ્છેદમાં સમાવિષ્ટ છે?',
-              options: ['અનુચ્છેદ ૧૯', 'અનુચ્છેદ ૨૦(૨)', 'અનુચ્છેદ ૨૧', 'અનુચ્છેદ ૨૨'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૨૧', 'અનુચ્છેદ ૨૨', 'અનુચ્છેદ ૨૦(૨)', 'અનુચ્છેદ ૧૯'],
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૨૦(૨) મુજબ કોઈપણ વ્યક્તિ પર એક જ ગુના માટે એક કરતાં વધુ વખત કેસ ચલાવીને સજા કરી શકાતી નથી.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1666,12 +1666,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_self_incrimination_narco',
               question: 'આરોપીની સંમતિ વિના નાર્કો-એનાલિસિસ કે લાઈ-ડિટેક્ટર ટેસ્ટ કરવો એ અનુચ્છેદ ૨૦(૩) નું ઉલ્લંઘન છે, તેવો ચુકાદો સુપ્રીમ કોર્ટે કયા કેસમાં આપ્યો?',
               options: [
-                'સેલ્વી વિ. કર્ણાટક રાજ્ય (૨૦૧૦)',
                 'ડી. કે. બાસુ કેસ (૧૯૯૭)',
                 'એ. કે. ગોપાલન કેસ (૧૯૫૦)',
+                'સેલ્વી વિ. કર્ણાટક રાજ્ય (૨૦૧૦)',
                 'કેશવાનંદ ભારતી કેસ (૧૯૭૩)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'સેલ્વી વિ. કર્ણાટક રાજ્ય (૨૦૧૦) કેસમાં સર્વોચ્ચ અદાલતે ચુકાદો આપ્યો કે બળજબરીથી નાર્કો કે પોલીગ્રાફ ટેસ્ટ કરવો એ સ્વયં વિરુદ્ધ સાક્ષી બનવા પર પ્રતિબંધ (અનુચ્છેદ ૨૦(૩)) અને જીવનના અધિકાર (અનુચ્છેદ ૨૧) નું ઉલ્લંઘન છે.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1679,12 +1679,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_maneka_gandhi_case',
               question: 'કયા સીમાચિહ્નરૂપ કેસમાં સુપ્રીમ કોર્ટે "કાયદાની યોગ્ય પ્રક્રિયા" (Due Process of Law) ના સિદ્ધાંતને સ્વીકારી અનુચ્છેદ ૨૧ નો વ્યાપ વિસ્તૃત કર્યો?',
               options: [
-                'મેનકા ગાંધી વિ. ભારત સંઘ (૧૯૭૮)',
-                'એ. કે. ગોપાલન કેસ (૧૯૫૦)',
                 'બેરુબારી કેસ (૧૯૬૦)',
-                'શંકરી પ્રસાદ કેસ (૧૯૫૧)'
+                'એ. કે. ગોપાલન કેસ (૧૯૫૦)',
+                'શંકરી પ્રસાદ કેસ (૧૯૫૧)',
+                'મેનકા ગાંધી વિ. ભારત સંઘ (૧૯૭૮)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'મેનકા ગાંધી કેસ (૧૯૭૮) માં સુપ્રીમ કોર્ટે ઠરાવ્યું કે કાયદા દ્વારા સ્થાપિત પ્રક્રિયા માત્ર વિધિવત હોવી પૂરતી નથી, પરંતુ તે વાજબી, યોગ્ય અને ન્યાયપૂર્ણ (Fair, Just and Reasonable) હોવી જોઈએ.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1692,12 +1692,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_privacy_puttaswamy',
               question: 'ગોપનીયતાનો અધિકાર (Right to Privacy) એ અનુચ્છેદ ૨૧ હેઠળ મૂળભૂત અધિકાર છે, તેવો ઐતિહાસિક ચુકાદો કયા કેસમાં આપવામાં આવ્યો?',
               options: [
+                'નવતેજ સિંહ જોહર કેસ (૨૦૧૮)',
                 'જસ્ટિસ કે. એસ. પુટ્ટાસ્વામી વિ. ભારત સંઘ (૨૦૧૭)',
                 'વિશાખા વિ. રાજસ્થાન રાજ્ય (૧૯૯૭)',
-                'શાહબાનો કેસ (૧૯૮૫)',
-                'નવતેજ સિંહ જોહર કેસ (૨૦૧૮)'
+                'શાહબાનો કેસ (૧૯૮૫)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૨૦૧૭ માં ૯ જજોની બંધારણીય બેંચે સર્વાનુમતે જસ્ટિસ કે. એસ. પુટ્ટાસ્વામી કેસમાં ગોપનીયતાના અધિકાર (Right to Privacy) ને અનુચ્છેદ ૨૧ હેઠળ મૂળભૂત અધિકાર જાહેર કર્યો.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1705,12 +1705,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_right_to_education_art21a',
               question: 'શિક્ષણનો મૂળભૂત અધિકાર (અનુચ્છેદ ૨૧-A) કયા બંધારણીય સુધારા દ્વારા ઉમેરવામાં આવ્યો અને RTE એક્ટ ક્યારથી અમલમાં આવ્યો?',
               options: [
-                '૮૬મો સુધારો ૨૦૦૨; અમલ: ૧ એપ્રિલ ૨૦૧૦',
-                '૪૨મો સુધારો ૧૯૭૬; અમલ: ૧૫ ઓગસ્ટ ૨૦૦૫',
+                '૯૧મો સુધારો ૨૦૦૩; અમલ: ૧ જાન્યુઆરી ૨૦૧૧',
                 '૪૪મો સુધારો ૧૯૭૮; અમલ: ૨૬ જાન્યુઆરી ૨૦૦૩',
-                '૯૧મો સુધારો ૨૦૦૩; અમલ: ૧ જાન્યુઆરી ૨૦૧૧'
+                '૮૬મો સુધારો ૨૦૦૨; અમલ: ૧ એપ્રિલ ૨૦૧૦',
+                '૪૨મો સુધારો ૧૯૭૬; અમલ: ૧૫ ઓગસ્ટ ૨૦૦૫'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૮૬મા સુધારા ૨૦૦૨ દ્વારા ૬ થી ૧૪ વર્ષના બાળકો માટે અનુચ્છેદ ૨૧-A ઉમેરાયો અને તેનો અમલ કરવા માટેનો RTE Act ૨૦૦૯ સમગ્ર દેશમાં ૧ એપ્રિલ ૨૦૧૦ થી લાગુ થયો.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1718,27 +1718,27 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_emergency_non_suspendable',
               question: '૪૪મા બંધારણીય સુધારા ૧૯૭૮ અનુસાર, રાષ્ટ્રીય કટોકટી (અનુચ્છેદ ૩૫૨) દરમિયાન પણ કયા બે મૂળભૂત અધિકારો ક્યારેય મોકૂફ (Suspend) કરી શકાતા નથી?',
               options: [
+                'અનુચ્છેદ ૨૧ અને અનુચ્છેદ ૨૨',
                 'અનુચ્છેદ ૨૦ અને અનુચ્છેદ ૨૧',
-                'અનુચ્છેદ ૧૪ અને અનુચ્છેદ ૧૯',
                 'અનુચ્છેદ ૧૯ અને અનુચ્છેદ ૨૧',
-                'અનુચ્છેદ ૨૧ અને અનુચ્છેદ ૨૨'
+                'અનુચ્છેદ ૧૪ અને અનુચ્છેદ ૧૯'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૪૪મા સુધારા ૧૯૭૮ દ્વારા અનુચ્છેદ ૩૫૯ માં સુધારો કરી જોગવાઈ કરાઈ કે કટોકટી લદાયેલી હોય ત્યારે પણ અનુચ્છેદ ૨૦ (દોષસિદ્ધિ સામે રક્ષણ) અને અનુચ્છેદ ૨૧ (જીવનનો અધિકાર) ક્યારેય રદ કે મોકૂફ થતા નથી.',
               sourceVideoTitle: 'Fundamental Rights Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art23_trafficking_begar',
               question: 'માનવ વેપાર (Human Trafficking) અને વળતર વિનાની વેઠપ્રથા (Begar) પર પ્રતિબંધ કયા અનુચ્છેદ હેઠળ મૂકવામાં આવ્યો છે?',
-              options: ['અનુચ્છેદ ૨૧', 'અનુચ્છેદ ૨૨', 'અનુચ્છેદ ૨૩', 'અનુચ્છેદ ૨૪'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૨૪', 'અનુચ્છેદ ૨૧', 'અનુચ્છેદ ૨૨', 'અનુચ્છેદ ૨૩'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૩ માનવ તસ્કરી, અનૈતિક દેહવેપાર અને બળજબરીપૂર્વકની વેઠપ્રથા (Begar) ને શિક્ષાપાત્ર ગુનો બનાવે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art24_child_labour_age',
               question: 'અનુચ્છેદ ૨૪ અનુસાર કેટલી વયથી ઓછી ઉંમરના બાળકોને કારખાના, ખાણ કે જોખમી કામોમાં નોકરીએ રાખવા પર સંપૂર્ણ પ્રતિબંધ છે?',
-              options: ['૧૨ વર્ષ', '૧૪ વર્ષ', '૧૬ વર્ષ', '૧૮ વર્ષ'],
+              options: ['૧૮ વર્ષ', '૧૪ વર્ષ', '૧૨ વર્ષ', '૧૬ વર્ષ'],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૨૪ હેઠળ ૧૪ વર્ષથી નીચેના બાળકોને કારખાનાઓ, ખાણો કે જોખમી રોજગારમાં રાખવા પર પ્રતિબંધ છે. ૨૦૧૬ ના સુધારા મુજબ ૧૪ વર્ષથી નાના તમામ બાળકો માટે તમામ વ્યવસાયોમાં મજૂરી પ્રતિબંધિત છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -1746,8 +1746,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_fr_sikh_kirpan_art25',
               question: 'શીખ ધર્મના અનુયાયીઓ માટે "કિરપાણ" ધારણ કરવી અને સાથે રાખવી એ કયા અનુચ્છેદના સ્પષ્ટીકરણ હેઠળ ધાર્મિક સ્વતંત્રતાનો માન્ય ભાગ ગણાય છે?',
-              options: ['અનુચ્છેદ ૧૯(૧)(ખ)', 'અનુચ્છેદ ૨૫', 'અનુચ્છેદ ૨૬', 'અનુચ્છેદ ૨૮'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૨૫', 'અનુચ્છેદ ૨૮', 'અનુચ્છેદ ૧૯(૧)(ખ)', 'અનુચ્છેદ ૨૬'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૨૫ ના સ્પષ્ટીકરણ-૧ મુજબ શીખ ધર્મના અનુયાયીઓ દ્વારા કિરપાણ ધારણ કરવી અને સાથે રાખવી એ ધાર્મિક આચરણનો બંધારણીય અધિકાર છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1755,12 +1755,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_hindu_definition_art25',
               question: 'અનુચ્છેદ ૨૫ ના સ્પષ્ટીકરણ-૨ મુજબ "હિન્દુ" ધાર્મિક સંસ્થાઓના સંદર્ભમાં હિન્દુ શબ્દમાં અન્ય કયા ધર્મોનો સમાવેશ થાય છે?',
               options: [
-                'માત્ર જૈન અને બૌદ્ધ',
-                'માત્ર શીખ અને જૈન',
                 'શીખ, જૈન અને બૌદ્ધ',
-                'શીખ, જૈન, બૌદ્ધ અને પારસી'
+                'માત્ર જૈન અને બૌદ્ધ',
+                'શીખ, જૈન, બૌદ્ધ અને પારસી',
+                'માત્ર શીખ અને જૈન'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૨૫ ના સ્પષ્ટીકરણ-૨ હેઠળ હિન્દુ ધાર્મિક સંસ્થાઓના સંદર્ભમાં "હિન્દુ" શબ્દના અર્થઘટનમાં શીખ, જૈન અને બૌદ્ધ ધર્મના લોકોનો પણ સમાવેશ થાય છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1768,20 +1768,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_santhara_practice',
               question: 'જૈન ધર્મની "સંથારા / સંલેખના" પ્રથાને રાજસ્થાન હાઈકોર્ટે આત્મહત્યા ગણી હતી, પરંતુ સુપ્રીમ કોર્ટે તેના પર રોક લગાવી. આ પ્રથા કયા અધિકાર સાથે જોડાયેલી છે?',
               options: [
-                'અનુચ્છેદ ૨૫ (ધાર્મિક આચરણની સ્વતંત્રતા)',
-                'અનુચ્છેદ ૨૧ (જીવનનો અધિકાર)',
+                'અનુચ્છેદ ૨૬',
                 'અનુચ્છેદ ૨૫ અને અનુચ્છેદ ૨૧ બંને',
-                'અનુચ્છેદ ૨૬'
+                'અનુચ્છેદ ૨૧ (જીવનનો અધિકાર)',
+                'અનુચ્છેદ ૨૫ (ધાર્મિક આચરણની સ્વતંત્રતા)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'સંથારા પ્રથા ધાર્મિક સ્વતંત્રતા (અનુચ્છેદ ૨૫) અને જીવન/મૃત્યુના અધિકાર (અનુચ્છેદ ૨૧) બંનેના સંયોજન સાથે સંબંધિત છે, જેમાં સુપ્રીમ કોર્ટે હાઈકોર્ટના ચુકાદા પર સ્ટે આપ્યો હતો.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art26_religious_affairs',
               question: 'ધાર્મિક સંપ્રદાયોને ધાર્મિક અને પરોપકારી સંસ્થાઓ સ્થાપવાનો અને મિલકતનો વહીવટ કરવાનો અધિકાર કયો અનુચ્છેદ આપે છે?',
-              options: ['અનુચ્છેદ ૨૫', 'અનુચ્છેદ ૨૬', 'અનુચ્છેદ ૨૭', 'અનુચ્છેદ ૨૮'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૨૫', 'અનુચ્છેદ ૨૭', 'અનુચ્છેદ ૨૬', 'અનુચ્છેદ ૨૮'],
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૨૬ ધાર્મિક બાબતોનો સામૂહિક વહીવટ કરવાનું સ્વાતંત્ર્ય આપે છે, જેમાં સંસ્થાઓ સ્થાપવી અને મિલકતનું સંચાલન કરવું સામેલ છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1789,12 +1789,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_art27_tax_vs_fee',
               question: 'અનુચ્છેદ ૨૭ મુજબ રાજ્ય કોઈ ચોક્કસ ધર્મના ઉત્કર્ષ માટે કર (Tax) લાદી શકતું નથી. શું તીર્થયાત્રીઓની સેવા/સુરક્ષા માટે "ફી" (Fee) વસૂલી શકાય?',
               options: [
+                'માત્ર ખાનગી ટ્રસ્ટ જ ફી લઈ શકે',
                 'ના, કર કે ફી બંને પર સંપૂર્ણ પ્રતિબંધ છે',
-                'હા, કર પર પ્રતિબંધ છે પરંતુ સેવાના બદલામાં ફી વસૂલી શકાય છે',
                 'માત્ર કેન્દ્ર સરકાર જ ફી વસૂલી શકે',
-                'માત્ર ખાનગી ટ્રસ્ટ જ ફી લઈ શકે'
+                'હા, કર પર પ્રતિબંધ છે પરંતુ સેવાના બદલામાં ફી વસૂલી શકાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૭ માત્ર ધાર્મિક પ્રચાર માટે "કર" (Tax) લાદવા પર પ્રતિબંધ મૂકે છે, પરંતુ તીર્થયાત્રીઓની સલામતી કે નિયમન માટે રાજ્ય દ્વારા "ફી" (Fee) કાયદેસર વસૂલી શકાય છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1802,20 +1802,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_art28_religious_instruction',
               question: 'સંપૂર્ણપણે રાજ્યના નાણાંથી ચાલતી (સરકારી) શૈક્ષણિક સંસ્થાઓમાં ધાર્મિક શિક્ષણ આપવા અંગે શું બંધારણીય જોગવાઈ છે?',
               options: [
+                'માત્ર નૈતિક શિક્ષણ આપી શકાય, ધાર્મિક નહીં',
                 'બધા ધર્મોનું સમાન શિક્ષણ ફરજિયાત છે',
-                'ધાર્મિક શિક્ષણ આપવા પર સંપૂર્ણ પ્રતિબંધ છે',
                 'વિદ્યાર્થીની મંજૂરીથી આપી શકાય',
-                'માત્ર નૈતિક શિક્ષણ આપી શકાય, ધાર્મિક નહીં'
+                'ધાર્મિક શિક્ષણ આપવા પર સંપૂર્ણ પ્રતિબંધ છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૮(૧) અનુસાર રાજ્યના ભંડોળમાંથી સંપૂર્ણપણે જળવાતી કોઈપણ શૈક્ષણિક સંસ્થામાં કોઈપણ ધાર્મિક શિક્ષણ આપી શકાશે નહીં.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art29_minority_interests',
               question: 'નાગરિકોના કોઈપણ વર્ગને પોતાની આગવી ભાષા, લિપિ કે સંસ્કૃતિ જાળવવાનો અધિકાર કયા અનુચ્છેદ હેઠળ પ્રાપ્ત થાય છે?',
-              options: ['અનુચ્છેદ ૨૮', 'અનુચ્છેદ ૨૯', 'અનુચ્છેદ ૩૦', 'અનુચ્છેદ ૩૧'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૨૯', 'અનુચ્છેદ ૩૦', 'અનુચ્છેદ ૨૮', 'અનુચ્છેદ ૩૧'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૨૯(૧) હેઠળ ભારતના કોઈપણ ભાગમાં વસતા નાગરિકોના વર્ગને પોતાની આગવી ભાષા, લિપિ કે સંસ્કૃતિનું સંરક્ષણ કરવાનો મૂળભૂત અધિકાર મળે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1830,16 +1830,16 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_fr_property_right_amendment',
               question: 'મિલકતના અધિકારને કયા બંધારણીય સુધારા દ્વારા મૂળભૂત હકોમાંથી હટાવીને કાનૂની અધિકાર બનાવવામાં આવ્યો?',
-              options: ['૪૨મો સુધારો ૧૯૭૬', '૪૪મો સુધારો ૧૯૭૮', '૫૨મો સુધારો ૧૯૮૫', '૮૬મો સુધારો ૨૦૦૨'],
-              correctOptionIndex: 1,
+              options: ['૫૨મો સુધારો ૧૯૮૫', '૪૨મો સુધારો ૧૯૭૬', '૮૬મો સુધારો ૨૦૦૨', '૪૪મો સુધારો ૧૯૭૮'],
+              correctOptionIndex: 3,
               explanation: 'મોરારજી દેસાઈ સરકાર દ્વારા ૪૪મા સુધારા ૧૯૭૮ હેઠળ મિલકતનો અધિકાર (અનુચ્છેદ ૩૧) મૂળભૂત હકોમાંથી હટાવીને અનુચ્છેદ ૩૦૦-ક હેઠળ માત્ર કાનૂની/બંધારણીય અધિકાર બનાવાયો.',
               sourceVideoTitle: 'Fundamental Rights (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_heart_soul_art32',
               question: 'ડૉ. બાબાસાહેબ આંબેડકરે બંધારણના કયા અનુચ્છેદને "બંધારણનો આત્મા અને તેનું હૃદય" (Heart and Soul of the Constitution) કહ્યો હતો?',
-              options: ['અનુચ્છેદ ૧૪', 'અનુચ્છેદ ૧૯', 'અનુચ્છેદ ૨૧', 'અનુચ્છેદ ૩૨'],
-              correctOptionIndex: 3,
+              options: ['અનુચ્છેદ ૧૯', 'અનુચ્છેદ ૧૪', 'અનુચ્છેદ ૩૨', 'અનુચ્છેદ ૨૧'],
+              correctOptionIndex: 2,
               explanation: 'ડૉ. બાબાસાહેબ આંબેડકરે અનુચ્છેદ ૩૨ (સંવિધાનિક ઉપચારોનો અધિકાર) ને બંધારણનો આત્મા અને હૃદય કહ્યો છે, કારણ કે કાનૂની ઉપચાર વગર મૂળભૂત હકો અર્થહીન બની જાય છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1847,36 +1847,36 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_habeas_corpus_meaning',
               question: 'ગેરકાયદેસર કે આપખુદ અટકાયત સામે મુક્તિ આપતી "બંદી પ્રત્યક્ષીકરણ" (Habeas Corpus) રિટ અંગે કયું વિધાન સાચું છે?',
               options: [
-                'તેનો શાબ્દિક અર્થ "અમે આદેશ આપીએ છીએ" થાય છે',
                 'તે માત્ર સરકારી સત્તાવાળાઓ વિરુદ્ધ જ જારી કરી શકાય છે',
-                'તે સરકારી સત્તાવાળા તેમજ ખાનગી વ્યક્તિ બંને વિરુદ્ધ જારી કરી શકાય છે',
-                'તે માત્ર વિદેશી નાગરિકો માટે જ ઉપલબ્ધ છે'
+                'તે માત્ર વિદેશી નાગરિકો માટે જ ઉપલબ્ધ છે',
+                'તેનો શાબ્દિક અર્થ "અમે આદેશ આપીએ છીએ" થાય છે',
+                'તે સરકારી સત્તાવાળા તેમજ ખાનગી વ્યક્તિ બંને વિરુદ્ધ જારી કરી શકાય છે'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'Habeas Corpus નો શાબ્દિક અર્થ "શરીરને હાજર કરો" થાય છે અને તે સરકારી અધિકારીઓ તેમજ ખાનગી વ્યક્તિઓ બંને વિરુદ્ધ વ્યક્તિગત સ્વતંત્રતાના રક્ષણ માટે જારી થઈ શકે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_mandamus_exception',
               question: 'નીચેનામાંથી કોની વિરુદ્ધ "પરમાદેશ" (Mandamus) રિટ જારી કરી શકાતી નથી?',
-              options: ['જાહેર અધિકારી (Public Official)', 'નગરપાલિકા કે મહાનગરપાલિકા', 'ભારતના રાષ્ટ્રપતિ અને રાજ્યના રાજ્યપાલ', 'નીચલી અદાલત કે ટ્રિબ્યુનલ'],
-              correctOptionIndex: 2,
+              options: ['નગરપાલિકા કે મહાનગરપાલિકા', 'ભારતના રાષ્ટ્રપતિ અને રાજ્યના રાજ્યપાલ', 'નીચલી અદાલત કે ટ્રિબ્યુનલ', 'જાહેર અધિકારી (Public Official)'],
+              correctOptionIndex: 1,
               explanation: 'પરમાદેશ રિટ જાહેર કાનૂની ફરજ બજાવવા માટે જારી થાય છે, પરંતુ તે ભારતના રાષ્ટ્રપતિ, રાજ્યપાલ, ખાનગી વ્યક્તિ કે ન્યાયિક ક્ષમતામાં કામ કરતા મુખ્ય ન્યાયાધીશ સામે જારી થઈ શકતી નથી.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_prohibition_certiorari_diff',
               question: 'નીચલી અદાલતને પોતાના અધિકારક્ષેત્ર બહાર જઈને કેસ ચલાવતી રોકવા માટે અગાઉથી કઈ રિટ જારી કરવામાં આવે છે?',
-              options: ['પ્રતિષેધ (Prohibition)', 'પરમાદેશ (Mandamus)', 'અધિકાર પૃચ્છા (Quo-Warranto)', 'બંદી પ્રત્યક્ષીકરણ (Habeas Corpus)'],
-              correctOptionIndex: 0,
+              options: ['અધિકાર પૃચ્છા (Quo-Warranto)', 'પરમાદેશ (Mandamus)', 'બંદી પ્રત્યક્ષીકરણ (Habeas Corpus)', 'પ્રતિષેધ (Prohibition)'],
+              correctOptionIndex: 3,
               explanation: 'પ્રતિષેધ (Prohibition) રિટ ઉપલી અદાલત દ્વારા નીચલી અદાલતને પોતાના અધિકારક્ષેત્રનું ઉલ્લંઘન કરતા રોકવા માટે અગાઉથી (Preventive સ્વરૂપે) જારી કરવામાં આવે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_quo_warranto_meaning',
               question: 'કોઈ વ્યક્તિએ ગેરકાયદેસર રીતે કોઈ જાહેર હોદ્દો (Public Office) ધારણ કર્યો હોય ત્યારે તેની કાનૂની યોગ્યતા ચકાસવા કઈ રિટ બહાર પાડવામાં આવે છે?',
-              options: ['ઉત્પ્રેષણ (Certiorari)', 'અધિકાર પૃચ્છા (Quo-Warranto)', 'પરમાદેશ (Mandamus)', 'બંદી પ્રત્યક્ષીકરણ'],
-              correctOptionIndex: 1,
+              options: ['પરમાદેશ (Mandamus)', 'ઉત્પ્રેષણ (Certiorari)', 'બંદી પ્રત્યક્ષીકરણ', 'અધિકાર પૃચ્છા (Quo-Warranto)'],
+              correctOptionIndex: 3,
               explanation: 'અધિકાર પૃચ્છા (Quo-Warranto) નો અર્થ "તમારો કયો સત્તાધિકાર છે?" થાય છે, જે જાહેર કે બંધારણીય હોદ્દા પર અનધિકૃત કબજો રોકવા કોઈપણ નાગરિકની અરજી પર જારી થઈ શકે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1884,52 +1884,52 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fr_art32_vs_art226_wider',
               question: 'રિટ જારી કરવાના ક્ષેત્રાધિકાર (Writs Jurisdiction) ની બાબતમાં સુપ્રીમ કોર્ટ અને હાઈકોર્ટની તુલના અંગે કયું વિધાન સત્ય છે?',
               options: [
-                'સુપ્રીમ કોર્ટનું રિટ ક્ષેત્રાધિકાર હાઈકોર્ટ કરતાં વધુ વિસ્તૃત છે',
                 'હાઈકોર્ટનું રિટ ક્ષેત્રાધિકાર સુપ્રીમ કોર્ટ કરતાં વધુ વિસ્તૃત છે',
                 'બંને અદાલતોનું રિટ ક્ષેત્રાધિકાર તમામ બાબતોમાં બિલકુલ સમાન છે',
+                'સુપ્રીમ કોર્ટનું રિટ ક્ષેત્રાધિકાર હાઈકોર્ટ કરતાં વધુ વિસ્તૃત છે',
                 'હાઈકોર્ટ માત્ર મૂળભૂત અધિકારો માટે જ રિટ બહાર પાડી શકે છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'હાઈકોર્ટ (અનુચ્છેદ ૨૨૬) મૂળભૂત હકો ઉપરાંત સામાન્ય કાનૂની અધિકારો અને ઇન્જંકશન માટે પણ રિટ જારી કરી શકે છે, જ્યારે સુપ્રીમ કોર્ટ (અનુચ્છેદ ૩૨) માત્ર મૂળભૂત અધિકારો માટે જ રિટ જારી કરી શકે છે. તેથી હાઈકોર્ટનું ક્ષેત્રાધિકાર વિસ્તૃત છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art31c_25th_amendment',
               question: 'કયા બંધારણીય સુધારા દ્વારા અનુચ્છેદ ૩૧-C ઉમેરીને DPSP ના અનુચ્છેદ ૩૯(b) અને ૩૯(c) ને અનુચ્છેદ ૧૪ અને ૧૯ પર પ્રાધાન્ય આપવામાં આવ્યું?',
-              options: ['૧મો સુધારો ૧૯૫૧', '૨૪મો સુધારો ૧૯૭૧', '૨૫મો સુધારો ૧૯૭૧', '૪૪મો સુધારો ૧૯૭૮'],
-              correctOptionIndex: 2,
+              options: ['૨૪મો સુધારો ૧૯૭૧', '૨૫મો સુધારો ૧૯૭૧', '૪૪મો સુધારો ૧૯૭૮', '૧મો સુધારો ૧૯૫૧'],
+              correctOptionIndex: 1,
               explanation: '૨૫મા બંધારણીય સુધારા ૧૯૭૧ દ્વારા અનુચ્છેદ ૩૧-C ઉમેરીને સમાજના ભૌતિક સંસાધનોના સમાન વિતરણ (૩૯-b) અને ધનનું કેન્દ્રીકરણ રોકવા (૩૯-c) ના કાયદાઓને કલમ ૧૪ અને ૧૯ સામે રક્ષણ અપાયું.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art33_armed_forces_power',
               question: 'સશસ્ત્ર દળો, પોલીસ દળ અને ગુપ્તચર સંસ્થાઓના સભ્યોના મૂળભૂત અધિકારો પર નિયંત્રણ મૂકતો કાયદો બનાવવાની સત્તા કોની પાસે છે?',
-              options: ['માત્ર ભારતના રાષ્ટ્રપતિ', 'માત્ર દેશની સંસદ (Parliament)', 'સંબંધિત રાજ્યની વિધાનસભા', 'સર્વોચ્ચ અદાલતના મુખ્ય ન્યાયાધીશ'],
-              correctOptionIndex: 1,
+              options: ['માત્ર ભારતના રાષ્ટ્રપતિ', 'સર્વોચ્ચ અદાલતના મુખ્ય ન્યાયાધીશ', 'સંબંધિત રાજ્યની વિધાનસભા', 'માત્ર દેશની સંસદ (Parliament)'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩૩ મુજબ સશસ્ત્ર દળો, પોલીસ અને ગુપ્તચર એજન્સીઓના કર્મચારીઓના મૂળભૂત હકોને મર્યાદિત કરવાનો અધિકાર માત્ર સંસદ (Parliament) પાસે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art34_martial_law',
               question: 'કોઈપણ વિસ્તારમાં લશ્કરી શાસન (Martial Law) લાગુ હોય ત્યારે કાયદો-વ્યવસ્થા જાળવવા સરકારી અધિકારીઓ દ્વારા કરાયેલા કાર્યોને સંસદ કયા અનુચ્છેદ હેઠળ ક્ષતિપૂર્તિ (Indemnity) આપી શકે છે?',
-              options: ['અનુચ્છેદ ૩૨', 'અનુચ્છેદ ૩૩', 'અનુચ્છેદ ૩૪', 'અનુચ્છેદ ૩૫'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૩૫', 'અનુચ્છેદ ૩૩', 'અનુચ્છેદ ૩૨', 'અનુચ્છેદ ૩૪'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩૪ મુજબ ભારતના કોઈપણ ભાગમાં સેના વિધિ / માર્શલ લો લાગુ હોય તે દરમિયાન કરાયેલા કાર્યોને સંસદ કાયદા દ્વારા કાનૂની ક્ષતિપૂર્તિ આપી શકે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fr_art35_parliament_exclusive',
               question: 'મૂળભૂત હકોના ભાગ-૩ હેઠળ અસ્પૃશ્યતા (અનુચ્છેદ ૧૭) અને માનવ તસ્કરી-વેઠપ્રથા (અનુચ્છેદ ૨૩) ના ગુનાઓ માટે દંડની જોગવાઈ કરવાનો કાયદો બનાવવાની અનન્ય સત્તા બંધારણના કયા અનુચ્છેદ હેઠળ માત્ર સંસદને અપાઈ છે?',
-              options: ['અનુચ્છેદ ૧૩', 'અનુચ્છેદ ૩૨', 'અનુચ્છેદ ૩૪', 'અનુચ્છેદ ૩૫'],
-              correctOptionIndex: 3,
+              options: ['અનુચ્છેદ ૩૪', 'અનુચ્છેદ ૩૫', 'અનુચ્છેદ ૩૨', 'અનુચ્છેદ ૧૩'],
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૩૫ સમગ્ર દેશમાં મૂળભૂત હકોની એકરૂપતા જાળવવા ભાગ-૩ ની જોગવાઈઓ અને દંડ સંબંધિત કાયદા બનાવવાની અનન્ય સત્તા માત્ર સંસદ (Parliament) ને સોંપે છે.',
               sourceVideoTitle: 'Fundamental Rights Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_dpsp_source_country',
               question: 'ભારતીય બંધારણમાં રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો (DPSP: ભાગ-૪) કયા દેશના બંધારણમાંથી પ્રેરિત થઈને સામેલ કરવામાં આવ્યા છે?',
-              options: ['યુ.એસ.એ. (USA)', 'સોવિયેત સંઘ (USSR)', 'આયર્લેન્ડ', 'ઓસ્ટ્રેલિયા'],
-              correctOptionIndex: 2,
+              options: ['યુ.એસ.એ. (USA)', 'આયર્લેન્ડ', 'ઓસ્ટ્રેલિયા', 'સોવિયેત સંઘ (USSR)'],
+              correctOptionIndex: 1,
               explanation: 'ભારતીય બંધારણમાં DPSP આયર્લેન્ડના ૧૯૩૭ ના બંધારણમાંથી લેવામાં આવ્યા છે (આયર્લેન્ડે પોતે સ્પેનના બંધારણમાંથી આ સિદ્ધાંતો લીધા હતા).',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1938,19 +1938,19 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો (DPSP) નો મુખ્ય ઉદ્દેશ્ય ભારતમાં કેવા પ્રકારના રાજ્ય અને લોકશાહીની સ્થાપના કરવાનો છે?',
               options: [
                 'પોલીસ રાજ્ય અને સામંતશાહી',
+                'ધર્મશાહી રાજ્ય અને સંકીર્ણ લોકશાહી',
                 'કલ્યાણકારી રાજ્ય (Welfare State) અને સામાજિક-આર્થિક લોકશાહી',
-                'માત્ર રાજકીય લોકશાહી અને મૂડીવાદી વ્યવસ્થા',
-                'ધર્મશાહી રાજ્ય અને સંકીર્ણ લોકશાહી'
+                'માત્ર રાજકીય લોકશાહી અને મૂડીવાદી વ્યવસ્થા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'DPSP નો મુખ્ય ઉદ્દેશ્ય ભારતમાં "કલ્યાણકારી રાજ્ય" (Welfare State) ની સ્થાપના કરવો અને નાગરિકો માટે સામાજિક અને આર્થિક લોકશાહી સુનિશ્ચિત કરવાનો છે.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_dpsp_kt_shah_quote',
               question: '"માર્ગદર્શક સિદ્ધાંતો એ એક એવો ચેક છે જેનું ચૂકવણું બેંકની અનુકૂળતા કે ઈચ્છા પર છોડી દેવામાં આવ્યું છે" - આ પ્રસિદ્ધ કથન કોનું છે?',
-              options: ['ડૉ. બાબાસાહેબ આંબેડકર', 'પ્રો. કે. ટી. શાહ', 'ગ્રેનવિલ ઓસ્ટિન', 'કે. એમ. મુનશી'],
-              correctOptionIndex: 1,
+              options: ['કે. એમ. મુનશી', 'ગ્રેનવિલ ઓસ્ટિન', 'ડૉ. બાબાસાહેબ આંબેડકર', 'પ્રો. કે. ટી. શાહ'],
+              correctOptionIndex: 3,
               explanation: 'પ્રો. કે. ટી. શાહે DPSP ના અદાલત દ્વારા અપ્રવર્તનીય (Non-justiciable) હોવા પર કટાક્ષ કરતા આ વિધાન કહ્યું હતું.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1958,12 +1958,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_dpsp_art37_nature',
               question: 'બંધારણના અનુચ્છેદ ૩૭ અનુસાર રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો (DPSP) નું કાનૂની સ્વરૂપ કેવું છે?',
               options: [
+                'તે માત્ર રાજ્ય સરકારોને લાગુ પડે છે, કેન્દ્રને નહીં',
                 'તે અદાલત દ્વારા સંપૂર્ણ પ્રવર્તનીય (Justiciable) છે',
-                'તે અદાલત દ્વારા અપ્રવર્તનીય છે છતાં દેશના શાસનમાં પાયારૂપ (Fundamental) છે',
                 'તે માત્ર રાષ્ટ્રપતિના વ્યક્તિગત આદેશો છે',
-                'તે માત્ર રાજ્ય સરકારોને લાગુ પડે છે, કેન્દ્રને નહીં'
+                'તે અદાલત દ્વારા અપ્રવર્તનીય છે છતાં દેશના શાસનમાં પાયારૂપ (Fundamental) છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩૭ મુજબ DPSP અદાલત દ્વારા અપ્રવર્તનીય (Non-justiciable) હોવા છતાં દેશના શાસનમાં મૂળભૂત છે અને કાયદા ઘડતી વખતે તેને લાગુ કરવા રાજ્યની ફરજ છે.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -1978,64 +1978,64 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_dpsp_art39a_free_legal_aid',
               question: '૪૨મા બંધારણીય સુધારા ૧૯૭૬ દ્વારા ઉમેરાયેલ કયા અનુચ્છેદ હેઠળ ગરીબોને "મફત કાનૂની સહાય" (Free Legal Aid) આપવાનો નિર્દેશ છે?',
-              options: ['અનુચ્છેદ ૩૮(૨)', 'અનુચ્છેદ ૩૯-A', 'અનુચ્છેદ ૪૩-A', 'અનુચ્છેદ ૪૮-A'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૩૯-A', 'અનુચ્છેદ ૪૩-A', 'અનુચ્છેદ ૪૮-A', 'અનુચ્છેદ ૩૮(૨)'],
+              correctOptionIndex: 0,
               explanation: '૪૨મા સુધારા ૧૯૭૬ દ્વારા અનુચ્છેદ ૩૯-A ઉમેરાયો, જે અન્વયે સંસદે NALSA Act ૧૯૮૭ પસાર કરીને લોક અદાલતો અને મફત કાનૂની સહાય પ્રણાલી શરૂ કરી.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_dpsp_art40_gram_panchayat',
               question: 'ગાંધીવાદી વિચારધારા અનુસાર "ગ્રામ પંચાયતોનું સંગઠન" કરવાની જોગવાઈ ભારતીય બંધારણના કયા અનુચ્છેદમાં કરવામાં આવી છે?',
-              options: ['અનુચ્છેદ ૩૮', 'અનુચ્છેદ ૪૦', 'અનુચ્છેદ ૪૩', 'અનુચ્છેદ ૪૮'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૪૦', 'અનુચ્છેદ ૪૮', 'અનુચ્છેદ ૪૩', 'અનુચ્છેદ ૩૮'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૪૦ હેઠળ ગ્રામ પંચાયતોની સ્થાપના કરવાનો નિર્દેશ છે, જેને સાકાર કરવા ૭૩મો બંધારણીય સુધારો ૧૯૯૨ પસાર કરી પંચાયતી રાજને બંધારણીય દરજ્જો અપાયો.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_dpsp_art44_ucc',
               question: 'સમગ્ર ભારતમાં તમામ નાગરિકો માટે "સમાન નાગરિક સંહિતા" (Uniform Civil Code - UCC) લાગુ કરવાનો નિર્દેશ બંધારણના કયા અનુચ્છેદમાં છે?',
-              options: ['અનુચ્છેદ ૪૨', 'અનુચ્છેદ ૪૪', 'અનુચ્છેદ ૪૬', 'અનુચ્છેદ ૪૮'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૪૨', 'અનુચ્છેદ ૪૮', 'અનુચ્છેદ ૪૬', 'અનુચ્છેદ ૪૪'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૪૪ હેઠળ રાજ્ય સમગ્ર ભારતમાં તમામ નાગરિકો માટે સમાન નાગરિક સંહિતા (UCC) લાગુ કરવા પ્રયાસ કરશે.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_dpsp_art50_separation_judiciary',
               question: 'રાજ્યની જાહેર સેવાઓમાં "કારોબારીથી ન્યાયતંત્રનું પૃથક્કરણ / અલગતા" (Separation of Judiciary from Executive) કયા અનુચ્છેદમાં દર્શાવેલ છે?',
-              options: ['અનુચ્છેદ ૪૮', 'અનુચ્છેદ ૪૯', 'અનુચ્છેદ ૫૦', 'અનુચ્છેદ ૫૧'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૫૧', 'અનુચ્છેદ ૫૦', 'અનુચ્છેદ ૪૯', 'અનુચ્છેદ ૪૮'],
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૫૦ રાજ્યની લોકસેવાઓમાં કારોબારીથી ન્યાયતંત્રને સ્વતંત્ર અને અલગ રાખવાનો નિર્દેશ આપે છે.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_dpsp_art51_foreign_policy',
               question: 'ભારતની વિદેશ નીતિ અને પંચશીલ સિદ્ધાંતોનો બંધારણીય આધાર ગણાતો "આંતરરાષ્ટ્રીય શાંતિ અને સુરક્ષાની અભિવૃદ્ધિ" નો અનુચ્છેદ કયો છે?',
-              options: ['અનુચ્છેદ ૪૫', 'અનુચ્છેદ ૪૮-A', 'અનુચ્છેદ ૫૦', 'અનુચ્છેદ ૫૧'],
-              correctOptionIndex: 3,
+              options: ['અનુચ્છેદ ૫૦', 'અનુચ્છેદ ૫૧', 'અનુચ્છેદ ૪૫', 'અનુચ્છેદ ૪૮-A'],
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૫૧ આંતરરાષ્ટ્રીય શાંતિ-સુરક્ષા વધારવા, રાષ્ટ્રો વચ્ચે ન્યાયી સંબંધો જાળવવા અને આંતરરાષ્ટ્રીય સંધિઓનું સન્માન કરવાનો નિર્દેશ આપે છે.',
               sourceVideoTitle: 'Policy Director Element / DPSP (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_source_country',
               question: 'ભારતીય બંધારણમાં મૂળભૂત ફરજો (ભાગ-૪-A: અનુચ્છેદ ૫૧-A) કયા દેશના બંધારણમાંથી પ્રેરિત થઈને સામેલ કરવામાં આવી છે?',
-              options: ['યુનાઇટેડ સ્ટેટ્સ ઓફ અમેરિકા (USA)', 'પૂર્વ સોવિયેત સંઘ (USSR / રશિયા)', 'આયર્લેન્ડ', 'ઓસ્ટ્રેલિયા'],
-              correctOptionIndex: 1,
+              options: ['પૂર્વ સોવિયેત સંઘ (USSR / રશિયા)', 'યુનાઇટેડ સ્ટેટ્સ ઓફ અમેરિકા (USA)', 'આયર્લેન્ડ', 'ઓસ્ટ્રેલિયા'],
+              correctOptionIndex: 0,
               explanation: 'ભારતીય બંધારણમાં મૂળભૂત ફરજો પૂર્વ સોવિયેત સંઘ (USSR) ના બંધારણમાંથી લેવામાં આવી છે. મોટા લોકશાહી દેશોમાં માત્ર જાપાનના બંધારણમાં ફરજો સામેલ હતી.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_original_constitution',
               question: '૨૬ જાન્યુઆરી ૧૯૫૦ ના રોજ અમલમાં આવેલા ભારતના મૂળ બંધારણમાં કુલ કેટલી મૂળભૂત ફરજો સામેલ હતી?',
-              options: ['શૂન્ય (૦)', '૮ (આઠ)', '૧૦ (દસ)', '૧૧ (અગિયાર)'],
-              correctOptionIndex: 0,
+              options: ['૮ (આઠ)', 'શૂન્ય (૦)', '૧૦ (દસ)', '૧૧ (અગિયાર)'],
+              correctOptionIndex: 1,
               explanation: 'મૂળ બંધારણમાં મૂળભૂત ફરજોની કોઈ જોગવાઈ નહોતી. ૧૯૭૬ માં ૪૨મા બંધારણીય સુધારા દ્વારા ૧૦ ફરજો અને ૨૦૦૨ માં ૮૬મા સુધારા દ્વારા ૧૧મી ફરજ ઉમેરાઈ હતી.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_swaran_singh_recs',
               question: 'સરદાર સ્વર્ણસિંહ સમિતિ (૧૯૭૬) એ બંધારણમાં કેટલી મૂળભૂત ફરજો ઉમેરવાની ભલામણ કરી હતી?',
-              options: ['૮ (આઠ)', '૧૦ (દસ)', '૧૧ (અગિયાર)', '૧૨ (બાર)'],
-              correctOptionIndex: 0,
+              options: ['૧૧ (અગિયાર)', '૧૦ (દસ)', '૮ (આઠ)', '૧૨ (બાર)'],
+              correctOptionIndex: 2,
               explanation: 'સ્વર્ણસિંહ સમિતિએ ૮ મૂળભૂત ફરજો ઉમેરવાની ભલામણ કરી હતી, પરંતુ સરકારે ૪૨મા સુધારા ૧૯૭૬ દ્વારા ૧૦ મૂળભૂત ફરજો બંધારણમાં સામેલ કરી હતી.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -2043,43 +2043,43 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fd_swaran_singh_rejected',
               question: 'સ્વર્ણસિંહ સમિતિની નીચેનામાંથી કઈ ભલામણને સરકારે બંધારણીય સુધારામાં સ્વીકારી નહોતી?',
               options: [
-                'રાષ્ટ્રધ્વજ અને રાષ્ટ્રગાનનો આદર કરવો',
                 'કરવેરા ચૂકવવાની નાગરિકની ફરજ (Duty to pay taxes)',
-                'દેશનું રક્ષણ કરવું અને રાષ્ટ્રીય સેવા આપવી',
-                'સાર્વભૌમત્વ અને એકતાનું રક્ષણ કરવું'
+                'સાર્વભૌમત્વ અને એકતાનું રક્ષણ કરવું',
+                'રાષ્ટ્રધ્વજ અને રાષ્ટ્રગાનનો આદર કરવો',
+                'દેશનું રક્ષણ કરવું અને રાષ્ટ્રીય સેવા આપવી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'સ્વર્ણસિંહ સમિતિએ કર ચૂકવવાની ફરજ અને ફરજ ન પાળવા બદલ સંસદ દ્વારા દંડ/સજા કરવાની ભલામણ કરી હતી, જેને તત્કાલીન સરકારે સ્વીકારી નહોતી.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_42nd_amendment_date',
               question: '૪૨મા બંધારણીય સુધારા ૧૯૭૬ દ્વારા ઉમેરાયેલી મૂળભૂત ફરજો કઈ તારીખથી અમલમાં આવી, જેને "મૂળભૂત ફરજ દિન" તરીકે પણ ઓળખવામાં આવે છે?',
-              options: ['૨૬ જાન્યુઆરી ૧૯૭૬', '૩ જાન્યુઆરી ૧૯૭૭', '૧૫ ઓગસ્ટ ૧૯૭૭', '૪૨ ઓક્ટોબર ૧૯૭૬'],
-              correctOptionIndex: 1,
+              options: ['૧૫ ઓગસ્ટ ૧૯૭૭', '૪૨ ઓક્ટોબર ૧૯૭૬', '૨૬ જાન્યુઆરી ૧૯૭૬', '૩ જાન્યુઆરી ૧૯૭૭'],
+              correctOptionIndex: 3,
               explanation: '૪૨મો બંધારણીય સુધારો ૩ જાન્યુઆરી ૧૯૭૭ થી અમલમાં આવ્યો હતો. તેથી ૩ જાન્યુઆરીને મૂળભૂત ફરજ દિન (Fundamental Duties Day) તરીકે ઓળખવામાં આવે છે.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_86th_amendment_11th',
               question: 'કયા બંધારણીય સુધારા દ્વારા અનુચ્છેદ ૫૧-A(k) હેઠળ ૧૧મી મૂળભૂત ફરજ (બાળકોને શિક્ષણની તક આપવાની વાલીની ફરજ) ઉમેરવામાં આવી?',
-              options: ['૪૪મો સુધારો, ૧૯૭૮', '૮૬મો સુધારો, ૨૦૦૨', '૯૧મો સુધારો, ૨૦૦૩', '૧૦૩મો સુધારો, ૨૦૧૯'],
-              correctOptionIndex: 1,
+              options: ['૮૬મો સુધારો, ૨૦૦૨', '૧૦૩મો સુધારો, ૨૦૧૯', '૪૪મો સુધારો, ૧૯૭૮', '૯૧મો સુધારો, ૨૦૦૩'],
+              correctOptionIndex: 0,
               explanation: '૮૬મા બંધારણીય સુધારા ૨૦૦૨ (વાજપેયી સરકાર) દ્વારા ૬ થી ૧૪ વર્ષના બાળકને શિક્ષણ અપાવવાની માતા-પિતા કે વાલીની ૧૧મી મૂળભૂત ફરજ ઉમેરવામાં આવી.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_scientific_temper',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ હેઠળ "વૈજ્ઞાનિક અભિગમ (માનસ), માનવતાવાદ અને જિજ્ઞાસા તથા સુધારણાની ભાવના કેળવવી" એ નાગરિકની ફરજ છે?',
-              options: ['અનુચ્છેદ ૫૧-A(e)', 'અનુચ્છેદ ૫૧-A(g)', 'અનુચ્છેદ ૫૧-A(h)', 'અનુચ્છેદ ૫૧-A(j)'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૫૧-A(h)', 'અનુચ્છેદ ૫૧-A(e)', 'અનુચ્છેદ ૫૧-A(g)', 'અનુચ્છેદ ૫૧-A(j)'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૫૧-A(h) હેઠળ વૈજ્ઞાનિક દ્રષ્ટિકોણ (Scientific temper), માનવતાવાદ (Humanism) અને સંશોધન-સુધારણાની ભાવના કેળવવાની જોગવાઈ છે.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_fd_women_dignity',
               question: '"સ્ત્રીઓના ગૌરવને હાનિ પહોંચાડતા વ્યવહારોનો ત્યાગ કરવો" એ મૂળભૂત ફરજ કયા અનુચ્છેદમાં નિર્દિષ્ટ છે?',
-              options: ['અનુચ્છેદ ૫૧-A(c)', 'અનુચ્છેદ ૫૧-A(d)', 'અનુચ્છેદ ૫૧-A(e)', 'અનુચ્છેદ ૫૧-A(f)'],
+              options: ['અનુચ્છેદ ૫૧-A(d)', 'અનુચ્છેદ ૫૧-A(c)', 'અનુચ્છેદ ૫૧-A(e)', 'અનુચ્છેદ ૫૧-A(f)'],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૫૧-A(e) હેઠળ ભ્રાતૃત્વની ભાવના વધારવી તથા સ્ત્રીઓના સન્માન અને ગૌરવને હાનિ પહોંચાડતી કોઈપણ પ્રથા કે વ્યવહારનો ત્યાગ કરવાની ફરજ છે.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -2087,8 +2087,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_fd_verma_committee',
               question: 'મૂળભૂત ફરજોના કાયદાકીય અમલીકરણ અને તેના સંબંધિત વૈધાનિક જોગવાઈઓની તપાસ માટે ૧૯૯૯ માં કઈ સમિતિની રચના કરવામાં આવી હતી?',
-              options: ['સરકારીયા પંચ', 'જસ્ટિસ જે. એસ. વર્મા સમિતિ', 'પુંછી પંચ', 'કે. સી. નિયોગી સમિતિ'],
-              correctOptionIndex: 1,
+              options: ['કે. સી. નિયોગી સમિતિ', 'સરકારીયા પંચ', 'જસ્ટિસ જે. એસ. વર્મા સમિતિ', 'પુંછી પંચ'],
+              correctOptionIndex: 2,
               explanation: 'જસ્ટિસ જે. એસ. વર્મા સમિતિ (૧૯૯૯) એ મૂળભૂત ફરજોના અમલ માટે સંસદ દ્વારા બનાવેલા કાયદાઓ (જેમ કે રાષ્ટ્રગૌરવ અધિનિયમ, વન્યજીવ સંરક્ષણ અધિનિયમ વગેરે) ની ઓળખ કરી હતી.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -2096,12 +2096,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_fd_nature_applicability',
               question: 'મૂળભૂત ફરજો (ભાગ-૪-A) ના સ્વરૂપ અને લાગુ પડવા અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'તે અદાલત દ્વારા પ્રવર્તનીય (Justiciable) છે',
-                'તે ભારતીય નાગરિકો અને વિદેશીઓ બંનેને સમાન રીતે લાગુ પડે છે',
+                'બંધારણમાં ફરજોના ઉલ્લંઘન બદલ ફરજિયાત જેલની સજા નિર્ધારિત છે',
                 'તે અદાલત દ્વારા અપ્રવર્તનીય (Non-justiciable) છે અને માત્ર ભારતીય નાગરિકોને જ લાગુ પડે છે',
-                'બંધારણમાં ફરજોના ઉલ્લંઘન બદલ ફરજિયાત જેલની સજા નિર્ધારિત છે'
+                'તે અદાલત દ્વારા પ્રવર્તનીય (Justiciable) છે',
+                'તે ભારતીય નાગરિકો અને વિદેશીઓ બંનેને સમાન રીતે લાગુ પડે છે'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'મૂળભૂત ફરજો DPSP ની જેમ અદાલત દ્વારા સીધી અપ્રવર્તનીય (Non-justiciable) છે અને તે માત્ર ભારતીય નાગરિકોને જ લાગુ પડે છે, વિદેશીઓને નહીં.',
               sourceVideoTitle: 'Fundamental Duties (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3527,16 +3527,16 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_constitutional_head',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ મુજબ "ભારતના એક રાષ્ટ્રપતિ રહેશે", જે દેશના ઔપચારિક વડા અને પ્રથમ નાગરિક છે?',
-              options: ['અનુચ્છેદ ૫૧', 'અનુચ્છેદ ૫૨', 'અનુચ્છેદ ૫૩', 'અનુચ્છેદ ૫૪'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૫૨', 'અનુચ્છેદ ૫૧', 'અનુચ્છેદ ૫૪', 'અનુચ્છેદ ૫૩'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૫૨ મુજબ ભારતના એક રાષ્ટ્રપતિ રહેશે. તેઓ દેશના સર્વોચ્ચ વડા, પ્રથમ નાગરિક અને રાષ્ટ્રની એકતા-અખંડિતતાના પ્રતીક છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_supreme_commander',
               question: 'ભારતના સંરક્ષણ દળો (સશસ્ત્ર સેનાઓ) નું સર્વોચ્ચ સેનાપતિપદ (Supreme Commander) રાષ્ટ્રપતિમાં નિહિત છે, તે કયા અનુચ્છેદમાં નિર્દિષ્ટ છે?',
-              options: ['અનુચ્છેદ ૫૨', 'અનુચ્છેદ ૫૩(૧)', 'અનુચ્છેદ ૫૩(૨)', 'અનુચ્છેદ ૫૪'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૫૩(૧)', 'અનુચ્છેદ ૫૪', 'અનુચ્છેદ ૫૨', 'અનુચ્છેદ ૫૩(૨)'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૫૩(૨) હેઠળ ત્રણેય સેનાઓ (આર્મી, નેવી, એરફોર્સ) નું સર્વોચ્ચ સેનાપતિપદ રાષ્ટ્રપતિમાં નિહિત છે અને તેનો ઉપયોગ સંસદીય કાયદાને આધીન થાય છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3544,19 +3544,19 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_electoral_college_not_included',
               question: 'રાષ્ટ્રપતિના મતદાર મંડળ (Electoral College: અનુચ્છેદ ૫૪) માં નીચેનામાંથી કોનો સમાવેશ થતો નથી?',
               options: [
-                'સંસદના બંને ગૃહોના ચૂંટાયેલા સભ્યો',
+                'રાજ્યોની વિધાનપરિષદોના સભ્યો (MLCs) અને સંસદના નામાંકિત સભ્યો',
                 'રાજ્યોની વિધાનસભાઓના ચૂંટાયેલા સભ્યો',
                 'દિલ્હી અને પુડુચેરી વિધાનસભાઓના ચૂંટાયેલા સભ્યો',
-                'રાજ્યોની વિધાનપરિષદોના સભ્યો (MLCs) અને સંસદના નામાંકિત સભ્યો'
+                'સંસદના બંને ગૃહોના ચૂંટાયેલા સભ્યો'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 0,
               explanation: 'વિધાનપરિષદોના સભ્યો (MLCs) તેમજ સંસદ અને વિધાનસભાઓના નામાંકિત (Nominated) સભ્યો રાષ્ટ્રપતિની ચૂંટણીમાં મતદાન કરી શકતા નથી.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_electoral_college_70th_amendment',
               question: 'કયા બંધારણીય સુધારા દ્વારા દિલ્હી અને પુડુચેરી કેન્દ્રશાસિત પ્રદેશોની વિધાનસભાઓના ચૂંટાયેલા સભ્યોને રાષ્ટ્રપતિના મતદાર મંડળમાં સામેલ કરવામાં આવ્યા?',
-              options: ['૬૧મો સુધારો, ૧૯૮૯', '૬૯મો સુધારો, ૧૯૯૧', '૭૦મો સુધારો, ૧૯૯૨', '૭૩મો સુધારો, ૧૯૯૨'],
+              options: ['૬૯મો સુધારો, ૧૯૯૧', '૭૩મો સુધારો, ૧૯૯૨', '૭૦મો સુધારો, ૧૯૯૨', '૬૧મો સુધારો, ૧૯૮૯'],
               correctOptionIndex: 2,
               explanation: '૭૦મા બંધારણીય સુધારા ૧૯૯૨ દ્વારા રાષ્ટ્રપતિના મતદાર મંડળ (અનુચ્છેદ ૫૪) માં દિલ્હી અને પુડુચેરી વિધાનસભાના ચૂંટાયેલા સભ્યોનો સમાવેશ કરાયો.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3564,7 +3564,7 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_election_system_source',
               question: 'ભારતના રાષ્ટ્રપતિની ચૂંટણી પદ્ધતિ (પ્રમાણસર પ્રતિનિધિત્વની એકલ સંક્રમણીય મત પદ્ધતિ - PR-STV) કયા દેશના બંધારણમાંથી લેવામાં આવી છે?',
-              options: ['યુ.એસ.એ. (USA)', 'બ્રિટન (UK)', 'આયર્લેન્ડ (Ireland)', 'કેનેડા'],
+              options: ['યુ.એસ.એ. (USA)', 'કેનેડા', 'આયર્લેન્ડ (Ireland)', 'બ્રિટન (UK)'],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૫૫ હેઠળ રાષ્ટ્રપતિની ચૂંટણી પદ્ધતિ આયર્લેન્ડના બંધારણમાંથી સ્વીકારવામાં આવી છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3572,32 +3572,32 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_mla_vote_value_census',
               question: '૮૪મા બંધારણીય સુધારા ૨૦૦૧ અનુસાર રાષ્ટ્રપતિ ચૂંટણીમાં ધારાસભ્ય (MLA) ના મતનું મૂલ્ય ગણવા માટે કયા વર્ષની વસ્તી ગણતરી આધાર તરીકે લેવાય છે?',
-              options: ['૧૯૫૧', '૧૯૭૧', '૧૯૯૧', '૨૦૦૧'],
-              correctOptionIndex: 1,
+              options: ['૧૯૯૧', '૧૯૫૧', '૨૦૦૧', '૧૯૭૧'],
+              correctOptionIndex: 3,
               explanation: '૮૪મા સુધારા ૨૦૦૧ મુજબ વર્ષ ૨૦૨૬ પછીની પ્રથમ વસ્તી ગણતરીના આંકડા પ્રસિદ્ધ ન થાય ત્યાં સુધી ૧૯૭૧ ની વસ્તી ગણતરી આધાર તરીકે માન્ય રહેશે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_mla_highest_vote_value',
               question: 'ભારતના તમામ રાજ્યો પૈકી કયા રાજ્યના ધારાસભ્ય (MLA) ના મતનું મૂલ્ય સૌથી વધુ છે?',
-              options: ['મહારાષ્ટ્ર', 'બિહાર', 'ઉત્તર પ્રદેશ (૨૦૮)', 'તમિલનાડુ'],
-              correctOptionIndex: 2,
+              options: ['તમિલનાડુ', 'મહારાષ્ટ્ર', 'બિહાર', 'ઉત્તર પ્રદેશ (૨૦૮)'],
+              correctOptionIndex: 3,
               explanation: 'સૌથી વધુ વસ્તી ધરાવતા ઉત્તર પ્રદેશના MLA નું મત મૂલ્ય સૌથી વધુ ૨૦૮ છે. સૌથી ઓછું સિક્કિમના MLA નું ૭ છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_re_election',
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૫૭ અનુસાર એક વ્યક્તિ કેટલી વખત રાષ્ટ્રપતિ પદ માટે પુનઃચૂંટાઈ શકે છે?',
-              options: ['માત્ર એક જ વખત', 'વધુમાં વધુ બે વખત', 'વધુમાં વધુ ત્રણ વખત', 'ગમે તેટલી વખત (કોઈ બંધારણીય મર્યાદા નથી)'],
-              correctOptionIndex: 3,
+              options: ['માત્ર એક જ વખત', 'વધુમાં વધુ ત્રણ વખત', 'ગમે તેટલી વખત (કોઈ બંધારણીય મર્યાદા નથી)', 'વધુમાં વધુ બે વખત'],
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૫૭ મુજબ ભારતમાં પુનઃચૂંટણી માટે કોઈ મહત્તમ મર્યાદા નથી; વ્યક્તિ ગમે તેટલી વખત ચૂંટાઈ શકે છે. ડૉ. રાજેન્દ્ર પ્રસાદ બે વખત ચૂંટાયેલા એકમાત્ર રાષ્ટ્રપતિ છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_proposers_seconders',
               question: 'રાષ્ટ્રપતિ ચૂંટણી અધિનિયમ મુજબ ઉમેદવારી નોંધાવવા માટે કેટલા પ્રસ્તાવકો અને અનુમોદકો હોવા ફરજિયાત છે?',
-              options: ['૧૦ પ્રસ્તાવક અને ૧૦ અનુમોદક', '૨૦ પ્રસ્તાવક અને ૨૦ અનુમોદક', '૫૦ પ્રસ્તાવક અને ૫૦ અનુમોદક', '૧૦૦ પ્રસ્તાવક અને ૧૦૦ અનુમોદક'],
-              correctOptionIndex: 2,
+              options: ['૫૦ પ્રસ્તાવક અને ૫૦ અનુમોદક', '૧૦ પ્રસ્તાવક અને ૧૦ અનુમોદક', '૨૦ પ્રસ્તાવક અને ૨૦ અનુમોદક', '૧૦૦ પ્રસ્તાવક અને ૧૦૦ અનુમોદક'],
+              correctOptionIndex: 0,
               explanation: '૧૯૯૭ ના સુધારા મુજબ રાષ્ટ્રપતિ ઉમેદવાર માટે ઓછામાં ઓછા ૫૦ પ્રસ્તાવકો (Proposers) અને ૫૦ અનુમોદકો (Seconders) તથા ₹ ૧૫,૦૦૦ ડિપોઝિટ જરૂરી છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3606,9 +3606,9 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'રાષ્ટ્રપતિને શપથ કોણ લેવડાવે છે અને તેઓ બંધારણના કયા અનુચ્છેદ હેઠળ શપથ ગ્રહણ કરે છે?',
               options: [
                 'ઉપરાષ્ટ્રપતિ - અનુચ્છેદ ૫૬',
-                'પ્રધાનમંત્રી - અનુચ્છેદ ૫૯',
+                'લોકસભાના સ્પીકર - અનુચ્છેદ ૬૧',
                 'ભારતના મુખ્ય ન્યાયાધીશ (CJI) - અનુચ્છેદ ૬૦',
-                'લોકસભાના સ્પીકર - અનુચ્છેદ ૬૧'
+                'પ્રધાનમંત્રી - અનુચ્છેદ ૫૯'
               ],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૬૦ હેઠળ રાષ્ટ્રપતિને શપથ ભારતના મુખ્ય ન્યાયાધીશ (CJI) લેવડાવે છે. તેઓ બંધારણ અને કાયદાનું "રક્ષણ, સંરક્ષણ અને બચાવ" કરવાની શપથ લે છે.',
@@ -3618,10 +3618,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_impeachment_majority',
               question: 'અનુચ્છેદ ૬૧ હેઠળ રાષ્ટ્રપતિ પર મહાભિયોગ પ્રસ્તાવ સંસદના બંને ગૃહોમાં કઈ બહુમતીથી પસાર થવો અનિવાર્ય છે?',
               options: [
-                'હાજર રહી મતદાન કરનાર સભ્યોની સાદી બહુમતી',
+                'સંસદના બંને ગૃહોની પૂર્ણ સર્વસંમતિ',
                 'હાજર રહી મતદાન કરનાર સભ્યોની ૨/૩ બહુમતી',
                 'ગૃહની કુલ સભ્ય સંખ્યાની ૨/૩ વિશેષ બહુમતી',
-                'સંસદના બંને ગૃહોની પૂર્ણ સર્વસંમતિ'
+                'હાજર રહી મતદાન કરનાર સભ્યોની સાદી બહુમતી'
               ],
               correctOptionIndex: 2,
               explanation: 'મહાભિયોગ પ્રસ્તાવ બંને ગૃહોમાં સ્વતંત્ર રીતે ગૃહની કુલ સભ્ય સંખ્યાની ૨/૩ બહુમતી (Special Majority of Total Membership) થી પસાર થવો ફરજિયાત છે.',
@@ -3630,23 +3630,23 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_election_dispute_court',
               question: 'રાષ્ટ્રપતિ કે ઉપરાષ્ટ્રપતિની ચૂંટણી સંબંધી તમામ વિવાદોની સુનાવણી અને આખરી નિર્ણય કરવાની સત્તા બંધારણના અનુચ્છેદ ૭૧ હેઠળ કોની પાસે છે?',
-              options: ['ભારતનું ચૂંટણી પંચ', 'કેન્દ્રીય કાયદા મંત્રાલય', 'સંસદની સંયુક્ત સમિતિ', 'ભારતની સર્વોચ્ચ અદાલત (Supreme Court)'],
-              correctOptionIndex: 3,
+              options: ['ભારતની સર્વોચ્ચ અદાલત (Supreme Court)', 'ભારતનું ચૂંટણી પંચ', 'સંસદની સંયુક્ત સમિતિ', 'કેન્દ્રીય કાયદા મંત્રાલય'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૭૧ મુજબ રાષ્ટ્રપતિ કે ઉપરાષ્ટ્રપતિની ચૂંટણીને લગતા તમામ વિવાદોનો નિકાલ માત્ર ભારતની સર્વોચ્ચ અદાલત (Supreme Court) કરી શકે છે અને તેનો નિર્ણય આખરી રહે છે.',
               sourceVideoTitle: 'President Of India || Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art74_reconsideration',
               question: 'કયા બંધારણીય સુધારા દ્વારા રાષ્ટ્રપતિને મંત્રીપરિષદની સલાહ એક વખત પુનર્વિચારણા (Reconsideration) માટે પરત મોકલવાની સત્તા આપવામાં આવી?',
-              options: ['૪૨મો સુધારો, ૧૯૭૬', '૪૪મો સુધારો, ૧૯૭૮', '૫૨મો સુધારો, ૧૯૮૫', '૯૧મો સુધારો, ૨૦૦૩'],
-              correctOptionIndex: 1,
+              options: ['૫૨મો સુધારો, ૧૯૮૫', '૪૨મો સુધારો, ૧૯૭૬', '૪૪મો સુધારો, ૧૯૭૮', '૯૧મો સુધારો, ૨૦૦૩'],
+              correctOptionIndex: 2,
               explanation: '૪૪મા બંધારણીય સુધારા ૧૯૭૮ (મોરારજી દેસાઈ સરકાર) દ્વારા અનુચ્છેદ ૭૪(૧) માં જોગવાઈ ઉમેરીને રાષ્ટ્રપતિને મંત્રીમંડળની સલાહ એકવાર પુનર્વિચારણા માટે મોકલવાની છૂટ મળી.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_pocket_veto_zail_singh',
               question: 'ભારતના કયા રાષ્ટ્રપતિએ ૧૯૮૬ માં "ભારતીય ડાક સુધારા ખરડા" પર બંધારણીય પોકેટ વીટો (Pocket Veto) નો ઐતિહાસિક ઉપયોગ કર્યો હતો?',
-              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'વી. વી. ગીરી', 'જ્ઞાની ઝૈલ સિંહ', 'ડૉ. એ. પી. જે. અબ્દુલ કલામ'],
+              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'ડૉ. એ. પી. જે. અબ્દુલ કલામ', 'જ્ઞાની ઝૈલ સિંહ', 'વી. વી. ગીરી'],
               correctOptionIndex: 2,
               explanation: '૧૯૮૬ માં રાષ્ટ્રપતિ જ્ઞાની ઝૈલ સિંહે ભારતીય પોસ્ટ ઓફિસ (સુધારા) બિલ પર અનિશ્ચિત મુદત સુધી કોઈ નિર્ણય ન લઈ પોકેટ વીટો વાપર્યો હતો.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3654,32 +3654,32 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_ordinance_duration_assembly',
               question: 'અનુચ્છેદ ૧૨૩ હેઠળ રાષ્ટ્રપતિ દ્વારા બહાર પાડવામાં આવેલો વટહુકમ સંસદનું સત્ર ફરી શરૂ થયા પછી વધુમાં વધુ કેટલા સમયમાં મંજૂર થવો ફરજિયાત છે?',
-              options: ['૧૪ દિવસ', '૩૦ દિવસ', '૬ અઠવાડિયા (૪૨ દિવસ)', '૬ મહિના'],
-              correctOptionIndex: 2,
+              options: ['૬ મહિના', '૩૦ દિવસ', '૧૪ દિવસ', '૬ અઠવાડિયા (૪૨ દિવસ)'],
+              correctOptionIndex: 3,
               explanation: 'સંસદનું સત્ર પુનઃમળ્યાની તારીખથી ૬ અઠવાડિયાની અંદર જો સંસદ વટહુકમને મંજૂર ન કરે તો તે આપોઆપ રદ થઈ જાય છે.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_ordinance_max_life',
               question: 'ભારતીય બંધારણ હેઠળ રાષ્ટ્રપતિ દ્વારા બહાર પાડવામાં આવેલા વટહુકમનું મહત્તમ સંભવિત આયુષ્ય (Maximum Life) કેટલું હોઈ શકે?',
-              options: ['૬ મહિના', '૬ અઠવાડિયા', '૬ મહિના અને ૬ અઠવાડિયા (આશરે ૭.૫ મહિના)', '૧ વર્ષ'],
-              correctOptionIndex: 2,
+              options: ['૬ અઠવાડિયા', '૬ મહિના અને ૬ અઠવાડિયા (આશરે ૭.૫ મહિના)', '૬ મહિના', '૧ વર્ષ'],
+              correctOptionIndex: 1,
               explanation: 'સંસદના બે સત્રો વચ્ચે મહત્તમ અંતર ૬ મહિના હોઈ શકે + સત્ર શરૂ થયા પછીના ૬ અઠવાડિયા, એટલે કે વટહુકમનું મહત્તમ આયુષ્ય ૭.૫ મહિના હોઈ શકે છે.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_pardoning_power_article',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ હેઠળ રાષ્ટ્રપતિને ગુનેગારની સજા માફ કરવાની (ક્ષમાદાન - Pardoning Power) સત્તા આપવામાં આવી છે?',
-              options: ['અનુચ્છેદ ૭૧', 'અનુચ્છેદ ૭૨', 'અનુચ્છેદ ૭૪', 'અનુચ્છેદ ૧૬૧'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૭૨', 'અનુચ્છેદ ૭૪', 'અનુચ્છેદ ૧૬૧', 'અનુચ્છેદ ૭૧'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૭૨ હેઠળ રાષ્ટ્રપતિને ક્ષમાદાનની સત્તા છે (જ્યારે અનુચ્છેદ ૧૬૧ હેઠળ રાજ્યપાલને ક્ષમાદાનની સત્તા છે).',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_commutation_definition',
               question: 'ક્ષમાદાન પ્રક્રિયામાં "સજાનું સ્વરૂપ બદલીને તેને હળવું કરવું" (દા.ત. ફાંસીને આજીવન કેદમાં ફેરવવી) તેને શું કહેવામાં આવે છે?',
-              options: ['ક્ષમા (Pardon)', 'લઘુકરણ (Commutation)', 'ઘટાડો (Remission)', 'વિરામ (Respite)'],
-              correctOptionIndex: 1,
+              options: ['લઘુકરણ (Commutation)', 'ઘટાડો (Remission)', 'વિરામ (Respite)', 'ક્ષમા (Pardon)'],
+              correctOptionIndex: 0,
               explanation: 'લઘુકરણ (Commutation) એટલે સજાનું મૂળ સ્વરૂપ બદલીને ઓછી કઠોર સજામાં પરિવર્તિત કરવું. ઘટાડો (Remission) એટલે સ્વરૂપ બદલ્યા વિના માત્ર મુદત ઘટાડવી.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3688,51 +3688,51 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'નીચેનામાંથી કઈ સજા સંપૂર્ણપણે માફ (Pardon) કરવાની સત્તા માત્ર ભારતના રાષ્ટ્રપતિ પાસે છે, જે રાજ્યપાલ પાસે નથી?',
               options: [
                 'આજીવન કેદની સજા',
+                'સાદી કેદની સજા',
                 'દંડની રકમ માફ કરવી',
-                'મૃત્યુદંડ (ફાંસી) અને લશ્કરી અદાલત (Court Martial) દ્વારા અપાયેલી સજા',
-                'સાદી કેદની સજા'
+                'મૃત્યુદંડ (ફાંસી) અને લશ્કરી અદાલત (Court Martial) દ્વારા અપાયેલી સજા'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'રાજ્યપાલ ફાંસીની સજાને સંપૂર્ણ માફ (Pardon) કરી શકતા નથી તેમજ લશ્કરી અદાલત (Court Martial) ની સજામાં કોઈ દખલ કરી શકતા નથી. આ સત્તા માત્ર રાષ્ટ્રપતિ પાસે છે.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_joint_sitting_article',
               question: 'ખરડા પર બંને ગૃહો વચ્ચે મડાગાંઠ સર્જાય ત્યારે રાષ્ટ્રપતિ સંસદની સંયુક્ત બેઠક (Joint Sitting) કયા અનુચ્છેદ હેઠળ બોલાવે છે?',
-              options: ['અનુચ્છેદ ૧૦૫', 'અનુચ્છેદ ૧૦૮', 'અનુચ્છેદ ૧૧૦', 'અનુચ્છેદ ૧૧૨'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૧૦૮', 'અનુચ્છેદ ૧૧૨', 'અનુચ્છેદ ૧૦૫', 'અનુચ્છેદ ૧૧૦'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૦૮ હેઠળ રાષ્ટ્રપતિ સંસદની સંયુક્ત બેઠક બોલાવે છે. જ્યારે આ બેઠકની અધ્યક્ષતા અનુચ્છેદ ૧૧૮ મુજબ લોકસભાના સ્પીકર કરે છે.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_advisory_jurisdiction_sc',
               question: 'રાષ્ટ્રપતિ કાયદા કે જાહેર મહત્વના પ્રશ્ન પર સર્વોચ્ચ અદાલત (Supreme Court) પાસેથી કયા અનુચ્છેદ હેઠળ સલાહ માંગી શકે છે?',
-              options: ['અનુચ્છેદ ૧૨૪', 'અનુચ્છેદ ૧૩૧', 'અનુચ્છેદ ૧૩૭', 'અનુચ્છેદ ૧૪૩'],
-              correctOptionIndex: 3,
+              options: ['અનુચ્છેદ ૧૨૪', 'અનુચ્છેદ ૧૩૭', 'અનુચ્છેદ ૧૪૩', 'અનુચ્છેદ ૧૩૧'],
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૪૩ હેઠળ રાષ્ટ્રપતિ સર્વોચ્ચ અદાલત પાસેથી સલાહ માંગી શકે છે, પરંતુ સર્વોચ્ચ અદાલતની સલાહ માનવી રાષ્ટ્રપતિ માટે બંધનકર્તા નથી.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_contingency_fund_article',
               question: 'અણધાર્યા ખર્ચાઓને પહોંચી વળવા માટે "ભારતની આકસ્મિક નિધિ" (Contingency Fund of India) નું સંચાલન રાષ્ટ્રપતિના તાબામાં કયા અનુચ્છેદ હેઠળ હોય છે?',
-              options: ['અનુચ્છેદ ૨૬૫', 'અનુચ્છેદ ૨૬૬', 'અનુચ્છેદ ૨૬૭', 'અનુચ્છેદ ૨૮૦'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૨૮૦', 'અનુચ્છેદ ૨૬૬', 'અનુચ્છેદ ૨૬૫', 'અનુચ્છેદ ૨૬૭'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૬૭ હેઠળ ભારતની આકસ્મિક નિધિ રાષ્ટ્રપતિના અધિકારક્ષેત્રમાં હોય છે, જેમાંથી સંસદની મંજૂરી પહેલાં અણધાર્યા ખર્ચ માટે એડવાન્સ રકમ ઉપાડી શકાય છે.',
               sourceVideoTitle: 'President Of India || Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_emergency_cabinet_word',
               question: 'સમગ્ર ભારતીય બંધારણમાં "મંત્રીમંડળ (Cabinet)" શબ્દનો લેખિત ઉલ્લેખ માત્ર અને માત્ર કયા અનુચ્છેદમાં કરવામાં આવ્યો છે?',
-              options: ['અનુચ્છેદ ૭૪(૧)', 'અનુચ્છેદ ૭૫(૩)', 'અનુચ્છેદ ૩૫૨(૩)', 'અનુચ્છેદ ૩૫૬(૧)'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૭૫(૩)', 'અનુચ્છેદ ૩૫૨(૩)', 'અનુચ્છેદ ૩૫૬(૧)', 'અનુચ્છેદ ૭૪(૧)'],
+              correctOptionIndex: 1,
               explanation: '૪૪મા બંધારણીય સુધારા ૧૯૭૮ દ્વારા અનુચ્છેદ ૩૫૨(૩) માં જોગવાઈ કરાઈ કે રાષ્ટ્રપતિ માત્ર "કેબિનેટ (મંત્રીમંડળ) ની લેખિત ભલામણ" થી જ રાષ્ટ્રીય કટોકટી જાહેર કરી શકે છે. બંધારણમાં અન્ય ક્યાંય કેબિનેટ શબ્દ નથી.',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_emergency_armed_rebellion',
               question: 'કયા બંધારણીય સુધારા દ્વારા અનુચ્છેદ ૩૫૨ માંથી "આંતરિક અશાંતિ (Internal Disturbance)" શબ્દ દૂર કરીને "સશસ્ત્ર બળવો (Armed Rebellion)" શબ્દ ઉમેરવામાં આવ્યો?',
-              options: ['૪૨મો સુધારો, ૧૯૭૬', '૪૪મો સુધારો, ૧૯૭૮', '૫૨મો સુધારો, ૧૯૮૫', '૬૧મો સુધારો, ૧૯૮૯'],
-              correctOptionIndex: 1,
+              options: ['૪૪મો સુધારો, ૧૯૭૮', '૪૨મો સુધારો, ૧૯૭૬', '૫૨મો સુધારો, ૧૯૮૫', '૬૧મો સુધારો, ૧૯૮૯'],
+              correctOptionIndex: 0,
               explanation: '૧૯૭૫ ની કટોકટીના દુરુપયોગને રોકવા માટે મોરારજી દેસાઈ સરકાર દ્વારા ૪૪મા સુધારા ૧૯૭૮ થી "આંતરિક અશાંતિ" શબ્દને બદલે "સશસ્ત્ર બળવો" શબ્દ મૂકવામાં આવ્યો.',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3740,10 +3740,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_emergency_art20_21',
               question: 'અનુચ્છેદ ૩૫૨ હેઠળ રાષ્ટ્રીય કટોકટી દરમિયાન પણ રાષ્ટ્રપતિ નીચેનામાંથી કયા મૂળભૂત અધિકારોને ક્યારેય મોકૂફ (Suspend) કરી શકતા નથી?',
               options: [
-                'અનુચ્છેદ ૧૪ અને ૧૯',
                 'અનુચ્છેદ ૧૯ અને ૨૧',
+                'અનુચ્છેદ ૨૫ અને ૨૮',
                 'અનુચ્છેદ ૨૦ અને ૨૧',
-                'અનુચ્છેદ ૨૫ અને ૨૮'
+                'અનુચ્છેદ ૧૪ અને ૧૯'
               ],
               correctOptionIndex: 2,
               explanation: '૪૪મા સુધારા ૧૯૭૮ અનુસાર અનુચ્છેદ ૩૫૯ માં સુધારો કરી સ્પષ્ટ કરવામાં આવ્યું કે અનુચ્છેદ ૨૦ (દોષસિદ્ધિ સામે રક્ષણ) અને અનુચ્છેદ ૨૧ (જીવન અને અંગત સ્વાતંત્ર્ય) કટોકટીમાં પણ મોકૂફ કરી શકાય નહીં.',
@@ -3752,8 +3752,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_emergency_count',
               question: 'ભારતમાં અત્યાર સુધીમાં અનુચ્છેદ ૩૫૨ હેઠળ કુલ કેટલી વખત રાષ્ટ્રીય કટોકટી (National Emergency) લાદવામાં આવી છે?',
-              options: ['૧ વખત', '૨ વખત', '૩ વખત (૧૯૬૨, ૧૯૭૧, ૧૯૭૫)', '૪ વખત'],
-              correctOptionIndex: 2,
+              options: ['૩ વખત (૧૯૬૨, ૧૯૭૧, ૧૯૭૫)', '૪ વખત', '૨ વખત', '૧ વખત'],
+              correctOptionIndex: 0,
               explanation: 'ભારતમાં ૩ વખત રાષ્ટ્રીય કટોકટી લાદવામાં આવી છે: ૧. ૧૯૬૨ (ભારત-ચીન યુદ્ધ), ૨. ૧૯૭૧ (ભારત-પાક યુદ્ધ), અને ૩. ૧૯૭૫ (આંતરિક અશાંતિના આધારે).',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3762,8 +3762,8 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'કયા સીમાચિહ્નરૂપ કેસમાં સર્વોચ્ચ અદાલતે ચુકાદો આપ્યો હતો કે અનુચ્છેદ ૩૫૬ (રાષ્ટ્રપતિ શાસન) ન્યાયિક સમીક્ષાને પાત્ર છે અને ગેરબંધારણીય બરતરફી વખતે વિધાનસભા પુનઃસ્થાપિત થઈ શકે છે?',
               options: [
                 'શંકરી પ્રસાદ કેસ (૧૯૫૧)',
-                'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
                 'મિનેર્વા મિલ્સ કેસ (૧૯૮૦)',
+                'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
                 'એસ. આર. બોમ્માઈ વિ. યુનિયન ઓફ ઇન્ડિયા (૧૯૯૪)'
               ],
               correctOptionIndex: 3,
@@ -3773,16 +3773,16 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_rule_first_state',
               question: 'સ્વતંત્ર ભારતમાં સૌપ્રથમ વખત કયા રાજ્યમાં અનુચ્છેદ ૩૫૬ હેઠળ રાષ્ટ્રપતિ શાસન લાદવામાં આવ્યું હતું?',
-              options: ['કેરળ (૧૯૫૯)', 'પંજાબ / PEPSU (૧૯૫૧)', 'ઉત્તર પ્રદેશ (૧૯૬૮)', 'ગુજરાત (૧૯૭૪)'],
-              correctOptionIndex: 1,
+              options: ['ઉત્તર પ્રદેશ (૧૯૬૮)', 'ગુજરાત (૧૯૭૪)', 'પંજાબ / PEPSU (૧૯૫૧)', 'કેરળ (૧૯૫૯)'],
+              correctOptionIndex: 2,
               explanation: 'સૌપ્રથમ ૨૦ જૂન ૧૯૫૧ ના રોજ પંજાબ (તે સમયના પેપ્સુ/પંજાબ) રાજ્યમાં અનુચ્છેદ ૩૫૬ હેઠળ રાષ્ટ્રપતિ શાસન લાદવામાં આવ્યું હતું.',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_financial_emergency_count',
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૩૬૦ હેઠળ ભારતમાં અત્યાર સુધીમાં કેટલી વખત નાણાકીય કટોકટી (Financial Emergency) લાદવામાં આવી છે?',
-              options: ['એક પણ વખત નહીં (શૂન્ય)', '૧ વખત (૧૯૯૧ માં)', '૨ વખત', '૩ વખત'],
-              correctOptionIndex: 0,
+              options: ['૨ વખત', 'એક પણ વખત નહીં (શૂન્ય)', '૧ વખત (૧૯૯૧ માં)', '૩ વખત'],
+              correctOptionIndex: 1,
               explanation: 'ભારતમાં ૧૯૯૧ માં ગંભીર આર્થિક સંકટ આવ્યું હોવા છતાં, આજ દિન સુધી ક્યારેય અનુચ્છેદ ૩૬૦ હેઠળ નાણાકીય કટોકટી લાદવામાં આવી નથી.',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3791,19 +3791,19 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ભારતના સર્વોચ્ચ અદાલતના એકમાત્ર મુખ્ય ન્યાયાધીશ (CJI) કોણ હતા જેમણે ભારતના કાર્યકારી રાષ્ટ્રપતિ તરીકે સેવા આપી હતી?',
               options: [
                 'જસ્ટિસ એચ. જે. કાનિયા',
+                'જસ્ટિસ વાય. વી. ચંદ્રચુડ',
                 'જસ્ટિસ મોહમ્મદ હિદાયતુલ્લાહ (૧૯૬૯)',
-                'જસ્ટિસ પી. એન. ભગવતી',
-                'જસ્ટિસ વાય. વી. ચંદ્રચુડ'
+                'જસ્ટિસ પી. એન. ભગવતી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૧૯૬૯ માં ડૉ. ઝાકિર હુસૈનના અવસાન બાદ ઉપરાષ્ટ્રપતિ વી. વી. ગીરીએ રાજીનામું આપતાં, તત્કાલીન CJI મોહમ્મદ હિદાયતુલ્લાહે કાર્યકારી રાષ્ટ્રપતિ તરીકે હોદ્દો સંભાળ્યો હતો.',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_unopposed_president',
               question: 'ભારતના એકમાત્ર એવા રાષ્ટ્રપતિ કોણ છે જેઓ સર્વાનુમતે બિનહરીફ (Unopposed) ચૂંટાયા હતા?',
-              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'નીલમ સંજીવ રેડ્ડી (૧૯૭૭)', 'જ્ઞાની ઝૈલ સિંહ', 'આર. વેંકટરમણ'],
-              correctOptionIndex: 1,
+              options: ['નીલમ સંજીવ રેડ્ડી (૧૯૭૭)', 'જ્ઞાની ઝૈલ સિંહ', 'ડૉ. રાજેન્દ્ર પ્રસાદ', 'આર. વેંકટરમણ'],
+              correctOptionIndex: 0,
               explanation: '૧૯૭૭ માં નીલમ સંજીવ રેડ્ડી સર્વાનુમતે બિનહરીફ ચૂંટાયેલા એકમાત્ર રાષ્ટ્રપતિ બન્યા. તેઓ લોકસભા સ્પીકર પણ રહી ચૂક્યા હતા.',
               sourceVideoTitle: 'President Of India || Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3811,8 +3811,8 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_first_tribal_woman',
               question: 'ભારતના વર્તમાન રાષ્ટ્રપતિ શ્રીમતી દ્રૌપદી મુર્મુ વિશે કયું વિધાન સાચું છે?',
               options: [
-                'તેઓ ભારતના પ્રથમ આદિવાસી મહિલા રાષ્ટ્રપતિ છે',
                 'તેઓ સ્વતંત્ર ભારતમાં જન્મેલા પ્રથમ રાષ્ટ્રપતિ છે',
+                'તેઓ ભારતના પ્રથમ આદિવાસી મહિલા રાષ્ટ્રપતિ છે',
                 'તેઓ સંથાલ જનજાતિ સાથે સંબંધ ધરાવે છે અને સૌથી નાની વયે રાષ્ટ્રપતિ બન્યા છે',
                 'ઉપરોક્ત તમામ વિધાનો સત્ય છે'
               ],
@@ -3823,16 +3823,16 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_succession_act_1969',
               question: 'રાષ્ટ્રપતિ અને ઉપરાષ્ટ્રપતિ બંને પદો એકસાથે ખાલી પડે ત્યારે ઉત્તરાધિકાર ક્રમ નિર્ધારિત કરતો "રાષ્ટ્રપતિ કાર્ય નિર્વહન અધિનિયમ" સંસદ દ્વારા કયા વર્ષે પસાર કરવામાં આવ્યો હતો?',
-              options: ['૧૯૫૨', '૧૯૬૨', '૧૯૬૯', '૧૯૭૮'],
-              correctOptionIndex: 2,
+              options: ['૧૯૬૨', '૧૯૭૮', '૧૯૫૨', '૧૯૬૯'],
+              correctOptionIndex: 3,
               explanation: '૧૯૬૯ માં ડૉ. ઝાકિર હુસૈનના અવસાન અને વી. વી. ગીરીના રાજીનામા બાદ સંસદે રાષ્ટ્રપતિ કાર્ય નિર્વહન અધિનિયમ, ૧૯૬૯ પસાર કર્યો, જેના હેઠળ CJI હિદાયતુલ્લાહ કાર્યકારી રાષ્ટ્રપતિ બન્યા.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_second_preference_giri',
               question: 'ભારતના ચૂંટણી ઇતિહાસમાં પ્રથમ પસંદગીના મતોમાં ક્વોટા ન મળતાં "બીજા તબક્કાની મતગણતરી (Second Preference Votes)" થી વિજયી બનનાર એકમાત્ર રાષ્ટ્રપતિ કોણ છે?',
-              options: ['ડૉ. ઝાકિર હુસૈન', 'વી. વી. ગીરી (૧૯૬૯)', 'નીલમ સંજીવ રેડ્ડી', 'જ્ઞાની ઝૈલ સિંહ'],
-              correctOptionIndex: 1,
+              options: ['નીલમ સંજીવ રેડ્ડી', 'ડૉ. ઝાકિર હુસૈન', 'વી. વી. ગીરી (૧૯૬૯)', 'જ્ઞાની ઝૈલ સિંહ'],
+              correctOptionIndex: 2,
               explanation: '૧૯૬૯ ની રાષ્ટ્રપતિ ચૂંટણીમાં વી. વી. ગીરી અપક્ષ તરીકે લડ્યા હતા અને બીજા તબક્કાની પ્રાથમિકતા મતગણતરીમાં વિજયી બનનાર એકમાત્ર રાષ્ટ્રપતિ બન્યા હતા.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3841,26 +3841,26 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ભારતના રાષ્ટ્રપતિઓ પૈકી કયા બે મહાનુભાવોનું અવસાન તેમના રાષ્ટ્રપતિ કાર્યકાળ દરમિયાન (પદ પર રહેતાં) થયું હતું?',
               options: [
                 'ડૉ. રાજેન્દ્ર પ્રસાદ અને ડૉ. રાધાકૃષ્ણન',
-                'ડૉ. ઝાકિર હુસૈન અને ફખરૂદ્દીન અલી અહેમદ',
                 'વી. વી. ગીરી અને નીલમ સંજીવ રેડ્ડી',
-                'જ્ઞાની ઝૈલ સિંહ અને પ્રણબ મુખર્જી'
+                'જ્ઞાની ઝૈલ સિંહ અને પ્રણબ મુખર્જી',
+                'ડૉ. ઝાકિર હુસૈન અને ફખરૂદ્દીન અલી અહેમદ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ડૉ. ઝાકિર હુસૈન (૧૯૬૯) અને ફખરૂદ્દીન અલી અહેમદ (૧૯૭૭) બંને મહાનુભાવોનું અવસાન રાષ્ટ્રપતિ પદ પર કાર્યરત હતા તે દરમિયાન થયું હતું.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_vp_to_pres_count',
               question: 'ભારતમાં અત્યાર સુધીમાં કુલ કેટલા મહાનુભાવો ઉપરાષ્ટ્રપતિ પદ સંભાળ્યા બાદ રાષ્ટ્રપતિ પદે ચૂંટાયા છે?',
-              options: ['૪', '૫', '૬', '૮'],
-              correctOptionIndex: 2,
+              options: ['૪', '૬', '૫', '૮'],
+              correctOptionIndex: 1,
               explanation: 'કુલ ૬ મહાનુભાવો ઉપરાષ્ટ્રપતિમાંથી રાષ્ટ્રપતિ બન્યા છે: ૧. રાધાકૃષ્ણન, ૨. ઝાકિર હુસૈન, ૩. વી. વી. ગીરી, ૪. આર. વેંકટરમણ, ૫. ડૉ. શંકર દયાળ શર્મા, અને ૬. કે. આર. નારાયણન.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_narayanan_reconsideration',
               question: '૧૯૯૭ (UP) અને ૧૯૯૮ (બિહાર) માં કેન્દ્રીય કેબિનેટ દ્વારા મોકલાયેલી રાષ્ટ્રપતિ શાસન (અનુચ્છેદ ૩૫૬) ની ભલામણ અનુચ્છેદ ૭૪(૧) હેઠળ પુનર્વિચારણા માટે પરત મોકલનાર પ્રથમ "સક્રિય રાષ્ટ્રપતિ" કોણ હતા?',
-              options: ['નીલમ સંજીવ રેડ્ડી', 'આર. વેંકટરમણ', 'કે. આર. નારાયણન', 'ડૉ. એ. પી. જે. અબ્દુલ કલામ'],
+              options: ['ડૉ. એ. પી. જે. અબ્દુલ કલામ', 'આર. વેંકટરમણ', 'કે. આર. નારાયણન', 'નીલમ સંજીવ રેડ્ડી'],
               correctOptionIndex: 2,
               explanation: 'રાષ્ટ્રપતિ કે. આર. નારાયણને અનુચ્છેદ ૭૪(૧) ની સત્તાનો મજબૂત ઉપયોગ કરીને કેબિનેટની ભલામણો પુનર્વિચાર માટે પરત મોકલી અને સંઘીય માળખાનું રક્ષણ કર્યું હતું.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3868,8 +3868,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_office_of_profit_kalam',
               question: 'વર્ષ ૨૦૦૬ માં સંસદ દ્વારા પસાર કરાયેલા "લાભનું પદ" (Office of Profit) સુધારા ખરડાને પુનર્વિચારણા માટે સંસદમાં પરત મોકલનાર રાષ્ટ્રપતિ કોણ હતા?',
-              options: ['કે. આર. નારાયણન', 'ડૉ. એ. પી. જે. અબ્દુલ કલામ', 'પ્રતિભા પાટીલ', 'પ્રણબ મુખર્જી'],
-              correctOptionIndex: 1,
+              options: ['કે. આર. નારાયણન', 'પ્રણબ મુખર્જી', 'ડૉ. એ. પી. જે. અબ્દુલ કલામ', 'પ્રતિભા પાટીલ'],
+              correctOptionIndex: 2,
               explanation: 'ડૉ. એ. પી. જે. અબ્દુલ કલામે ૨૦૦૬ માં સંસદ સભ્યોની ગેરલાયકાત બચાવતા લાભના પદ સંબંધી ખરડા પર પુનર્વિચારણા માટે સંસદમાં પરત મોકલી પોતાની નૈતિકતા દર્શાવી હતી.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3890,10 +3890,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_youngest_president',
               question: 'ભારતના સૌથી નાની વયે (૬૪ વર્ષ ૧ મહિનો) રાષ્ટ્રપતિ પદ સંભાળવાનો રેકોર્ડ કોના નામે છે?',
               options: [
-                'નીલમ સંજીવ રેડ્ડી (૬૪ વર્ષ ૨ મહિના)',
                 'રાજીવ ગાંધી',
+                'ડૉ. એ. પી. જે. અબ્દુલ કલામ',
                 'દ્રૌપદી મુર્મુ (૬૪ વર્ષ ૧ મહિનો)',
-                'ડૉ. એ. પી. જે. અબ્દુલ કલામ'
+                'નીલમ સંજીવ રેડ્ડી (૬૪ વર્ષ ૨ મહિના)'
               ],
               correctOptionIndex: 2,
               explanation: 'શ્રીમતી દ્રૌપદી મુર્મુએ ૨૫ જુલાઈ ૨૦૨૨ ના રોજ ૬૪ વર્ષ અને ૧ મહિનાની વયે શપથ લઈ નીલમ સંજીવ રેડ્ડીનો સૌથી યુવા રાષ્ટ્રપતિ હોવાનો રેકોર્ડ તોડ્યો હતો.',
@@ -3902,8 +3902,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_born_in_independent_india',
               question: 'ભારતના સ્વતંત્ર થયા પછી (૧૫ ઓગસ્ટ ૧૯૪૭ બાદ) જન્મેલા દેશના સૌપ્રથમ રાષ્ટ્રપતિ કોણ છે?',
-              options: ['પ્રણબ મુખર્જી', 'રામનાથ કોવિંદ', 'દ્રૌપદી મુર્મુ (જન્મ: ૨૦ જૂન ૧૯૫૮)', 'નરેન્દ્ર મોદી'],
-              correctOptionIndex: 2,
+              options: ['નરેન્દ્ર મોદી', 'રામનાથ કોવિંદ', 'પ્રણબ મુખર્જી', 'દ્રૌપદી મુર્મુ (જન્મ: ૨૦ જૂન ૧૯૫૮)'],
+              correctOptionIndex: 3,
               explanation: 'શ્રીમતી દ્રૌપદી મુર્મુનો જન્મ ૨૦ જૂન ૧૯૫૮ ના રોજ ઓડિશામાં થયો હતો, જેથી તેઓ સ્વતંત્ર ભારતમાં જન્મેલા ભારતના સૌપ્રથમ રાષ્ટ્રપતિ બન્યા છે.',
               sourceVideoTitle: 'President Of India || Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3911,9 +3911,9 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_us_vs_india_difference',
               question: 'ભારતના રાષ્ટ્રપતિ અને અમેરિકાના પ્રમુખ (US President) વચ્ચેનો મુખ્ય બંધારણીય તફાવત કયો છે?',
               options: [
-                'ભારતના રાષ્ટ્રપતિ રાજ્યના બંધારણીય વડા છે, જ્યારે અમેરિકન પ્રમુખ રાજ્ય અને સરકાર બંનેના વાસ્તવિક વડા છે',
-                'ભારતમાં રાષ્ટ્રપતિ ગમે તેટલી વાર પુનઃચૂંટાઈ શકે છે, જ્યારે અમેરિકામાં વધુમાં વધુ ૨ વખત જ ચૂંટાઈ શકાય',
                 'ભારતના રાષ્ટ્રપતિ મંત્રીપરિષદની સલાહ માનવા બંધાયેલા છે, જ્યારે અમેરિકન પ્રમુખ મંત્રીમંડળથી સ્વતંત્ર છે',
+                'ભારતમાં રાષ્ટ્રપતિ ગમે તેટલી વાર પુનઃચૂંટાઈ શકે છે, જ્યારે અમેરિકામાં વધુમાં વધુ ૨ વખત જ ચૂંટાઈ શકાય',
+                'ભારતના રાષ્ટ્રપતિ રાજ્યના બંધારણીય વડા છે, જ્યારે અમેરિકન પ્રમુખ રાજ્ય અને સરકાર બંનેના વાસ્તવિક વડા છે',
                 'ઉપરોક્ત તમામ વિધાનો સત્ય છે'
               ],
               correctOptionIndex: 3,
@@ -3925,26 +3925,26 @@ List<SectionModel> getInitialSyllabusData() {
               question: '"વીટો" (Veto) શબ્દ કઈ પ્રાચીન ભાષામાંથી આવ્યો છે અને તેનો શાબ્દિક અર્થ શું થાય છે?',
               options: [
                 'ગ્રીક - હું સ્વીકારું છું',
-                'લેટિન - હું મનાઈ કરું છું / રોકું છું (I forbid)',
                 'ફ્રેન્ચ - કાયદાનું પાલન',
+                'લેટિન - હું મનાઈ કરું છું / રોકું છું (I forbid)',
                 'જર્મન - સર્વોચ્ચ અધિકાર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'વીટો શબ્દ લેટિન ભાષાનો છે, જેનો અર્થ "હું મનાઈ કરું છું" (I forbid) થાય છે. ભારતીય બંધારણમાં ક્યાંય વીટો શબ્દ લખેલો નથી પરંતુ અનુચ્છેદ ૧૧૧ અને ૨૦૧ માંથી તે ફલિત થાય છે.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_qualified_veto_country',
               question: 'ધારાસભા ઉચ્ચ વિશેષ બહુમતી (દા.ત. ૨/૩) થી પસાર કરીને જેને રદ કરી શકે તેવો "વિશેષિત વીટો" (Qualified Veto) કયા દેશના રાષ્ટ્રપતિ પાસે છે, જે ભારતના રાષ્ટ્રપતિ પાસે નથી?',
-              options: ['બ્રિટન', 'અમેરિકા (USA)', 'ફ્રાન્સ', 'કેનેડા'],
-              correctOptionIndex: 1,
+              options: ['અમેરિકા (USA)', 'ફ્રાન્સ', 'બ્રિટન', 'કેનેડા'],
+              correctOptionIndex: 0,
               explanation: 'વિશેષિત વીટો (Qualified Veto) અમેરિકન પ્રમુખ પાસે છે, જ્યાં કોંગ્રેસ ૨/૩ બહુમતીથી વીટો રદ કરી શકે છે. ભારતમાં માત્ર ૩ વીટો (આંત્યંતિક, નિલંબનકારી, પોકેટ) જ ઉપલબ્ધ છે.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_amendment_bill_24th',
               question: 'કયા બંધારણીય સુધારા દ્વારા અનુચ્છેદ ૩૬૮ હેઠળના બંધારણીય સુધારા ખરડા પર રાષ્ટ્રપતિ માટે સંમતિ આપવી ફરજિયાત બનાવવામાં આવી, જેનાથી વીટો સત્તા નાબૂદ થઈ?',
-              options: ['૨૪મો સુધારો, ૧૯૭૧', '૪૨મો સુધારો, ૧૯૭૬', '૪૪મો સુધારો, ૧૯૭૮', '૮૬મો સુધારો, ૨૦૦૨'],
+              options: ['૨૪મો સુધારો, ૧૯૭૧', '૪૨મો સુધારો, ૧૯૭૬', '૮૬મો સુધારો, ૨૦૦૨', '૪૪મો સુધારો, ૧૯૭૮'],
               correctOptionIndex: 0,
               explanation: '૨૪મા બંધારણીય સુધારા ૧૯૭૧ દ્વારા અનુચ્છેદ ૩૬૮(૨) માં સ્પષ્ટ કરાયું કે રાષ્ટ્રપતિ બંધારણીય સુધારા ખરડા પર પોતાની સંમતિ આપશે (shall give his assent); તેથી વીટો વાપરી શકાતો નથી.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3954,18 +3954,18 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'અનુચ્છેદ ૨૦૧ હેઠળ રાજ્યપાલ દ્વારા અનામત રાખવામાં આવેલો ખરડો જો રાજ્ય વિધાનસભા ફરીથી સુધારા સાથે કે સુધારા વિના પસાર કરે, તો રાષ્ટ્રપતિ માટે શું બંધારણીય સ્થિતિ રહે છે?',
               options: [
                 'રાષ્ટ્રપતિએ સંમતિ આપવી ફરજિયાત બને છે',
-                'રાષ્ટ્રપતિ સંમતિ આપવા બંધાયેલા નથી અને તેઓ ફરીથી પણ સંમતિ રોકી શકે છે',
                 'ખરડો આપોઆપ કાયદો બની જાય છે',
-                'સુપ્રીમ કોર્ટની મંજૂરી અનિવાર્ય બને છે'
+                'સુપ્રીમ કોર્ટની મંજૂરી અનિવાર્ય બને છે',
+                'રાષ્ટ્રપતિ સંમતિ આપવા બંધાયેલા નથી અને તેઓ ફરીથી પણ સંમતિ રોકી શકે છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૦૧ હેઠળ જો રાજ્ય વિધાનસભા ખરડો ફરી પસાર કરે તો પણ રાષ્ટ્રપતિ સંમતિ આપવા બંધાયેલા નથી. આ જોગવાઈ રાજ્ય ખરડાઓ પર રાષ્ટ્રપતિને સંપૂર્ણ આંત્યંતિક વીટો આપે છે.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_money_bill_no_suspensive_veto',
               question: 'બંધારણના અનુચ્છેદ ૧૧૧ મુજબ રાષ્ટ્રપતિ નીચેનામાંથી કયા ખરડાને સંસદમાં પુનર્વિચારણા (Reconsideration) માટે પરત મોકલી શકતા નથી?',
-              options: ['સામાન્ય ખરડો', 'નાણાકીય ખરડો (Money Bill)', 'ખાનગી સભ્યનો ખરડો', 'સાધારણ નાણાકીય ખરડો (શ્રેણી ૨)'],
+              options: ['ખાનગી સભ્યનો ખરડો', 'નાણાકીય ખરડો (Money Bill)', 'સામાન્ય ખરડો', 'સાધારણ નાણાકીય ખરડો (શ્રેણી ૨)'],
               correctOptionIndex: 1,
               explanation: 'નાણાકીય ખરડો (અનુચ્છેદ ૧૧૦) રાષ્ટ્રપતિની પૂર્વ ભલામણથી જ સંસદમાં રજૂ થતો હોવાથી રાષ્ટ્રપતિ તેને પુનર્વિચાર માટે પરત મોકલી શકતા નથી; તેઓ કાં તો સંમતિ આપે છે અથવા રોકી રાખે છે.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3973,7 +3973,7 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_absolute_veto_pepsu_1954',
               question: 'સ્વતંત્ર ભારતમાં સૌપ્રથમ વખત ૧૯૫૪ માં કયા રાષ્ટ્રપતિએ PEPSU વિનિયોગ ખરડા પર પોતાની સંમતિ રોકી રાખીને આંત્યંતિક વીટો (Absolute Veto) વાપર્યો હતો?',
-              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'ડૉ. એસ. રાધાકૃષ્ણન', 'ડૉ. ઝાકિર હુસૈન', 'વી. વી. ગીરી'],
+              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'ડૉ. ઝાકિર હુસૈન', 'ડૉ. એસ. રાધાકૃષ્ણન', 'વી. વી. ગીરી'],
               correctOptionIndex: 0,
               explanation: '૧૯૫૪ માં ડૉ. રાજેન્દ્ર પ્રસાદે PEPSU વિનિયોગ ખરડા પર સંમતિ રોકી રાખી હતી કારણ કે સંસદ ખરડો પસાર કરે તે પહેલાં PEPSU માંથી રાષ્ટ્રપતિ શાસન હટાવી લેવામાં આવ્યું હતું.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -3982,12 +3982,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_pocket_veto_time_limit',
               question: '"ભારતના રાષ્ટ્રપતિનું ખિસ્સું અમેરિકન પ્રમુખ કરતાં મોટું છે" કારણ કે:',
               options: [
+                'ભારતમાં પોકેટ વીટો બંધારણમાં સ્પષ્ટ લખેલો છે',
                 'ભારતના રાષ્ટ્રપતિ પાસે વધુ નાણાકીય ભંડોળ છે',
                 'અમેરિકામાં ખરડા પર નિર્ણય લેવા ૧૦ દિવસની મર્યાદા છે, જ્યારે ભારતીય બંધારણમાં રાષ્ટ્રપતિ માટે કોઈ સમયમર્યાદા નિર્ધારિત નથી',
-                'ભારતમાં પોકેટ વીટો બંધારણમાં સ્પષ્ટ લખેલો છે',
                 'અમેરિકામાં પોકેટ વીટો અસ્તિત્વમાં જ નથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અમેરિકન બંધારણમાં પ્રમુખે ૧૦ દિવસમાં નિર્ણય લેવો પડે છે, જ્યારે ભારતના અનુચ્છેદ ૧૧૧ માં સમયમર્યાદા ન હોવાથી રાષ્ટ્રપતિ અનિશ્ચિત મુદત સુધી ખરડો પેન્ડિંગ રાખી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -3995,12 +3995,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_wadhwa_case_1987',
               question: 'કયા પ્રખ્યાત કેસમાં સર્વોચ્ચ અદાલતે ચુકાદો આપ્યો હતો કે ધારાસભાને બાયપાસ કરીને વારંવાર વટહુકમનું પુનઃ બહાર પાડવું (Re-promulgation of ordinances) એ "બંધારણ સાથેની છેતરપિંડી" છે?',
               options: [
+                'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)',
                 'શંકરી પ્રસાદ કેસ (૧૯૫૧)',
                 'ગોલકનાથ કેસ (૧૯૬૭)',
-                'ડી. સી. વાધવા વિરુદ્ધ બિહાર રાજ્ય (૧૯૮૭)',
-                'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)'
+                'ડી. સી. વાધવા વિરુદ્ધ બિહાર રાજ્ય (૧૯૮૭)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'ડી. સી. વાધવા કેસ (૧૯૮૭) માં સુપ્રીમ કોર્ટે બિહાર સરકાર દ્વારા વર્ષો સુધી વારંવાર વટહુકમ બહાર પાડવાની પ્રથાને ગેરબંધારણીય અને બંધારણ સાથેની છેતરપિંડી જાહેર કરી હતી.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4009,9 +4009,9 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'વર્ષ ૨૦૧૭ માં સર્વોચ્ચ અદાલતની ૭ જજોની બંધારણીય બેંચે વટહુકમ (અનુચ્છેદ ૧૨૩) બાબતે કયા સીમાચિહ્નરૂપ કેસમાં મહત્વપૂર્ણ માર્ગદર્શિકા જાહેર કરી?',
               options: [
                 'કૃષ્ણ કુમાર સિંહ વિરુદ્ધ બિહાર રાજ્ય (૨૦૧૭)',
-                'શાયરા બાનો કેસ (૨૦૧૭)',
                 'પુટ્ટુસ્વામી કેસ (૨૦૧૭)',
-                'નવતેજ સિંહ જોહર કેસ (૨૦૧૮)'
+                'નવતેજ સિંહ જોહર કેસ (૨૦૧૮)',
+                'શાયરા બાનો કેસ (૨૦૧૭)'
               ],
               correctOptionIndex: 0,
               explanation: 'કૃષ્ણ કુમાર સિંહ વિ. બિહાર રાજ્ય (૨૦૧૭) માં ૭ જજોની બંધારણીય બેંચે ઠરાવ્યું કે વટહુકમને ધારાસભા સમક્ષ રજૂ કરવો ફરજિયાત છે અને પુનઃજારીકરણ અસંવૈધાનિક છે.',
@@ -4022,11 +4022,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'અનુચ્છેદ ૧૨૩ હેઠળ રાષ્ટ્રપતિ દ્વારા બહાર પાડવામાં આવતા વટહુકમ (Ordinance) અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
                 'વટહુકમ દ્વારા બંધારણમાં સુધારો કરી શકાય છે',
-                'વટહુકમ સંસદના કાયદાની જેમ જ સમાન સત્તા અને અસર ધરાવે છે પરંતુ તેનાથી બંધારણીય સુધારો થઈ શકતો નથી',
+                'સંસદ ચાલુ હોય ત્યારે પણ રાષ્ટ્રપતિ વટહુકમ બહાર પાડી શકે છે',
                 'વટહુકમ પર અદાલતમાં ન્યાયિક સમીક્ષા થઈ શકતી નથી',
-                'સંસદ ચાલુ હોય ત્યારે પણ રાષ્ટ્રપતિ વટહુકમ બહાર પાડી શકે છે'
+                'વટહુકમ સંસદના કાયદાની જેમ જ સમાન સત્તા અને અસર ધરાવે છે પરંતુ તેનાથી બંધારણીય સુધારો થઈ શકતો નથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૩ હેઠળ વટહુકમ સંસદીય કાયદા જેટલી જ સત્તા ધરાવે છે, પરંતુ તેના દ્વારા બંધારણીય સુધારો થઈ શકતો નથી અને તે ન્યાયિક સમીક્ષાને પાત્ર છે.',
               sourceVideoTitle: 'President Of India || Part-5 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4034,9 +4034,9 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_clemency_art72_grounds',
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૭૨ હેઠળ રાષ્ટ્રપતિ નીચેનામાંથી કયા સંજોગોમાં ક્ષમાદાન (Pardon) ની સત્તાનો ઉપયોગ કરી શકે છે?',
               options: [
+                'તમામ કેસો જેમાં સજા મૃત્યુદંડ (ફાંસી) હોય',
                 'સંઘીય કાયદા વિરુદ્ધના ગુના માટે થયેલી તમામ સજાઓમાં',
                 'લશ્કરી અદાલત (Court Martial) દ્વારા અપાયેલી સજાઓમાં',
-                'તમામ કેસો જેમાં સજા મૃત્યુદંડ (ફાંસી) હોય',
                 'ઉપરોક્ત તમામ સંજોગોમાં'
               ],
               correctOptionIndex: 3,
@@ -4046,23 +4046,23 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_remission_meaning',
               question: 'ક્ષમાદાનના ૫ પ્રકારો પૈકી "સજાનું મૂળ સ્વરૂપ બદલ્યા વિના માત્ર તેની મુદત ઘટાડવી" (દા.ત. ૨ વર્ષ સખત કેદમાંથી ૧ વર્ષ સખત કેદ કરવી) તેને શું કહેવાય?',
-              options: ['લઘુકરણ (Commutation)', 'ઘટાડો (Remission)', 'વિરામ (Respite)', 'મોકૂફી (Reprieve)'],
-              correctOptionIndex: 1,
+              options: ['વિરામ (Respite)', 'લઘુકરણ (Commutation)', 'ઘટાડો (Remission)', 'મોકૂફી (Reprieve)'],
+              correctOptionIndex: 2,
               explanation: 'ઘટાડો (Remission) એટલે સજાનું સ્વરૂપ બદલ્યા વિના માત્ર સમયગાળો ઘટાડવો. જ્યારે સ્વરૂપ બદલીને હળવું કરવાને લઘુકરણ (Commutation) કહે છે.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_respite_meaning',
               question: 'કોઈ દોષિત સ્ત્રી સગર્ભા હોય અથવા ગુનેગાર ગંભીર શારીરિક અક્ષમતા ધરાવતો હોય ત્યારે તેને મૂળ સજા કરતાં હળવી સજા કરવી, તેને કયા નામે ઓળખવામાં આવે છે?',
-              options: ['વિરામ (Respite)', 'મોકૂફી (Reprieve)', 'ક્ષમા (Pardon)', 'લઘુકરણ (Commutation)'],
-              correctOptionIndex: 0,
+              options: ['મોકૂફી (Reprieve)', 'વિરામ (Respite)', 'લઘુકરણ (Commutation)', 'ક્ષમા (Pardon)'],
+              correctOptionIndex: 1,
               explanation: 'વિરામ (Respite) નો અર્થ કોઈ વિશેષ પરિસ્થિતિ (દા.ત. સગર્ભાવસ્થા કે શારીરિક અક્ષમતા) ને ધ્યાને રાખીને ગુનેગારને સામાન્ય નિર્ધારિત સજા કરતાં ઓછી સજા આપવી.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_reprieve_meaning',
               question: 'દોષિત વ્યક્તિ રાષ્ટ્રપતિ સમક્ષ દયા અરજી કરી શકે તે હેતુથી ફાંસીની સજાના અમલ પર "કામચલાઉ રોક (Stay)" લગાવવાની સત્તાને શું કહેવાય?',
-              options: ['ક્ષમા (Pardon)', 'ઘટાડો (Remission)', 'મોકૂફી (Reprieve)', 'વિરામ (Respite)'],
+              options: ['વિરામ (Respite)', 'ક્ષમા (Pardon)', 'મોકૂફી (Reprieve)', 'ઘટાડો (Remission)'],
               correctOptionIndex: 2,
               explanation: 'મોકૂફી (Reprieve) એટલે ખાસ કરીને મૃત્યુદંડની સજાના અમલને થોડા સમય માટે સ્થગિત કરવો, જેથી દોષિત વ્યક્તિ દયા કે લઘુકરણની અરજી કરી શકે.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -4071,12 +4071,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_maru_ram_case_1980',
               question: 'કયા કેસમાં સર્વોચ્ચ અદાલતે સ્પષ્ટ કર્યું કે અનુચ્છેદ ૭૨ હેઠળ રાષ્ટ્રપતિની ક્ષમાદાન સત્તા તેમની અંગત સત્તા નથી પરંતુ કેન્દ્રીય મંત્રીમંડળની સલાહથી જ વપરાય છે?',
               options: [
-                'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
                 'મેનકા ગાંધી કેસ (૧૯૭૮)',
-                'મરૂ રામ વિરુદ્ધ યુનિયન ઓફ ઇન્ડિયા (૧૯૮૦)',
-                'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)'
+                'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)',
+                'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
+                'મરૂ રામ વિરુદ્ધ યુનિયન ઓફ ઇન્ડિયા (૧૯૮૦)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'મરૂ રામ કેસ (૧૯૮૦) માં સુપ્રીમ કોર્ટે ઠરાવ્યું કે અનુચ્છેદ ૭૨ હેઠળ રાષ્ટ્રપતિએ મંત્રીપરિષદની લેખિત સલાહ મુજબ જ ક્ષમાદાન સત્તા વાપરવાની રહે છે.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4085,11 +4085,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'સર્વોચ્ચ અદાલતે કયા સીમાચિહ્નરૂપ ચુકાદામાં ઠરાવ્યું કે દયા અરજીના નિકાલમાં કારોબારી દ્વારા થતો "અતિશય અને અકારણ વિલંબ" જીવનના અધિકાર (કલમ ૨૧) નું ઉલ્લંઘન છે અને તેના આધારે ફાંસી રદ થઈ શકે?',
               options: [
                 'બચ્ચન સિંહ કેસ (૧૯૮૦)',
+                'નવતેજ સિંહ જોહર કેસ (૨૦૧૮)',
                 'મછ્છી સિંહ કેસ (૧૯૮૩)',
-                'શત્રુઘ્ન ચૌહાણ વિરુદ્ધ યુનિયન ઓફ ઇન્ડિયા (૨૦૧૪)',
-                'નવતેજ સિંહ જોહર કેસ (૨૦૧૮)'
+                'શત્રુઘ્ન ચૌહાણ વિરુદ્ધ યુનિયન ઓફ ઇન્ડિયા (૨૦૧૪)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'શત્રુઘ્ન ચૌહાણ કેસ (૨૦૧૪) માં સુપ્રીમ કોર્ટે ચુકાદો આપ્યો કે દયા અરજીમાં અસાધારણ વિલંબ અમાનવીય છે અને અદાલત ફાંસીને આજીવન કેદમાં ફેરવી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4097,12 +4097,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_epuru_sudhakar_2006',
               question: 'ઈપૂરુ સુધાકર કેસ (૨૦૦૬) માં સર્વોચ્ચ અદાલતે ક્ષમાદાન સત્તા બાબતે કયો મહત્વપૂર્ણ સિદ્ધાંત આપ્યો હતો?',
               options: [
-                'રાષ્ટ્રપતિની ક્ષમાદાન સત્તા સંપૂર્ણપણે ન્યાયિક સમીક્ષા બહાર છે',
-                'ક્ષમાદાન સત્તા મનસ્વી, રાજકીય કે જાતિવાદી પૂર્વગ્રહો પર આધારિત હોય તો તે મર્યાદિત ન્યાયિક સમીક્ષાને પાત્ર છે',
                 'રાજ્યપાલ ફાંસીની સજા માફ કરી શકે છે',
-                'દયા અરજી માટે ૧૦ દિવસની મર્યાદા રહેશે'
+                'દયા અરજી માટે ૧૦ દિવસની મર્યાદા રહેશે',
+                'ક્ષમાદાન સત્તા મનસ્વી, રાજકીય કે જાતિવાદી પૂર્વગ્રહો પર આધારિત હોય તો તે મર્યાદિત ન્યાયિક સમીક્ષાને પાત્ર છે',
+                'રાષ્ટ્રપતિની ક્ષમાદાન સત્તા સંપૂર્ણપણે ન્યાયિક સમીક્ષા બહાર છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ઈપૂરુ સુધાકર કેસ (૨૦૦૬) મુજબ ક્ષમાદાન સત્તા મનસ્વી કે રાજકીય કારણોથી મુક્ત હોવી જોઈએ; અસદ્ભાવના સાબિત થાય તો અદાલત તેની ન્યાયિક સમીક્ષા કરી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4110,10 +4110,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_art143_subclauses',
               question: 'અનુચ્છેદ ૧૪૩ હેઠળ સર્વોચ્ચ અદાલત કયા કિસ્સામાં રાષ્ટ્રપતિને પોતાનો અભિપ્રાય/સલાહ આપવા માટે બંધારણીય રીતે "ફરજિયાતપણે બંધાયેલી" છે?',
               options: [
-                'અનુચ્છેદ ૧૪૩(૧) - જાહેર મહત્વના કાયદાકીય પ્રશ્નો પર',
+                'નાણાકીય કટોકટીના પ્રશ્નો પર',
                 'અનુચ્છેદ ૧૪૩(૨) - બંધારણ પૂર્વેની સંધિઓ અને સમજૂતીઓ સંબંધી વિવાદો પર',
-                'ચૂંટણી પંચના વિવાદો પર',
-                'નાણાકીય કટોકટીના પ્રશ્નો પર'
+                'અનુચ્છેદ ૧૪૩(૧) - જાહેર મહત્વના કાયદાકીય પ્રશ્નો પર',
+                'ચૂંટણી પંચના વિવાદો પર'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૪૩(૨) મુજબ બંધારણ અમલમાં આવ્યા પહેલાંની સંધિઓના વિવાદોમાં સર્વોચ્ચ અદાલતે સલાહ આપવી ફરજિયાત છે, જ્યારે ૧૪૩(૧) માં સલાહ આપવી વૈકલ્પિક છે.',
@@ -4123,10 +4123,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_art143_nature',
               question: 'અનુચ્છેદ ૧૪૩ હેઠળ સર્વોચ્ચ અદાલત દ્વારા રાષ્ટ્રપતિને આપવામાં આવેલી સલાહ અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'સલાહ રાષ્ટ્રપતિ માટે માનવી ૧૦૦% બંધનકર્તા છે',
-                'સલાહ માત્ર સલાહકારી સ્વરૂપની છે અને રાષ્ટ્રપતિ તેને માનવા બંધાયેલા નથી',
                 'સલાહ સંસદના બંને ગૃહો દ્વારા બહાલી મળ્યા પછી જ લાગુ થાય છે',
-                'તે અદાલતી આખરી હુકમનામું (Decree) ગણાય છે'
+                'સલાહ માત્ર સલાહકારી સ્વરૂપની છે અને રાષ્ટ્રપતિ તેને માનવા બંધાયેલા નથી',
+                'તે અદાલતી આખરી હુકમનામું (Decree) ગણાય છે',
+                'સલાહ રાષ્ટ્રપતિ માટે માનવી ૧૦૦% બંધનકર્તા છે'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૪૩ હેઠળ સુપ્રીમ કોર્ટનો અભિપ્રાય સલાહકારી સ્વરૂપનો છે અને રાષ્ટ્રપતિ તે સલાહ માનવા બંધારણીય રીતે બંધાયેલા નથી.',
@@ -4135,8 +4135,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_demand_for_grants_recommendation',
               question: 'સંસદમાં ખર્ચ માટેની કોઈપણ "અનુદાનની માંગણી" (Demand for Grant - અનુચ્છેદ ૧૧૩(૩)) કોની પૂર્વ ભલામણ વિના રજૂ થઈ શકતી નથી?',
-              options: ['લોકસભાના સ્પીકર', 'કેન્દ્રીય નાણામંત્રી', 'ભારતના રાષ્ટ્રપતિ', 'કેગ (CAG)'],
-              correctOptionIndex: 2,
+              options: ['કેન્દ્રીય નાણામંત્રી', 'લોકસભાના સ્પીકર', 'કેગ (CAG)', 'ભારતના રાષ્ટ્રપતિ'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૧૩(૩) અનુસાર સંસદમાં કોઈપણ ખર્ચ માટેની અનુદાનની માંગણી ભારતના રાષ્ટ્રપતિની પૂર્વ ભલામણ સિવાય કરી શકાતી નથી.',
               sourceVideoTitle: 'President Of India || Part-6 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4144,10 +4144,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_emergency_part_articles',
               question: 'ભારતના બંધારણના કયા ભાગમાં અને કયા અનુચ્છેદો દરમિયાન કટોકટી (Emergency) અંગેની વિશેષ જોગવાઈઓ કરવામાં આવેલી છે?',
               options: [
-                'ભાગ ૧૫, અનુચ્છેદ ૩૨૪ થી ૩૨૯',
+                'ભાગ ૨૦, અનુચ્છેદ ૩૬૮',
                 'ભાગ ૧૭, અનુચ્છેદ ૩૪૩ થી ૩૫૧',
                 'ભાગ ૧૮, અનુચ્છેદ ૩૫૨ થી ૩૬૦',
-                'ભાગ ૨૦, અનુચ્છેદ ૩૬૮'
+                'ભાગ ૧૫, અનુચ્છેદ ૩૨૪ થી ૩૨૯'
               ],
               correctOptionIndex: 2,
               explanation: 'બંધારણના ભાગ ૧૮ માં અનુચ્છેદ ૩૫૨ થી ૩૬૦ દરમિયાન ૩ પ્રકારની કટોકટીઓ (રાષ્ટ્રીય કટોકટી ૩૫૨, રાષ્ટ્રપતિ શાસન ૩૫૬, નાણાકીય કટોકટી ૩૬૦) ની જોગવાઈ છે.',
@@ -4157,28 +4157,28 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_emergency_sources_weimar',
               question: 'કટોકટી દરમિયાન મૂળભૂત અધિકારોના સ્થગિત (Suspension of Fundamental Rights) થવાની જોગવાઈ ભારતીય બંધારણમાં કયા દેશના બંધારણમાંથી પ્રેરિત છે?',
               options: [
-                'યુ.એસ.એ. (USA)',
-                'જર્મનીનું વાઇમર બંધારણ (Weimar Constitution)',
                 'આયર્લેન્ડ',
-                'સોવિયેત યુનિયન (USSR)'
+                'સોવિયેત યુનિયન (USSR)',
+                'જર્મનીનું વાઇમર બંધારણ (Weimar Constitution)',
+                'યુ.એસ.એ. (USA)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'કટોકટી દરમિયાન મૂળભૂત અધિકારો સ્થગિત કરવાની જોગવાઈ જર્મનીના વાઇમર બંધારણમાંથી લેવામાં આવી છે, જ્યારે કટોકટીનું વહીવટી માળખું ભારત સરકાર અધિનિયમ ૧૯૩૫ માંથી લેવાયું છે.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art352_grounds_44th_amendment',
               question: '૪૪મા બંધારણીય સુધારા, ૧૯૭૮ દ્વારા અનુચ્છેદ ૩૫૨ માં કયા શબ્દને રદ કરીને "સશસ્ત્ર વિદ્રોહ" (Armed Rebellion) શબ્દ દાખલ કરવામાં આવ્યો?',
-              options: ['બાહ્ય હુમલો', 'આંતરિક અશાંતિ (Internal Disturbance)', 'રાજકીય અસ્થિરતા', 'સાંપ્રદાયિક હિંસા'],
-              correctOptionIndex: 1,
+              options: ['રાજકીય અસ્થિરતા', 'બાહ્ય હુમલો', 'સાંપ્રદાયિક હિંસા', 'આંતરિક અશાંતિ (Internal Disturbance)'],
+              correctOptionIndex: 3,
               explanation: 'મૂળ બંધારણમાં "આંતરિક અશાંતિ" (Internal Disturbance) શબ્દ હતો, જે અત્યંત અસ્પષ્ટ હતો અને ૧૯૭૫માં તેનો દુરુપયોગ થયો હતો. ૪૪મા સુધારાથી તેને બદલીને "સશસ્ત્ર વિદ્રોહ" (Armed Rebellion) કરાયો.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_cabinet_mention_art352_3',
               question: 'સમગ્ર ભારતીય બંધારણમાં "કેબિનેટ" (મંત્રીમંડળ - Cabinet) શબ્દનો ઉલ્લેખ માત્ર ને માત્ર કયા અનુચ્છેદમાં કરવામાં આવ્યો છે?',
-              options: ['અનુચ્છેદ ૭૪', 'અનુચ્છેદ ૭૫(૩)', 'અનુચ્છેદ ૩૫૨(૩)', 'અનુચ્છેદ ૩૫૬'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૩૫૬', 'અનુચ્છેદ ૩૫૨(૩)', 'અનુચ્છેદ ૭૫(૩)', 'અનુચ્છેદ ૭૪'],
+              correctOptionIndex: 1,
               explanation: 'સમગ્ર બંધારણમાં "કેબિનેટ" શબ્દ માત્ર અનુચ્છેદ ૩૫૨(૩) માં જ છે, જે ૪૪મા બંધારણીય સુધારા ૧૯૭૮ દ્વારા ઉમેરાયો, જે મુજબ કટોકટી માટે કેબિનેટની લેખિત ભલામણ અનિવાર્ય છે.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4186,20 +4186,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_art352_approval_period_majority',
               question: 'રાષ્ટ્રપતિ દ્વારા રાષ્ટ્રીય કટોકટીની ઘોષણા થયા બાદ કેટલા સમયમાં અને કઈ બહુમતીથી સંસદના બંને ગૃહો દ્વારા તેને મંજૂરી મળવી અનિવાર્ય છે?',
               options: [
-                '૨ મહિનામાં સાદી બહુમતીથી',
-                '૧ મહિનામાં વિશેષ બહુમતીથી (Special Majority)',
                 '૩ મહિનામાં ૨/૩ બહુમતીથી',
-                '૧૪ દિવસમાં સાદી બહુમતીથી'
+                '૧૪ દિવસમાં સાદી બહુમતીથી',
+                '૨ મહિનામાં સાદી બહુમતીથી',
+                '૧ મહિનામાં વિશેષ બહુમતીથી (Special Majority)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૪૪મા બંધારણીય સુધારા પછી રાષ્ટ્રીય કટોકટી ૧ મહિનાની અંદર સંસદના બંને ગૃહો દ્વારા વિશેષ બહુમતી (કુલ સભ્યસંખ્યાની બહુમતી + હાજર રહી મતદાન કરનારાની ૨/૩ બહુમતી) થી મંજૂર થવી જરૂરી છે.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art352_dissolved_lok_sabha_30days',
               question: 'જો રાષ્ટ્રીય કટોકટી જાહેર થાય ત્યારે લોકસભા વિસર્જિત થયેલી હોય, તો નવી ચૂંટાયેલી લોકસભાએ તેની પ્રથમ બેઠકથી કેટલા દિવસમાં તેને મંજૂર કરવી પડે?',
-              options: ['૧૪ દિવસ', '૩૦ દિવસ', '૬૦ દિવસ', '૬ મહિના'],
-              correctOptionIndex: 1,
+              options: ['૧૪ દિવસ', '૬ મહિના', '૬૦ દિવસ', '૩૦ દિવસ'],
+              correctOptionIndex: 3,
               explanation: 'જો લોકસભા વિસર્જિત હોય તો રાજ્યસભાએ ૧ મહિનામાં મંજૂર કરવું પડે અને નવી લોકસભા પુનર્ગઠિત થયા પછી તેની પ્રથમ બેઠકથી ૩૦ દિવસની અંદર મંજૂરી આપવી અનિવાર્ય છે.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4207,20 +4207,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_art352_revocation_disapproval_simple_majority',
               question: 'રાષ્ટ્રીય કટોકટી સમાપ્ત (અસ્વીકાર) કરવા માટે લોકસભા કઈ બહુમતીથી ઠરાવ પસાર કરે છે અને તેના માટે કેટલા સભ્યોની વિશેષ બેઠકની નોટિસ જરૂરી છે?',
               options: [
-                'બંને ગૃહોની વિશેષ બહુમતી અને ૧/૩ સભ્યો',
-                'માત્ર લોકસભાની સાદી બહુમતી અને ૧/૧૦ સભ્યોની ૧૪ દિવસની નોટિસ',
+                'સંસદની સંયુક્ત બેઠકની બહુમતી',
                 'રાજ્યસભાની સાદી બહુમતી અને ૧/૪ સભ્યો',
-                'સંસદની સંયુક્ત બેઠકની બહુમતી'
+                'માત્ર લોકસભાની સાદી બહુમતી અને ૧/૧૦ સભ્યોની ૧૪ દિવસની નોટિસ',
+                'બંને ગૃહોની વિશેષ બહુમતી અને ૧/૩ સભ્યો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૪૪મા સુધારા અનુસાર લોકસભા સાદી બહુમતીથી કટોકટી નામંજૂર કરી શકે છે. લોકસભાના ૧/૧૦ સભ્યો સ્પીકર કે રાષ્ટ્રપતિને નોટિસ આપીને ૧૪ દિવસમાં વિશેષ બેઠક બોલાવી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art250_state_list_legislation',
               question: 'અનુચ્છેદ ૨૫૦ મુજબ રાષ્ટ્રીય કટોકટી દરમિયાન સંસદ દ્વારા રાજ્ય સૂચિ (State List) પર બનાવેલા કાયદા કટોકટી સમાપ્ત થયા પછી કેટલા સમય સુધી અમલમાં રહે છે?',
-              options: ['તરત જ રદ થાય છે', '૩ મહિના', '૬ મહિના', '૧ વર્ષ'],
-              correctOptionIndex: 2,
+              options: ['૧ વર્ષ', 'તરત જ રદ થાય છે', '૩ મહિના', '૬ મહિના'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૫૦ હેઠળ રાષ્ટ્રીય કટોકટી દરમિયાન સંસદ રાજ્ય સૂચિ પર કાયદા બનાવી શકે છે, જે કટોકટીની ઘોષણા સમાપ્ત થયા પછી ૬ મહિના સુધી અમલમાં રહે છે.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4229,11 +4229,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: '૪૪મા બંધારણીય સુધારા, ૧૯૭૮ પછી રાષ્ટ્રીય કટોકટી દરમિયાન કયા બે મૂળભૂત અધિકારોનું નિલંબન કોઈપણ સંજોગોમાં થઈ શકતું નથી?',
               options: [
                 'અનુચ્છેદ ૧૪ અને અનુચ્છેદ ૧૯',
-                'અનુચ્છેદ ૧૯ અને અનુચ્છેદ ૨૧',
                 'અનુચ્છેદ ૨૦ અને અનુચ્છેદ ૨૧',
-                'અનુચ્છેદ ૨૧ અને અનુચ્છેદ ૩૨'
+                'અનુચ્છેદ ૨૧ અને અનુચ્છેદ ૩૨',
+                'અનુચ્છેદ ૧૯ અને અનુચ્છેદ ૨૧'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૩૫૯ માં ૪૪મા સુધારાથી સ્પષ્ટ કરાયું કે અનુચ્છેદ ૨૦ (દોષસિદ્ધિ સામે રક્ષણ) અને અનુચ્છેદ ૨૧ (જીવન અને અંગત સ્વાતંત્ર્યનો અધિકાર) કટોકટીમાં પણ ક્યારેય સ્થગિત કરી શકાતા નથી.',
               sourceVideoTitle: 'President Of India || Part-7 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4241,10 +4241,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_three_emergencies_dates_presidents',
               question: 'ભારતમાં ૨૫ જૂન ૧૯૭૫ ના રોજ "આંતરિક અશાંતિ" ના આધારે ત્રીજી રાષ્ટ્રીય કટોકટી જાહેર કરવામાં આવી ત્યારે ભારતના રાષ્ટ્રપતિ કોણ હતા?',
               options: [
-                'ડૉ. સર્વપલ્લી રાધાકૃષ્ણન',
                 'વી. વી. ગીરી',
+                'નીલમ સંજીવ રેડ્ડી',
                 'ફખરુદ્દીન અલી અહેમદ',
-                'નીલમ સંજીવ રેડ્ડી'
+                'ડૉ. સર્વપલ્લી રાધાકૃષ્ણન'
               ],
               correctOptionIndex: 2,
               explanation: '૧૯૭૫ની ત્રીજી રાષ્ટ્રીય કટોકટી વખતે ભારતના રાષ્ટ્રપતિ ફખરુદ્દીન અલી અહેમદ અને વડાપ્રધાન શ્રીમતી ઈન્દિરા ગાંધી હતા. (૧૯૬૨માં રાધાકૃષ્ણન અને ૧૯૭૧માં વી. વી. ગીરી હતા).',
@@ -4253,15 +4253,15 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pres_art355_duty_of_union',
               question: 'દરેક રાજ્યનું બાહ્ય આક્રમણ અને આંતરિક અશાંતિ સામે રક્ષણ કરવું તથા શાસન બંધારણ મુજબ ચાલે તે સુનિશ્ચિત કરવાની "સંઘ સરકારની ફરજ" કયા અનુચ્છેદમાં છે?',
-              options: ['અનુચ્છેદ ૩૫૨', 'અનુચ્છેદ ૩૫૫', 'અનુચ્છેદ ૩૫૬', 'અનુચ્છેદ ૩૬૫'],
-              correctOptionIndex: 1,
+              options: ['અનુચ્છેદ ૩૫૫', 'અનુચ્છેદ ૩૫૨', 'અનુચ્છેદ ૩૬૫', 'અનુચ્છેદ ૩૫૬'],
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૩૫૫ મુજબ દરેક રાજ્યનું બાહ્ય આક્રમણ અને આંતરિક અશાંતિ સામે રક્ષણ કરવું અને રાજ્યનું શાસન બંધારણ અનુસાર ચાલે તે જોવાની ફરજ સંઘ સરકારની છે.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art365_failure_to_comply_directions',
               question: 'જ્યારે કોઈ રાજ્ય સરકાર કેન્દ્ર સરકાર દ્વારા બંધારણ હેઠળ આપવામાં આવેલા કાયદેસર કારોબારી નિર્દેશોનું પાલન કરવામાં નિષ્ફળ જાય, ત્યારે કયા અનુચ્છેદ હેઠળ રાષ્ટ્રપતિ શાસન લાદવાનો આધાર બને છે?',
-              options: ['અનુચ્છેદ ૨૫૬', 'અનુચ્છેદ ૩૫૬(૧)', 'અનુચ્છેદ ૩૬૫', 'અનુચ્છેદ ૩૭૦'],
+              options: ['અનુચ્છેદ ૩૫૬(૧)', 'અનુચ્છેદ ૨૫૬', 'અનુચ્છેદ ૩૬૫', 'અનુચ્છેદ ૩૭૦'],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૩૬૫ અનુસાર જો કોઈ રાજ્ય કેન્દ્રના કાયદેસર નિર્દેશોનું પાલન ન કરે, તો રાષ્ટ્રપતિ એવું માની શકે કે રાજ્યમાં બંધારણીય તંત્ર નિષ્ફળ ગયું છે અને કલમ ૩૫૬ લાદી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
@@ -4272,8 +4272,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 '૧ મહિનામાં વિશેષ બહુમતીથી',
                 '૨ મહિનામાં સાદી બહુમતીથી (Simple Majority)',
-                '૬ મહિનામાં સાદી બહુમતીથી',
-                '૧૪ દિવસમાં વિશેષ બહુમતીથી'
+                '૧૪ દિવસમાં વિશેષ બહુમતીથી',
+                '૬ મહિનામાં સાદી બહુમતીથી'
               ],
               correctOptionIndex: 1,
               explanation: 'રાષ્ટ્રપતિ શાસન (અનુચ્છેદ ૩૫૬) ૨ મહિનાની અંદર સંસદના બંને ગૃહો દ્વારા માત્ર સાદી બહુમતીથી મંજૂર થવું જરૂરી છે. (રાષ્ટ્રીય કટોકટી ૩૫૨ માં ૧ મહિનો અને વિશેષ બહુમતી જોઈએ).',
@@ -4284,19 +4284,19 @@ List<SectionModel> getInitialSyllabusData() {
               question: '૪૪મા બંધારણીય સુધારા ૧૯૭૮ મુજબ રાષ્ટ્રપતિ શાસન ૧ વર્ષથી વધુ લંબાવવા માટે નીચેનામાંથી કઈ બે શરતો એકસાથે પૂર્ણ થવી જરૂરી છે?',
               options: [
                 'નાણાકીય કટોકટી લાગુ હોય અને રાજ્યપાલ ભલામણ કરે',
+                'રાજ્યસભા ૨/૩ બહુમતીથી ઠરાવ પસાર કરે અને લોકસભા સંમતિ આપે',
                 'રાષ્ટ્રીય કટોકટી (૩૫૨) અમલમાં હોય અને ચૂંટણી પંચ ચૂંટણી યોજવામાં મુશ્કેલી હોવાનું પ્રમાણપત્ર આપે',
-                'સુપ્રીમ કોર્ટ મંજૂરી આપે અને કેબિનેટ ઠરાવ પસાર કરે',
-                'રાજ્યસભા ૨/૩ બહુમતીથી ઠરાવ પસાર કરે અને લોકસભા સંમતિ આપે'
+                'સુપ્રીમ કોર્ટ મંજૂરી આપે અને કેબિનેટ ઠરાવ પસાર કરે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૪૪મા સુધારાથી જોગવાઈ કરાઈ કે ૧ વર્ષથી વધુ રાષ્ટ્રપતિ શાસન લંબાવવા માટે: (૧) દેશ કે રાજ્યમાં કલમ ૩૫૨ રાષ્ટ્રીય કટોકટી લાગુ હોવી જોઈએ, અને (૨) ચૂંટણી પંચે પ્રમાણિત કરવું પડે કે ચૂંટણી યોજવી મુશ્કેલ છે.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art356_maximum_duration',
               question: 'ભારતીય બંધારણ મુજબ કોઈપણ રાજ્યમાં રાષ્ટ્રપતિ શાસન (અનુચ્છેદ ૩૫૬) સામાન્ય સંજોગોમાં મહત્તમ કેટલા સમય સુધી ચાલુ રાખી શકાય છે?',
-              options: ['૧ વર્ષ', '૩ વર્ષ (Maximum 3 Years)', '૫ વર્ષ', 'અનિશ્ચિત કાળ'],
-              correctOptionIndex: 1,
+              options: ['અનિશ્ચિત કાળ', '૧ વર્ષ', '૫ વર્ષ', '૩ વર્ષ (Maximum 3 Years)'],
+              correctOptionIndex: 3,
               explanation: 'બંધારણ અનુસાર રાષ્ટ્રપતિ શાસન દર ૬ મહિને સંસદીય મંજૂરીથી મહત્તમ ૩ વર્ષ સુધી જ લંબાવી શકાય છે. (પંજાબમાં અસાધારણ આતંકવાદ સમયે વિશેષ બંધારણીય સુધારાઓથી ૫ વર્ષ લંબાવાયું હતું).',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4304,12 +4304,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_art356_high_court_power_unaffected',
               question: 'રાજ્યમાં રાષ્ટ્રપતિ શાસન (અનુચ્છેદ ૩૫૬) લાદવામાં આવે ત્યારે નીચેનામાંથી કઈ સંસ્થાની સત્તાઓ અને કાર્યો પર કોઈ પણ પ્રકારની અસર થતી નથી?',
               options: [
-                'રાજ્યની મંત્રીપરિષદ',
-                'રાજ્યની વિધાનસભા',
+                'રાજ્યના મુખ્ય સચિવનું વહીવટી તંત્ર',
                 'સંબંધિત રાજ્યની વડી અદાલત (High Court)',
-                'રાજ્યના મુખ્ય સચિવનું વહીવટી તંત્ર'
+                'રાજ્યની મંત્રીપરિષદ',
+                'રાજ્યની વિધાનસભા'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'રાષ્ટ્રપતિ શાસન દરમિયાન રાજ્ય મંત્રીપરિષદ બરખાસ્ત થાય છે અને વિધાનસભા સ્થગિત/વિસર્જિત થાય છે, પરંતુ રાજ્યની હાઈકોર્ટની સત્તાઓ કે દરજ્જા પર કોઈ જ અસર થતી નથી.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4318,19 +4318,19 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'અનુચ્છેદ ૩૫૬ ના સંદર્ભમાં સીમાચિહ્નરૂપ "એસ. આર. બોમ્માઈ વિ. યુનિયન ઓફ ઈન્ડિયા (૧૯૯૪)" કેસમાં સુપ્રીમ કોર્ટે નીચેનામાંથી કયો સિદ્ધાંત આપ્યો હતો?',
               options: [
                 'રાષ્ટ્રપતિ શાસન ન્યાયિક સમીક્ષાથી સંપૂર્ણ પર છે',
+                'અદાલત ક્યારેય બરખાસ્ત સરકારને પુનઃસ્થાપિત કરી શકતી નથી',
                 'મુખ્યમંત્રીની બહુમતી ચકાસવા માત્ર વિધાનસભાના ફ્લોર પર જ "ફ્લોર ટેસ્ટ" થવો જોઈએ',
-                'સંસદીય મંજૂરી પહેલાં જ વિધાનસભા વિસર્જિત કરી શકાય છે',
-                'અદાલત ક્યારેય બરખાસ્ત સરકારને પુનઃસ્થાપિત કરી શકતી નથી'
+                'સંસદીય મંજૂરી પહેલાં જ વિધાનસભા વિસર્જિત કરી શકાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'બોમ્માઈ કેસ (૧૯૯૪) માં ૯ જજોની બેંચે ઠરાવ્યું કે બહુમતીની ચકાસણી માત્ર વિધાનસભાના ફ્લોર પર જ થવી જોઈએ, કલમ ૩૫૬ ન્યાયિક સમીક્ષાને પાત્ર છે, અને અદાલત ગેરબંધારણીય રીતે બરખાસ્ત સરકારને પુનઃસ્થાપિત કરી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pres_art356_first_state_punjab_1951',
               question: 'સ્વતંત્ર ભારતમાં સૌપ્રથમ વખત રાષ્ટ્રપતિ શાસન (અનુચ્છેદ ૩૫૬) કયા રાજ્યમાં અને કયા વર્ષે લાદવામાં આવ્યું હતું?',
-              options: ['કેરળ (૧૯૫૯)', 'પંજાબ / પેપ્સુ (૧૯૫૧)', 'રાજસ્થાન (૧૯૬૭)', 'પશ્ચિમ બંગાળ (૧૯૬૨)'],
-              correctOptionIndex: 1,
+              options: ['રાજસ્થાન (૧૯૬૭)', 'પશ્ચિમ બંગાળ (૧૯૬૨)', 'કેરળ (૧૯૫૯)', 'પંજાબ / પેપ્સુ (૧૯૫૧)'],
+              correctOptionIndex: 3,
               explanation: 'ભારતમાં સૌપ્રથમ વખત રાષ્ટ્રપતિ શાસન ૨૦ જૂન ૧૯૫૧ ના રોજ પંજાબ (પેપ્સુ) રાજ્યમાં લાદવામાં આવ્યું હતું.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4338,12 +4338,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pres_art360_financial_emergency_judges_salaries',
               question: 'અનુચ્છેદ ૩૬૦(૪)(b) હેઠળ નાણાકીય કટોકટી દરમિયાન રાષ્ટ્રપતિ નીચેનામાંથી કોના પગાર અને ભથ્થાંમાં ઘટાડો કરવાનો આદેશ આપી શકે છે?',
               options: [
-                'માત્ર વર્ગ-૪ ના કેન્દ્રીય કર્મચારીઓ',
                 'માત્ર રાજ્ય સરકારના કર્મચારીઓ',
-                'સર્વોચ્ચ અદાલત અને વડી અદાલતના ન્યાયાધીશો સહિત તમામ કેન્દ્રીય/રાજ્ય કર્મચારીઓ',
-                'માત્ર સંસદ સભ્યો'
+                'માત્ર વર્ગ-૪ ના કેન્દ્રીય કર્મચારીઓ',
+                'માત્ર સંસદ સભ્યો',
+                'સર્વોચ્ચ અદાલત અને વડી અદાલતના ન્યાયાધીશો સહિત તમામ કેન્દ્રીય/રાજ્ય કર્મચારીઓ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩૬૦(૪)(b) હેઠળ નાણાકીય કટોકટી દરમિયાન રાષ્ટ્રપતિ સર્વોચ્ચ અદાલત અને વડી અદાલતના ન્યાયાધીશો સહિત તમામ કેન્દ્રીય અને રાજ્ય કર્મચારીઓના પગાર-ભથ્થાં ઘટાડી શકે છે.',
               sourceVideoTitle: 'President Of India || Part-8 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4353,8 +4353,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'તે દર ૬ મહિને સંસદ દ્વારા મંજૂર થવી અનિવાર્ય છે અને ભારતમાં ૩ વખત લાગુ થઈ છે',
                 'સંસદ દ્વારા એકવાર મંજૂર થયા પછી તે અનિશ્ચિત કાળ ચાલુ રહે છે અને ભારતમાં ક્યારેય (૦ વખત) લાગુ થઈ નથી',
-                'તેની મહત્તમ મર્યાદા ૩ વર્ષ છે અને ૧૯૯૧માં લાગુ થઈ હતી',
-                'તે માત્ર લોકસભા દ્વારા જ મંજૂર થાય છે'
+                'તે માત્ર લોકસભા દ્વારા જ મંજૂર થાય છે',
+                'તેની મહત્તમ મર્યાદા ૩ વર્ષ છે અને ૧૯૯૧માં લાગુ થઈ હતી'
               ],
               correctOptionIndex: 1,
               explanation: 'નાણાકીય કટોકટી સંસદની સાદી બહુમતીથી મંજૂર થયા પછી જ્યાં સુધી રાષ્ટ્રપતિ પાછી ન ખેંચે ત્યાં સુધી અનિશ્ચિત કાળ ચાલે છે (દર ૬ મહિને મંજૂરી જરૂર નથી) અને ભારતમાં આજ સુધી ક્યારેય લાદવામાં આવી નથી.',
@@ -4364,12 +4364,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_constitutional_articles_part5',
               question: 'ભારતીય બંધારણના કયા ભાગ અને કયા અનુચ્છેદોમાં ભારતના ઉપરાષ્ટ્રપતિ પદ, તેમની ચૂંટણી અને હોદ્દા સંબંધિત જોગવાઈઓ દર્શાવવામાં આવી છે?',
               options: [
-                'ભાગ-૪, અનુચ્છેદ ૩૬ થી ૫૧',
                 'ભાગ-૫, અનુચ્છેદ ૬૩ થી ૭૧',
-                'ભાગ-૫, અનુચ્છેદ ૭૨ થી ૭૮',
-                'ભાગ-૬, અનુચ્છેદ ૧૫૩ થી ૧૬૨'
+                'ભાગ-૪, અનુચ્છેદ ૩૬ થી ૫૧',
+                'ભાગ-૬, અનુચ્છેદ ૧૫૩ થી ૧૬૨',
+                'ભાગ-૫, અનુચ્છેદ ૭૨ થી ૭૮'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'ભારતીય બંધારણના ભાગ-૫ (સંઘ) ના પ્રકરણ-૧ (કારોબારી) હેઠળ અનુચ્છેદ ૬૩ થી ૭૧ માં ઉપરાષ્ટ્રપતિ પદ, લાયકાતો, ચૂંટણી, કાર્યકાળ, દૂર કરવાની પ્રક્રિયા અને સત્તાઓ દર્શાવેલ છે.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4377,12 +4377,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_electoral_college_members',
               question: 'ભારતના ઉપરાષ્ટ્રપતિની ચૂંટણી માટેના મતદારમંડળ (Electoral College - અનુચ્છેદ ૬૬(૧)) માં નીચેનામાંથી કોનો સમાવેશ થાય છે?',
               options: [
+                'માત્ર રાજ્યસભાના સભ્યો',
                 'સંસદના બંને ગૃહોના માત્ર ચૂંટાયેલા સભ્યો',
-                'સંસદના બંને ગૃહોના તમામ સભ્યો (ચૂંટાયેલા અને નામાંકિત બંને)',
                 'સંસદના બંને ગૃહો તથા રાજ્ય વિધાનસભાઓના ચૂંટાયેલા સભ્યો',
-                'માત્ર રાજ્યસભાના સભ્યો'
+                'સંસદના બંને ગૃહોના તમામ સભ્યો (ચૂંટાયેલા અને નામાંકિત બંને)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૬૬(૧) મુજબ ઉપરાષ્ટ્રપતિની ચૂંટણીમાં સંસદના બંને ગૃહો (લોકસભા + રાજ્યસભા) ના તમામ સભ્યો (ચૂંટાયેલા + નામાંકિત બંને) ભાગ લે છે. રાજ્ય વિધાનસભાઓ ભાગ લેતી નથી.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4390,12 +4390,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_salary_and_post',
               question: 'ભારતના બંધારણ મુજબ ઉપરાષ્ટ્રપતિને કયા હોદ્દા પેટે માસિક વેતન (₹૪,૦૦,૦૦૦) ચૂકવવામાં આવે છે?',
               options: [
-                'ભારતના ઉપરાષ્ટ્રપતિ તરીકે',
-                'રાજ્યસભાના હોદ્દાની રૂએ સભાપતિ (Chairman of Council of States) તરીકે',
+                'કેન્દ્રીય કેબિનેટ મંત્રી તરીકે',
                 'નીતિ આયોગના હોદ્દાની રૂએ ઉપાધ્યક્ષ તરીકે',
-                'કેન્દ્રીય કેબિનેટ મંત્રી તરીકે'
+                'રાજ્યસભાના હોદ્દાની રૂએ સભાપતિ (Chairman of Council of States) તરીકે',
+                'ભારતના ઉપરાષ્ટ્રપતિ તરીકે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'બંધારણ અનુસાર ઉપરાષ્ટ્રપતિ પદ માટે કોઈ અલગ પગાર નથી. તેમને રાજ્યસભાના હોદ્દાની રૂએ સભાપતિ તરીકે માસિક ₹૪,૦૦,૦૦૦ વેતન સંચિત નિધિમાંથી ચૂકવાય છે.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4403,9 +4403,9 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_acting_president_max_duration',
               question: 'રાષ્ટ્રપતિનું પદ આકસ્મિક ખાલી પડે ત્યારે ઉપરાષ્ટ્રપતિ અનુચ્છેદ ૬૫ હેઠળ વધુમાં વધુ કેટલા સમયગાળા માટે કાર્યવાહક રાષ્ટ્રપતિ તરીકે ફરજ બજાવી શકે છે?',
               options: [
-                '૩ મહિના',
-                '૬ મહિના',
                 '૧ વર્ષ',
+                '૬ મહિના',
+                '૩ મહિના',
                 'અમેરિકાની જેમ બાકી રહેલા સમગ્ર કાર્યકાળ માટે'
               ],
               correctOptionIndex: 1,
@@ -4417,11 +4417,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ઉપરાષ્ટ્રપતિ પદની ચૂંટણીમાં ઉમેદવારી નોંધાવવા માટે કેટલા પ્રસ્તાવકો (Proposers) અને ટેકેદારો (Seconders) ની આવશ્યકતા હોય છે?',
               options: [
                 '૧૦ પ્રસ્તાવક અને ૧૦ ટેકેદાર',
+                '૧૫ પ્રસ્તાવક અને ૧૫ ટેકેદાર',
                 '૨૦ પ્રસ્તાવક અને ૨૦ ટેકેદાર',
-                '૫૦ પ્રસ્તાવક અને ૫૦ ટેકેદાર',
-                '૧૫ પ્રસ્તાવક અને ૧૫ ટેકેદાર'
+                '૫૦ પ્રસ્તાવક અને ૫૦ ટેકેદાર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'રાષ્ટ્રપતિ ચૂંટણી માટે ૫૦ પ્રસ્તાવક અને ૫૦ ટેકેદાર હોય છે, જ્યારે ઉપરાષ્ટ્રપતિ ચૂંટણી માટે ૨૦ પ્રસ્તાવક અને ૨૦ ટેકેદાર (સંસદસભ્યો) ની જરૂર પડે છે.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4429,12 +4429,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_removal_majority_rajya_sabha',
               question: 'અનુચ્છેદ ૬૭(b) મુજબ ભારતના ઉપરાષ્ટ્રપતિને પદ પરથી દૂર કરવા માટે રાજ્યસભામાં કઈ બહુમતીથી ઠરાવ પસાર થવો અનિવાર્ય છે?',
               options: [
+                'કુલ સભ્ય સંખ્યાની ૨/૩ બહુમતી',
                 'સાદી બહુમતી (Simple Majority)',
-                'તાત્કાલિક સભ્યોની બહુમતી (Effective Majority - Majority of all the then members)',
                 'હાજર અને મતદાન કરતા સભ્યોની ૨/૩ બહુમતી',
-                'કુલ સભ્ય સંખ્યાની ૨/૩ બહુમતી'
+                'તાત્કાલિક સભ્યોની બહુમતી (Effective Majority - Majority of all the then members)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ઉપરાષ્ટ્રપતિને દૂર કરવા રાજ્યસભામાં ૧૪ દિવસની નોટિસ બાદ તાત્કાલિક સભ્યોની બહુમતી (Effective Majority - કુલ બેઠકોમાંથી ખાલી જગ્યાઓ બાદ કરતાં વધતી બેઠકોના ૫૦% થી વધુ) થી ઠરાવ પસાર થવો જોઈએ અને લોકસભાની સાદી બહુમતીથી સંમતિ જરૂરી છે.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4444,10 +4444,10 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'બંધારણનું ઉલ્લંઘન (Violation of Constitution)',
                 'સાબિત થયેલી ગેરવર્તણૂક અથવા અસમર્થતા (Proved Misbehaviour or Incapacity)',
-                'લાભનું પદ ધારણ કરવું',
-                'બંધારણમાં કોઈ ચોક્કસ આધાર કે કારણ દર્શાવવામાં આવ્યું નથી'
+                'બંધારણમાં કોઈ ચોક્કસ આધાર કે કારણ દર્શાવવામાં આવ્યું નથી',
+                'લાભનું પદ ધારણ કરવું'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 2,
               explanation: 'બંધારણના અનુચ્છેદ ૬૭(b) માં ઉપરાષ્ટ્રપતિને પદ પરથી દૂર કરવા માટે કોઈ પણ ચોક્કસ આધાર કે શરત (No grounds specified) દર્શાવવામાં આવી નથી.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4455,12 +4455,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_acting_president_1969_act',
               question: '૧૯૬૯માં રાષ્ટ્રપતિ ઝાકિર હુસૈનનું અવસાન થતાં અને ઉપરાષ્ટ્રપતિ વી.વી. ગિરીએ રાજીનામું આપતાં કયા મુખ્ય ન્યાયાધીશે કાર્યવાહક રાષ્ટ્રપતિ તરીકે કાર્યભાર સંભાળ્યો હતો?',
               options: [
-                'જસ્ટિસ પી.એન. ભગવતી',
-                'જસ્ટિસ મોહમ્મદ હિદાયતુલ્લાહ',
+                'જસ્ટિસ વાય.વી. ચંદ્રચૂડ',
                 'જસ્ટિસ કે. સુબ્બારાવ',
-                'જસ્ટિસ વાય.વી. ચંદ્રચૂડ'
+                'જસ્ટિસ મોહમ્મદ હિદાયતુલ્લાહ',
+                'જસ્ટિસ પી.એન. ભગવતી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'રાષ્ટ્રપતિ (કાર્યોનું નિર્વહન) અધિનિયમ, ૧૯૬૯ હેઠળ ભારતના તત્કાલીન મુખ્ય ન્યાયાધીશ જસ્ટિસ મોહમ્મદ હિદાયતુલ્લાહ ભારતના કાર્યવાહક રાષ્ટ્રપતિ બન્યા હતા.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4468,12 +4468,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_died_in_office_krishan_kant',
               question: 'ભારતના અત્યાર સુધીના ઉપરાષ્ટ્રપતિઓમાં પોતાના ચાલુ કાર્યકાળ દરમિયાન અવસાન પામનાર એકમાત્ર ઉપરાષ્ટ્રપતિ કોણ હતા?',
               options: [
-                'ડૉ. ઝાકિર હુસૈન',
                 'ફખરુદ્દીન અલી અહેમદ',
-                'કૃષ્ણકાંત',
-                'ભૈરોંસિંહ શેખાવત'
+                'ડૉ. ઝાકિર હુસૈન',
+                'ભૈરોંસિંહ શેખાવત',
+                'કૃષ્ણકાંત'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'શ્રી કૃષ્ણકાંત ભારતના એકમાત્ર એવા ઉપરાષ્ટ્રપતિ હતા જેઓ પોતાના હોદ્દા પર ચાલુ રહેતાં (૨૭ જુલાઈ ૨૦૦૨) અવસાન પામ્યા હતા.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4482,11 +4482,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ભારતના ઉપરાષ્ટ્રપતિ અને અમેરિકાના ઉપરાષ્ટ્રપતિ વચ્ચે રાષ્ટ્રપતિ પદના ઉત્તરાધિકાર સંબંધે મુખ્ય બંધારણીય તફાવત કયો છે?',
               options: [
                 'અમેરિકાના ઉપરાષ્ટ્રપતિ સેનેટના અધ્યક્ષ નથી હોતા',
-                'અમેરિકામાં રાષ્ટ્રપતિ પદ ખાલી પડતાં ઉપરાષ્ટ્રપતિ બાકી રહેલા સમગ્ર કાર્યકાળ માટે રાષ્ટ્રપતિ બને છે, જ્યારે ભારતમાં માત્ર મહત્તમ ૬ મહિના કાર્યવાહક રાષ્ટ્રપતિ બને છે',
+                'અમેરિકાના ઉપરાષ્ટ્રપતિને મહાભિયોગ દ્વારા હટાવી શકાતા નથી',
                 'ભારતમાં ઉપરાષ્ટ્રપતિ સેનેટ પ્રમુખની જેમ નિર્ણાયક મત આપી શકતા નથી',
-                'અમેરિકાના ઉપરાષ્ટ્રપતિને મહાભિયોગ દ્વારા હટાવી શકાતા નથી'
+                'અમેરિકામાં રાષ્ટ્રપતિ પદ ખાલી પડતાં ઉપરાષ્ટ્રપતિ બાકી રહેલા સમગ્ર કાર્યકાળ માટે રાષ્ટ્રપતિ બને છે, જ્યારે ભારતમાં માત્ર મહત્તમ ૬ મહિના કાર્યવાહક રાષ્ટ્રપતિ બને છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અમેરિકામાં રાષ્ટ્રપતિનું અવસાન કે રાજીનામું થાય તો ઉપરાષ્ટ્રપતિ બાકી રહેલી સમગ્ર મુદત માટે પૂર્ણ રાષ્ટ્રપતિ બને છે, જ્યારે ભારતમાં ઉપરાષ્ટ્રપતિ માત્ર મહત્તમ ૬ મહિના કાર્યવાહક રાષ્ટ્રપતિ રહે છે જ્યાં સુધી નવા રાષ્ટ્રપતિ ચૂંટાઈ ન આવે.',
               sourceVideoTitle: 'Vice President Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4494,12 +4494,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_constitutional_appointment_art75',
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૭૫(૧) મુજબ ભારતના વડાપ્રધાન અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'તેઓ જનતા દ્વારા સીધા ચૂંટાય છે',
                 'તેઓ રાષ્ટ્રપતિ દ્વારા નિયુક્ત (Appointed) થાય છે',
-                'તેઓ સંસદના બંને ગૃહો દ્વારા સંયુક્ત રીતે ચૂંટાય છે',
-                'તેઓ સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ દ્વારા નિયુક્ત થાય છે'
+                'તેઓ સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ દ્વારા નિયુક્ત થાય છે',
+                'તેઓ જનતા દ્વારા સીધા ચૂંટાય છે',
+                'તેઓ સંસદના બંને ગૃહો દ્વારા સંયુક્ત રીતે ચૂંટાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૭૫(૧) અનુસાર ભારતના વડાપ્રધાનની નિમણૂક રાષ્ટ્રપતિ દ્વારા કરવામાં આવે છે. સંસદીય પરંપરા મુજબ લોકસભામાં બહુમતી ધરાવતા પક્ષ કે ગઠબંધનના નેતાને વડાપ્રધાન નીમવામાં આવે છે.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4507,12 +4507,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_advice_binding_42nd_44th_amendment',
               question: 'કયા બંધારણીય સુધારા દ્વારા રાષ્ટ્રપતિને મંત્રીપરિષદની સલાહને એક વખત પુનર્વિચાર (Reconsideration) માટે પરત મોકલવાની સત્તા આપવામાં આવી?',
               options: [
-                '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
                 '૪૪મો બંધારણીય સુધારો, ૧૯૭૮',
-                '૫૨મો બંધારણીય સુધારો, ૧૯૮૫',
-                '૯૧મો બંધારણીય સુધારો, ૨૦૦૩'
+                '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
+                '૯૧મો બંધારણીય સુધારો, ૨૦૦૩',
+                '૫૨મો બંધારણીય સુધારો, ૧૯૮૫'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૪૨મા સુધારા ૧૯૭૬ દ્વારા મંત્રીપરિષદની સલાહ રાષ્ટ્રપતિ માટે ફરજિયાત બનાવાઈ હતી, જેને ૪૪મા સુધારા ૧૯૭૮ દ્વારા સુધારીને ૧ વાર પુનર્વિચાર માટે પરત મોકલવાની છૂટ આપવામાં આવી.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4522,8 +4522,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 '૩ મહિનામાં',
                 '૬ મહિનામાં',
-                '૧ વર્ષમાં',
-                'આગામી સામાન્ય ચૂંટણી સુધી'
+                'આગામી સામાન્ય ચૂંટણી સુધી',
+                '૧ વર્ષમાં'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૭૫(૫) મુજબ કોઈપણ મંત્રી જો સતત ૬ મહિના સુધી સંસદના કોઈપણ ગૃહનો સભ્ય ન રહે, તો તે મુદત પૂરી થતાં મંત્રી તરીકે ચાલુ રહી શકતો નથી.',
@@ -4534,11 +4534,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'જો ભારતના વડાપ્રધાન પોતાના પદ પરથી રાજીનામું આપે અથવા તેમનું આકસ્મિક અવસાન થાય, તો સરકાર પર તેની શું બંધારણીય અસર થાય છે?',
               options: [
                 'માત્ર વડાપ્રધાન પદ ખાલી પડે છે અને બાકીના મંત્રીઓ ચાલુ રહે છે',
-                'સમગ્ર મંત્રીપરિષદ આપોઆપ વિસર્જિત (Dissolved) થઈ જાય છે',
+                'સર્વોચ્ચ અદાલતના CJI વડાપ્રધાન બને છે',
                 'રાષ્ટ્રપતિ શાસન આપોઆપ લાદવામાં આવે છે',
-                'સર્વોચ્ચ અદાલતના CJI વડાપ્રધાન બને છે'
+                'સમગ્ર મંત્રીપરિષદ આપોઆપ વિસર્જિત (Dissolved) થઈ જાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'વડાપ્રધાન મંત્રીપરિષદના વડા અને કેન્દ્રબિંદુ છે. વડાપ્રધાનના રાજીનામા કે અવસાનથી સમગ્ર મંત્રીપરિષદનું આપોઆપ વિસર્જન થાય છે.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4546,12 +4546,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_rajya_sabha_members_history',
               question: 'નીચેનામાંથી કયા નેતા ભારતના વડાપ્રધાન બન્યા ત્યારે રાજ્યસભાના સભ્ય હતા?',
               options: [
-                'લાલ બહાદુર શાસ્ત્રી',
-                'મોરારજી દેસાઈ',
                 'ડૉ. મનમોહન સિંહ',
-                'અટલ બિહારી વાજપેયી'
+                'મોરારજી દેસાઈ',
+                'અટલ બિહારી વાજપેયી',
+                'લાલ બહાદુર શાસ્ત્રી'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'ઈન્દિરા ગાંધી (૧૯૬૬), એચ.ડી. દેવગૌડા (૧૯૯૬), આઈ.કે. ગુજરાલ (૧૯૯૭) અને ડૉ. મનમોહન સિંહ (૨૦૦૪-૨૦૧૪) વડાપ્રધાન બન્યા ત્યારે રાજ્યસભાના સભ્ય હતા.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4559,12 +4559,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_leader_of_the_house_concept',
               question: 'સંસદીય પ્રક્રિયામાં "ગૃહના નેતા" (Leader of the House) ના સંદર્ભમાં નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'વડાપ્રધાન હંમેશા માત્ર લોકસભાના જ ગૃહના નેતા હોય છે',
                 'વડાપ્રધાન જે ગૃહના સભ્ય હોય તે ગૃહના જ ગૃહના નેતા બને છે',
+                'વડાપ્રધાન હંમેશા માત્ર લોકસભાના જ ગૃહના નેતા હોય છે',
                 'લોકસભાના સ્પીકર જ ગૃહના નેતા હોય છે',
                 'ગૃહના નેતા હંમેશા રાષ્ટ્રપતિ દ્વારા નિયુક્ત થાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'વડાપ્રધાન જે ગૃહ (લોકસભા કે રાજ્યસભા) ના સભ્ય હોય તે ગૃહના જ નેતા હોય છે. દા.ત. ડૉ. મનમોહન સિંહ રાજ્યસભાના સભ્ય હોવાથી રાજ્યસભાના ગૃહના નેતા હતા, લોકસભાના નહીં.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4572,12 +4572,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_duties_article_78',
               question: 'રાષ્ટ્રપતિને સંઘના વહીવટી નિર્ણયો અને કાયદા નિર્માણની દરખાસ્તોની માહિતી આપવા સંબંધિત વડાપ્રધાનના બંધારણીય કર્તવ્યો કયા અનુચ્છેદમાં નિર્દિષ્ટ છે?',
               options: [
-                'અનુચ્છેદ ૭૪',
                 'અનુચ્છેદ ૭૫',
                 'અનુચ્છેદ ૭૭',
-                'અનુચ્છેદ ૭૮'
+                'અનુચ્છેદ ૭૮',
+                'અનુચ્છેદ ૭૪'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૭૮ રાષ્ટ્રપતિ અને વડાપ્રધાન વચ્ચેના સંબંધોનું સંચાલન કરે છે અને રાષ્ટ્રપતિને તમામ વહીવટી અને કાયદાકીય નિર્ણયો જણાવવાનું વડાપ્રધાનનું બંધારણીય કર્તવ્ય છે.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4587,10 +4587,10 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'અનુચ્છેદ ૭૪ માં, ૪૨મા સુધારા ૧૯૭૬ દ્વારા',
                 'અનુચ્છેદ ૭૫ માં, ૯૧મા સુધારા ૨૦૦૩ દ્વારા',
-                'અનુચ્છેદ ૩૫૨ માં, ૪૪મા સુધારા ૧૯૭૮ દ્વારા',
-                'મૂળ બંધારણના અનુચ્છેદ ૭૪ માં પહેલેથી હતો'
+                'મૂળ બંધારણના અનુચ્છેદ ૭૪ માં પહેલેથી હતો',
+                'અનુચ્છેદ ૩૫૨ માં, ૪૪મા સુધારા ૧૯૭૮ દ્વારા'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'મૂળ બંધારણમાં "કેબિનેટ" શબ્દ નહોતો. ૪૪મા સુધારા ૧૯૭૮ દ્વારા અનુચ્છેદ ૩૫૨ માં રાષ્ટ્રીય કટોકટી સંદર્ભે કેબિનેટ શબ્દ ઉમેરાયો, જેનો અર્થ "વડાપ્રધાન અને અન્ય કેબિનેટ કક્ષાના મંત્રીઓ" થાય છે.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4598,12 +4598,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_ex_officio_bodies_heads',
               question: 'નીચેનામાંથી કઈ પરિષદ કે સંસ્થાના હોદ્દાની રૂએ અધ્યક્ષ (Ex-officio Chairman) ભારતના વડાપ્રધાન હોય છે?',
               options: [
-                'માત્ર નીતિ આયોગ',
-                'નીતિ આયોગ, આંતર-રાજ્ય પરિષદ (અનુચ્છેદ ૨૬૩) અને રાષ્ટ્રીય એકતા પરિષદ',
                 'નાણાપંચ અને ચૂંટણી પંચ',
-                'સર્વોચ્ચ અદાલતની કોલેજિયમ'
+                'સર્વોચ્ચ અદાલતની કોલેજિયમ',
+                'નીતિ આયોગ, આંતર-રાજ્ય પરિષદ (અનુચ્છેદ ૨૬૩) અને રાષ્ટ્રીય એકતા પરિષદ',
+                'માત્ર નીતિ આયોગ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'વડાપ્રધાન નીતિ આયોગ, આંતર-રાજ્ય પરિષદ (અનુચ્છેદ ૨૬૩), રાષ્ટ્રીય એકતા પરિષદ (NIC), રાષ્ટ્રીય જળ સંસાધન પરિષદ અને NDMA ના હોદ્દાની રૂએ અધ્યક્ષ હોય છે.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4611,12 +4611,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pm_oath_schedule_three',
               question: 'ભારતના વડાપ્રધાનને હોદ્દો ગ્રહણ કરતા પૂર્વે બંધારણની કઈ અનુસૂચિ હેઠળ અને કોના દ્વારા શપથ લેવડાવવામાં આવે છે?',
               options: [
-                'બીજી અનુસૂચિ હેઠળ, સુપ્રીમ કોર્ટના CJI દ્વારા',
                 'ત્રીજી અનુસૂચિ હેઠળ, ભારતના રાષ્ટ્રપતિ દ્વારા',
                 'ચોથી અનુસૂચિ હેઠળ, લોકસભા સ્પીકર દ્વારા',
-                'બંધારણમાં વડાપ્રધાનના શપથ અંગે કોઈ જોગવાઈ નથી'
+                'બંધારણમાં વડાપ્રધાનના શપથ અંગે કોઈ જોગવાઈ નથી',
+                'બીજી અનુસૂચિ હેઠળ, સુપ્રીમ કોર્ટના CJI દ્વારા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'બંધારણની ત્રીજી અનુસૂચિ હેઠળ રાષ્ટ્રપતિ વડાપ્રધાનને કેન્દ્રીય મંત્રી તરીકે હોદ્દા અને ગુપ્તતાના શપથ લેવડાવે છે.',
               sourceVideoTitle: 'Prime Minister Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4624,10 +4624,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_composition_article_81',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ હેઠળ લોકસભા (House of the People) ની સંરચના (Composition) અને સભ્ય સંખ્યા અંગેની જોગવાઈ કરવામાં આવી છે?',
               options: [
-                'અનુચ્છેદ ૭૯',
+                'અનુચ્છેદ ૮૨',
                 'અનુચ્છેદ ૮૦',
                 'અનુચ્છેદ ૮૧',
-                'અનુચ્છેદ ૮૨'
+                'અનુચ્છેદ ૭૯'
               ],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૭૯ સંસદના ગઠન સાથે, અનુચ્છેદ ૮૦ રાજ્યસભાની સંરચના સાથે અને અનુચ્છેદ ૮૧ લોકસભાની સંરચના અને બેઠકોની ફાળવણી સાથે સંકળાયેલ છે.',
@@ -4637,9 +4637,9 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_104th_amendment_anglo_indian',
               question: '૧૦૪મા બંધારણીય સુધારા અધિનિયમ, ૨૦૧૯ દ્વારા લોકસભાની સંરચનામાં કયો મહત્વપૂર્ણ ફેરફાર કરવામાં આવ્યો?',
               options: [
-                'લોકસભાનો કાર્યકાળ ૫ વર્ષથી વધારીને ૬ વર્ષ કરવામાં આવ્યો',
-                'અનુચ્છેદ ૩૩૧ હેઠળ એંગ્લો-ઈન્ડિયન સમુદાયના ૨ સભ્યોનું નામાંકન સમાપ્ત કરવામાં આવ્યું',
                 'લોકસભાની કુલ બેઠકો ૫૫૨ થી વધારીને ૫૭૫ કરવામાં આવી',
+                'અનુચ્છેદ ૩૩૧ હેઠળ એંગ્લો-ઈન્ડિયન સમુદાયના ૨ સભ્યોનું નામાંકન સમાપ્ત કરવામાં આવ્યું',
+                'લોકસભાનો કાર્યકાળ ૫ વર્ષથી વધારીને ૬ વર્ષ કરવામાં આવ્યો',
                 'મતદાનની લઘુત્તમ વય ૧૮ થી ઘટાડીને ૧૬ વર્ષ કરવામાં આવી'
               ],
               correctOptionIndex: 1,
@@ -4650,12 +4650,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_maximum_current_strength',
               question: '૧૦૪મા બંધારણીય સુધારા બાદ લોકસભાની બંધારણીય રીતે \'મહત્તમ સભ્ય સંખ્યા\' અને હાલની \'વાસ્તવિક ચૂંટાયેલી સભ્ય સંખ્યા\' અનુક્રમે કેટલી છે?',
               options: [
-                'મહત્તમ ૫૫૨ અને વાસ્તવિક ૫૪૫',
-                'મહત્તમ ૫૫૦ અને વાસ્તવિક ૫૪૩',
+                'મહત્તમ ૫૫૦ અને વાસ્તવિક ૫૪૫',
                 'મહત્તમ ૫૪૫ અને વાસ્તવિક ૫૪૦',
-                'મહત્તમ ૫૫૦ અને વાસ્તવિક ૫૪૫'
+                'મહત્તમ ૫૫૦ અને વાસ્તવિક ૫૪૩',
+                'મહત્તમ ૫૫૨ અને વાસ્તવિક ૫૪૫'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'એંગ્લો-ઈન્ડિયનની ૨ બેઠકો રદ થયા બાદ લોકસભાની મહત્તમ સભ્ય સંખ્યા ૫૫૦ (૫૩૦ રાજ્યો + ૨૦ કેન્દ્રશાસિત પ્રદેશો) છે, અને હાલની વાસ્તવિક સભ્ય સંખ્યા ૫૪૩ (તમામ ચૂંટાયેલા) છે.',
               sourceVideoTitle: 'House Of People (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4663,12 +4663,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_delimitation_84th_amendment',
               question: 'કયા બંધારણીય સુધારા દ્વારા લોકસભા અને વિધાનસભાઓની બેઠકોની કુલ સંખ્યા વર્ષ ૨૦૨૬ પછી થનારી પ્રથમ વસ્તી ગણતરી સુધી ફ્રીઝ કરવામાં આવી છે?',
               options: [
-                '૪૨મો સુધારો, ૧૯૭૬',
                 '૪૪મો સુધારો, ૧૯૭૮',
                 '૮૪મો સુધારો, ૨૦૦૧',
-                '૮૭મો સુધારો, ૨૦૦૩'
+                '૮૭મો સુધારો, ૨૦૦૩',
+                '૪૨મો સુધારો, ૧૯૭૬'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: '૮૪મા બંધારણીય સુધારા ૨૦૦૧ દ્વારા લોકસભાની બેઠકોની સંખ્યા વર્ષ ૨૦૨૬ પછી થનારી પ્રથમ વસ્તી ગણતરીના આંકડા પ્રકાશિત થાય ત્યાં સુધી (૧૯૭૧ ની વસ્તી આધારે) ફ્રીઝ કરવામાં આવી છે. ૮૭મા સુધારા ૨૦૦૩ દ્વારા માત્ર આંતરિક સીમાંકન ૨૦૦૧ ની વસ્તીથી માન્ય રખાયું.',
               sourceVideoTitle: 'House Of People (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4676,12 +4676,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_60_lakh_population_exception',
               question: 'અનુચ્છેદ ૮૧ મુજબ રાજ્યો વચ્ચે લોકસભા બેઠકોની ફાળવણી અને વસ્તીના ગુણોત્તરની સમાનતાનો નિયમ કયા રાજ્યોને લાગુ પડતો નથી?',
               options: [
+                'માત્ર કેન્દ્રશાસિત પ્રદેશોને',
                 '૧ કરોડથી ઓછી વસ્તીવાળા રાજ્યોને',
                 '૬૦ લાખ કરતાં ઓછી વસ્તી ધરાવતા નાના રાજ્યોને',
-                'પૂર્વોત્તરના તમામ ૮ રાજ્યોને',
-                'માત્ર કેન્દ્રશાસિત પ્રદેશોને'
+                'પૂર્વોત્તરના તમામ ૮ રાજ્યોને'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૮૧(૨) ના પ્રોવિસો (Proviso) મુજબ, ૬૦ લાખથી ઓછી વસ્તી ધરાવતા રાજ્યો (જેમ કે સિક્કિમ, મિઝોરમ, નાગાલેન્ડ વગેરે, જ્યાં માત્ર ૧-૧ લોકસભા બેઠક છે) ને વસ્તી-બેઠકના સમાન ગુણોત્તરનો નિયમ લાગુ પડતો નથી.',
               sourceVideoTitle: 'House Of People (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4689,9 +4689,9 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_article_330_sc_st_reservation',
               question: 'અનુચ્છેદ ૩૩૦ હેઠળ હાલમાં લોકસભામાં અનુસૂચિત જાતિ (SC) અને અનુસૂચિત જનજાતિ (ST) માટે કુલ ૫૪૩ માંથી અનુક્રમે કેટલી બેઠકો અનામત રાખવામાં આવી છે?',
               options: [
-                'SC માટે ૭૯ અને ST માટે ૪૧ (કુલ ૧૨૦)',
-                'SC માટે ૮૪ અને ST માટે ૪૭ (કુલ ૧૩૧)',
                 'SC માટે ૮૫ અને ST માટે ૪૮ (કુલ ૧૩૩)',
+                'SC માટે ૮૪ અને ST માટે ૪૭ (કુલ ૧૩૧)',
+                'SC માટે ૭૯ અને ST માટે ૪૧ (કુલ ૧૨૦)',
                 'SC માટે ૯૦ અને ST માટે ૫૦ (કુલ ૧૪૦)'
               ],
               correctOptionIndex: 1,
@@ -4702,12 +4702,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_gujarat_seats_breakup',
               question: 'ગુજરાતની કુલ ૨૬ લોકસભા બેઠકો પૈકી અનુસૂચિત જાતિ (SC) અને અનુસૂચિત જનજાતિ (ST) માટે અનામત બેઠકોની સંખ્યા કેટલી છે?',
               options: [
-                'SC માટે ૨ અને ST માટે ૪ બેઠકો',
                 'SC માટે ૩ અને ST માટે ૩ બેઠકો',
                 'SC માટે ૧ અને ST માટે ૫ બેઠકો',
-                'SC માટે ૪ અને ST માટે ૨ બેઠકો'
+                'SC માટે ૪ અને ST માટે ૨ બેઠકો',
+                'SC માટે ૨ અને ST માટે ૪ બેઠકો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગુજરાતની ૨૬ લોકસભા બેઠકોમાંથી ૨ બેઠકો SC માટે (અમદાવાદ પશ્ચિમ અને કચ્છ) અને ૪ બેઠકો ST માટે (દાહોદ, છોટા ઉદેપુર, બારડોલી અને વલસાડ) અનામત છે, જ્યારે ૨૦ સામાન્ય બેઠકો છે.',
               sourceVideoTitle: 'House Of People (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4716,9 +4716,9 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'બંધારણના અનુચ્છેદ ૮૪ મુજબ લોકસભાના સભ્ય બનવા માટે ઉમેદવારની લઘુત્તમ વય ઓછામાં ઓછી કેટલી હોવી જોઈએ?',
               options: [
                 '૧૮ વર્ષ',
-                '૨૧ વર્ષ',
+                '૩૦ વર્ષ',
                 '૨૫ વર્ષ',
-                '૩૦ વર્ષ'
+                '૨૧ વર્ષ'
               ],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૮૪(b) મુજબ લોકસભા સભ્ય માટે ઓછામાં ઓછી ૨૫ વર્ષની વય હોવી જોઈએ. જ્યારે રાજ્યસભા માટે લઘુત્તમ ૩૦ વર્ષ અને રાષ્ટ્રપતિ/ઉપરાષ્ટ્રપતિ/રાજ્યપાલ માટે ૩૫ વર્ષની વય જરૂરી છે. (મતદાન માટે ૧૮ વર્ષ અને પંચાયત/પાલિકા ચૂંટણી માટે ૨૧ વર્ષ છે).',
@@ -4729,8 +4729,8 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'કયા બંધારણીય સુધારા દ્વારા અનુચ્છેદ ૩૨૬ માં સુધારો કરીને ભારતમાં મતદાન માટેની લઘુત્તમ વય ૨૧ વર્ષથી ઘટાડીને ૧૮ વર્ષ કરવામાં આવી?',
               options: [
                 '૪૨મો સુધારો, ૧૯૭૬',
-                '૪૪મો સુધારો, ૧૯૭૮',
                 '૫૨મો સુધારો, ૧૯૮૫',
+                '૪૪મો સુધારો, ૧૯૭૮',
                 '૬૧મો સુધારો, ૧૯૮૮'
               ],
               correctOptionIndex: 3,
@@ -4741,12 +4741,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_ls_emergency_extension_5th_loksabha',
               question: 'રાષ્ટ્રીય કટોકટી (અનુચ્છેદ ૩૫૨) અમલમાં હોય ત્યારે લોકસભાનો કાર્યકાળ સંસદીય કાયદા દ્વારા એક સમયે કેટલા સમય માટે લંબાવી શકાય છે અને ભારતના ઈતિહાસમાં કઈ લોકસભાનો કાર્યકાળ આ રીતે લંબાવાયો હતો?',
               options: [
+                'એક સમયે ૬ મહિના; છઠ્ઠી લોકસભા',
                 'એક સમયે ૬ મહિના; ત્રીજી લોકસભા',
                 'એક સમયે ૧ વર્ષ; પાંચમી લોકસભા (૧૯૭૧-૧૯૭૭)',
-                'એક સમયે ૨ વર્ષ; ચોથી લોકસભા',
-                'એક સમયે ૬ મહિના; છઠ્ઠી લોકસભા'
+                'એક સમયે ૨ વર્ષ; ચોથી લોકસભા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૮૩(૨) ના પ્રોવિસો મુજબ, રાષ્ટ્રીય કટોકટી દરમિયાન સંસદ કાયદો બનાવીને લોકસભાનો કાર્યકાળ એક સમયે ૧ વર્ષ માટે લંબાવી શકે છે. ૧૯૭૫ ની કટોકટી દરમિયાન ૫મી લોકસભાનો કાર્યકાળ બે વખત ૧-૧ વર્ષ (કુલ ૨ વર્ષ) લંબાવવામાં આવ્યો હતો.',
               sourceVideoTitle: 'House Of People (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4754,12 +4754,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_composition_article_80',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ હેઠળ કાઉન્સિલ ઓફ સ્ટેટ્સ (રાજ્યસભા) ની સંરચના અને બેઠકોની સંખ્યા અંગેની જોગવાઈ કરવામાં આવી છે?',
               options: [
-                'અનુચ્છેદ ૭૯',
-                'અનુચ્છેદ ૮૦',
                 'અનુચ્છેદ ૮૧',
-                'અનુચ્છેદ ૮૩'
+                'અનુચ્છેદ ૮૩',
+                'અનુચ્છેદ ૭૯',
+                'અનુચ્છેદ ૮૦'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ભારતીય બંધારણના અનુચ્છેદ ૮૦ માં રાજ્યસભાની સંરચના અંગેની જોગવાઈ છે, જેમાં મહત્તમ ૨૫૦ સભ્યો (૨૩૮ ચૂંટાયેલા + ૧૨ નામાંકિત) ની જોગવાઈ છે.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4768,11 +4768,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'બંધારણના અનુચ્છેદ ૮૦(૩) મુજબ ભારતના રાષ્ટ્રપતિ રાજ્યસભામાં નીચેના પૈકી કયા ૪ ક્ષેત્રોમાંથી ૧૨ સભ્યોને નામાંકિત કરે છે?',
               options: [
                 'સાહિત્ય, વિજ્ઞાન, રમતગમત અને રાજનીતિ',
-                'સાહિત્ય, વિજ્ઞાન, કલા અને સમાજસેવા',
+                'વિજ્ઞાન, અર્થશાસ્ત્ર, કલા અને કાયદો',
                 'સાહિત્ય, શિક્ષણ, સંસ્કૃતિ અને પત્રકારત્વ',
-                'વિજ્ઞાન, અર્થશાસ્ત્ર, કલા અને કાયદો'
+                'સાહિત્ય, વિજ્ઞાન, કલા અને સમાજસેવા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૮૦(૩) સ્પષ્ટપણે ૪ ક્ષેત્રો દર્શાવે છે: ૧. સાહિત્ય (Literature), ૨. વિજ્ઞાન (Science), ૩. કલા (Art), અને ૪. સમાજસેવા (Social Service). બંધારણમાં \'રમતગમત\' અલગથી નથી, તે કલા/સમાજસેવા હેઠળ અર્થઘટિત થાય છે.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4780,10 +4780,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_fourth_schedule_seat_basis',
               question: 'ભારતીય બંધારણની કઈ અનુસૂચિમાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો વચ્ચે રાજ્યસભાની બેઠકોની ફાળવણી કરવામાં આવી છે અને તેનો આધાર શું છે?',
               options: [
-                'ત્રીજી અનુસૂચિ; રાજ્યોના ભૌગોલિક ક્ષેત્રફળના આધારે',
+                'સાતમી અનુસૂચિ; તમામ રાજ્યોને અમેરિકાની જેમ સમાન ૨-૨ બેઠકો',
                 'ચોથી અનુસૂચિ; રાજ્યોની વસ્તીના આધારે',
                 'પાંચમી અનુસૂચિ; રાજ્યોની આર્થિક આવકના આધારે',
-                'સાતમી અનુસૂચિ; તમામ રાજ્યોને અમેરિકાની જેમ સમાન ૨-૨ બેઠકો'
+                'ત્રીજી અનુસૂચિ; રાજ્યોના ભૌગોલિક ક્ષેત્રફળના આધારે'
               ],
               correctOptionIndex: 1,
               explanation: 'બંધારણની ચોથી અનુસૂચિ (Fourth Schedule) માં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશોને રાજ્યસભાની બેઠકોની ફાળવણી રાજ્યની વસ્તીના આધારે કરવામાં આવી છે (ઉત્તર પ્રદેશ ૩૧, ગુજરાત ૧૧, સિક્કિમ ૧).',
@@ -4806,12 +4806,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_open_ballot_kuldip_nayar_case',
               question: 'વર્ષ ૨૦૦૩ માં જન પ્રતિનિધિત્વ અધિનિયમ (RPA 1951) માં થયેલા સુધારા દ્વારા રાજ્યસભાની ચૂંટણી પદ્ધતિમાં કયો મહત્વપૂર્ણ ફેરફાર કરાયો, જેને સુપ્રીમ કોર્ટે \'કુલદીપ નાયર કેસ (૨૦૦૬)\' માં માન્ય રાખ્યો?',
               options: [
-                'ગુપ્ત મતદાનના બદલે "ખુલ્લું મતદાન" (Open Ballot) અને ડોમિસાઇલ (રાજ્યના નિવાસી હોવાની) શરત રદ',
-                'મતદાન માટે ઈવીએમ (EVM) નો ઉપયોગ ફરજિયાત બનાવવામાં આવ્યો',
                 'ઉમેદવાર માટે લઘુત્તમ વય ૩૦ વર્ષથી ઘટાડીને ૨૫ વર્ષ કરવામાં આવી',
-                'રાજ્યસભાના સભ્યોનો કાર્યકાળ ૬ વર્ષથી ઘટાડીને ૫ વર્ષ કરવામાં આવ્યો'
+                'રાજ્યસભાના સભ્યોનો કાર્યકાળ ૬ વર્ષથી ઘટાડીને ૫ વર્ષ કરવામાં આવ્યો',
+                'ગુપ્ત મતદાનના બદલે "ખુલ્લું મતદાન" (Open Ballot) અને ડોમિસાઇલ (રાજ્યના નિવાસી હોવાની) શરત રદ',
+                'મતદાન માટે ઈવીએમ (EVM) નો ઉપયોગ ફરજિયાત બનાવવામાં આવ્યો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ભ્રષ્ટાચાર અને ક્રોસ-વોટિંગ અટકાવવા ૨૦૦૩ માં ગુપ્ત મતદાન રદ કરી "ખુલ્લું મતદાન" દાખલ કરાયું (પક્ષના એજન્ટને મતપત્ર બતાવવું) અને તે રાજ્યનો નિવાસી હોવાની શરત દૂર કરાઈ. ૨૦૦૬ માં સુપ્રીમ કોર્ટે તેને બંધારણીય ઠેરવી.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4819,12 +4819,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_gujarat_seats_count',
               question: 'ગુજરાત રાજ્યમાંથી રાજ્યસભામાં પ્રતિનિધિત્વ કરતી બેઠકોની સંખ્યા કેટલી છે?',
               options: [
+                '૧૦ બેઠકો',
                 '૧૧ બેઠકો',
-                '૨૬ બેઠકો',
                 '૧૯ બેઠકો',
-                '૧૦ બેઠકો'
+                '૨૬ બેઠકો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ગુજરાતમાં રાજ્યસભાની ૧૧ બેઠકો છે (લોકસભાની ૨૬ બેઠકો છે). મધ્યપ્રદેશ અને આંધ્રપ્રદેશમાં પણ રાજ્યસભાની ૧૧-૧૧ બેઠકો છે.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4832,12 +4832,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_permanent_house_rotation',
               question: 'બંધારણના અનુચ્છેદ ૮૩(૧) મુજબ રાજ્યસભાના કાર્યકાળ અને સભ્યોની નિવૃત્તિ અંગે કયું વિધાન સત્ય છે?',
               options: [
-                'રાજ્યસભાનો કાર્યકાળ ૬ વર્ષનો છે અને ૬ વર્ષ પૂરા થતાં રાષ્ટ્રપતિ તેનું વિસર્જન કરે છે',
-                'રાજ્યસભા કાયમી ગૃહ છે (ક્યારેય વિસર્જન થતું નથી) અને દર ૨ વર્ષે ૧/૩ સભ્યો નિવૃત્ત થાય છે',
                 'દર ૫ વર્ષે રાજ્યસભાના તમામ સભ્યો એકસાથે નિવૃત્ત થાય છે',
-                'વડાપ્રધાનની સલાહથી રાષ્ટ્રપતિ કોઈપણ સમયે રાજ્યસભાનું વિસર્જન કરી શકે છે'
+                'રાજ્યસભાનો કાર્યકાળ ૬ વર્ષનો છે અને ૬ વર્ષ પૂરા થતાં રાષ્ટ્રપતિ તેનું વિસર્જન કરે છે',
+                'વડાપ્રધાનની સલાહથી રાષ્ટ્રપતિ કોઈપણ સમયે રાજ્યસભાનું વિસર્જન કરી શકે છે',
+                'રાજ્યસભા કાયમી ગૃહ છે (ક્યારેય વિસર્જન થતું નથી) અને દર ૨ વર્ષે ૧/૩ સભ્યો નિવૃત્ત થાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૮૩(૧) અનુસાર રાજ્યસભા કાયમી ગૃહ છે જેનું ક્યારેય વિસર્જન થતું નથી. તેના ૧/૩ સભ્યો દર ૨ વર્ષના અંતે નિવૃત્ત થાય છે અને સંસદીય કાયદા (RPA 1951) મુજબ દરેક સભ્યનો વ્યક્તિગત કાર્યકાળ ૬ વર્ષનો હોય છે.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4846,11 +4846,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'બંધારણના કયા અનુચ્છેદ હેઠળ રાજ્યસભા હાજર અને મતદાન કરનાર સભ્યોની ૨/૩ બહુમતીથી ઠરાવ પસાર કરીને સંસદને \'રાજ્યયાદી (State List)\' ના કોઈપણ વિષય પર કાયદો ઘડવાની વિશિષ્ટ સત્તા આપી શકે છે?',
               options: [
                 'અનુચ્છેદ ૨૪૮',
+                'અનુચ્છેદ ૨૫૨',
                 'અનુચ્છેદ ૨૪૯',
-                'અનુચ્છેદ ૨૫૦',
-                'અનુચ્છેદ ૨૫૨'
+                'અનુચ્છેદ ૨૫૦'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૨૪૯ રાજ્યસભાને વિશિષ્ટ સમવાયી સત્તા આપે છે કે જો રાષ્ટ્રીય હિતમાં જરૂરી હોય તો રાજ્યસભા ૨/૩ બહુમતીથી ઠરાવ પસાર કરી સંસદને રાજ્યયાદીના વિષય પર ૧ વર્ષ માટે કાયદો ઘડવાની સત્તા આપી શકે છે.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4858,12 +4858,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_article_312_all_india_services',
               question: 'નવી \'અખિલ ભારતીય સેવાઓ (All India Services - AIS)\' નું સર્જન કરવાની બંધારણીય પહેલ કરવાની અનન્ય સત્તા કયા ગૃહ પાસે છે અને કયા અનુચ્છેદ હેઠળ છે?',
               options: [
+                'કેન્દ્રીય કેબિનેટ પાસે, અનુચ્છેદ ૭૪ હેઠળ',
                 'માત્ર લોકસભા પાસે, અનુચ્છેદ ૩૧૦ હેઠળ',
                 'માત્ર રાજ્યસભા પાસે, અનુચ્છેદ ૩૧૨ હેઠળ',
-                'સંસદના બંને ગૃહોની સંયુક્ત બેઠક પાસે, અનુચ્છેદ ૩૧૫ હેઠળ',
-                'કેન્દ્રીય કેબિનેટ પાસે, અનુચ્છેદ ૭૪ હેઠળ'
+                'સંસદના બંને ગૃહોની સંયુક્ત બેઠક પાસે, અનુચ્છેદ ૩૧૫ હેઠળ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૩૧૨ હેઠળ નવી અખિલ ભારતીય સેવા (AIS) ની સ્થાપના કરવાની વિશિષ્ટ પહેલ માત્ર રાજ્યસભા જ કરી શકે છે; આ માટે રાજ્યસભાએ હાજર અને મતદાન કરનાર સભ્યોની ૨/૩ બહુમતીથી ઠરાવ પસાર કરવો અનિવાર્ય છે.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4871,12 +4871,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_rs_ut_representation',
               question: 'નીચેના પૈકી કયા કેન્દ્રશાસિત પ્રદેશો (UTs) નું રાજ્યસભામાં પ્રતિનિધિત્વ છે?',
               options: [
-                'ચંદીગઢ, લદ્દાખ અને લક્ષદ્વીપ',
                 'દિલ્હી, પુડુચેરી અને જમ્મુ-કાશ્મીર',
                 'દાદરા-નગર હવેલી, દમણ-દીવ અને આંદામાન-નિકોબાર',
+                'ચંદીગઢ, લદ્દાખ અને લક્ષદ્વીપ',
                 'તમામ ૮ કેન્દ્રશાસિત પ્રદેશોને સમાન પ્રતિનિધિત્વ મળેલું છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'માત્ર જે કેન્દ્રશાસિત પ્રદેશોમાં પોતાની વિધાનસભા (Legislative Assembly) અસ્તિત્વમાં છે તેવા જ ૩ UTs - દિલ્હી (૩), પુડુચેરી (૧), અને જમ્મુ-કાશ્મીર (૪) નું રાજ્યસભામાં પ્રતિનિધિત્વ છે. બાકીના ૫ UTs માં વિધાનસભા ન હોવાથી પ્રતિનિધિત્વ નથી.',
               sourceVideoTitle: 'Council Of States (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4885,11 +4885,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૮૫(૧) મુજબ સંસદના એક સત્રની છેલ્લી બેઠક અને પછીના સત્રની પ્રથમ બેઠક વચ્ચે મહત્તમ કેટલા સમયથી વધુ અંતર ન હોવું જોઈએ?',
               options: [
                 '૩ મહિના',
-                '૬ મહિના',
                 '૯ મહિના',
+                '૬ મહિના',
                 '૧ વર્ષ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૮૫(૧) મુજબ સંસદના બે સત્રો વચ્ચે મહત્તમ ૬ મહિનાથી વધુનું અંતર ન હોવું જોઈએ. તેથી સંસદ વર્ષમાં ઓછામાં ઓછી ૨ વખત મળવી ફરજિયાત છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4897,12 +4897,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_adjournment_vs_prorogation',
               question: 'સંસદમાં \'સ્થગન (Adjournment)\' અને \'સત્રાવસાન (Prorogation)\' વચ્ચેનો મુખ્ય ભેદ શું છે?',
               options: [
-                'સ્થગન રાષ્ટ્રપતિ દ્વારા થાય છે, જ્યારે સત્રાવસાન સ્પીકર દ્વારા થાય છે',
                 'સ્થગન માત્ર બેઠકને મુલતવી રાખે છે અને તે પીઠાસીન અધિકારી દ્વારા થાય છે; જ્યારે સત્રાવસાન સમગ્ર સત્રનો અંત લાવે છે અને તે રાષ્ટ્રપતિ દ્વારા થાય છે',
                 'સત્રાવસાનથી સંસદમાં પેન્ડિંગ રહેલા તમામ ખરડા આપમેળે રદ થાય છે',
+                'સ્થગન રાષ્ટ્રપતિ દ્વારા થાય છે, જ્યારે સત્રાવસાન સ્પીકર દ્વારા થાય છે',
                 'બંને સત્તાઓ માત્ર વડાપ્રધાન પાસે છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'સ્થગન (Adjournment) ગૃહના પીઠાસીન અધિકારી (સ્પીકર/ચેરમેન) કરે છે જે માત્ર બેઠકને અમુક કલાક કે દિવસ મુલતવી રાખે છે; જ્યારે સત્રાવસાન (Prorogation) રાષ્ટ્રપતિ દ્વારા અનુચ્છેદ ૮૫(૨)(a) હેઠળ થાય છે જે સમગ્ર સત્રનો અંત લાવે છે. સત્રાવસાનથી ખરડા રદ થતા નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4910,12 +4910,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_quorum_article_100',
               question: 'બંધારણના અનુચ્છેદ ૧૦૦(૩) મુજબ લોકસભા અને રાજ્યસભાની બેઠક યોજવા માટે લઘુત્તમ ગણપૂર્તિ (કોરમ - Quorum) અનુક્રમે કેટલા સભ્યોની હોવી જોઈએ?',
               options: [
-                'લોકસભામાં ૫૦ અને રાજ્યસભામાં ૨૦ સભ્યો',
                 'લોકસભામાં ૫૫ અને રાજ્યસભામાં ૨૫ સભ્યો (કુલ સભ્ય સંખ્યાના ૧/૧૦)',
-                'બંને ગૃહોમાં ૬૦-૬૦ સભ્યો',
-                'ગૃહની કુલ સભ્ય સંખ્યાના ૧/૩ સભ્યો'
+                'ગૃહની કુલ સભ્ય સંખ્યાના ૧/૩ સભ્યો',
+                'લોકસભામાં ૫૦ અને રાજ્યસભામાં ૨૦ સભ્યો',
+                'બંને ગૃહોમાં ૬૦-૬૦ સભ્યો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૦૦(૩) અનુસાર કોરમ કુલ સભ્ય સંખ્યાના ૧/૧૦ (10%) છે. તેથી લોકસભામાં ૫૫ સભ્યો (૫૪૩ ના ૧૦%) અને રાજ્યસભામાં ૨૫ સભ્યો (૨૪૫ ના ૧૦%) ની હાજરી અનિવાર્ય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4923,10 +4923,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_quorum_presiding_officer_duty',
               question: 'જો ગૃહની બેઠક દરમિયાન કોરમ (ગણપૂર્તિ) પૂર્ણ ન હોય, તો અનુચ્છેદ ૧૦૦(૪) મુજબ પીઠાસીન અધિકારી (સ્પીકર/ચેરમેન) ની કઈ બંધારણીય ફરજ છે?',
               options: [
-                'હાજર સભ્યો સાથે કાર્યવાહી ચાલુ રાખી શકે છે',
+                'રાષ્ટ્રપતિને લોકસભા વિસર્જન કરવાની ભલામણ કરવી',
                 'ગૃહને સ્થગિત કરવું અથવા કોરમ ન થાય ત્યાં સુધી બેઠક મોકૂફ રાખવી',
-                'ગેરહાજર સભ્યો સામે તાત્કાલિક દંડ જાહેર કરવો',
-                'રાષ્ટ્રપતિને લોકસભા વિસર્જન કરવાની ભલામણ કરવી'
+                'હાજર સભ્યો સાથે કાર્યવાહી ચાલુ રાખી શકે છે',
+                'ગેરહાજર સભ્યો સામે તાત્કાલિક દંડ જાહેર કરવો'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૦૦(૪) હેઠળ જો કોરમ ન હોય તો ગૃહની બેઠક સ્થગિત (Adjourn) કરવી અથવા કોરમ પૂર્ણ ન થાય ત્યાં સુધી બેઠક મોકૂફ રાખવી પીઠાસીન અધિકારીની બંધારણીય ફરજ છે.',
@@ -4938,8 +4938,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'તેનો લેખિત ઉત્તર આપવામાં આવે છે અને પૂરક પ્રશ્ન પૂછી શકાતો નથી',
                 'તેનો મૌખિક ઉત્તર (Oral Answer) આપવામાં આવે છે અને મંત્રીના જવાબ બાદ પૂરક પ્રશ્નો (Supplementary Questions) પૂછી શકાય છે',
-                'તે માત્ર વિરોધ પક્ષના નેતા જ પૂછી શકે છે',
-                'તેનો ઉત્તર આપવો મંત્રી માટે વૈકલ્પિક હોય છે'
+                'તેનો ઉત્તર આપવો મંત્રી માટે વૈકલ્પિક હોય છે',
+                'તે માત્ર વિરોધ પક્ષના નેતા જ પૂછી શકે છે'
               ],
               correctOptionIndex: 1,
               explanation: 'તારાંકિત પ્રશ્ન પર તારક (*) ચિહ્ન હોય છે. તેનો ગૃહમાં મૌખિક ઉત્તર અપાય છે અને તેના પર સંબંધિત સભ્યો દ્વારા પૂરક પ્રશ્નો પૂછી શકાય છે.',
@@ -4949,12 +4949,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_unstarred_question_feature',
               question: '\'અતારાંકિત પ્રશ્ન (Unstarred Question)\' ના સંદર્ભમાં નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'મંત્રી દ્વારા ગૃહમાં મૌખિક ઉત્તર આપવામાં આવે છે',
                 'સભાના ટેબલ પર લેખિત ઉત્તર (Written Answer) મૂકવામાં આવે છે અને પૂરક પ્રશ્નો પૂછી શકાતા નથી',
+                'મંત્રી દ્વારા ગૃહમાં મૌખિક ઉત્તર આપવામાં આવે છે',
                 'તેના માટે ૨૪ કલાકની અંદર ઉત્તર આપવો ફરજિયાત છે',
                 'તે માત્ર રાષ્ટ્રપતિને સંબોધીને પૂછી શકાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અતારાંકિત પ્રશ્નનો ઉત્તર મંત્રી દ્વારા લેખિત સ્વરૂપે સભાપટલ પર મૂકાય છે. લેખિત ઉત્તર હોવાથી તેના પર ગૃહમાં કોઈ પૂરક પ્રશ્ન પૂછી શકાતો નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4975,12 +4975,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_zero_hour_indian_origin',
               question: 'સંસદીય પ્રક્રિયામાં \'શૂન્યકાળ (Zero Hour)\' અંગે નીચેનામાંથી કયું વિધાન સત્ય છે?',
               options: [
-                'તે બ્રિટિશ બંધારણમાંથી ઉછીનો લેવામાં આવ્યો છે',
                 'બંધારણના અનુચ્છેદ ૧૦૫ માં શૂન્યકાળ અંગે વિગતવાર જોગવાઈ છે',
                 'તે ૧૯૬૨ થી શરૂ થયેલી ભારતીય સંસદીય વ્યવસ્થાની અનન્ય શોધ છે, જેનો બંધારણ કે સંસદના નિયમોમાં કોઈ ઉલ્લેખ નથી',
-                'તે સવારે ૧૧:૦૦ વાગ્યાથી શરૂ થતો સંસદનો પ્રથમ કલાક છે'
+                'તે સવારે ૧૧:૦૦ વાગ્યાથી શરૂ થતો સંસદનો પ્રથમ કલાક છે',
+                'તે બ્રિટિશ બંધારણમાંથી ઉછીનો લેવામાં આવ્યો છે'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'શૂન્યકાળ (બપોરે ૧૨:૦૦ થી ૧:૦૦) ૧૯૬૨ થી ભારતીય સંસદીય વ્યવસ્થાની પોતાની નીપજ છે. બંધારણ કે સંસદીય નિયમ-પુસ્તિકામાં તેનો કોઈ ઉલ્લેખ નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -4988,12 +4988,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_casting_vote_article_100',
               question: 'બંધારણના અનુચ્છેદ ૧૦૦(૧) હેઠળ લોકસભાના સ્પીકર અથવા રાજ્યસભાના ચેરમેન પોતાનો \'નિર્ણાયક મત (Casting Vote)\' ક્યારે આપી શકે છે?',
               options: [
-                'દરેક સામાન્ય ખરડા પર પ્રથમ તબક્કે જ',
                 'માત્ર બંધારણીય સુધારા ખરડા પર',
                 'જ્યારે કોઈ પ્રસ્તાવ પર બંને પક્ષે મતોની સંખ્યા સમાન થાય (Tie / Equality of Votes) ત્યારે જ',
-                'રાષ્ટ્રપતિના મહાભિયોગ પ્રસ્તાવ પર'
+                'રાષ્ટ્રપતિના મહાભિયોગ પ્રસ્તાવ પર',
+                'દરેક સામાન્ય ખરડા પર પ્રથમ તબક્કે જ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'પીઠાસીન અધિકારી તટસ્થતા જાળવવા પ્રથમ તબક્કે સામાન્ય સભ્યની જેમ મત આપતા નથી; માત્ર જ્યારે પક્ષ અને વિપક્ષ બંનેના મતો સરખા થાય (Tie) ત્યારે જ મડાગાંઠ ઉકેલવા કાસ્ટિંગ વોટ આપે છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5001,12 +5001,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp1_language_in_parliament_art120',
               question: 'બંધારણના અનુચ્છેદ ૧૨૦ મુજબ સંસદની કાર્યવાહી સામાન્ય રીતે કઈ ભાષામાં ચલાવવામાં આવે છે અને માતૃભાષામાં બોલવા માટે કોની મંજૂરી જરૂરી છે?',
               options: [
-                'માત્ર હિન્દીમાં; રાષ્ટ્રપતિની મંજૂરીથી',
-                'હિન્દી અથવા અંગ્રેજીમાં; લોકસભા સ્પીકર અથવા રાજ્યસભા ચેરમેનની પૂર્વ મંજૂરીથી માતૃભાષામાં',
+                'માત્ર સંસ્કૃત અને અંગ્રેજીમાં',
                 'બંધારણની ૮મી અનુસૂચિની કોઈપણ ૨૨ ભાષાઓમાં કોઈપણ મંજૂરી વિના',
-                'માત્ર સંસ્કૃત અને અંગ્રેજીમાં'
+                'માત્ર હિન્દીમાં; રાષ્ટ્રપતિની મંજૂરીથી',
+                'હિન્દી અથવા અંગ્રેજીમાં; લોકસભા સ્પીકર અથવા રાજ્યસભા ચેરમેનની પૂર્વ મંજૂરીથી માતૃભાષામાં'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૦ મુજબ સંસદનું કામકાજ હિન્દી અથવા અંગ્રેજીમાં થાય છે. પરંતુ જે સભ્ય તેમાં રજૂઆત ન કરી શકે તેને પીઠાસીન અધિકારી (સ્પીકર/ચેરમેન) ની મંજૂરીથી પોતાની માતૃભાષામાં બોલવાની સત્તા મળે છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-1 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5014,12 +5014,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_no_confidence_motion_rule',
               question: 'લોકસભામાં અવિશ્વાસ પ્રસ્તાવ (No-Confidence Motion) દાખલ કરવા માટે ગૃહના પ્રક્રિયા નિયમો મુજબ ઓછામાં ઓછા કેટલા સભ્યોનું સમર્થન અનિવાર્ય છે?',
               options: [
-                'નિયમ ૧૮૪ હેઠળ ૨૫ સભ્યો',
-                'નિયમ ૧૯૮ હેઠળ ૫૦ સભ્યો',
                 'નિયમ ૧૯૩ હેઠળ ૧૦૦ સભ્યો',
-                'નિયમ ૩૭૭ હેઠળ ૧/૧૦ સભ્યો'
+                'નિયમ ૩૭૭ હેઠળ ૧/૧૦ સભ્યો',
+                'નિયમ ૧૯૮ હેઠળ ૫૦ સભ્યો',
+                'નિયમ ૧૮૪ હેઠળ ૨૫ સભ્યો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'લોકસભાની કાર્યસંચાલન નિયમાવલીના નિયમ ૧૯૮ હેઠળ અવિશ્વાસ પ્રસ્તાવ માત્ર લોકસભામાં જ રજૂ થઈ શકે છે અને તેને ગૃહમાં ચર્ચા માટે સ્વીકારવા ઓછામાં ઓછા ૫૦ સભ્યોનું સમર્થન અનિવાર્ય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5028,11 +5028,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: '\'નિંદા પ્રસ્તાવ (Censure Motion)\' અને \'અવિશ્વાસ પ્રસ્તાવ (No-Confidence Motion)\' વચ્ચેના મુખ્ય તફાવત અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
                 'બંને પ્રસ્તાવો માત્ર રાજ્યસભામાં જ રજૂ થઈ શકે છે',
-                'નિંદા પ્રસ્તાવમાં ચોક્કસ કારણ દર્શાવવું ફરજિયાત છે અને તેના પસાર થવાથી મંત્રીમંડળે રાજીનામું આપવું પડતું નથી, જ્યારે અવિશ્વાસ પ્રસ્તાવમાં કારણ જરૂરી નથી અને પસાર થતાં રાજીનામું અનિવાર્ય બને છે',
                 'અવિશ્વાસ પ્રસ્તાવ માત્ર એક વ્યક્તિગત મંત્રી વિરુદ્ધ પણ લાવી શકાય છે',
+                'નિંદા પ્રસ્તાવમાં ચોક્કસ કારણ દર્શાવવું ફરજિયાત છે અને તેના પસાર થવાથી મંત્રીમંડળે રાજીનામું આપવું પડતું નથી, જ્યારે અવિશ્વાસ પ્રસ્તાવમાં કારણ જરૂરી નથી અને પસાર થતાં રાજીનામું અનિવાર્ય બને છે',
                 'નિંદા પ્રસ્તાવ પસાર થતાં જ લોકસભા આપમેળે વિસર્જિત થઈ જાય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'નિંદા પ્રસ્તાવ સરકારની ચોક્કસ નીતિ કે કાર્યની ટીકા માટે કારણ દર્શાવીને લવાય છે અને તે પસાર થાય તો સરકાર પડી જતી નથી; જ્યારે અવિશ્વાસ પ્રસ્તાવ સમગ્ર મંત્રીપરિષદ સામે કોઈ કારણ આપ્યા વિના લવાય છે અને પસાર થતાં સરકારે રાજીનામું આપવું પડે છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5040,12 +5040,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_calling_attention_origin',
               question: 'સંસદીય પ્રક્રિયામાં \'ધ્યાનાકર્ષણ પ્રસ્તાવ (Calling Attention Motion)\' કયા વર્ષથી અસ્તિત્વમાં આવ્યો અને તે કયા ગૃહમાં રજૂ થઈ શકે છે?',
               options: [
-                '૧૯૧૯ ના ભારત શાસન અધિનિયમથી; માત્ર લોકસભામાં',
                 '૧૯૫૪ થી ભારતીય સંસદીય નવીનતા તરીકે; લોકસભા અને રાજ્યસભા બંનેમાં',
-                '૧૯૫૦ થી અમેરિકન બંધારણ મુજબ; માત્ર રાજ્યસભામાં',
-                '૧૯૭૬ ના ૪૨મા સુધારાથી; માત્ર લોકસભામાં'
+                '૧૯૭૬ ના ૪૨મા સુધારાથી; માત્ર લોકસભામાં',
+                '૧૯૧૯ ના ભારત શાસન અધિનિયમથી; માત્ર લોકસભામાં',
+                '૧૯૫૦ થી અમેરિકન બંધારણ મુજબ; માત્ર રાજ્યસભામાં'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'ધ્યાનાકર્ષણ પ્રસ્તાવ ૧૯૫૪ થી ભારતીય સંસદીય વ્યવસ્થાની અનન્ય શોધ છે. પીઠાસીન અધિકારીની પરવાનગીથી બંને ગૃહોમાં રજૂ થઈ શકે છે અને તેમાં કોઈ મંત્રીનું તાકીદના જાહેર મુદ્દા પર ધ્યાન દોરી સત્તાવાર નિવેદન મેળવાય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5053,9 +5053,9 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_joint_sitting_summons_art108',
               question: 'સામાન્ય ખરડા પર બંને ગૃહો વચ્ચે ૬ મહિના સુધી મડાગાંઠ સર્જાય ત્યારે બંધારણના અનુચ્છેદ ૧૦૮ હેઠળ સંસદની \'સંયુક્ત બેઠક (Joint Sitting)\' બોલાવવાની સત્તા કોની પાસે છે?',
               options: [
-                'લોકસભાના સ્પીકર',
-                'ભારતના રાષ્ટ્રપતિ',
                 'રાજ્યસભાના સભાપતિ (ઉપરાષ્ટ્રપતિ)',
+                'ભારતના રાષ્ટ્રપતિ',
+                'લોકસભાના સ્પીકર',
                 'સંસદીય બાબતોના કેન્દ્રીય મંત્રી'
               ],
               correctOptionIndex: 1,
@@ -5066,12 +5066,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_joint_sitting_presiding_officer',
               question: 'બંધારણના અનુચ્છેદ ૧૧૮(૪) મુજબ સંસદની સંયુક્ત બેઠકની અધ્યક્ષતા નીચેનામાંથી કોણ ક્યારેય કરી શકતું નથી?',
               options: [
-                'લોકસભાના સ્પીકર',
                 'લોકસભાના ડેપ્યુટી સ્પીકર',
-                'રાજ્યસભાના ઉપસભાપતિ',
-                'રાજ્યસભાના સભાપતિ (ભારતના ઉપરાષ્ટ્રપતિ)'
+                'રાજ્યસભાના સભાપતિ (ભારતના ઉપરાષ્ટ્રપતિ)',
+                'લોકસભાના સ્પીકર',
+                'રાજ્યસભાના ઉપસભાપતિ'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 1,
               explanation: 'ભારતના ઉપરાષ્ટ્રપતિ રાજ્યસભાના હોદ્દાની રૂએ સભાપતિ હોય છે પરંતુ તેઓ સંસદના કોઈપણ ગૃહના સભ્ય ન હોવાથી સંયુક્ત બેઠકની અધ્યક્ષતા ક્યારેય કરી શકતા નથી. અધ્યક્ષતા સ્પીકર, તેમની ગેરહાજરીમાં ડેપ્યુટી સ્પીકર કે ઉપસભાપતિ કરે છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5080,11 +5080,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'નીચેનામાંથી કયા વિધેયકો/ખરડાઓ પર સંસદના બંને ગૃહો વચ્ચે અસંમતિ હોય તો પણ બંધારણીય રીતે \'સંયુક્ત બેઠક\' બોલાવી શકાતી નથી?',
               options: [
                 'માત્ર સામાન્ય ખરડો અને નાણાકીય ખરડો (પ્રકાર-૧)',
-                'નાણાં વિધેયક (Money Bill) અને બંધારણીય સુધારો વિધેયક (Article 368)',
                 'માત્ર ખાનગી સભ્યનો ખરડો',
+                'નાણાં વિધેયક (Money Bill) અને બંધારણીય સુધારો વિધેયક (Article 368)',
                 'વિનિયોગ ખરડો અને સામાન્ય ખરડો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'નાણાં વિધેયક (અનુચ્છેદ ૧૧૦) અને બંધારણીય સુધારા વિધેયક (અનુચ્છેદ ૩૬૮) પર સંયુક્ત બેઠકની કોઈ જોગવાઈ નથી. બંધારણીય સુધારો બંને ગૃહોમાં અલગ-અલગ ૨/૩ બહુમતીથી પસાર થવો ફરજિયાત છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5092,12 +5092,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_money_bill_speaker_final_authority',
               question: 'કોઈ ખરડો \'ધન વિધેયક (Money Bill)\' છે કે નહીં તે અંગે અંતિમ અને આખરી નિર્ણય લેવાની સત્તા બંધારણના અનુચ્છેદ ૧૧૦(૩) હેઠળ કોની પાસે છે?',
               options: [
-                'ભારતના રાષ્ટ્રપતિ',
-                'કેન્દ્રીય નાણામંત્રી',
                 'લોકસભાના સ્પીકર',
-                'ભારતના એટર્ની જનરલ'
+                'ભારતના એટર્ની જનરલ',
+                'ભારતના રાષ્ટ્રપતિ',
+                'કેન્દ્રીય નાણામંત્રી'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૧૦(૩) મુજબ કોઈ ખરડો ધન વિધેયક છે કે નહીં તે નક્કી કરવાનો અંતિમ અને નિર્વિવાદ અધિકાર માત્ર લોકસભા સ્પીકર પાસે છે અને સ્પીકરના પ્રમાણપત્રને અદાલતમાં પણ પડકારી શકાતું નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5105,8 +5105,8 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_money_bill_rajya_sabha_limits',
               question: 'ધન વિધેયક (Money Bill) બાબતે રાજ્યસભા પાસે બંધારણના અનુચ્છેદ ૧૦૯ મુજબ કેટલા દિવસની સમયમર્યાદા હોય છે અને તે કઈ કાર્યવાહી કરી શકે છે?',
               options: [
-                'રાજ્યસભા તેને સંપૂર્ણપણે રદ કરી શકે છે (અમર્યાદિત સમય)',
                 'રાજ્યસભા તેમાં બંધનકર્તા સુધારા કરી શકે છે (૩૦ દિવસ)',
+                'રાજ્યસભા તેને સંપૂર્ણપણે રદ કરી શકે છે (અમર્યાદિત સમય)',
                 'રાજ્યસભા તેને માત્ર ૧૪ દિવસ રોકી શકે છે અને ફક્ત સુધારાની ભલામણ કરી શકે છે, જેને સ્વીકારવા લોકસભા બંધાયેલી નથી',
                 'રાજ્યસભા રાષ્ટ્રપતિ પાસે પુનર્વિચારણા મોકલી શકે છે (૬ મહિના)'
               ],
@@ -5117,8 +5117,8 @@ List<SectionModel> getInitialSyllabusData() {
             McqModel(
               id: 'mcq_pp2_appropriation_bill_art114',
               question: 'બંધારણના કયા અનુચ્છેદ મુજબ સંસદ દ્વારા \'વિનિયોગ વિધેયક (Appropriation Bill)\' કાયદા તરીકે પસાર થયા સિવાય ભારતની સંચિત નિધિમાંથી કોઈ પણ નાણાં ઉપાડી શકાતા નથી?',
-              options: ['અનુચ્છેદ ૧૧૨', 'અનુચ્છેદ ૧૧૩', 'અનુચ્છેદ ૧૧૪', 'અનુચ્છેદ ૧૧૬'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૧૧૨', 'અનુચ્છેદ ૧૧૩', 'અનુચ્છેદ ૧૧૬', 'અનુચ્છેદ ૧૧૪'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૧૪ હેઠળ સંસદ દ્વારા વિનિયોગ વિધેયક પસાર થયા સિવાય ભારતની સંચિત નિધિમાંથી સરકાર ૧ રૂપિયો પણ ખર્ચી કે ઉપાડી શકતી નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5126,12 +5126,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp2_cut_motions_policy_cut',
               question: 'બજેટ પર ચર્ચા દરમિયાન જ્યારે વિરોધ પક્ષ દ્વારા ગ્રાન્ટની માંગણીની રકમ ઘટાડીને "રૂપિયા ૧" કરવાનો પ્રસ્તાવ રજૂ કરવામાં આવે, ત્યારે તે કયા પ્રકારનો કટૌતી પ્રસ્તાવ (Cut Motion) કહેવાય છે?',
               options: [
-                'આર્થિક કટૌતી પ્રસ્તાવ (Economy Cut)',
-                'સાંકેતિક કટૌતી પ્રસ્તાવ (Token Cut)',
+                'વિશેષાધિકાર કટૌતી પ્રસ્તાવ',
                 'નીતિ અસ્વીકાર કટૌતી પ્રસ્તાવ (Disapproval of Policy Cut)',
-                'વિશેષાધિકાર કટૌતી પ્રસ્તાવ'
+                'આર્થિક કટૌતી પ્રસ્તાવ (Economy Cut)',
+                'સાંકેતિક કટૌતી પ્રસ્તાવ (Token Cut)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'નીતિ અસ્વીકાર કટૌતી (Disapproval of Policy Cut) માં માંગણીની રકમ ઘટાડીને ₹ ૧ કરવાની માંગ થાય છે, જે સરકારની ચોક્કસ નીતિનો સંપૂર્ણ અસ્વીકાર દર્શાવે છે. સાંકેતિક કટૌતીમાં ₹ ૧૦૦ ઘટાડવાની દરખાસ્ત હોય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-2 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5139,12 +5139,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_pac_composition',
               question: 'સંસદની સૌથી જૂની નાણાકીય સમિતિ એવી \'જાહેર હિસાબ સમિતિ (Public Accounts Committee - PAC)\' ની સ્થાપના કયા વર્ષમાં થઈ હતી અને તેમાં કુલ કેટલા સભ્યો હોય છે?',
               options: [
-                '૧૯૫૦ માં; કુલ ૩૦ સભ્યો (માત્ર લોકસભા)',
                 '૧૯૨૧ માં; કુલ ૨૨ સભ્યો (૧૫ લોકસભા + ૭ રાજ્યસભા)',
-                '૧૯૬૪ માં; કુલ ૨૨ સભ્યો (૧૫ લોકસભા + ૭ રાજ્યસભા)',
-                '૧૯૧૯ માં; કુલ ૧૫ સભ્યો (માત્ર લોકસભા)'
+                '૧૯૧૯ માં; કુલ ૧૫ સભ્યો (માત્ર લોકસભા)',
+                '૧૯૫૦ માં; કુલ ૩૦ સભ્યો (માત્ર લોકસભા)',
+                '૧૯૬૪ માં; કુલ ૨૨ સભ્યો (૧૫ લોકસભા + ૭ રાજ્યસભા)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'જાહેર હિસાબ સમિતિની સ્થાપના ભારત શાસન અધિનિયમ ૧૯૧૯ હેઠળ ૧૯૨૧ માં થઈ હતી. તેમાં કુલ ૨૨ સભ્યો (૧૫ લોકસભામાંથી અને ૭ રાજ્યસભામાંથી) ૧ વર્ષ માટે PR-STV પદ્ધતિથી ચૂંટાય છે.',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5152,12 +5152,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_pac_chairman_convention',
               question: 'જાહેર હિસાબ સમિતિ (PAC) ના અધ્યક્ષની નિમણૂક અંગે ૧૯૬૭ થી કઈ સંસદીય પરંપરા શરૂ કરવામાં આવી છે?',
               options: [
-                'અધ્યક્ષ હંમેશા શાસક પક્ષના વરિષ્ઠ સાંસદ જ બને છે',
                 'અધ્યક્ષ પદ પર લોકસભા સ્પીકર દ્વારા વિરોધ પક્ષના સભ્યની નિમણૂક કરવામાં આવે છે',
+                'કેન્દ્રીય નાણામંત્રી હોદ્દાની રૂએ અધ્યક્ષ બને છે',
                 'રાજ્યસભાના ઉપસભાપતિ હોદ્દાની રૂએ અધ્યક્ષ બને છે',
-                'કેન્દ્રીય નાણામંત્રી હોદ્દાની રૂએ અધ્યક્ષ બને છે'
+                'અધ્યક્ષ હંમેશા શાસક પક્ષના વરિષ્ઠ સાંસદ જ બને છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧૯૬૭ થી લોકસભા સ્પીકર દ્વારા વિરોધ પક્ષના સભ્યને જ જાહેર હિસાબ સમિતિના અધ્યક્ષ બનાવવાની સ્વસ્થ લોકશાહી પરંપરા ચાલી આવે છે (પ્રથમ વિપક્ષી અધ્યક્ષ મીનુ મસાણી હતા).',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5166,11 +5166,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'કયા બંધારણીય પદાધિકારીને જાહેર હિસાબ સમિતિ (PAC) ના \'મિત્ર, દાર્શનિક અને માર્ગદર્શક (Friend, Philosopher and Guide)\' તરીકે ઓળખવામાં આવે છે?',
               options: [
                 'ભારતના એટર્ની જનરલ (Attorney General)',
-                'ભારતના નિયંત્રક અને મહાલેખા પરીક્ષક (CAG)',
                 'મુખ્ય ચૂંટણી કમિશનર (CEC)',
-                'કેન્દ્રીય નાણાં સચિવ'
+                'કેન્દ્રીય નાણાં સચિવ',
+                'ભારતના નિયંત્રક અને મહાલેખા પરીક્ષક (CAG)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ભારતના કમ્પ્ટ્રોલર એન્ડ ઓડિટર જનરલ (CAG) ના ઓડિટ અહેવાલોની ઊંડાણપૂર્વક તપાસ જાહેર હિસાબ સમિતિ કરે છે, તેથી CAG ને PAC ના "મિત્ર, દાર્શનિક અને પથદર્શક" કહેવામાં આવે છે.',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5178,12 +5178,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_estimates_committee_john_mathai',
               question: 'સ્વતંત્ર ભારતમાં ૧૯૫૦ માં કોની ભલામણના આધારે \'અંદાજ સમિતિ / પ્રાક્કલન સમિતિ (Estimates Committee)\' ની પુનઃરચના કરવામાં આવી હતી?',
               options: [
-                'ડૉ. બાબાસાહેબ આંબેડકર',
-                'જ્હોન મથાઈ (John Mathai)',
                 'સી. ડી. દેશમુખ',
-                'વી. કે. કૃષ્ણ મેનન'
+                'વી. કે. કૃષ્ણ મેનન',
+                'જ્હોન મથાઈ (John Mathai)',
+                'ડૉ. બાબાસાહેબ આંબેડકર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'સ્વતંત્રતા બાદ ૧૯૫૦ માં તત્કાલીન નાણામંત્રી જ્હોન મથાઈની ભલામણથી અંદાજ સમિતિની પુનઃરચના કરવામાં આવી હતી (શરૂઆતમાં ૨૫ સભ્યો, ૧૯૫૬ માં વધારીને ૩૦ સભ્યો કરાયા).',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5191,10 +5191,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_estimates_only_loksabha',
               question: 'સંસદની સૌથી મોટી સ્થાયી સમિતિ એવી \'અંદાજ સમિતિ (Estimates Committee)\' ના સભ્ય બંધારણ અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'તેમાં કુલ ૨૨ સભ્યો હોય છે (૧૫ લોકસભા + ૭ રાજ્યસભા)',
+                'તેમાં રાજ્યસભામાંથી ૧૦ સભ્યો હોય છે',
                 'તેમાં કુલ ૩૦ સભ્યો હોય છે અને તમામે તમામ ૩૦ સભ્યો માત્ર લોકસભામાંથી જ ચૂંટાય છે (રાજ્યસભાનું કોઈ પ્રતિનિધિત્વ હોતું નથી)',
                 'તેના અધ્યક્ષ હંમેશા વિરોધ પક્ષના સભ્ય હોય છે',
-                'તેમાં રાજ્યસભામાંથી ૧૦ સભ્યો હોય છે'
+                'તેમાં કુલ ૨૨ સભ્યો હોય છે (૧૫ લોકસભા + ૭ રાજ્યસભા)'
               ],
               correctOptionIndex: 1,
               explanation: 'અંદાજ સમિતિમાં કુલ ૩૦ સભ્યો હોય છે અને તમામે તમામ ૩૦ સભ્યો માત્ર લોકસભામાંથી જ ચૂંટાય છે. રાજ્યસભાને આ સમિતિમાં કોઈ પ્રતિનિધિત્વ મળતું નથી અને તે સંસદની સૌથી મોટી સ્થાયી સમિતિ છે.',
@@ -5204,12 +5204,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_copu_krishna_menon',
               question: 'જાહેર ક્ષેત્રના ઉપક્રમોની તપાસ કરતી \'જાહેર સાહસોની સમિતિ (Committee on Public Undertakings - COPU)\' ની સ્થાપના ૧૯૬૪ માં કઈ સમિતિની ભલામણથી થઈ હતી?',
               options: [
-                'બળવંતરાય મહેતા સમિતિ',
-                'કૃષ્ણ મેનન સમિતિ (Krishna Menon Committee)',
                 'સરકારિયા આયોગ',
-                'સંથાનમ સમિતિ'
+                'સંથાનમ સમિતિ',
+                'બળવંતરાય મહેતા સમિતિ',
+                'કૃષ્ણ મેનન સમિતિ (Krishna Menon Committee)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૧૯૬૪ માં કૃષ્ણ મેનન સમિતિની ભલામણથી જાહેર સાહસોની સમિતિ (COPU) ની સ્થાપના કરવામાં આવી હતી.',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5217,10 +5217,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_copu_chairman_lok_sabha_only',
               question: '\'જાહેર સાહસોની સમિતિ (COPU)\' ના અધ્યક્ષની પસંદગી બાબતે કયો વિશેષ નિયમ લાગુ પડે છે?',
               options: [
-                'અધ્યક્ષ માત્ર રાજ્યસભાના સભ્યોમાંથી જ બની શકે છે',
+                'અધ્યક્ષ હંમેશા સર્વોચ્ચ અદાલતના નિવૃત્ત ન્યાયાધીશ હોય છે',
                 'અધ્યક્ષ માત્ર લોકસભાના સભ્યોમાંથી જ સ્પીકર દ્વારા નિયુક્ત થઈ શકે છે (રાજ્યસભાના સભ્ય ક્યારેય અધ્યક્ષ બની શકતા નથી)',
                 'કેન્દ્રીય ભારે ઉદ્યોગ મંત્રી હોદ્દાની રૂએ અધ્યક્ષ બને છે',
-                'અધ્યક્ષ હંમેશા સર્વોચ્ચ અદાલતના નિવૃત્ત ન્યાયાધીશ હોય છે'
+                'અધ્યક્ષ માત્ર રાજ્યસભાના સભ્યોમાંથી જ બની શકે છે'
               ],
               correctOptionIndex: 1,
               explanation: 'COPU માં કુલ ૨૨ સભ્યો (૧૫ લોકસભા + ૭ રાજ્યસભા) હોય છે, પરંતુ સ્પીકર દ્વારા સમિતિના અધ્યક્ષ માત્ર અને માત્ર લોકસભાના સભ્યોમાંથી જ નિયુક્ત થાય છે. રાજ્યસભાના સભ્ય ક્યારેય અધ્યક્ષ બની શકતા નથી.',
@@ -5230,10 +5230,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_drsc_total_count_split',
               question: 'ભારતીય સંસદમાં હાલમાં કુલ કેટલી \'વિભાગીય સ્થાયી સમિતિઓ (DRSCs)\' કાર્યરત છે અને તેનું લોકસભા તથા રાજ્યસભા વચ્ચેનું વિભાજન શું છે?',
               options: [
-                'કુલ ૧૭ સમિતિઓ; ૧૦ લોકસભા અને ૭ રાજ્યસભા હેઠળ',
+                'કુલ ૨૨ સમિતિઓ; ૧૫ લોકસભા અને ૭ રાજ્યસભા હેઠળ',
                 'કુલ ૨૪ સમિતિઓ; ૧૬ લોકસભા સ્પીકર હેઠળ અને ૮ રાજ્યસભા ચેરમેન હેઠળ',
-                'કુલ ૩૦ સમિતિઓ; ૨૦ લોકસભા અને ૧૦ રાજ્યસભા હેઠળ',
-                'કુલ ૨૨ સમિતિઓ; ૧૫ લોકસભા અને ૭ રાજ્યસભા હેઠળ'
+                'કુલ ૧૭ સમિતિઓ; ૧૦ લોકસભા અને ૭ રાજ્યસભા હેઠળ',
+                'કુલ ૩૦ સમિતિઓ; ૨૦ લોકસભા અને ૧૦ રાજ્યસભા હેઠળ'
               ],
               correctOptionIndex: 1,
               explanation: 'સંસદમાં કુલ ૨૪ વિભાગીય સ્થાયી સમિતિઓ છે, જેમાંથી ૧૬ સમિતિઓ લોકસભાના સ્પીકરના નિયંત્રણ હેઠળ અને ૮ સમિતિઓ રાજ્યસભાના ચેરમેનના નિયંત્રણ હેઠળ કાર્ય કરે છે.',
@@ -5244,11 +5244,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'દરેક વિભાગીય સ્થાયી સમિતિ (DRSC) માં કુલ કેટલા સભ્યો હોય છે અને બંને ગૃહોમાંથી કેટલા સભ્યો નામાંકિત થાય છે?',
               options: [
                 'કુલ ૪૫ સભ્યો (૩૦ લોકસભા + ૧૫ રાજ્યસભા)',
-                'કુલ ૩૧ સભ્યો (૨૧ લોકસભામાંથી સ્પીકર દ્વારા + ૧૦ રાજ્યસભામાંથી ચેરમેન દ્વારા)',
+                'કુલ ૩૦ સભ્યો (માત્ર લોકસભા)',
                 'કુલ ૨૨ સભ્યો (૧૫ લોકસભા + ૭ રાજ્યસભા)',
-                'કુલ ૩૦ સભ્યો (માત્ર લોકસભા)'
+                'કુલ ૩૧ સભ્યો (૨૧ લોકસભામાંથી સ્પીકર દ્વારા + ૧૦ રાજ્યસભામાંથી ચેરમેન દ્વારા)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૨૦૦૪ ના સુધારા બાદ દરેક વિભાગીય સ્થાયી સમિતિમાં કુલ ૩૧ સભ્યો હોય છે, જેમાં ૨૧ સભ્યો લોકસભામાંથી અને ૧૦ સભ્યો રાજ્યસભામાંથી નામાંકિત કરવામાં આવે છે.',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5256,12 +5256,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pc_minister_bar',
               question: 'સંસદીય નાણાકીય સમિતિઓ (PAC, અંદાજ સમિતિ અને COPU) ની સભ્યપદની યોગ્યતા અંગે નીચેનામાંથી કયો નિયમ અત્યંત મહત્વપૂર્ણ છે?',
               options: [
+                'માત્ર કાયદા મંત્રી અને નાણામંત્રી જ સમિતિના સભ્ય બની શકે છે',
                 'ઓછામાં ઓછા બે કેન્દ્રીય કેબિનેટ મંત્રીઓ સભ્ય હોવા ફરજિયાત છે',
-                'કોઈપણ મંત્રી (કેબિનેટ કે રાજ્યકક્ષા) આ સમિતિઓના સભ્ય બની શકતા નથી',
                 'માત્ર પ્રધાનમંત્રી આ સમિતિઓના અધ્યક્ષ બની શકે છે',
-                'માત્ર કાયદા મંત્રી અને નાણામંત્રી જ સમિતિના સભ્ય બની શકે છે'
+                'કોઈપણ મંત્રી (કેબિનેટ કે રાજ્યકક્ષા) આ સમિતિઓના સભ્ય બની શકતા નથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'કારોબારીની નિષ્પક્ષ નાણાકીય જવાબદેહી જળવાઈ રહે તે માટે કોઈપણ મંત્રી PAC, અંદાજ સમિતિ કે COPU ના સભ્ય બની શકતા નથી. જો કોઈ સભ્ય મંત્રી તરીકે નિયુક્ત થાય તો તેનું સમિતિનું સભ્યપદ આપોઆપ સમાપ્ત થઈ જાય છે.',
               sourceVideoTitle: 'Parliamentary Committees Part-3 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5282,12 +5282,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_civil_arrest_immunity_40days',
               question: 'સંસદસભ્યોને વિશેષાધિકાર હેઠળ ધરપકડમાંથી મુક્તિ અંગે નીચેનામાંથી કઈ જોગવાઈ બંધારણીય રીતે સાચી છે?',
               options: [
-                'સત્ર શરૂ થવાના ૪૦ દિવસ પહેલાં, સત્ર દરમિયાન અને સત્ર પૂર્ણ થયાના ૪૦ દિવસ પછી સુધી માત્ર દીવાની (Civil) કેસોમાં જ ધરપકડ સામે મુક્તિ મળે છે',
-                'કોઈપણ પ્રકારના ફોજદારી કેસમાં પણ તેમની ક્યારેય ધરપકડ થઈ શકતી નથી',
                 'નિવારક અટકાયત (Preventive Detention) હેઠળ પણ સભ્યની ધરપકડ થઈ શકતી નથી',
-                'સત્ર દરમિયાન સ્પીકરની પૂર્વ મંજૂરી વિના ફોજદારી કેસમાં પણ ધરપકડ પર સંપૂર્ણ પ્રતિબંધ છે'
+                'સત્ર દરમિયાન સ્પીકરની પૂર્વ મંજૂરી વિના ફોજદારી કેસમાં પણ ધરપકડ પર સંપૂર્ણ પ્રતિબંધ છે',
+                'કોઈપણ પ્રકારના ફોજદારી કેસમાં પણ તેમની ક્યારેય ધરપકડ થઈ શકતી નથી',
+                'સત્ર શરૂ થવાના ૪૦ દિવસ પહેલાં, સત્ર દરમિયાન અને સત્ર પૂર્ણ થયાના ૪૦ દિવસ પછી સુધી માત્ર દીવાની (Civil) કેસોમાં જ ધરપકડ સામે મુક્તિ મળે છે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'સંસદસભ્યને સત્રના ૪૦ દિવસ પૂર્વે, સત્ર દરમિયાન અને ૪૦ દિવસ બાદ માત્ર સિવિલ/દીવાની કેસોમાં જ ધરપકડ સામે રક્ષણ મળે છે. ફોજદારી ગુના કે નિવારક અટકાયતમાં આવું કોઈ રક્ષણ ઉપલબ્ધ નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5295,10 +5295,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_consolidated_fund_art266',
               question: 'ભારતની \'સંચિત નિધિ (Consolidated Fund of India)\' અંગે બંધારણના કયા અનુચ્છેદમાં જોગવાઈ છે અને તેમાંથી નાણાં ઉપાડવા માટે શું અનિવાર્ય છે?',
               options: [
-                'અનુચ્છેદ ૨૬૭ હેઠળ; રાષ્ટ્રપતિનો વટહુકમ',
-                'અનુચ્છેદ ૨૬૬(૧) હેઠળ; સંસદ દ્વારા વિનિયોગ વિધેયક (Appropriation Act) પસાર થવું',
                 'અનુચ્છેદ ૨૬૬(૨) હેઠળ; નાણામંત્રીનો વહીવટી આદેશ',
-                'અનુચ્છેદ ૨૮૦ હેઠળ; નાણાં પંચની ભલામણ'
+                'અનુચ્છેદ ૨૬૬(૧) હેઠળ; સંસદ દ્વારા વિનિયોગ વિધેયક (Appropriation Act) પસાર થવું',
+                'અનુચ્છેદ ૨૮૦ હેઠળ; નાણાં પંચની ભલામણ',
+                'અનુચ્છેદ ૨૬૭ હેઠળ; રાષ્ટ્રપતિનો વટહુકમ'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૨૬૬(૧) હેઠળ ભારતની સંચિત નિધિની જોગવાઈ છે અને સંસદ દ્વારા અનુચ્છેદ ૧૧૪ મુજબ વિનિયોગ કાયદો પસાર કર્યા સિવાય તેમાંથી ૧ રૂપિયો પણ ઉપાડી શકાતો નથી.',
@@ -5308,12 +5308,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_public_account_art266_2',
               question: 'પ્રોવિડન્ટ ફંડ (PF), નાની બચત થાપણો અને ન્યાયિક ડિપોઝિટ્સ જેવી રકમો બંધારણના કયા ખાતામાં જમા થાય છે અને તેમાંથી ચૂકવણી માટે સંસદની પૂર્વ મંજૂરી જરૂરી છે કે નહીં?',
               options: [
+                'આકસ્મિક નિધિ (૨૬૭); રાષ્ટ્રપતિની પૂર્વ મંજૂરી જરૂરી છે',
                 'સંચિત નિધિ (૨૬૬(૧)); સંસદની પૂર્વ મંજૂરી ફરજિયાત છે',
                 'જાહેર હિસાબ ખાતું (૨૬૬(૨)); સંસદની પૂર્વ મંજૂરી જરૂરી નથી, કારોબારી પગલાંથી ચુકવણી થાય છે',
-                'આકસ્મિક નિધિ (૨૬૭); રાષ્ટ્રપતિની પૂર્વ મંજૂરી જરૂરી છે',
                 'પ્રધાનમંત્રી રાષ્ટ્રીય રાહત ફંડ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૨૬૬(૨) હેઠળ જાહેર હિસાબ ખાતામાં નાગરિકોની થાપણો જમા થાય છે, જે સરકાર પાસે ટ્રસ્ટી તરીકે રહે છે. આમાંથી ચુકવણી કરવા સંસદની પૂર્વ મંજૂરી જરૂરી નથી.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5321,12 +5321,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_contingency_fund_president_art267',
               question: 'ભારતની \'આકસ્મિક નિધિ (Contingency Fund of India - અનુચ્છેદ ૨૬૭)\' કોના નિકાલ/અધિકાર હેઠળ મૂકવામાં આવી છે અને તેનું પ્રશાસનિક સંચાલન કોણ કરે છે?',
               options: [
-                'ભારતના વડાપ્રધાન હેઠળ; કેબિનેટ સચિવ દ્વારા',
                 'ભારતના રાષ્ટ્રપતિ હેઠળ; કેન્દ્રીય નાણાં સચિવ દ્વારા',
                 'લોકસભા સ્પીકર હેઠળ; સંસદીય સચિવ દ્વારા',
-                'ભારતના CAG હેઠળ'
+                'ભારતના CAG હેઠળ',
+                'ભારતના વડાપ્રધાન હેઠળ; કેબિનેટ સચિવ દ્વારા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૨૬૭(૧) હેઠળ આકસ્મિક નિધિ રાષ્ટ્રપતિના અધિકાર હેઠળ છે અને રાષ્ટ્રપતિ વતી કેન્દ્રીય નાણાં સચિવ (Finance Secretary) તેનું સંચાલન કરે છે. અણધાર્યા ખર્ચ માટે તેમાંથી એડવાન્સ આપી શકાય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5334,12 +5334,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_leader_of_opposition_criteria_lop',
               question: 'સંસદના કોઈપણ ગૃહમાં \'વિરોધ પક્ષના નેતા (Leader of Opposition)\' તરીકે માન્યતા મેળવવા માટે તે પક્ષ પાસે સંબંધિત ગૃહની ઓછામાં ઓછી કેટલી બેઠકો હોવી અનિવાર્ય છે?',
               options: [
-                'કુલ સભ્ય સંખ્યાની ૧/૬ બેઠકો',
-                'કુલ સભ્ય સંખ્યાની ૧/૧૦ બેઠકો (લોકસભામાં ૫૫ બેઠકો)',
+                'ઓછામાં ઓછી ૭૫ બેઠકો',
                 'કુલ સભ્ય સંખ્યાની ૧/૫ બેઠકો',
-                'ઓછામાં ઓછી ૭૫ બેઠકો'
+                'કુલ સભ્ય સંખ્યાની ૧/૬ બેઠકો',
+                'કુલ સભ્ય સંખ્યાની ૧/૧૦ બેઠકો (લોકસભામાં ૫૫ બેઠકો)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'વિરોધ પક્ષના નેતાનો દરજ્જો મેળવવા માટે વિપક્ષ પાસે સંબંધિત ગૃહની ઓછામાં ઓછી ૧/૧૦ બેઠકો (લોકસભામાં ૫૫ બેઠકો અને રાજ્યસભામાં ૨૫ બેઠકો) હોવી ફરજિયાત છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5347,12 +5347,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_leader_of_opposition_status_1977',
               question: 'સંસદ અધિનિયમ, ૧૯૭૭ અનુસાર વિરોધ પક્ષના નેતા (Leader of Opposition) ને કયા પદ સમકક્ષ દરજ્જો, પગાર અને ભથ્થાં આપવામાં આવે છે?',
               options: [
-                'સર્વોચ્ચ અદાલતના ન્યાયાધીશ સમકક્ષ',
                 'કેન્દ્રીય કેબિનેટ મંત્રી સમકક્ષ',
                 'રાજ્ય કક્ષાના મંત્રી સમકક્ષ',
+                'સર્વોચ્ચ અદાલતના ન્યાયાધીશ સમકક્ષ',
                 'લોકસભાના ડેપ્યુટી સ્પીકર સમકક્ષ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧૯૭૭ ના વિરોધ પક્ષના નેતા પગાર અને ભથ્થા અધિનિયમ હેઠળ તેમને કેન્દ્રીય કેબિનેટ મંત્રી સમકક્ષ દરજ્જો, સચિવાલય અને તમામ સુવિધાઓ પ્રાપ્ત થાય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5361,11 +5361,11 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'સંસદીય વ્યવસ્થામાં \'સચેતક (Whip)\' ના કાર્યાલય અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
                 'બંધારણના અનુચ્છેદ ૧૦૨ માં વ્હીપ અંગે વિગતવાર જોગવાઈ છે',
+                'વ્હીપ માત્ર શાસક પક્ષ દ્વારા જ નિમાય છે, વિરોધ પક્ષ નિમી શકતો નથી',
                 'તે બ્રિટિશ સંસદીય પરંપરા પર આધારિત છે, અને તેના આદેશનું ઉલ્લંઘન કરવાથી પક્ષાંતર વિરોધી કાયદા હેઠળ સભ્યપદ રદ થઈ શકે છે',
-                'વ્હીપની નિમણૂક રાષ્ટ્રપતિ દ્વારા કરવામાં આવે છે',
-                'વ્હીપ માત્ર શાસક પક્ષ દ્વારા જ નિમાય છે, વિરોધ પક્ષ નિમી શકતો નથી'
+                'વ્હીપની નિમણૂક રાષ્ટ્રપતિ દ્વારા કરવામાં આવે છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'વ્હીપનું પદ બંધારણ કે ગૃહના નિયમોમાં નથી પરંતુ બ્રિટિશ સંસદીય પ્રથા પર આધારિત છે. દરેક પક્ષ પોતાનો વ્હીપ નિમે છે અને વ્હીપના આદેશ વિરુદ્ધ મતદાન કે ગેરહાજરીથી ૧૦મી અનુસૂચિ મુજબ સભ્યપદ રદ થઈ શકે છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5373,20 +5373,20 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_pp4_protem_speaker_functions',
               question: 'નવી ચૂંટાયેલી લોકસભામાં રાષ્ટ્રપતિ દ્વારા નિયુક્ત થતા \'પ્રોટેમ સ્પીકર (Pro-tem Speaker)\' નું મુખ્ય બંધારણીય કાર્ય શું છે?',
               options: [
-                'સમગ્ર પાંચ વર્ષ સુધી ગૃહની શિસ્ત જાળવવી',
-                'નવા ચૂંટાયેલા સભ્યોને શપથ લેવડાવવા અને નવા કાયમી સ્પીકરની ચૂંટણી સંપન્ન કરાવવી',
+                'રાષ્ટ્રપતિના અભિભાષણ પર આભાર પ્રસ્તાવ તૈયાર કરવો',
                 'વિરોધ પક્ષના નેતાની પસંદગી કરવી',
-                'રાષ્ટ્રપતિના અભિભાષણ પર આભાર પ્રસ્તાવ તૈયાર કરવો'
+                'સમગ્ર પાંચ વર્ષ સુધી ગૃહની શિસ્ત જાળવવી',
+                'નવા ચૂંટાયેલા સભ્યોને શપથ લેવડાવવા અને નવા કાયમી સ્પીકરની ચૂંટણી સંપન્ન કરાવવી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'પ્રોટેમ સ્પીકર કામચલાઉ સ્પીકર હોય છે જેનું મુખ્ય કાર્ય નવા ચૂંટાયેલા સંસદસભ્યોને શપથ લેવડાવવાનું અને લોકસભાના કાયમી સ્પીકરની ચૂંટણી કરાવવાનું હોય છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_pp4_court_inquiry_prohibition_art122',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ મુજબ ન્યાયાલયો (Courts) સંસદની આંતરિક કાર્યવાહીની નિયમિતતા કે પ્રક્રિયાની તપાસ કરી શકતા નથી?',
-              options: ['અનુચ્છેદ ૧૦૫', 'અનુચ્છેદ ૧૨૧', 'અનુચ્છેદ ૧૨૨', 'અનુચ્છેદ ૧૨૩'],
-              correctOptionIndex: 2,
+              options: ['અનુચ્છેદ ૧૦૫', 'અનુચ્છેદ ૧૨૩', 'અનુચ્છેદ ૧૨૧', 'અનુચ્છેદ ૧૨૨'],
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૨ સ્પષ્ટપણે ન્યાયાલયોને સંસદની કાર્યવાહીની કથિત પ્રક્રિયાગત અનિયમિતતાના આધારે તપાસ કરવા પર મનાઈ ફરમાવે છે.',
               sourceVideoTitle: 'Parliamentary Procedures Part-4 (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -5692,12 +5692,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_sg_governor_dual_charge_7th_caa',
               question: 'કયા બંધારણીય સુધારા અધિનિયમ દ્વારા જોગવાઈ કરવામાં આવી કે "એક જ વ્યક્તિને બે કે તેથી વધુ રાજ્યોના રાજ્યપાલ તરીકે નિયુક્ત કરી શકાય છે"?',
               options: [
-                '૭મો બંધારણીય સુધારો, ૧૯૫૬',
-                '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
                 '૪૪મો બંધારણીય સુધારો, ૧૯૭૮',
+                '૭મો બંધારણીય સુધારો, ૧૯૫૬',
                 '૧મો બંધારણીય સુધારો, ૧૯૫૧',
+                '૪૨મો બંધારણીય સુધારો, ૧૯૭૬'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૭મા બંધારણીય સુધારા અધિનિયમ, ૧૯૫૬ દ્વારા અનુચ્છેદ ૧૫૩ માં સુધારો કરીને જોગવાઈ ઉમેરવામાં આવી કે એક જ વ્યક્તિને એક કરતાં વધુ રાજ્યોના રાજ્યપાલ તરીકે એકસાથે નિયુક્ત કરવામાં કોઈ અવરોધ રહેશે નહીં.',
               sourceVideoTitle: 'રાજ્ય સરકાર (State Government) by Dr. Dinesh Gehlot',
             ),
@@ -5705,12 +5705,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_sg_governor_removal_no_impeachment',
               question: 'રાજ્યપાલના કાર્યકાળ અને પદ પરથી હટાવવા અંગે બંધારણમાં નીચેનામાંથી કઈ જોગવાઈ છે?',
               options: [
+                'તેમને સંબંધિત રાજ્યની વિધાનસભા ૨/૩ બહુમતીથી હટાવી શકે છે',
                 'તેઓ રાષ્ટ્રપતિની મરજી સુધી (During the pleasure of the President) પદ ધારણ કરે છે અને બંધારણમાં હટાવવાનો કોઈ આધાર દર્શાવેલ નથી',
                 'તેમને માત્ર સંસદમાં મહાભિયોગ પ્રક્રિયા દ્વારા જ હટાવી શકાય છે',
-                'તેમને સંબંધિત રાજ્યની વિધાનસભા ૨/૩ બહુમતીથી હટાવી શકે છે',
-                'તેમનો ૫ વર્ષનો કાર્યકાળ સંપૂર્ણ નિશ્ચિત છે અને મુદત પહેલાં હટાવી શકાતા નથી',
+                'તેમનો ૫ વર્ષનો કાર્યકાળ સંપૂર્ણ નિશ્ચિત છે અને મુદત પહેલાં હટાવી શકાતા નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૫૬(૧) મુજબ રાજ્યપાલ રાષ્ટ્રપતિની મરજી હોય ત્યાં સુધી હોદ્દો ધરાવે છે. બંધારણમાં રાજ્યપાલને હટાવવા માટે કોઈ કારણ કે મહાભિયોગ જેવી કોઈ બંધારણીય પ્રક્રિયાનો ઉલ્લેખ નથી.',
               sourceVideoTitle: 'રાજ્ય સરકાર (State Government) by Dr. Dinesh Gehlot',
             ),
@@ -5718,12 +5718,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_sg_governor_pardon_death_penalty_art161',
               question: 'રાજ્યપાલની ક્ષમાદાનની સત્તા (અનુચ્છેદ ૧૬૧) રાષ્ટ્રપતિની ક્ષમાદાન સત્તા (અનુચ્છેદ ૭૨) થી કઈ બાબતમાં અલગ પડે છે?',
               options: [
-                'રાજ્યપાલ મૃત્યુદંડ (Death Penalty) ને સંપૂર્ણપણે માફ (Pardon) કરી શકતા નથી અને કોર્ટ માર્શલની સજામાં રાહત આપી શકતા નથી',
                 'રાજ્યપાલ મૃત્યુદંડને માફ કરી શકે છે પરંતુ દંડ ઓછો કરી શકતા નથી',
-                'રાજ્યપાલને ક્ષમાદાનની કોઈ સત્તા બંધારણમાં અપાયેલી નથી',
                 'રાજ્યપાલ માત્ર લશ્કરી અદાલતની સજા જ માફ કરી શકે છે',
+                'રાજ્યપાલ મૃત્યુદંડ (Death Penalty) ને સંપૂર્ણપણે માફ (Pardon) કરી શકતા નથી અને કોર્ટ માર્શલની સજામાં રાહત આપી શકતા નથી',
+                'રાજ્યપાલને ક્ષમાદાનની કોઈ સત્તા બંધારણમાં અપાયેલી નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૬૧ હેઠળ રાજ્યપાલ સજાને મુલતવી, ઓછી કે બદલી શકે છે, પરંતુ તેઓ મૃત્યુદંડને સંપૂર્ણ માફ (Pardon) કરી શકતા નથી (તે માત્ર રાષ્ટ્રપતિ જ કરી શકે છે). તેમજ લશ્કરી અદાલત (Court Martial) ની સજામાં રાજ્યપાલ હસ્તક્ષેપ કરી શકતા નથી.',
               sourceVideoTitle: 'રાજ્ય સરકાર (State Government) by Dr. Dinesh Gehlot',
             ),
@@ -5734,7 +5734,7 @@ List<SectionModel> getInitialSyllabusData() {
                 'મહત્તમ: વિધાનસભા સભ્ય સંખ્યાના ૧૫%; લઘુત્તમ: ૧૨ મંત્રીઓ',
                 'મહત્તમ: વિધાનસભા સભ્ય સંખ્યાના ૧૦%; લઘુત્તમ: ૧૦ મંત્રીઓ',
                 'મહત્તમ: વિધાનસભા સભ્ય સંખ્યાના ૨૦%; લઘુત્તમ: ૧૫ મંત્રીઓ',
-                'મહત્તમ: ૫૦ મંત્રીઓ; લઘુત્તમ કોઈ મર્યાદા નથી',
+                'મહત્તમ: ૫૦ મંત્રીઓ; લઘુત્તમ કોઈ મર્યાદા નથી'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૬૪(૧A) મુજબ રાજ્ય મંત્રીપરિષદમાં મુખ્યમંત્રી સહિત કુલ મંત્રીઓની સંખ્યા વિધાનસભાની કુલ સંખ્યાના ૧૫% થી વધુ ન હોવી જોઈએ, અને મુખ્યમંત્રી સહિત ઓછામાં ઓછા ૧૨ મંત્રીઓ હોવા અનિવાર્ય છે.',
@@ -5744,12 +5744,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_sg_tribal_welfare_minister_four_states',
               question: 'બંધારણના અનુચ્છેદ ૧૬૪(૧) હેઠળ નીચેનામાંથી કયા ૪ રાજ્યોમાં એક વિશેષ "આદિજાતિ કલ્યાણ મંત્રી (Tribal Welfare Minister)" ની નિમણૂક કરવી બંધારણીય રીતે ફરજિયાત છે?',
               options: [
-                'છત્તીસગઢ, ઝારખંડ, મધ્યપ્રદેશ અને ઓડિશા',
-                'બિહાર, રાજસ્થાન, ગુજરાત અને મધ્યપ્રદેશ',
                 'આસામ, મેઘાલય, ત્રિપુરા અને મિઝોરમ',
-                'છત્તીસગઢ, બિહાર, ઉત્તરાખંડ અને ઝારખંડ',
+                'બિહાર, રાજસ્થાન, ગુજરાત અને મધ્યપ્રદેશ',
+                'છત્તીસગઢ, ઝારખંડ, મધ્યપ્રદેશ અને ઓડિશા',
+                'છત્તીસગઢ, બિહાર, ઉત્તરાખંડ અને ઝારખંડ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૬૪(૧) હેઠળ છત્તીસગઢ, ઝારખંડ, મધ્યપ્રદેશ અને ઓડિશા રાજ્યમાં આદિજાતિ કલ્યાણ મંત્રીની નિમણૂક ફરજિયાત છે. ૯૪મા બંધારણીય સુધારા ૨૦૦૬ દ્વારા બિહાર રાજ્યને આ જોગવાઈમાંથી મુક્ત કરવામાં આવ્યું હતું.',
               sourceVideoTitle: 'રાજ્ય સરકાર (State Government) by Dr. Dinesh Gehlot',
             ),
@@ -5757,12 +5757,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_sg_advocate_general_art165_right_to_speak',
               question: 'રાજ્યના એડવોકેટ જનરલ (Advocate General - અનુચ્છેદ ૧૬૫) અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'તેઓ વિધાનમંડળના બંને ગૃહોની કાર્યવાહીમાં બોલવાનો અને ભાગ લેવાનો અધિકાર ધરાવે છે પરંતુ મતદાન કરી શકતા નથી',
                 'તેમનો કાર્યકાળ ૫ વર્ષ અથવા ૬૫ વર્ષની ઉંમર સુધી નિશ્ચિત હોય છે',
-                'તેમની નિમણૂક વડી અદાલતના મુખ્ય ન્યાયાધીશ દ્વારા થાય છે',
                 'તેઓ વિધાનસભામાં મતદાન કરવાનો સંપૂર્ણ અધિકાર ધરાવે છે',
+                'તેમની નિમણૂક વડી અદાલતના મુખ્ય ન્યાયાધીશ દ્વારા થાય છે',
+                'તેઓ વિધાનમંડળના બંને ગૃહોની કાર્યવાહીમાં બોલવાનો અને ભાગ લેવાનો અધિકાર ધરાવે છે પરંતુ મતદાન કરી શકતા નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૭૭ અનુસાર એડવોકેટ જનરલ રાજ્ય વિધાનમંડળના કોઈપણ ગૃહની કે સમિતિઓની કાર્યવાહીમાં બોલવાનો અને ભાગ લેવાનો અધિકાર ધરાવે છે, પરંતુ તેઓ ગૃહના સભ્ય ન હોવાથી મતદાન કરી શકતા નથી. તેમનો કાર્યકાળ રાજ્યપાલની મરજી સુધી રહે છે.',
               sourceVideoTitle: 'રાજ્ય સરકાર (State Government) by Dr. Dinesh Gehlot',
             ),
@@ -5772,8 +5772,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'વિધાનસભા પોતાની વિશેષ બહુમતી (હાજરના ૨/૩) થી ઠરાવ પસાર કરે અને ત્યારબાદ સંસદ સામાન્ય બહુમતીથી કાયદો બનાવે',
                 'માત્ર રાજ્યપાલ રાષ્ટ્રપતિને ભલામણ મોકલીને વટહુકમથી રચી શકે',
-                'સંસદ બંને ગૃહોમાં ૨/૩ વિશેષ બહુમતીથી બંધારણીય સુધારો કરે',
                 'માત્ર રાજ્ય વિધાનસભા સામાન્ય બહુમતીથી ઠરાવ પસાર કરે',
+                'સંસદ બંને ગૃહોમાં ૨/૩ વિશેષ બહુમતીથી બંધારણીય સુધારો કરે'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૬૯ મુજબ જે-તે રાજ્યની વિધાનસભા કુલ સભ્ય સંખ્યાની બહુમતી અને હાજર રહી મતદાન કરનારા સભ્યોની ૨/૩ બહુમતીથી ઠરાવ પસાર કરે, ત્યારબાદ સંસદ સાદી/સામાન્ય બહુમતીથી કાયદો બનાવી વિધાનપરિષદનું સર્જન કે નાબૂદી કરી શકે છે (અનુચ્છેદ ૩૬૮ હેઠળ સુધારો ગણાતો નથી).',
@@ -5784,9 +5784,9 @@ List<SectionModel> getInitialSyllabusData() {
               question: 'હાલમાં ભારતમાં નીચેનામાંથી કયા ૬ રાજ્યોમાં દ્વિગૃહી વિધાનમંડળ (વિધાનસભા + વિધાનપરિષદ બંને) અસ્તિત્વમાં છે?',
               options: [
                 'ઉત્તર પ્રદેશ, બિહાર, મહારાષ્ટ્ર, કર્ણાટક, આંધ્રપ્રદેશ અને તેલંગાણા',
-                'ગુજરાત, મહારાષ્ટ્ર, રાજસ્થાન, મધ્યપ્રદેશ, ઉત્તર પ્રદેશ અને બિહાર',
                 'ઉત્તર પ્રદેશ, બિહાર, પશ્ચિમ બંગાળ, ઓડિશા, તમિલનાડુ અને કેરળ',
                 'મહારાષ્ટ્ર, કર્ણાટક, તમિલનાડુ, કેરળ, આંધ્રપ્રદેશ અને તેલંગાણા',
+                'ગુજરાત, મહારાષ્ટ્ર, રાજસ્થાન, મધ્યપ્રદેશ, ઉત્તર પ્રદેશ અને બિહાર'
               ],
               correctOptionIndex: 0,
               explanation: 'હાલમાં ભારતના માત્ર ૬ રાજ્યોમાં વિધાનપરિષદ છે: ઉત્તર પ્રદેશ, બિહાર, મહારાષ્ટ્ર, કર્ણાટક, આંધ્રપ્રદેશ અને તેલંગાણા. (જમ્મુ-કાશ્મીરમાં ૨૦૧૯ ના પુનર્ગઠન પછી વિધાનપરિષદ સમાપ્ત કરવામાં આવી છે).',
@@ -5796,12 +5796,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_sg_governor_bill_reservation_art200_201',
               question: 'જ્યારે રાજ્યપાલ કોઈ વિધેયકને રાષ્ટ્રપતિની વિચારણા માટે અનામત (Reserve - અનુચ્છેદ ૨૦૦) રાખે છે, ત્યારે અનુચ્છેદ ૨૦૧ મુજબ રાષ્ટ્રપતિની સત્તા અંગે શું સાચું છે?',
               options: [
-                'વિધાનસભા પુનર્વિચારણા બાદ ફરીથી બિલ પસાર કરે તો પણ રાષ્ટ્રપતિ મંજૂરી આપવા બંધાયેલા નથી',
                 'જો વિધાનસભા ફરીથી બિલ પસાર કરે તો રાષ્ટ્રપતિએ ફરજિયાત મંજૂરી આપવી પડે છે',
+                'વિધાનસભા પુનર્વિચારણા બાદ ફરીથી બિલ પસાર કરે તો પણ રાષ્ટ્રપતિ મંજૂરી આપવા બંધાયેલા નથી',
                 'રાષ્ટ્રપતિએ ફરજિયાત ૧ મહિનામાં નિર્ણય લેવો પડે છે',
-                'રાષ્ટ્રપતિ બિલને સુપ્રીમ કોર્ટમાં મોકલ્યા વિના રદ કરી શકતા નથી',
+                'રાષ્ટ્રપતિ બિલને સુપ્રીમ કોર્ટમાં મોકલ્યા વિના રદ કરી શકતા નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૨૦૧ હેઠળ રાષ્ટ્રપતિ રાજ્યના વિધેયકને મંજૂરી આપી શકે, રોકી શકે અથવા પરત મોકલી શકે છે. સંસદના બિલથી વિપરીત, જો રાજ્ય વિધાનસભા ફરીથી બિલ પસાર કરીને મોકલે તો પણ રાષ્ટ્રપતિ તેના પર મંજૂરી આપવા બંધાયેલા નથી (રાષ્ટ્રપતિ પાસે સંપૂર્ણ વિટો છે).',
               sourceVideoTitle: 'રાજ્ય સરકાર (State Government) by Dr. Dinesh Gehlot',
             ),
@@ -5811,8 +5811,8 @@ List<SectionModel> getInitialSyllabusData() {
               options: [
                 'સત્ર શરૂ થયાના ૬ અઠવાડિયા (૪૨ દિવસ) સુધી',
                 'સત્ર શરૂ થયાના ૬ મહિના સુધી',
-                'સત્ર શરૂ થયાના ૧૪ દિવસ સુધી',
                 'સત્ર શરૂ થયાના ૩ મહિના સુધી',
+                'સત્ર શરૂ થયાના ૧૪ દિવસ સુધી'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૨૧૩(૨)(a) અનુસાર રાજ્યપાલનો વટહુકમ વિધાનમંડળનું સત્ર ફરી શરૂ થયાની તારીખથી ૬ અઠવાડિયા (૪૨ દિવસ) ની સમાપ્તિ પર આપોઆપ રદબાતલ થઈ જાય છે, સિવાય કે તે પહેલાં વિધાનમંડળ દ્વારા તેને બહાલી આપવામાં આવે.',
@@ -5822,12 +5822,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_creation_abolition_art169',
               question: 'બંધારણના અનુચ્છેદ ૧૬૯ હેઠળ કોઈપણ રાજ્યમાં વિધાન પરિષદનું સર્જન કે નાબૂદી કરવાની પ્રક્રિયા અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'સંબંધિત રાજ્યની વિધાનસભા સાદી બહુમતીથી ઠરાવ કરે અને સંસદ ૨/૩ બહુમતીથી કાયદો બનાવે',
-                'સંબંધિત વિધાનસભા વિશેષ બહુમતીથી ઠરાવ કરે અને સંસદ સાદી બહુમતીથી કાયદો બનાવે',
                 'માત્ર રાષ્ટ્રપતિ વટહુકમ બહાર પાડીને વિધાન પરિષદ રચી કે રદ કરી શકે છે',
-                'આ પ્રક્રિયા માટે અનુચ્છેદ ૩૬૮ હેઠળ બંધારણીય સુધારો કરવો ફરજિયાત છે'
+                'સંબંધિત રાજ્યની વિધાનસભા સાદી બહુમતીથી ઠરાવ કરે અને સંસદ ૨/૩ બહુમતીથી કાયદો બનાવે',
+                'આ પ્રક્રિયા માટે અનુચ્છેદ ૩૬૮ હેઠળ બંધારણીય સુધારો કરવો ફરજિયાત છે',
+                'સંબંધિત વિધાનસભા વિશેષ બહુમતીથી ઠરાવ કરે અને સંસદ સાદી બહુમતીથી કાયદો બનાવે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૬૯ મુજબ રાજ્ય વિધાનસભાએ કુલ સભ્ય સંખ્યાની બહુમતી અને હાજર રહી મતદાન કરનાર સભ્યોના ૨/૩ (વિશેષ બહુમતી) થી ઠરાવ પસાર કરવો પડે. ત્યારબાદ સંસદ સાદી બહુમતીથી કાયદો બનાવે છે, જેને કલમ ૩૬૮ હેઠળ સુધારો ગણવામાં આવતો નથી.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -5835,10 +5835,10 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_governor_nomination_cooperative',
               question: 'વિધાન પરિષદમાં રાજ્યપાલ દ્વારા ૧/૬ સભ્યોનું નામાંકન (અનુચ્છેદ ૧૭૧) નીચેના પૈકી કયા વિશિષ્ટ ક્ષેત્રમાંથી પણ થાય છે, જે રાજ્યસભામાં રાષ્ટ્રપતિના નામાંકન ક્ષેત્રમાં સામેલ નથી?',
               options: [
-                'રમતગમત (Sports)',
+                'પર્યાવરણ સંરક્ષણ (Environmental Protection)',
                 'સહકારી ચળવળ (Co-operative Movement)',
-                'પત્રકારત્વ (Journalism)',
-                'પર્યાવરણ સંરક્ષણ (Environmental Protection)'
+                'રમતગમત (Sports)',
+                'પત્રકારત્વ (Journalism)'
               ],
               correctOptionIndex: 1,
               explanation: 'રાજ્યપાલ ૫ ક્ષેત્રોમાંથી નામાંકન કરે છે: સાહિત્ય, વિજ્ઞાન, કલા, સહકારી ચળવળ અને સમાજસેવા. રાજ્યસભામાં રાષ્ટ્રપતિ દ્વારા નામાંકનમાં "સહકારી ચળવળ" નો સમાવેશ થતો નથી, તે માત્ર રાજ્યપાલના અધિકારક્ષેત્રમાં જ છે.',
@@ -5848,12 +5848,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_ordinary_bill_delay_4months',
               question: 'વિધાનસભામાંથી પસાર થઈને આવેલા કોઈપણ સામાન્ય વિધેયક (Ordinary Bill) ને વિધાન પરિષદ વધુમાં વધુ કેટલા સમય સુધી અટકાવી/વિલંબિત રાખી શકે છે?',
               options: [
-                'મહત્તમ ૧૪ દિવસ',
-                'મહત્તમ ૩ મહિના',
                 'મહત્તમ ૪ મહિના (પ્રથમ વાર ૩ મહિના + બીજી વાર ૧ મહિનો)',
-                'મહત્તમ ૬ મહિના'
+                'મહત્તમ ૬ મહિના',
+                'મહત્તમ ૩ મહિના',
+                'મહત્તમ ૧૪ દિવસ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'વિધાન પરિષદ સામાન્ય બિલને પ્રથમ વાર ૩ મહિના અને જો વિધાનસભા ફરીથી પસાર કરે તો ૧ મહિનો - એમ કુલ મહત્તમ ૪ મહિના જ રોકી શકે છે. રાજ્ય વિધાનમંડળમાં મડાગાંઠ વખતે કોઈ સંયુક્ત બેઠકની જોગવાઈ નથી, અંતે વિધાનસભાની ઇચ્છા જ માન્ય રહે છે.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -5861,12 +5861,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_min_max_seats_ratio',
               question: 'અનુચ્છેદ ૧૭૧ મુજબ કોઈપણ રાજ્યની વિધાન પરિષદમાં સભ્યોની લઘુત્તમ અને મહત્તમ સંખ્યા કેટલી હોઈ શકે છે?',
               options: [
-                'લઘુત્તમ ૫૦ સભ્યો અને મહત્તમ વિધાનસભાના ૧/૨ સભ્યો',
                 'લઘુત્તમ ૪૦ સભ્યો અને મહત્તમ વિધાનસભાની કુલ સભ્ય સંખ્યાના ૧/૩ સભ્યો',
+                'લઘુત્તમ ૩૦ સભ્યો અને મહત્તમ ૫૦૦ સભ્યો',
                 'લઘુત્તમ ૬૦ સભ્યો અને મહત્તમ વિધાનસભાના ૧/૩ સભ્યો',
-                'લઘુત્તમ ૩૦ સભ્યો અને મહત્તમ ૫૦૦ સભ્યો'
+                'લઘુત્તમ ૫૦ સભ્યો અને મહત્તમ વિધાનસભાના ૧/૨ સભ્યો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૭૧ સ્પષ્ટ કરે છે કે વિધાન પરિષદની સભ્ય સંખ્યા સંબંધિત રાજ્યની વિધાનસભાની કુલ સભ્ય સંખ્યાના ૧/૩ થી વધુ ન હોવી જોઈએ અને કોઈપણ સંજોગોમાં ૪૦ થી ઓછી ન હોવી જોઈએ.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -5874,12 +5874,12 @@ List<SectionModel> getInitialSyllabusData() {
               id: 'mcq_vp_teacher_graduate_ratio',
               question: 'વિધાન પરિષદની ચૂંટણીમાં માધ્યમિક કે ઉચ્ચ શિક્ષણના ૩ વર્ષથી અનુભવી શિક્ષકો (Teachers) અને ૩ વર્ષથી સ્નાતક (Graduates) થયેલા મતદારો દ્વારા કેટલા પ્રમાણમાં સભ્યો ચૂંટાય છે?',
               options: [
-                'પ્રત્યેક વર્ગ દ્વારા ૧/૩ સભ્યો',
                 'પ્રત્યેક વર્ગ દ્વારા ૧/૬ સભ્યો',
                 'પ્રત્યેક વર્ગ દ્વારા ૧/૧૨ સભ્યો',
-                'પ્રત્યેક વર્ગ દ્વારા ૧/૧૦ સભ્યો'
+                'પ્રત્યેક વર્ગ દ્વારા ૧/૧૦ સભ્યો',
+                'પ્રત્યેક વર્ગ દ્વારા ૧/૩ સભ્યો'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'વિધાન પરિષદમાં ૧/૧૨ સભ્યો સ્નાતકો દ્વારા અને ૧/૧૨ સભ્યો શિક્ષકો દ્વારા ચૂંટાય છે. જ્યારે ૧/૩ સ્થાનિક સંસ્થાઓ દ્વારા, ૧/૩ ધારાસભ્યો દ્વારા અને ૧/૬ રાજ્યપાલ દ્વારા નામાંકિત થાય છે.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -6839,7 +6839,7 @@ graph TD
                 '૨૮ જાન્યુઆરી ૧૯૫૦ - જસ્ટિસ હરિલાલ જે. કણિયા',
                 '૨૬ જાન્યુઆરી ૧૯૫૦ - સર મોરિસ ગ્વાયર',
                 '૧૫ ઓગસ્ટ ૧૯૪૭ - જસ્ટિસ પતંજલિ શાસ્ત્રી',
-                '૧ ઓક્ટોબર ૧૯૩૭ - જસ્ટિસ એમ. હિદાયતુલ્લાહ',
+                '૧ ઓક્ટોબર ૧૯૩૭ - જસ્ટિસ એમ. હિદાયતુલ્લાહ'
               ],
               correctOptionIndex: 0,
               explanation: 'ભારતીય બંધારણ ૨૬ જાન્યુઆરી ૧૯૫૦ ના રોજ લાગુ થયું તેના બે દિવસ બાદ એટલે કે ૨૮ જાન્યુઆરી ૧૯૫૦ ના રોજ સર્વોચ્ચ અદાલતનું વિધિવત ઉદ્ઘાટન સંસદ ભવનના પ્રિન્સેસ ચેમ્બરમાં થયું હતું. સ્વતંત્ર ભારતની સુપ્રીમ કોર્ટના પ્રથમ મુખ્ય ન્યાયાધીશ (CJI) ગુજરાતના જસ્ટિસ હરિલાલ જેકિશનદાસ કણિયા (H.J. Kania) બન્યા હતા.',
@@ -6849,12 +6849,12 @@ graph TD
               id: 'mcq_sc_original_vs_current_strength',
               question: 'મૂળ બંધારણમાં સર્વોચ્ચ અદાલત માટે કુલ કેટલા ન્યાયાધીશોની જોગવાઈ હતી અને હાલમાં (૨૦૧૯ ના સુધારા બાદ) મુખ્ય ન્યાયાધીશ સહિત કુલ મંજૂર સંખ્યા કેટલી છે?',
               options: [
-                'મૂળ બંધારણમાં ૧+૭=૮; હાલમાં ૧+૩૩=૩૪',
                 'મૂળ બંધારણમાં ૧+૧૦=૧૧; હાલમાં ૧+૩૦=૩૧',
-                'મૂળ બંધારણમાં ૧+૫=૬; હાલમાં ૧+૩૪=૩૫',
+                'મૂળ બંધારણમાં ૧+૭=૮; હાલમાં ૧+૩૩=૩૪',
                 'મૂળ બંધારણમાં ૧+૭=૮; હાલમાં ૧+૨૫=૨૬',
+                'મૂળ બંધારણમાં ૧+૫=૬; હાલમાં ૧+૩૪=૩૫'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૨૪(૧) હેઠળ મૂળ બંધારણ (૧૯૫૦) માં ૧ મુખ્ય ન્યાયાધીશ અને ૭ અન્ય ન્યાયાધીશો મળી કુલ ૮ ન્યાયાધીશોની જોગવાઈ હતી. બંધારણ મુજબ જજોની સંખ્યા વધારવાની સત્તા માત્ર સંસદને કાયદા દ્વારા છે. સંસદે "સર્વોચ્ચ અદાલત (ન્યાયાધીશોની સંખ્યા) સુધારા અધિનિયમ, ૨૦૧૯" પસાર કરીને હાલમાં કુલ સંખ્યા ૩૪ (૧ CJI + ૩૩ અન્ય ન્યાયાધીશો) કરી છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6862,12 +6862,12 @@ graph TD
               id: 'mcq_sc_judges_qualification_no_min_age',
               question: 'સર્વોચ્ચ અદાલતના ન્યાયાધીશ તરીકે નિમણૂક પામવા માટે બંધારણના અનુચ્છેદ ૧૨૪(૩) માં નીચેનામાંથી કઈ લાયકાતનો ઉલ્લેખ નથી?',
               options: [
-                'ઉમેદવારની ઉંમર ઓછામાં ઓછી ૩૫ વર્ષ હોવી ફરજિયાત છે',
                 'તે ભારતનો નાગરિક હોવો જોઈએ',
-                'કોઈપણ વડી અદાલતમાં ઓછામાં ઓછા ૫ વર્ષ સુધી ન્યાયાધીશ તરીકે કાર્ય કરેલ હોવું જોઈએ',
+                'ઉમેદવારની ઉંમર ઓછામાં ઓછી ૩૫ વર્ષ હોવી ફરજિયાત છે',
                 'રાષ્ટ્રપતિના અભિપ્રાય મુજબ પ્રતિષ્ઠિત/પ્રસિદ્ધ કાયદાવિદ (Distinguished Jurist) હોવો જોઈએ',
+                'કોઈપણ વડી અદાલતમાં ઓછામાં ઓછા ૫ વર્ષ સુધી ન્યાયાધીશ તરીકે કાર્ય કરેલ હોવું જોઈએ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બંધારણના અનુચ્છેદ ૧૨૪(૩) માં સર્વોચ્ચ અદાલતના ન્યાયાધીશ તરીકે નિમણૂક માટે કોઈપણ લઘુત્તમ વયમર્યાદા (No Minimum Age Limit) દર્શાવવામાં આવી નથી. લાયકાતમાં: (૧) ભારતનો નાગરિક, (૨) વડી અદાલતમાં ૫ વર્ષ જજ અથવા ૧૦ વર્ષ વકીલાત અથવા રાષ્ટ્રપતિના મતે પ્રસિદ્ધ કાયદાવિદ હોવું જરૂરી છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6875,12 +6875,12 @@ graph TD
               id: 'mcq_sc_tenure_age_65',
               question: 'સર્વોચ્ચ અદાલતના ન્યાયાધીશ પોતાના પદ પર કેટલી વય સુધી રહી શકે છે?',
               options: [
-                '૬૫ વર્ષની ઉંમર સુધી',
-                '૬૨ વર્ષની ઉંમર સુધી',
-                '૬ વર્ષ અથવા ૬૫ વર્ષ (જે વહેલું હોય)',
                 '૫ વર્ષ અથવા ૬૨ વર્ષ (જે વહેલું હોય)',
+                '૬ વર્ષ અથવા ૬૫ વર્ષ (જે વહેલું હોય)',
+                '૬૨ વર્ષની ઉંમર સુધી',
+                '૬૫ વર્ષની ઉંમર સુધી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૪(૨) અનુસાર સર્વોચ્ચ અદાલતના ન્યાયાધીશ ૬૫ વર્ષની ઉંમર પૂર્ણ કરે ત્યાં સુધી પોતાના પદ પર રહી શકે છે. બંધારણમાં તેમના માટે કોઈ નિશ્ચિત વર્ષોનો કાર્યકાળ (જેમ કે ૫ કે ૬ વર્ષ) નક્કી નથી. (નોંધ: વડી અદાલતના ન્યાયાધીશ માટે નિવૃત્તિ વય ૬૨ વર્ષ છે).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6888,12 +6888,12 @@ graph TD
               id: 'mcq_sc_collegium_third_judges_case',
               question: 'વર્ષ ૧૯૯૮ ના તૃતીય જજ કેસ (Third Judges Case) માં સુપ્રીમ કોર્ટ દ્વારા કોલેજિયમનું માળખું શું નિર્ધારિત કરવામાં આવ્યું હતું?',
               options: [
-                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) + સર્વોચ્ચ અદાલતના ૪ વરિષ્ઠતમ ન્યાયાધીશો',
                 'ભારતના મુખ્ય ન્યાયાધીશ (CJI) + સર્વોચ્ચ અદાલતના ૨ વરિષ્ઠતમ ન્યાયાધીશો',
+                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) + સર્વોચ્ચ અદાલતના ૪ વરિષ્ઠતમ ન્યાયાધીશો',
                 'CJI + કેન્દ્રીય કાયદા મંત્રી + ૨ વરિષ્ઠતમ ન્યાયાધીશો',
-                'CJI + વડાપ્રધાન + લોકસભાના વિપક્ષના નેતા',
+                'CJI + વડાપ્રધાન + લોકસભાના વિપક્ષના નેતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૯૯૮ ના તૃતીય જજ કેસ (રાષ્ટ્રપતિ કે.આર. નારાયણન દ્વારા અનુચ્છેદ ૧૪૩ હેઠળ પુછાયેલ રેફરન્સ) માં સુપ્રીમ કોર્ટે સ્પષ્ટ કર્યું કે કોલેજિયમમાં CJI ઉપરાંત સર્વોચ્ચ અદાલતના ૪ સૌથી વરિષ્ઠતમ ન્યાયાધીશો (CJI + 4 Senior-most Judges) નો સમાવેશ થશે, અને જો ૪ માંથી ૨ જજ પણ વિરોધ કરે તો તે નામ સરકારને ભલામણ કરી શકાશે નહીં.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6901,12 +6901,12 @@ graph TD
               id: 'mcq_sc_njac_unconstitutional_year',
               question: 'સંસદ દ્વારા પસાર કરાયેલા ૯૯મા બંધારણીય સુધારા અધિનિયમ (રાષ્ટ્રીય ન્યાયિક નિમણૂક પંચ - NJAC) ને સુપ્રીમ કોર્ટે કયા વર્ષે અસંવિધાનિક જાહેર કરીને રદ કર્યો હતો?',
               options: [
-                'વર્ષ ૨૦૧૫ માં (ચોથા જજ કેસમાં)',
-                'વર્ષ ૨૦૧૪ માં (દ્વિતીય જજ કેસમાં)',
-                'વર્ષ ૨૦૧૯ માં (પાંચમા જજ કેસમાં)',
                 'વર્ષ ૨૦૧૭ માં (પુટ્ટાસ્વામી કેસમાં)',
+                'વર્ષ ૨૦૧૯ માં (પાંચમા જજ કેસમાં)',
+                'વર્ષ ૨૦૧૪ માં (દ્વિતીય જજ કેસમાં)',
+                'વર્ષ ૨૦૧૫ માં (ચોથા જજ કેસમાં)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'સંસદે કોલેજિયમ પદ્ધતિ રદ કરી ન્યાયાધીશોની નિમણૂક માટે ૯૯મો બંધારણીય સુધારો (૨૦૧૪) પસાર કરી NJAC ની રચના કરી હતી. પરંતુ વર્ષ ૨૦૧૫ માં સર્વોચ્ચ અદાલતની ૫-જજોની બેંચે ૪:૧ ની બહુમતીથી તેને અસંવિધાનિક જાહેર કર્યો હતો કારણ કે તે બંધારણના મૂળભૂત માળખા સમાન "ન્યાયતંત્રની સ્વતંત્રતા" નો ભંગ કરતો હતો.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6914,12 +6914,12 @@ graph TD
               id: 'mcq_sc_removal_grounds_two_only',
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૧૨૪(૪) હેઠળ સર્વોચ્ચ અદાલતના ન્યાયાધીશને પદ પરથી હટાવવા માટે કયા આધારો માન્ય છે?',
               options: [
+                'માનસિક અસ્વસ્થતા અને નાદારી',
                 'માત્ર બે આધારો: (૧) સાબિત થયેલ ગેરવર્તણૂક (Proved Misbehaviour) અને (૨) અસમર્થતા (Incapacity)',
                 'બંધારણનું ઉલ્લંઘન, લાંચ-રૂશ્વત અને રાષ્ટ્રદ્રોહ',
-                'માનસિક અસ્વસ્થતા અને નાદારી',
-                'સંસદ દ્વારા નક્કી કરવામાં આવે તેવા કોઈપણ આધારો',
+                'સંસદ દ્વારા નક્કી કરવામાં આવે તેવા કોઈપણ આધારો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બંધારણના અનુચ્છેદ ૧૨૪(૪) માં સુપ્રીમ કોર્ટ (અને અનુચ્છેદ ૨૧૭ હેઠળ હાઈકોર્ટ) ના ન્યાયાધીશને પદ પરથી હટાવવા માટે માત્ર બે જ બંધારણીય આધારો દર્શાવેલ છે: (૧) સાબિત થયેલ દુર્વ્યવહાર/ગેરવર્તણૂક (Proved Misbehaviour), અને (૨) અસમર્થતા/અક્ષમતા (Incapacity).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6927,12 +6927,12 @@ graph TD
               id: 'mcq_sc_adhoc_judges_canada_art127',
               question: 'સર્વોચ્ચ અદાલતમાં "તદર્થ ન્યાયાધીશો (Ad-hoc Judges)" ની નિમણૂક અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'અનુચ્છેદ ૧૨૭ હેઠળ કોરમ (ન્યૂનતમ સભ્ય સંખ્યા) ના અભાવે CJI દ્વારા રાષ્ટ્રપતિની પૂર્વ મંજૂરીથી નિમણૂક થાય છે અને આ જોગવાઈ કેનેડા પાસેથી લેવાયેલ છે',
-                'તદર્થ ન્યાયાધીશની નિમણૂક સુપ્રીમ કોર્ટ અને તમામ વડી અદાલતો બંનેમાં થઈ શકે છે',
                 'તદર્થ ન્યાયાધીશની નિમણૂક કેન્દ્રીય કાયદા મંત્રાલય દ્વારા સીધી કરવામાં આવે છે',
                 'આ જોગવાઈ અમેરિકાના બંધારણમાંથી પ્રેરિત થઈને લેવામાં આવી છે',
+                'તદર્થ ન્યાયાધીશની નિમણૂક સુપ્રીમ કોર્ટ અને તમામ વડી અદાલતો બંનેમાં થઈ શકે છે',
+                'અનુચ્છેદ ૧૨૭ હેઠળ કોરમ (ન્યૂનતમ સભ્ય સંખ્યા) ના અભાવે CJI દ્વારા રાષ્ટ્રપતિની પૂર્વ મંજૂરીથી નિમણૂક થાય છે અને આ જોગવાઈ કેનેડા પાસેથી લેવાયેલ છે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૭ અનુસાર સુપ્રીમ કોર્ટની બેઠક ચાલુ રાખવા ન્યાયાધીશોની ન્યૂનતમ સંખ્યા (કોરમ) ઉપલબ્ધ ન હોય ત્યારે ભારતના CJI રાષ્ટ્રપતિની પૂર્વ મંજૂરી અને સંબંધિત હાઈકોર્ટના મુખ્ય ન્યાયાધીશ સાથે પરામર્શ કરીને હાઈકોર્ટના લાયક જજને તદર્થ જજ તરીકે નીમી શકે છે. આ જોગવાઈ કેનેડાના બંધારણમાંથી લેવાઈ છે અને તે માત્ર સુપ્રીમ કોર્ટ માટે જ લાગુ પડે છે (હાઈકોર્ટ માટે નહીં).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6940,12 +6940,12 @@ graph TD
               id: 'mcq_sc_post_retirement_practice_bar',
               question: 'બંધારણના કયા અનુચ્છેદ હેઠળ સર્વોચ્ચ અદાલતના નિવૃત્ત ન્યાયાધીશ પર ભારતના કોઈપણ ન્યાયાલય કે સત્તામંડળ સમક્ષ વકીલાત (Pleading/Practice) કરવા પર સંપૂર્ણ પ્રતિબંધ મૂકવામાં આવ્યો છે?',
               options: [
-                'અનુચ્છેદ ૧૨૪(૭)',
                 'અનુચ્છેદ ૧૨૪(૨)',
                 'અનુચ્છેદ ૧૨૯',
                 'અનુચ્છેદ ૨૨૦',
+                'અનુચ્છેદ ૧૨૪(૭)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૪(૭) સ્પષ્ટપણે જોગવાઈ કરે છે કે જે વ્યક્તિ સર્વોચ્ચ અદાલતના ન્યાયાધીશ તરીકે હોદ્દો ધરાવી ચૂકી હોય તે ભારતના રાજ્યક્ષેત્રની અંદર કોઈપણ અદાલતમાં કે કોઈપણ સત્તાધિકારી સમક્ષ વકીલાત કરી શકશે નહીં કે કાર્ય કરી શકશે નહીં. (જ્યારે હાઈકોર્ટના જજ માટે અનુચ્છેદ ૨૨૦ મુજબ જે હાઈકોર્ટમાં કાયમી જજ રહ્યા હોય તે સિવાય અન્ય હાઈકોર્ટ કે સુપ્રીમ કોર્ટમાં પ્રેક્ટિસ કરી શકે છે).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6953,12 +6953,12 @@ graph TD
               id: 'mcq_sc_seat_delhi_art130',
               question: 'અનુચ્છેદ ૧૩૦ અનુસાર સર્વોચ્ચ અદાલતનું મુખ્ય સ્થાન ક્યાં રહેશે, અને તેને અન્ય સ્થળે સ્થાનાંતરિત કરવાની સત્તા કોની પાસે છે?',
               options: [
+                'મુખ્ય સ્થાન દિલ્હી; રાષ્ટ્રપતિ કેબિનેટની સલાહથી સ્વતંત્ર રીતે નક્કી કરી શકે છે',
                 'મુખ્ય સ્થાન દિલ્હી; CJI રાષ્ટ્રપતિની પૂર્વ મંજૂરીથી અન્ય સ્થળ નક્કી કરી શકે છે',
                 'મુખ્ય સ્થાન દિલ્હી; સંસદ ૨/૩ બહુમતીથી અન્ય સ્થળ નક્કી કરી શકે છે',
-                'મુખ્ય સ્થાન દિલ્હી; રાષ્ટ્રપતિ કેબિનેટની સલાહથી સ્વતંત્ર રીતે નક્કી કરી શકે છે',
-                'મુખ્ય સ્થાન દિલ્હી; સર્વોચ્ચ અદાલતનું સ્થાન કોઈપણ સંજોગોમાં બદલી શકાતું નથી',
+                'મુખ્ય સ્થાન દિલ્હી; સર્વોચ્ચ અદાલતનું સ્થાન કોઈપણ સંજોગોમાં બદલી શકાતું નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૩૦ જણાવે છે કે સર્વોચ્ચ અદાલતનું મુખ્ય સ્થાન દિલ્હી રહેશે અથવા ભારતના મુખ્ય ન્યાયાધીશ (CJI) રાષ્ટ્રપતિની પૂર્વ મંજૂરીથી સમયાંતરે નક્કી કરે તેવા અન્ય સ્થળ કે સ્થળોએ સુપ્રીમ કોર્ટ બેસી શકે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6966,12 +6966,12 @@ graph TD
               id: 'mcq_sc_original_jurisdiction_art131',
               question: 'બંધારણના અનુચ્છેદ ૧૩૧ હેઠળ સર્વોચ્ચ અદાલતના અનન્ય મૂળ અધિકારક્ષેત્ર (Exclusive Original Jurisdiction) માં નીચેનામાંથી કયા વિવાદનો સમાવેશ થાય છે?',
               options: [
-                'ભારત સરકાર અને એક કે તેથી વધુ રાજ્યો વચ્ચેનો કાયદાકીય વિવાદ',
-                'બે રાજ્યો વચ્ચે નદી જળની વહેંચણી અંગેનો વિવાદ',
-                'કેન્દ્ર સરકાર વિરુદ્ધ ભારતના કોઈ ખાનગી નાગરિકનો દીવાની દાવો',
                 'નાણાપંચની ભલામણોથી નારાજ રાજ્ય સરકારનો વિવાદ',
+                'કેન્દ્ર સરકાર વિરુદ્ધ ભારતના કોઈ ખાનગી નાગરિકનો દીવાની દાવો',
+                'બે રાજ્યો વચ્ચે નદી જળની વહેંચણી અંગેનો વિવાદ',
+                'ભારત સરકાર અને એક કે તેથી વધુ રાજ્યો વચ્ચેનો કાયદાકીય વિવાદ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૩૧ હેઠળ માત્ર સંઘીય વિવાદો (કેન્દ્ર વિરુદ્ધ રાજ્યો અથવા રાજ્યો-રાજ્યો વચ્ચેના પરસ્પરના કાયદાકીય વિવાદો) ની સીધી સુનાવણી માત્ર સુપ્રીમ કોર્ટમાં જ થઈ શકે છે. આંતર-રાજ્ય જળ વિવાદો (અનુચ્છેદ ૨૬૨), નાણાપંચની બાબતો અને ખાનગી નાગરિકોના કેસો આ મૂળ અધિકારક્ષેત્રમાંથી બંધારણીય રીતે બાકાત છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -6982,7 +6982,7 @@ graph TD
                 'આંતર-રાજ્ય નદી જળ વિવાદો (અનુચ્છેદ ૨૬૨ હેઠળ ટ્રિબ્યુનલ)',
                 'બે રાજ્યો વચ્ચેની સરહદ સીમા અંગેનો વિવાદ',
                 'કેન્દ્રના કાયદાની બંધારણીયતાને પડકારતો રાજ્યનો દાવો',
-                'એક રાજ્ય દ્વારા બીજા રાજ્યના કાયદા સામે કરાયેલો મુકદ્દમો',
+                'એક રાજ્ય દ્વારા બીજા રાજ્યના કાયદા સામે કરાયેલો મુકદ્દમો'
               ],
               correctOptionIndex: 0,
               explanation: 'બંધારણના અનુચ્છેદ ૨૬૨(૨) હેઠળ સંસદે "આંતર-રાજ્ય નદી જળ વિવાદ અધિનિયમ, ૧૯૫૬" પસાર કર્યો છે, જે મુજબ આંતર-રાજ્ય નદી જળના વિવાદોના નિકાલ માટે વિશેષ ટ્રિબ્યુનલ રચાય છે અને તેમાં સર્વોચ્ચ અદાલત કે અન્ય કોઈ અદાલતનું અધિકારક્ષેત્ર પ્રતિબંધિત કરવામાં આવ્યું છે.',
@@ -6992,12 +6992,12 @@ graph TD
               id: 'mcq_sc_slp_article_136_armed_forces_exception',
               question: 'અનુચ્છેદ ૧૩૬ હેઠળ સર્વોચ્ચ અદાલતની "વિશેષ રજા અરજી (Special Leave Petition - SLP)" સ્વીકારવાની વિવેકાધીન સત્તા નીચેનામાંથી કઈ અદાલતના નિર્ણયો સામે લાગુ પડતી નથી?',
               options: [
+                'કોઈપણ રાજ્યની વડી અદાલત (High Court)',
                 'સશસ્ત્ર દળો સંબંધિત લશ્કરી અદાલત (Court Martial / Armed Forces Tribunal)',
                 'રાજ્ય વહીવટી ટ્રિબ્યુનલ (State Administrative Tribunal)',
-                'રાષ્ટ્રીય ગ્રીન ટ્રિબ્યુનલ (NGT)',
-                'કોઈપણ રાજ્યની વડી અદાલત (High Court)',
+                'રાષ્ટ્રીય ગ્રીન ટ્રિબ્યુનલ (NGT)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૩૬(૨) માં સ્પષ્ટ જોગવાઈ છે કે સશસ્ત્ર દળો સંબંધિત કોઈપણ કાયદા હેઠળ રચાયેલી અદાલત કે ટ્રિબ્યુનલ (Court Martial) દ્વારા પસાર કરાયેલા કોઈપણ ચુકાદા, દંડ કે આદેશ સામે સર્વોચ્ચ અદાલત અનુચ્છેદ ૧૩૬ હેઠળ અપીલ માટે વિશેષ પરવાનગી આપી શકતી નથી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7005,12 +7005,12 @@ graph TD
               id: 'mcq_sc_review_jurisdiction_curative_petition',
               question: 'પોતાના ચુકાદાની પુનર્વિચારણા (Review - અનુચ્છેદ ૧૩૭) ફગાવી દીધા બાદ પણ ઘોર અન્યાય નિવારવા માટે "ક્યુરેટિવ પિટિશન (Curative Petition)" ની નવી વ્યવસ્થા સુપ્રીમ કોર્ટે કયા ઐતિહાસિક કેસમાં સ્થાપિત કરી હતી?',
               options: [
-                'રૂપ અશોક હુર્રા વિરુદ્ધ અશોક હુર્રા કેસ (૨૦૦૨)',
                 'કેશવાનંદ ભારતી વિરુદ્ધ કેરળ રાજ્ય (૧૯૭૩)',
-                'મેનકા ગાંધી વિરુદ્ધ ભારત સંઘ (૧૯૭૮)',
                 'ઇન્દિરા સાહની વિરુદ્ધ ભારત સંઘ (૧૯૯૨)',
+                'રૂપ અશોક હુર્રા વિરુદ્ધ અશોક હુર્રા કેસ (૨૦૦૨)',
+                'મેનકા ગાંધી વિરુદ્ધ ભારત સંઘ (૧૯૭૮)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'રૂપ અશોક હુર્રા વિરુદ્ધ અશોક હુર્રા કેસ (૨૦૦૨) માં સર્વોચ્ચ અદાલતે ચુકાદો આપ્યો કે રિવ્યૂ પિટિશન ફગાવી દીધા પછી પણ જો કુદરતી ન્યાયના સિદ્ધાંતોનો ભંગ થયો હોય કે પક્ષપાત સાબિત થતો હોય, તો ન્યાયના અંતિમ ઉપાય તરીકે "ક્યુરેટિવ પિટિશન (Curative Petition)" દાખલ કરી શકાય છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7019,9 +7019,9 @@ graph TD
               question: 'બંધારણના અનુચ્છેદ ૧૨૯ હેઠળ સર્વોચ્ચ અદાલત "અભિલેખ અદાલત (Court of Record)" છે, તેનો મુખ્ય બંધારણીય અર્થ શું થાય છે?',
               options: [
                 'તેના તમામ ચુકાદાઓનું કાયમી પુરાવાકીય મૂલ્ય છે અને તેને પોતાની અવમાનના બદલ દંડ કરવાની સત્તા છે',
-                'તે દેશના તમામ નાગરિકોના જન્મ-મરણના રેકોર્ડ રાખે છે',
-                'તે માત્ર સંસદના દસ્તાવેજોની ચકાસણી કરી શકે છે',
                 'તેના ચુકાદાઓ સામે રાષ્ટ્રપતિ સમક્ષ પુનઃઅપીલ થઈ શકે છે',
+                'તે દેશના તમામ નાગરિકોના જન્મ-મરણના રેકોર્ડ રાખે છે',
+                'તે માત્ર સંસદના દસ્તાવેજોની ચકાસણી કરી શકે છે'
               ],
               correctOptionIndex: 0,
               explanation: 'અભિલેખ અદાલત (Court of Record - અનુચ્છેદ ૧૨૯) નો અર્થ થાય છે: (૧) અદાલતની તમામ કાર્યવાહી અને નિર્ણયો સ્મૃતિ અને નઝીર (Precedent) તરીકે સાચવવામાં આવે છે અને નીચલી અદાલતોમાં પુરાવા તરીકે માન્ય રહે છે, અને (૨) અદાલતને પોતાની અવમાનના (Contempt of Court) બદલ સજા કે દંડ કરવાની સંપૂર્ણ સત્તા છે.',
@@ -7034,7 +7034,7 @@ graph TD
                 'અનુચ્છેદ ૧૪૨',
                 'અનુચ્છેદ ૧૩૧',
                 'અનુચ્છેદ ૧૩૭',
-                'અનુચ્છેદ ૧૪૪',
+                'અનુચ્છેદ ૧૪૪'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૪૨(૧) સર્વોચ્ચ અદાલતને કોઈપણ બાબતમાં "સંપૂર્ણ ન્યાય (Complete Justice)" કરવા માટે અનિવાર્ય જણાય તેવો આદેશ આપવાની અસાધારણ સત્તા આપે છે. આ સત્તા હેઠળ સુપ્રીમ કોર્ટે અયોધ્યા કેસમાં ૫ એકર વૈકલ્પિક જમીન આપવા અને ભોપાલ ગેસ કાંડમાં વળતર આપવા જેવા ઐતિહાસિક આદેશો કર્યા છે.',
@@ -7044,12 +7044,12 @@ graph TD
               id: 'mcq_sc_advisory_jurisdiction_art143_two_types',
               question: 'અનુચ્છેદ ૧૪૩ હેઠળ રાષ્ટ્રપતિ દ્વારા માંગવામાં આવેલી સલાહ અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
+                'સુપ્રીમ કોર્ટની સલાહ રાષ્ટ્રપતિ માટે કાયદેસર બંધનકર્તા હોય છે',
                 'અનુચ્છેદ ૧૪૩(૧) મુજબ જાહેર મહત્વના પ્રશ્ને સુપ્રીમ કોર્ટ સલાહ આપવા બંધાયેલ નથી, પરંતુ ૧૪૩(૨) માં બંધારણ પૂર્વેની સંધિના વિવાદમાં સલાહ આપવા બંધાયેલ છે',
                 'સુપ્રીમ કોર્ટ તમામ બાબતોમાં સલાહ આપવા બંધાયેલ છે અને રાષ્ટ્રપતિ તે માનવા બંધાયેલ છે',
-                'સુપ્રીમ કોર્ટની સલાહ રાષ્ટ્રપતિ માટે કાયદેસર બંધનકર્તા હોય છે',
-                'આવી સલાહ માટે ઓછામાં ઓછા ૩ ન્યાયાધીશોની બેંચ પૂરતી છે',
+                'આવી સલાહ માટે ઓછામાં ઓછા ૩ ન્યાયાધીશોની બેંચ પૂરતી છે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૪૩(૧) માં જાહેર મહત્વના કાયદાકીય પ્રશ્ને સુપ્રીમ કોર્ટ સલાહ આપી પણ શકે અથવા ઇનકાર પણ કરી શકે (૧૯૯૩ અયોધ્યા કેસમાં ઇનકાર કર્યો હતો). જ્યારે ૧૪૩(૨) હેઠળ બંધારણ પૂર્વેની સંધિઓના વિવાદમાં સલાહ આપવા સુપ્રીમ કોર્ટ બંધાયેલ છે. કોઈપણ સંજોગોમાં આ સલાહ રાષ્ટ્રપતિ માટે બંધનકર્તા નથી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7057,12 +7057,12 @@ graph TD
               id: 'mcq_sc_binding_law_article_141',
               question: 'બંધારણના કયા અનુચ્છેદ અનુસાર "સર્વોચ્ચ અદાલત દ્વારા જાહેર કરાયેલો કાયદો ભારતના રાજ્યક્ષેત્રની અંદરની તમામ અદાલતો પર બંધનકર્તા રહેશે"?',
               options: [
-                'અનુચ્છેદ ૧૪૧',
                 'અનુચ્છેદ ૧૪૨',
-                'અનુચ્છેદ ૧૪૩',
+                'અનુચ્છેદ ૧૪૧',
                 'અનુચ્છેદ ૧૩૯',
+                'અનુચ્છેદ ૧૪૩'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૪૧ સ્પષ્ટપણે ઘોષણા કરે છે કે સર્વોચ્ચ અદાલત દ્વારા જાહેર કરવામાં આવેલો કાયદો ભારતના તમામ રાજ્યક્ષેત્રોની તમામ અદાલતો (તમામ હાઈકોર્ટ અને સબઓર્ડિનેટ કોર્ટ) માટે સંપૂર્ણ બંધનકર્તા કાયદો બને છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7071,9 +7071,9 @@ graph TD
               question: 'અનુચ્છેદ ૧૪૫(૩) મુજબ બંધારણના અર્થઘટનનો મહત્વનો પ્રશ્ન સમાયેલો હોય અથવા અનુચ્છેદ ૧૪૩ હેઠળ રાષ્ટ્રપતિનો સંદર્ભ હોય તેવા કેસો સાંભળવા માટે ન્યાયાધીશોની ન્યૂનતમ સંખ્યા (Constitutional Bench) કેટલી હોવી ફરજિયાત છે?',
               options: [
                 'ઓછામાં ઓછા ૫ ન્યાયાધીશો',
-                'ઓછામાં ઓછા ૩ ન્યાયાધીશો',
-                'ઓછામાં ઓછા ૭ ન્યાયાધીશો',
                 'ઓછામાં ઓછા ૯ ન્યાયાધીશો',
+                'ઓછામાં ઓછા ૭ ન્યાયાધીશો',
+                'ઓછામાં ઓછા ૩ ન્યાયાધીશો'
               ],
               correctOptionIndex: 0,
               explanation: 'બંધારણના અનુચ્છેદ ૧૪૫(૩) અનુસાર બંધારણના અર્થઘટન સાથે સંકળાયેલા કોઈપણ કેસ અથવા અનુચ્છેદ ૧૪૩ હેઠળ રાષ્ટ્રપતિ દ્વારા મંગાયેલી સલાહની સુનાવણી માટે ઓછામાં ઓછા ૫ ન્યાયાધીશોની બંધારણીય બેંચ (Constitutional Bench) રચવી ફરજિયાત છે.',
@@ -7083,12 +7083,12 @@ graph TD
               id: 'mcq_sc_pil_pioneers_bhagwati_krishna_iyer',
               question: 'ભારતમાં ૧૯૮૦ ના દાયકામાં "જનહિત યાચિકા (PIL - Public Interest Litigation)" નો ખ્યાલ પ્રસ્થાપિત કરવાનો અને \'લોકસ સ્ટેન્ડાઈ\' નો નિયમ હળવો કરવાનો શ્રેય મુખ્યત્વે કયા ન્યાયાધીશોને જાય છે?',
               options: [
-                'જસ્ટિસ પી. એન. ભગવતી અને જસ્ટિસ વી. આર. કૃષ્ણ ઐયર',
-                'જસ્ટિસ એચ. જે. કણિયા અને જસ્ટિસ પતંજલિ શાસ્ત્રી',
                 'જસ્ટિસ એમ. હિદાયતુલ્લાહ અને જસ્ટિસ જે. સી. શાહ',
                 'જસ્ટિસ વાય. વી. ચંદ્રચૂડ અને જસ્ટિસ એ. એન. રે',
+                'જસ્ટિસ એચ. જે. કણિયા અને જસ્ટિસ પતંજલિ શાસ્ત્રી',
+                'જસ્ટિસ પી. એન. ભગવતી અને જસ્ટિસ વી. આર. કૃષ્ણ ઐયર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ભારતમાં જનહિત યાચિકા (PIL) ના જનક જસ્ટિસ પી. એન. ભગવતી (P.N. Bhagwati) અને જસ્ટિસ વી. આર. કૃષ્ણ ઐયર (V.R. Krishna Iyer) ગણાય છે. તેમણે પરંપરાગત "લોકસ સ્ટેન્ડાઈ (Locus Standi)" નો નિયમ હળવો કર્યો જેથી શોષિત અને ગરીબ વર્ગના ન્યાય માટે સમાજનો કોઈપણ નાગરિક કોર્ટમાં જઈ શકે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7096,12 +7096,12 @@ graph TD
               id: 'mcq_sc_cji_longest_tenure',
               question: 'ભારતના મુખ્ય ન્યાયાધીશ (CJI) તરીકે સૌથી લાંબો કાર્યકાળ (૭ વર્ષથી વધુ) ભોગવવાનો વિક્રમ કયા ન્યાયાધીશના નામે છે?',
               options: [
-                'જસ્ટિસ વાય. વી. ચંદ્રચૂડ (Y.V. Chandrachud)',
-                'જસ્ટિસ પી. એન. ભગવતી',
-                'જસ્ટિસ એચ. જે. કણિયા',
                 'જસ્ટિસ કમલ નારાયણ સિંહ',
+                'જસ્ટિસ વાય. વી. ચંદ્રચૂડ (Y.V. Chandrachud)',
+                'જસ્ટિસ એચ. જે. કણિયા',
+                'જસ્ટિસ પી. એન. ભગવતી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જસ્ટિસ વાય. વી. ચંદ્રચૂડ ૧૯૭૮ થી ૧૯૮૫ સુધી (લગભગ ૭ વર્ષ, ૪ મહિના, ૨૦ દિવસ) ભારતના મુખ્ય ન્યાયાધીશ રહ્યા હતા, જે ભારતીય ઇતિહાસમાં સૌથી લાંબો કાર્યકાળ છે. (જ્યારે સૌથી ટૂંકો કાર્યકાળ જસ્ટિસ કે. એન. સિંહનો માત્ર ૧૮ દિવસ હતો).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7109,12 +7109,12 @@ graph TD
               id: 'mcq_sc_hidayatullah_three_highest_posts',
               question: 'ભારતના મુખ્ય ન્યાયાધીશ (CJI), કાર્યકારી રાષ્ટ્રપતિ (Acting President) અને ઉપરાષ્ટ્રપતિ (Vice-President) ત્રણેય સર્વોચ્ચ બંધારણીય હોદ્દા સંભાળનાર એકમાત્ર વ્યક્તિત્વ કોણ હતા?',
               options: [
-                'જસ્ટિસ એમ. હિદાયતુલ્લાહ (M. Hidayatullah)',
                 'જસ્ટિસ વી. આર. કૃષ્ણ ઐયર',
+                'જસ્ટિસ એમ. હિદાયતુલ્લાહ (M. Hidayatullah)',
                 'જસ્ટિસ એચ. આર. ખન્ના',
-                'જસ્ટિસ કે. એસ. હેગડે',
+                'જસ્ટિસ કે. એસ. હેગડે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જસ્ટિસ એમ. હિદાયતુલ્લાહ એકમાત્ર એવા વ્યક્તિ છે જેમણે ભારતના CJI તરીકે સેવા આપી, ૧૯૬૯ માં રાષ્ટ્રપતિ ઝાકિર હુસૈનના અવસાન બાદ કાર્યકારી રાષ્ટ્રપતિ તરીકે સેવા આપી, અને બાદમાં ૧૯૭૯ થી ૧૯૮૪ સુધી ભારતના ઉપરાષ્ટ્રપતિ પદે પણ સેવા આપી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7122,12 +7122,12 @@ graph TD
               id: 'mcq_sc_first_female_judge_fathima_beevi',
               question: 'સર્વોચ્ચ અદાલતના પ્રથમ મહિલા ન્યાયાધીશ બનવાનું ગૌરવ કોણે પ્રાપ્ત કર્યું હતું?',
               options: [
-                'જસ્ટિસ એમ. ફાતિમા બીવી (૧૯૮૯)',
-                'જસ્ટિસ ઇન્દુ મલ્હોત્રા',
-                'જસ્ટિસ સુજાતા મનોહર',
                 'જસ્ટિસ બી. વી. નાગરત્ના',
+                'જસ્ટિસ સુજાતા મનોહર',
+                'જસ્ટિસ એમ. ફાતિમા બીવી (૧૯૮૯)',
+                'જસ્ટિસ ઇન્દુ મલ્હોત્રા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'વર્ષ ૧૯૮૯ માં જસ્ટિસ એમ. ફાતિમા બીવી (કેરળ) સર્વોચ્ચ અદાલતના પ્રથમ મહિલા ન્યાયાધીશ બન્યા હતા. (નોંધ: સીધા બાર કાઉન્સિલમાંથી સુપ્રીમ કોર્ટ જજ બનનાર પ્રથમ મહિલા જસ્ટિસ ઇન્દુ મલ્હોત્રા હતા, અને સપ્ટેમ્બર ૨૦૨૭ માં જસ્ટિસ બી. વી. નાગરત્ના ભારતના પ્રથમ મહિલા CJI બનવા જઈ રહ્યા છે).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7135,12 +7135,12 @@ graph TD
               id: 'mcq_sc_kesavananda_bharati_bench_size',
               question: 'ભારતીય ન્યાયતંત્રના ઇતિહાસમાં સૌથી મોટી ૧૩-જજોની બંધારણીય બેંચ કયા કેસમાં રચાઈ હતી અને તેણે કઈ તારીખે ઐતિહાસિક \'મૂળભૂત માળખાનો સિદ્ધાંત\' આપ્યો હતો?',
               options: [
-                'કેશવાનંદ ભારતી વિ. કેરળ રાજ્ય (૨૪ એપ્રિલ ૧૯૭૩)',
-                'ગોલકનાથ વિ. પંજાબ રાજ્ય (૨૭ ફેબ્રુઆરી ૧૯૬૭)',
                 'મિનર્વા મિલ્સ વિ. ભારત સંઘ (૩૧ જુલાઈ ૧૯૮૦)',
+                'કેશવાનંદ ભારતી વિ. કેરળ રાજ્ય (૨૪ એપ્રિલ ૧૯૭૩)',
                 'ઇન્દિરા સાહની વિ. ભારત સંઘ (૧૬ નવેમ્બર ૧૯૯૨)',
+                'ગોલકનાથ વિ. પંજાબ રાજ્ય (૨૭ ફેબ્રુઆરી ૧૯૬૭)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૨૪ એપ્રિલ ૧૯૭૩ ના રોજ કેશવાનંદ ભારતી કેસમાં ભારતના ઇતિહાસની સૌથી મોટી ૧૩-જજોની બંધારણીય બેંચે ૭:૬ ની બહુમતીથી ઐતિહાસિક ચુકાદો આપ્યો કે સંસદ મૂળભૂત અધિકારો સહિત બંધારણના કોઈપણ ભાગમાં સુધારો કરી શકે છે, પરંતુ તે બંધારણના "મૂળભૂત માળખા (Basic Structure)" ને નુકસાન કરી કે બદલી શકતી નથી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7149,9 +7149,9 @@ graph TD
               question: 'કયા કેસમાં સર્વોચ્ચ અદાલતે ચુકાદો આપ્યો હતો કે "મૂળભૂત અધિકારો અલૌકિક અને અપરિવર્તનીય (Transcendental and Immutable) છે અને સંસદ તેમાં ઘટાડો કે છીનવી શકે નહીં"?',
               options: [
                 'ગોલકનાથ વિ. પંજાબ રાજ્ય (૧૯૬૭)',
-                'શંકરી પ્રસાદ વિ. ભારત સંઘ (૧૯૫૧)',
-                'સજ્જન સિંહ વિ. રાજસ્થાન રાજ્ય (૧૯૬૫)',
                 'મેનકા ગાંધી વિ. ભારત સંઘ (૧૯૭૮)',
+                'શંકરી પ્રસાદ વિ. ભારત સંઘ (૧૯૫૧)',
+                'સજ્જન સિંહ વિ. રાજસ્થાન રાજ્ય (૧૯૬૫)'
               ],
               correctOptionIndex: 0,
               explanation: 'વર્ષ ૧૯૬૭ માં ૧૧-જજોની બેંચે ગોલકનાથ કેસમાં ૬:૫ ની બહુમતીથી અગાઉના શંકરી પ્રસાદ અને સજ્જન સિંહ કેસના ચુકાદાઓ પલટાવીને ઠરાવ્યું કે મૂળભૂત અધિકારો પવિત્ર અને અપરિવર્તનીય છે, જેથી સંસદ અનુચ્છેદ ૩૬૮ હેઠળ તેમાં ઘટાડો કે સુધારો કરી શકતી નથી.',
@@ -7161,12 +7161,12 @@ graph TD
               id: 'mcq_sc_maneka_gandhi_due_process_of_law',
               question: 'મેનકા ગાંધી વિ. ભારત સંઘ (૧૯૭૮) કેસમાં સર્વોચ્ચ અદાલતે અનુચ્છેદ ૨૧ માં વપરાયેલ "કાયદા દ્વારા સ્થાપિત પ્રક્રિયા" નો અર્થ શું કર્યો હતો?',
               options: [
-                'પ્રક્રિયા માત્ર ઔપચારિક નહીં પરંતુ વાજબી, ન્યાયસંગત અને યોગ્ય (Due Process of Law) હોવી અનિવાર્ય છે',
                 'સંસદ દ્વારા પસાર કરાયેલ કોઈપણ પ્રક્રિયા અદાલત માન્ય રાખવા બંધાયેલી છે',
                 'પાસપોર્ટ જપ્ત કરવાનો કારોબારીનો અધિકાર સંપૂર્ણ અને અનિયંત્રિત છે',
-                'વિદેશ જવાનો અધિકાર એ મૂળભૂત અધિકાર નથી',
+                'પ્રક્રિયા માત્ર ઔપચારિક નહીં પરંતુ વાજબી, ન્યાયસંગત અને યોગ્ય (Due Process of Law) હોવી અનિવાર્ય છે',
+                'વિદેશ જવાનો અધિકાર એ મૂળભૂત અધિકાર નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'મેનકા ગાંધી કેસ (૧૯૭૮) માં સુપ્રીમ કોર્ટે અનુચ્છેદ ૨૧ નો વ્યાપ વિસ્તારીને સ્પષ્ટ કર્યું કે જીવન અને વ્યક્તિગત સ્વતંત્રતા છીનવતી પ્રક્રિયા માત્ર "કાયદા દ્વારા સ્થાપિત" હોવી પૂરતી નથી, પરંતુ તે "વાજબી, યોગ્ય અને ન્યાયી (Fair, Just and Reasonable)" એટલે કે "Due Process of Law" ના સિદ્ધાંત મુજબની હોવી જોઈએ.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7175,9 +7175,9 @@ graph TD
               question: 'વામન રાવ કેસ (૧૯૮૧) અને આઈ.આર. કોએલ્હો કેસ (૨૦૦૭) અનુસાર ૯મી અનુસૂચિમાં મૂકવામાં આવેલા કાયદાઓની ન્યાયિક સમીક્ષા માટે કઈ કટ-ઓફ તારીખ નક્કી કરવામાં આવી છે?',
               options: [
                 '૨૪ એપ્રિલ ૧૯૭૩ (કેશવાનંદ ભારતી કેસના ચુકાદાની તારીખ)',
-                '૨૬ જાન્યુઆરી ૧૯૫૦ (બંધારણ અમલની તારીખ)',
-                '૧૮ જૂન ૧૯૫૧ (પ્રથમ બંધારણીય સુધારાની તારીખ)',
                 '૪૨મો સુધારો ૧૯૭૬ અમલની તારીખ',
+                '૧૮ જૂન ૧૯૫૧ (પ્રથમ બંધારણીય સુધારાની તારીખ)',
+                '૨૬ જાન્યુઆરી ૧૯૫૦ (બંધારણ અમલની તારીખ)'
               ],
               correctOptionIndex: 0,
               explanation: 'સુપ્રીમ કોર્ટે સ્પષ્ટ કર્યું કે ૨૪ એપ્રિલ ૧૯૭૩ (કેશવાનંદ ભારતી કેસનો ચુકાદો) પછી ૯મી અનુસૂચિમાં સામેલ કરવામાં આવેલા કોઈપણ કાયદા જો મૂળભૂત અધિકારો કે બંધારણના મૂળભૂત માળખાનું ઉલ્લંઘન કરતા હોય, તો સર્વોચ્ચ અદાલત તેની ન્યાયિક સમીક્ષા કરીને રદ કરી શકે છે.',
@@ -7188,9 +7188,9 @@ graph TD
               question: 'કયા ઐતિહાસિક ચુકાદામાં સર્વોચ્ચ અદાલતે અનુચ્છેદ ૩૫૬ (રાષ્ટ્રપતિ શાસન) ના દુરુપયોગ પર અંકુશ મૂક્યો અને \'બિનસાંપ્રદાયિકતા (Secularism)\' ને બંધારણનું મૂળભૂત માળખું ઘોષિત કર્યું?',
               options: [
                 'એસ. આર. બોમ્માઈ વિ. ભારત સંઘ (૧૯૯૪)',
-                'ઇન્દિરા નહેરુ ગાંધી વિ. રાજ નારાયણ (૧૯૭૫)',
-                'મિનર્વા મિલ્સ વિ. ભારત સંઘ (૧૯૮૦)',
                 'શંકરી પ્રસાદ કેસ (૧૯૫૧)',
+                'ઇન્દિરા નહેરુ ગાંધી વિ. રાજ નારાયણ (૧૯૭૫)',
+                'મિનર્વા મિલ્સ વિ. ભારત સંઘ (૧૯૮૦)'
               ],
               correctOptionIndex: 0,
               explanation: 'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪) માં ૯-જજોની બેંચે ઐતિહાસિક ચુકાદો આપ્યો કે અનુચ્છેદ ૩૫૬ હેઠળ રાષ્ટ્રપતિ શાસન લાદવાનો નિર્ણય ન્યાયિક સમીક્ષાને પાત્ર છે, વિધાનસભાનું વિસર્જન સંસદની મંજૂરી બાદ જ થઈ શકે છે, અને બિનસાંપ્રદાયિકતા એ મૂળભૂત માળખાનો ભાગ છે.',
@@ -7200,12 +7200,12 @@ graph TD
               id: 'mcq_sc_puttaswamy_right_to_privacy',
               question: 'ન્યાયમૂર્તિ કે. એસ. પુટ્ટાસ્વામી વિ. ભારત સંઘ (૨૦૧૭) કેસમાં ૯-જજોની સર્વાનુમતે બેંચે "ગોપનીયતાના અધિકાર (Right to Privacy)" ને બંધારણના કયા અનુચ્છેદ હેઠળ મૂળભૂત અધિકાર ઠરાવ્યો હતો?',
               options: [
+                'અનુચ્છેદ ૧૪ હેઠળ સમાનતાના અધિકાર તરીકે',
                 'અનુચ્છેદ ૨૧ હેઠળ જીવન અને વ્યક્તિગત સ્વતંત્રતાના અધિકારના આંતરિક ભાગ તરીકે',
                 'અનુચ્છેદ ૧૯(૧)(a) હેઠળ વિચાર અને અભિવ્યક્તિની સ્વતંત્રતા તરીકે',
-                'અનુચ્છેદ ૧૪ હેઠળ સમાનતાના અધિકાર તરીકે',
-                'અનુચ્છેદ ૨૫ હેઠળ અંતઃકરણની સ્વતંત્રતા તરીકે',
+                'અનુચ્છેદ ૨૫ હેઠળ અંતઃકરણની સ્વતંત્રતા તરીકે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઓગસ્ટ ૨૦૧૭ માં ૯-જજોની બંધારણીય બેંચે એકમત થઈને પુટ્ટાસ્વામી કેસમાં ચુકાદો આપ્યો કે પ્રાઈવસી/ગોપનીયતાનો અધિકાર એ બંધારણના અનુચ્છેદ ૨૧ હેઠળના જીવન અને વ્યક્તિગત સ્વાતંત્ર્યના અધિકારનો તથા ભાગ-૩ માં આપેલ સ્વાતંત્ર્યોનો અભિન્ન ભાગ છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7213,12 +7213,12 @@ graph TD
               id: 'mcq_sc_indira_sawhney_reservation_limit',
               question: 'ઇન્દિરા સાહની વિ. ભારત સંઘ (૧૯૯૨) ના પ્રસિદ્ધ "મંડલ કેસ" માં સર્વોચ્ચ અદાલતે અનામતની મહત્તમ મર્યાદા સામાન્ય સંજોગોમાં કેટલી નિર્ધારિત કરી હતી?',
               options: [
-                'કુલ બેઠકોના ૫૦% થી વધુ નહીં',
-                'કુલ બેઠકોના ૨૭% થી વધુ નહીં',
                 'કુલ બેઠકોના ૩૩% થી વધુ નહીં',
                 'કુલ બેઠકોના ૬૦% થી વધુ નહીં',
+                'કુલ બેઠકોના ૫૦% થી વધુ નહીં',
+                'કુલ બેઠકોના ૨૭% થી વધુ નહીં'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ઇન્દિરા સાહની કેસ (૧૯૯૨ - ૯ જજોની બેંચ) માં સુપ્રીમ કોર્ટે OBC માટે ૨૭% અનામત માન્ય રાખી, ક્રિમીલેયરને બાકાત રાખવાનો આદેશ આપ્યો, અને સ્પષ્ટ કર્યું કે અસાધારણ સંજોગો સિવાય કુલ અનામત ૫૦% ની મર્યાદાથી વધવી જોઈએ નહીં તેમજ બઢતીમાં અનામત મળવાપાત્ર નથી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7226,12 +7226,12 @@ graph TD
               id: 'mcq_sc_strength_increase_power_parliament',
               question: 'સર્વોચ્ચ અદાલતમાં ન્યાયાધીશોની સંખ્યા વધારવાની બંધારણીય સત્તા કોની પાસે છે?',
               options: [
-                'ભારતની સંસદને કાયદા દ્વારા (Parliament of India)',
-                'ભારતના રાષ્ટ્રપતિને',
                 'ભારતના મુખ્ય ન્યાયાધીશ (CJI) ને',
-                'સુપ્રીમ કોર્ટ કોલેજિયમને',
+                'ભારતના રાષ્ટ્રપતિને',
+                'ભારતની સંસદને કાયદા દ્વારા (Parliament of India)',
+                'સુપ્રીમ કોર્ટ કોલેજિયમને'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'બંધારણના અનુચ્છેદ ૧૨૪(૧) મુજબ સર્વોચ્ચ અદાલતમાં ન્યાયાધીશોની સંખ્યા વધારવાની સત્તા માત્ર ભારતની સંસદ પાસે છે, જે સામાન્ય કાયદો પસાર કરીને વધારે છે. (જ્યારે વડી અદાલતમાં જજોની સંખ્યા નક્કી કરવાની સત્તા રાષ્ટ્રપતિ પાસે છે - અનુચ્છેદ ૨૧૬).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7239,12 +7239,12 @@ graph TD
               id: 'mcq_sc_age_dispute_15th_amendment',
               question: 'સુપ્રીમ કોર્ટના ન્યાયાધીશની વય અંગેના પ્રશ્નનો નિકાલ સંસદ દ્વારા નિર્ધારિત સત્તાધિકારી કરશે - આ જોગવાઈ કયા બંધારણીય સુધારા દ્વારા ઉમેરાઈ?',
               options: [
+                '૯૯મો બંધારણીય સુધારો, ૨૦૧૪',
                 '૧૫મો બંધારણીય સુધારો, ૧૯૬૩ (અનુચ્છેદ ૧૨૪(૨A))',
                 '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
-                '૪૪મો બંધારણીય સુધારો, ૧૯૭૮',
-                '૯૯મો બંધારણીય સુધારો, ૨૦૧૪',
+                '૪૪મો બંધારણીય સુધારો, ૧૯૭૮'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૫મા બંધારણીય સુધારા ૧૯૬૩ દ્વારા અનુચ્છેદ ૧૨૪ માં પેટા-કલમ (૨A) ઉમેરીને સર્વોચ્ચ અદાલતના ન્યાયાધીશની વય સંબંધી કોઈપણ વિવાદના નિકાલની સત્તા સંસદ નિર્ધારિત સત્તાધિકારીને સોંપવામાં આવી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7252,12 +7252,12 @@ graph TD
               id: 'mcq_sc_oath_schedule_third_president',
               question: 'સર્વોચ્ચ અદાલતના ન્યાયાધીશો કોની સમક્ષ અને કઈ અનુસૂચિ મુજબ શપથ ગ્રહણ કરે છે?',
               options: [
+                'મુખ્ય ન્યાયાધીશ (CJI) સમક્ષ, ચોથી અનુસૂચિ મુજબ',
                 'રાષ્ટ્રપતિ અથવા તેમના અધિકૃત વ્યક્તિ સમક્ષ, ત્રીજી અનુસૂચિ મુજબ (અનુચ્છેદ ૧૨૪(૬))',
                 'રાષ્ટ્રપતિ સમક્ષ, બીજી અનુસૂચિ મુજબ',
-                'મુખ્ય ન્યાયાધીશ (CJI) સમક્ષ, ચોથી અનુસૂચિ મુજબ',
-                'ઉપરાષ્ટ્રપતિ સમક્ષ, ત્રીજી અનુસૂચિ મુજબ',
+                'ઉપરાષ્ટ્રપતિ સમક્ષ, ત્રીજી અનુસૂચિ મુજબ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૨૪(૬) અનુસાર સર્વોચ્ચ અદાલતના ન્યાયાધીશો રાષ્ટ્રપતિ અથવા તેમના દ્વારા અધિકૃત વ્યક્તિ સમક્ષ બંધારણની ત્રીજી અનુસૂચિમાં નિર્ધારિત નમૂના મુજબ શપથ લે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7265,12 +7265,12 @@ graph TD
               id: 'mcq_sc_removal_notice_signatures_1968_act',
               question: 'ન્યાયાધીશ તપાસ અધિનિયમ, ૧૯૬૮ મુજબ જજ સામે મહાભિયોગ જેવી દરખાસ્ત લાવવા લોકસભા અને રાજ્યસભામાં અનુક્રમે કેટલા સભ્યોની સહીવાળી નોટિસ જરૂરી છે?',
               options: [
-                'લોકસભામાં ૧૦૦ સભ્યો અને રાજ્યસભામાં ૫૦ સભ્યો',
-                'લોકસભામાં ૫૦ સભ્યો અને રાજ્યસભામાં ૨૫ સભ્યો',
-                'લોકસભામાં ૧૫૦ સભ્યો અને રાજ્યસભામાં ૭૫ સભ્યો',
                 'બંને ગૃહોમાં ૫૦-૫૦ સભ્યો',
+                'લોકસભામાં ૧૫૦ સભ્યો અને રાજ્યસભામાં ૭૫ સભ્યો',
+                'લોકસભામાં ૧૦૦ સભ્યો અને રાજ્યસભામાં ૫૦ સભ્યો',
+                'લોકસભામાં ૫૦ સભ્યો અને રાજ્યસભામાં ૨૫ સભ્યો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ન્યાયાધીશ તપાસ અધિનિયમ ૧૯૬૮ મુજબ લોકસભામાં ઓછામાં ઓછા ૧૦૦ સભ્યો અથવા રાજ્યસભામાં ઓછામાં ઓછા ૫૦ સભ્યોની સહીવાળી નોટિસ સ્પીકર કે ચેરમેનને સુપરત કરવી પડે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7278,12 +7278,12 @@ graph TD
               id: 'mcq_sc_removal_committee_three_members',
               question: 'ન્યાયાધીશ સામેના આરોપોની તપાસ માટે સ્પીકર/સભાપતિ દ્વારા રચાતી ૩ સભ્યોની તપાસ સમિતિમાં નીચેનામાંથી કોનો સમાવેશ થતો નથી?',
               options: [
-                'ભારતના એટર્ની જનરલ (Attorney General of India)',
                 'સુપ્રીમ કોર્ટના CJI અથવા અન્ય ન્યાયાધીશ',
+                'ભારતના એટર્ની જનરલ (Attorney General of India)',
                 'કોઈપણ હાઈકોર્ટના મુખ્ય ન્યાયાધીશ',
-                'એક પ્રતિષ્ઠિત કાયદાવિદ્ (Distinguished Jurist)',
+                'એક પ્રતિષ્ઠિત કાયદાવિદ્ (Distinguished Jurist)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'તપાસ સમિતિમાં માત્ર ૩ સભ્યો હોય છે: (૧) સુપ્રીમ કોર્ટના જજ, (૨) કોઈપણ હાઈકોર્ટના મુખ્ય ન્યાયાધીશ, અને (૩) એક પ્રતિષ્ઠિત કાયદાવિદ્. ભારતના એટર્ની જનરલ આ સમિતિના સભ્ય હોતા નથી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7291,12 +7291,12 @@ graph TD
               id: 'mcq_sc_removal_special_majority_both_houses',
               question: 'સંસદમાં સર્વોચ્ચ અદાલતના ન્યાયાધીશને હટાવવા માટે કઈ બહુમતી અનિવાર્ય છે?',
               options: [
-                'બંને ગૃહોમાં અલગ-અલગ તે જ સત્રમાં કુલ સભ્ય સંખ્યાની બહુમતી + હાજર અને મતદાન કરનારની ૨/૩ બહુમતી',
-                'બંને ગૃહોની સામાન્ય સાદી બહુમતી',
                 'બંને ગૃહોની સંયુક્ત બેઠકમાં ૨/૩ બહુમતી',
                 'માત્ર લોકસભામાં વિશેષ બહુમતી',
+                'બંને ગૃહોની સામાન્ય સાદી બહુમતી',
+                'બંને ગૃહોમાં અલગ-અલગ તે જ સત્રમાં કુલ સભ્ય સંખ્યાની બહુમતી + હાજર અને મતદાન કરનારની ૨/૩ બહુમતી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૪(૪) મુજબ બંને ગૃહોમાં અલગ-અલગ તે જ સત્રમાં કુલ સભ્ય સંખ્યાની બહુમતી અને હાજર રહી મતદાન કરનારની ૨/૩ બહુમતી (વિશેષ બહુમતી) થી સંબોધન પસાર થવું ફરજિયાત છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7305,9 +7305,9 @@ graph TD
               question: 'સ્વતંત્ર ભારતમાં કયા ન્યાયાધીશ સામે સંસદમાં પ્રથમ વખત મહાભિયોગ મતદાન થયું હતું પરંતુ વિશેષ બહુમતી ન મળતાં પ્રસ્તાવ પડી ગયો હતો?',
               options: [
                 'જસ્ટિસ વી. રામાસ્વામી (૧૯૯૩)',
-                'જસ્ટિસ સૌમિત્ર સેન (૨૦૧૧)',
-                'જસ્ટિસ પી. ડી. દિનાકરણ (૨૦૧૧)',
                 'જસ્ટિસ દીપક મિશ્રા (૨૦૧૮)',
+                'જસ્ટિસ પી. ડી. દિનાકરણ (૨૦૧૧)',
+                'જસ્ટિસ સૌમિત્ર સેન (૨૦૧૧)'
               ],
               correctOptionIndex: 0,
               explanation: 'વર્ષ ૧૯૯૩ માં જસ્ટિસ વી. રામાસ્વામી સામે લોકસભામાં મતદાન વખતે સત્તાધારી પક્ષ ગેરહાજર રહેતાં ૨/૩ બહુમતી ન મળવાથી પ્રસ્તાવ રદ થયો હતો. આજ સુધી ભારતમાં એકપણ જજને મહાભિયોગથી હટાવી શકાયા નથી.',
@@ -7317,12 +7317,12 @@ graph TD
               id: 'mcq_sc_acting_cji_appointment_art126',
               question: 'અનુચ્છેદ ૧૨૬ હેઠળ સર્વોચ્ચ અદાલતમાં કાર્યવાહક મુખ્ય ન્યાયાધીશ (Acting CJI) ની નિમણૂક કોણ કરે છે?',
               options: [
-                'ભારતના રાષ્ટ્રપતિ',
-                'સુપ્રીમ કોર્ટના વરિષ્ઠતમ ન્યાયાધીશ સ્વયં',
                 'સુપ્રીમ કોર્ટ કોલેજિયમ',
+                'સુપ્રીમ કોર્ટના વરિષ્ઠતમ ન્યાયાધીશ સ્વયં',
                 'કેન્દ્રીય કાયદા મંત્રાલય',
+                'ભારતના રાષ્ટ્રપતિ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૬ અનુસાર જ્યારે CJI નું પદ ખાલી હોય કે તેઓ ગેરહાજર/અસમર્થ હોય ત્યારે રાષ્ટ્રપતિ સર્વોચ્ચ અદાલતના અન્ય ન્યાયાધીશોમાંથી કાર્યવાહક CJI ની નિમણૂક કરે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7330,12 +7330,12 @@ graph TD
               id: 'mcq_sc_salary_diminution_protection_art125',
               question: 'સર્વોચ્ચ અદાલતના ન્યાયાધીશોના પગાર અને ભથ્થાં સંદર્ભે કયું વિધાન સાચું છે?',
               options: [
-                'નાણાકીય કટોકટી (અનુચ્છેદ ૩૬૦) સિવાય કાર્યકાળ દરમિયાન પગાર-ભથ્થાંમાં કોઈ અલાભકારી ઘટાડો કરી શકાતો નથી',
-                'સંસદ સામાન્ય કાયદાથી કાર્યકાળ દરમિયાન ગમે ત્યારે પગાર ઘટાડી શકે છે',
                 'તેમનો પગાર રાજ્યની સંચિત નિધિમાંથી ચૂકવાય છે',
+                'સંસદ સામાન્ય કાયદાથી કાર્યકાળ દરમિયાન ગમે ત્યારે પગાર ઘટાડી શકે છે',
                 'ન્યાયાધીશોના પગાર પર સંસદમાં દર વર્ષે મતદાન થાય છે',
+                'નાણાકીય કટોકટી (અનુચ્છેદ ૩૬૦) સિવાય કાર્યકાળ દરમિયાન પગાર-ભથ્થાંમાં કોઈ અલાભકારી ઘટાડો કરી શકાતો નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૫ મુજબ સુપ્રીમ કોર્ટના જજોના કાર્યકાળ દરમિયાન તેમના પગાર કે ભથ્થાંમાં કોઈ અલાભકારી ઘટાડો થઈ શકતો નથી (એકમાત્ર અપવાદ: અનુચ્છેદ ૩૬૦ હેઠળ નાણાકીય કટોકટી). તેમનો પગાર ભારતની સંચિત નિધિ પર ભારિત હોય છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7344,9 +7344,9 @@ graph TD
               question: 'સીધા બાર કાઉન્સિલ (વકીલાત) માંથી સર્વોચ્ચ અદાલતના ન્યાયાધીશ બનનાર પ્રથમ વ્યક્તિ કોણ હતા?',
               options: [
                 'જસ્ટિસ એસ. એમ. સીક્રી (૧૯૬૪)',
-                'જસ્ટિસ હરિલાલ જે. કણિયા',
                 'જસ્ટિસ પી. એન. ભગવતી',
                 'જસ્ટિસ યુ. યુ. લલિત',
+                'જસ્ટિસ હરિલાલ જે. કણિયા'
               ],
               correctOptionIndex: 0,
               explanation: 'વર્ષ ૧૯૬૪ માં જસ્ટિસ એસ. એમ. સીક્રી સીધા વકીલાતમાંથી સુપ્રીમ કોર્ટ જજ બનનાર પ્રથમ વ્યક્તિ હતા (પાછળથી તેઓ ૧૯૭૧ માં દેશના ૧૩મા CJI બન્યા). જ્યારે બારમાંથી સીધા જજ બનનાર પ્રથમ મહિલા જસ્ટિસ ઇન્દુ મલ્હોત્રા (૨૦૧૮) હતા.',
@@ -7356,12 +7356,12 @@ graph TD
               id: 'mcq_sc_civil_appeals_30th_amendment_1972',
               question: 'કયા બંધારણીય સુધારા દ્વારા દીવાની બાબતોની અપીલ (અનુચ્છેદ ૧૩૩) માંથી ₹ ૨૦,૦૦૦ ની નાણાકીય મર્યાદા નાબૂદ કરવામાં આવી?',
               options: [
-                '૩૦મો બંધારણીય સુધારો, ૧૯૭૨',
                 '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
+                '૩૦મો બંધારણીય સુધારો, ૧૯૭૨',
                 '૪૪મો બંધારણીય સુધારો, ૧૯૭૮',
-                '૧૫મો બંધારણીય સુધારો, ૧૯૬૩',
+                '૧૫મો બંધારણીય સુધારો, ૧૯૬૩'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૩૦મા બંધારણીય સુધારા ૧૯૭૨ દ્વારા દીવાની કેસોમાં સુપ્રીમ કોર્ટમાં અપીલ કરવા માટેની ₹ ૨૦,૦૦૦ ની આર્થિક સીમા નાબૂદ કરવામાં આવી અને હાઈકોર્ટના પ્રમાણપત્રને આધાર બનાવવામાં આવ્યો.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7369,12 +7369,12 @@ graph TD
               id: 'mcq_sc_article_134a_certificate_44th_amendment',
               question: 'અનુચ્છેદ ૧૩૪A (સર્વોચ્ચ અદાલતમાં અપીલ માટે હાઈકોર્ટનું પ્રમાણપત્ર) કયા સુધારા દ્વારા બંધારણમાં ઉમેરાયો હતો?',
               options: [
-                '૪૪મો બંધારણીય સુધારો, ૧૯૭૮',
+                '૫૨મો બંધારણીય સુધારો, ૧૯૮૫',
                 '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
                 '૨૪મો બંધારણીય સુધારો, ૧૯૭૧',
-                '૫૨મો બંધારણીય સુધારો, ૧૯૮૫',
+                '૪૪મો બંધારણીય સુધારો, ૧૯૭૮'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૪૪મા બંધારણીય સુધારા ૧૯૭૮ દ્વારા અનુચ્છેદ ૧૩૪A ઉમેરાયો, જે મુજબ હાઈકોર્ટ ચુકાદો આપ્યા બાદ તુરંત સ્વતંત્ર રીતે કે પક્ષકારની મૌખિક અરજીથી સુપ્રીમ કોર્ટમાં અપીલનું પ્રમાણપત્ર આપવાનો નિર્ણય કરે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7382,12 +7382,12 @@ graph TD
               id: 'mcq_sc_advisory_jurisdiction_canada_origin',
               question: 'અનુચ્છેદ ૧૪૩ હેઠળ સર્વોચ્ચ અદાલતના સલાહકારી અધિકારક્ષેત્ર (Advisory Jurisdiction) નો વિચાર કયા દેશના બંધારણમાંથી લેવામાં આવ્યો છે?',
               options: [
-                'કેનેડા (Canada)',
-                'અમેરિકા (USA)',
                 'બ્રિટન (UK)',
                 'ઓસ્ટ્રેલિયા (Australia)',
+                'અમેરિકા (USA)',
+                'કેનેડા (Canada)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ભારતના રાષ્ટ્રપતિની સુપ્રીમ કોર્ટ પાસેથી કાયદાકીય સલાહ મેળવવાની જોગવાઈ (અનુચ્છેદ ૧૪૩) કેનેડાના બંધારણમાંથી સ્વીકારવામાં આવી છે. અમેરિકામાં સુપ્રીમ કોર્ટ માત્ર વિવાદો ઉકેલે છે, કોઈ સલાહકારી અધિકારક્ષેત્ર ધરાવતી નથી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7395,12 +7395,12 @@ graph TD
               id: 'mcq_sc_contempt_of_court_punishment_limit',
               question: 'અદાલતની અવમાનના (Contempt of Court) બદલ સર્વોચ્ચ અદાલત મહત્તમ કેટલી સજા ફરમાવી શકે છે?',
               options: [
-                '૬ મહિના સુધીની સાદી કેદ અથવા ₹ ૨,૦૦૦ સુધીનો દંડ અથવા બંને',
-                '૧ વર્ષ સુધીની કેદ અથવા ₹ ૫,૦૦૦ દંડ',
                 '૩ મહિનાની સખત કેદ',
+                '૬ મહિના સુધીની સાદી કેદ અથવા ₹ ૨,૦૦૦ સુધીનો દંડ અથવા બંને',
                 'માત્ર માફીપત્ર, કોઈ સજા નહીં',
+                '૧ વર્ષ સુધીની કેદ અથવા ₹ ૫,૦૦૦ દંડ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અદાલત અવમાનના અધિનિયમ, ૧૯૭૧ અને અનુચ્છેદ ૧૨૯ હેઠળ સુપ્રીમ કોર્ટ અદાલતની અવમાનના બદલ મહત્તમ ૬ મહિનાની સાદી કેદ અથવા ₹ ૨,૦૦૦ સુધીનો દંડ અથવા બંને સજા ફરમાવી શકે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7408,12 +7408,12 @@ graph TD
               id: 'mcq_sc_first_pil_hussainara_khatoon',
               question: 'ભારતમાં જાહેર હિતની અરજી (PIL) ના ઇતિહાસમાં દાખલ થયેલી સૌપ્રથમ ઐતિહાસિક PIL કઈ હતી?',
               options: [
+                'એસ.પી. ગુપ્તા વિરુદ્ધ ભારત સંઘ (૧૯૮૧)',
                 'હુસૈનારા ખાતૂન વિરુદ્ધ બિહાર રાજ્ય (૧૯૭૯)',
                 'એમ.સી. મહેતા વિરુદ્ધ ભારત સંઘ (૧૯૮૬)',
-                'વિશાખા વિરુદ્ધ રાજસ્થાન રાજ્ય (૧૯૯૭)',
-                'એસ.પી. ગુપ્તા વિરુદ્ધ ભારત સંઘ (૧૯૮૧)',
+                'વિશાખા વિરુદ્ધ રાજસ્થાન રાજ્ય (૧૯૯૭)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૯૭૯ માં એડવોકેટ કપિલા હિંગોરાની દ્વારા બિહારની જેલોમાં વર્ષોથી સબડતા કાચા કામના (Undertrial) કેદીઓની મુક્તિ માટે થયેલી "હુસૈનારા ખાતૂન કેસ" ભારતની પ્રથમ ઐતિહાસિક PIL ગણાય છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7421,12 +7421,12 @@ graph TD
               id: 'mcq_sc_mother_of_pil_kapila_hingorani',
               question: 'ભારતમાં "Mother of PIL (જનહિત યાચિકાના જનની)" તરીકે કયા મહિલા ધારાશાસ્ત્રી પ્રસિદ્ધ છે?',
               options: [
-                'કપિલા હિંગોરાની (Kapila Hingorani)',
+                'મેનકા ગાંધી',
                 'ઇન્દિરા જયસિંહ',
                 'જસ્ટિસ ફાતિમા બીવી',
-                'મેનકા ગાંધી',
+                'કપિલા હિંગોરાની (Kapila Hingorani)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'એડવોકેટ કપિલા હિંગોરાનીએ હુસૈનારા ખાતૂન કેસ લડીને જેલોમાંથી ૪૦,૦૦૦ થી વધુ અંડરટ્રાયલ નિર્દોષ કેદીઓને મુક્ત કરાવ્યા હતા, જેથી તેમને ભારતીય ન્યાયશાસ્ત્રમાં "Mother of PIL" તરીકે નવાજવામાં આવ્યા છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7434,12 +7434,12 @@ graph TD
               id: 'mcq_sc_transfer_cases_article_139a',
               question: 'સર્વોચ્ચ અદાલત પોતાના મહત્વના કાયદાકીય કેસો હાઈકોર્ટોમાંથી પોતાની પાસે મંગાવવાની અથવા એક હાઈકોર્ટમાંથી બીજી હાઈકોર્ટમાં તબદીલ (Transfer) કરવાની સત્તા કયા અનુચ્છેદ હેઠળ ધરાવે છે?',
               options: [
-                'અનુચ્છેદ ૧૩૯A',
-                'અનુચ્છેદ ૧૩૮',
                 'અનુચ્છેદ ૧૩૭',
+                'અનુચ્છેદ ૧૩૮',
                 'અનુચ્છેદ ૧૩૧',
+                'અનુચ્છેદ ૧૩૯A'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૪૨મા અને ૪૪મા બંધારણીય સુધારા દ્વારા ઉમેરાયેલ અનુચ્છેદ ૧૩૯A સર્વોચ્ચ અદાલતને મહત્વના સમાન કાયદાકીય પ્રશ્નો ધરાવતા કેસો હાઈકોર્ટોમાંથી પોતાની પાસે ટ્રાન્સફર કરવાની સત્તા આપે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7448,9 +7448,9 @@ graph TD
               question: 'સંઘ યાદીના વિષયો સંદર્ભે સર્વોચ્ચ અદાલતના અધિકારક્ષેત્રમાં વધારો કરવાની સત્તા બંધારણે કોને આપી છે?',
               options: [
                 'ભારતની સંસદને કાયદા દ્વારા (અનુચ્છેદ ૧૩૮)',
-                'ભારતના રાષ્ટ્રપતિને',
-                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) ને',
                 'કેન્દ્રીય કાયદા મંત્રાલયને',
+                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) ને',
+                'ભારતના રાષ્ટ્રપતિને'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૩૮ મુજબ ભારતની સંસદ કાયદો બનાવીને સંઘ યાદી સંબંધિત બાબતોમાં સર્વોચ્ચ અદાલતના અધિકારક્ષેત્રમાં ઉત્તરોત્તર વધારો (Enlargement of Jurisdiction) કરી શકે છે.',
@@ -7463,7 +7463,7 @@ graph TD
                 'સર્વોચ્ચ અદાલતની સહાયમાં (Supreme Court of India)',
                 'ભારતના રાષ્ટ્રપતિની સહાયમાં',
                 'ભારતની સંસદની સહાયમાં',
-                'કેન્દ્રીય ગૃહ મંત્રાલયની સહાયમાં',
+                'કેન્દ્રીય ગૃહ મંત્રાલયની સહાયમાં'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૪૪ સ્પષ્ટ બંધારણીય આદેશ આપે છે કે ભારતના સમગ્ર રાજ્યક્ષેત્રમાં તમામ નાગરિક (Civil) અને ન્યાયિક (Judicial) સત્તાવાળાઓએ સર્વોચ્ચ અદાલતની સહાયમાં કામ કરવાનું રહેશે.',
@@ -7473,12 +7473,12 @@ graph TD
               id: 'mcq_sc_officers_servants_appointment_cji_art146',
               question: 'અનુચ્છેદ ૧૪૬ હેઠળ સર્વોચ્ચ અદાલતના અધિકારીઓ અને કર્મચારીઓની નિમણૂક કોના દ્વારા કરવામાં આવે છે?',
               options: [
-                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) અથવા તેમના દ્વારા અધિકૃત ન્યાયાધીશ',
                 'કેન્દ્રીય જાહેર સેવા આયોગ (UPSC)',
-                'ભારતના રાષ્ટ્રપતિ',
                 'કેન્દ્રીય કાયદા મંત્રાલય',
+                'ભારતના રાષ્ટ્રપતિ',
+                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) અથવા તેમના દ્વારા અધિકૃત ન્યાયાધીશ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ન્યાયતંત્રની સ્વાયત્તતા અને કારોબારીથી સ્વતંત્રતા જાળવવા માટે અનુચ્છેદ ૧૪૬ મુજબ સુપ્રીમ કોર્ટના તમામ સ્ટાફ અને અધિકારીઓની ભરતી-નિમણૂક CJI અથવા તેમના અધિકૃત જજ દ્વારા થાય છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૨ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7486,12 +7486,12 @@ graph TD
               id: 'mcq_sc_seniority_criterion_oath_date',
               question: 'સર્વોચ્ચ અદાલતમાં ન્યાયાધીશોની વરિષ્ઠતા (Seniority) શેના આધારે નક્કી કરવામાં આવે છે?',
               options: [
-                'સર્વોચ્ચ અદાલતમાં ન્યાયાધીશ તરીકે શપથ ગ્રહણ કર્યાની તારીખ અને સમયના આધારે',
-                'ન્યાયાધીશની શારીરિક ઉંમર (Age) ના આધારે',
                 'હાઈકોર્ટમાં વકીલાતના કુલ વર્ષોના આધારે',
                 'રાષ્ટ્રપતિની મુનસફીના આધારે',
+                'સર્વોચ્ચ અદાલતમાં ન્યાયાધીશ તરીકે શપથ ગ્રહણ કર્યાની તારીખ અને સમયના આધારે',
+                'ન્યાયાધીશની શારીરિક ઉંમર (Age) ના આધારે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ડૉ. દિનેશ ગેહલોતના વિશ્લેષણ મુજબ, સુપ્રીમ કોર્ટમાં વરિષ્ઠતા શારીરિક ઉંમરથી નહીં પરંતુ સુપ્રીમ કોર્ટમાં જે તારીખે અને રાષ્ટ્રપતિના વોરન્ટ મુજબ જે ક્રમે શપથ લીધી હોય તે તારીખ/ક્રમથી નક્કી થાય છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7499,12 +7499,12 @@ graph TD
               id: 'mcq_sc_mop_cji_recommendation_law_minister',
               question: 'મેમોરેન્ડમ ઓફ પ્રોસિજર (MoP) મુજબ ભારતના આગામી મુખ્ય ન્યાયાધીશ (CJI) ની નિમણૂક માટે નિવૃત્ત થતા CJI પાસે લેખિત ભલામણ કોણ મંગાવે છે?',
               options: [
-                'કેન્દ્રીય કાયદા અને ન્યાય મંત્રી (Union Law Minister)',
-                'ભારતના વડાપ્રધાન',
                 'ભારતના રાષ્ટ્રપતિ',
                 'સુપ્રીમ કોર્ટ રજિસ્ટ્રાર જનરલ',
+                'કેન્દ્રીય કાયદા અને ન્યાય મંત્રી (Union Law Minister)',
+                'ભારતના વડાપ્રધાન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'MoP મુજબ CJI ની નિવૃત્તિના આશરે ૧ માસ પૂર્વે કેન્દ્રીય કાયદા મંત્રી નિવૃત્ત થતા CJI ને પત્ર લખીને આગામી CJI નું નામ મંગાવે છે, જે CJI વરિષ્ઠતમ જજ તરીકે ભલામણ કરે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7512,12 +7512,12 @@ graph TD
               id: 'mcq_sc_four_judges_press_conference_2018',
               question: 'ભારતીય ઇતિહાસમાં કઈ તારીખે સુપ્રીમ કોર્ટના ૪ વરિષ્ઠતમ ન્યાયાધીશોએ દેશ સમક્ષ ઐતિહાસિક પ્રેસ કોન્ફરન્સ કરી હતી?',
               options: [
-                '૧૨ જાન્યુઆરી, ૨૦૧૮ (ચેલમેશ્વર, રંજન ગોગોઈ, મદન લોકુર, કુરિયન જોસેફ)',
-                '૧૫ ઓગસ્ટ, ૨૦૧૯',
-                '૨૪ એપ્રિલ, ૧૯૭૩',
                 '૨૬ નવેમ્બર, ૨૦૨૦',
+                '૧૨ જાન્યુઆરી, ૨૦૧૮ (ચેલમેશ્વર, રંજન ગોગોઈ, મદન લોકુર, કુરિયન જોસેફ)',
+                '૨૪ એપ્રિલ, ૧૯૭૩',
+                '૧૫ ઓગસ્ટ, ૨૦૧૯'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૨ જાન્યુઆરી ૨૦૧૮ ના રોજ જસ્ટિસ ચેલમેશ્વર, રંજન ગોગોઈ, મદન લોકુર અને કુરિયન જોસેફે CJI દીપક મિશ્રા દ્વારા કેસોની ફાળવણી (Master of the Roster) બાબતે પ્રેસ કોન્ફરન્સ યોજી હતી.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7525,12 +7525,12 @@ graph TD
               id: 'mcq_sc_first_northeast_cji_ranjan_gogoi',
               question: 'ભારતના પૂર્વોત્તર રાજ્યો (આસામ) માંથી દેશના મુખ્ય ન્યાયાધીશ (CJI) બનનાર પ્રથમ વ્યક્તિ કોણ હતા?',
               options: [
+                'જસ્ટિસ દીપક મિશ્રા',
                 'જસ્ટિસ રંજન ગોગોઈ (૪૬મા CJI)',
                 'જસ્ટિસ એસ. એ. બોબડે',
-                'જસ્ટિસ અલ્તમસ કબીર',
-                'જસ્ટિસ દીપક મિશ્રા',
+                'જસ્ટિસ અલ્તમસ કબીર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જસ્ટિસ રંજન ગોગોઈ (આસામ) પૂર્વોત્તર ભારતમાંથી દેશના પ્રથમ મુખ્ય ન્યાયાધીશ (૪૬મા CJI - ઓક્ટોબર ૨૦૧૮ થી નવેમ્બર ૨૦૧૯) બન્યા હતા.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7539,9 +7539,9 @@ graph TD
               question: 'મુખ્ય ન્યાયાધીશના સંદર્ભમાં "Master of the Roster" નો બંધારણીય/વહીવટી અર્થ શું થાય છે?',
               options: [
                 'અદાલતી બેંચોની રચના કરવી અને કેસોની ફાળવણી કરવાની એકમાત્ર વહીવટી સત્તા CJI પાસે છે',
-                'CJI કોઈપણ ચુકાદાને એકલા હાથે રદ કરી શકે છે',
-                'CJI સંસદના કાયદાઓ પર વીટો વાપરી શકે છે',
                 'CJI તમામ નીચલી અદાલતોના જજોની બદલી સીધી કરી શકે છે',
+                'CJI કોઈપણ ચુકાદાને એકલા હાથે રદ કરી શકે છે',
+                'CJI સંસદના કાયદાઓ પર વીટો વાપરી શકે છે'
               ],
               correctOptionIndex: 0,
               explanation: 'Master of the Roster નો અર્થ થાય છે કે સુપ્રીમ કોર્ટમાં કઈ બેંચ કયા કેસો સાંભળશે તે નક્કી કરવાનો વિશિષ્ટ વહીવટી અધિકાર માત્ર મુખ્ય ન્યાયાધીશ (CJI) પાસે છે.',
@@ -7551,12 +7551,12 @@ graph TD
               id: 'mcq_sc_father_son_cji_chandrachud',
               question: 'ભારતીય ન્યાયતંત્રના ઇતિહાસમાં પ્રથમ પિતા-પુત્ર CJI બનવાની અનોખી જોડી કઈ છે?',
               options: [
-                'વાય. વી. ચંદ્રચૂડ (૧૬મા CJI) અને ડી. વાય. ચંદ્રચૂડ (૫૦મા CJI)',
-                'એચ. જે. કણિયા અને કે. એન. સિંહ',
                 'એમ. હિદાયતુલ્લાહ અને કે. જી. બાલકૃષ્ણન',
+                'એચ. જે. કણિયા અને કે. એન. સિંહ',
                 'એસ. એમ. સીક્રી અને યુ. યુ. લલિત',
+                'વાય. વી. ચંદ્રચૂડ (૧૬મા CJI) અને ડી. વાય. ચંદ્રચૂડ (૫૦મા CJI)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'જસ્ટિસ વાય. વી. ચંદ્રચૂડ ૧૯૭૮-૮૫ દરમિયાન ૧૬મા CJI રહ્યા અને તેમના પુત્ર જસ્ટિસ ડી. વાય. ચંદ્રચૂડ ૨૦૨૨-૨૪ દરમિયાન ૫૦મા CJI રહ્યા.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7564,12 +7564,12 @@ graph TD
               id: 'mcq_sc_51st_cji_sanjiv_khanna',
               question: 'ભારતના ૫૧મા મુખ્ય ન્યાયાધીશ (CJI) તરીકે કોણે શપથ ગ્રહણ કર્યા?',
               options: [
-                'જસ્ટિસ સંજીવ ખન્ના',
                 'જસ્ટિસ બી. આર. ગવઈ',
+                'જસ્ટિસ સંજીવ ખન્ના',
                 'જસ્ટિસ સૂર્યકાંત',
-                'જસ્ટિસ વિક્રમ નાથ',
+                'જસ્ટિસ વિક્રમ નાથ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જસ્ટિસ સંજીવ ખન્ના નવેમ્બર ૨૦૨૪ માં ભારતના ૫૧મા CJI બન્યા (જેઓ કટોકટીમાં અસહમત ચુકાદો આપનાર ઐતિહાસિક જસ્ટિસ એચ. આર. ખન્નાના ભત્રીજા છે).',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7577,12 +7577,12 @@ graph TD
               id: 'mcq_sc_shortest_tenure_cji_kn_singh',
               question: 'ભારતના મુખ્ય ન્યાયાધીશ તરીકે સૌથી ટૂંકો કાર્યકાળ (માત્ર ૧૮ દિવસ) ભોગવનાર CJI કોણ હતા?',
               options: [
-                'જસ્ટિસ કમલ નારાયણ સિંહ (કે. એન. સિંહ)',
                 'જસ્ટિસ એસ. રાજેન્દ્ર બાબુ (૩૦ દિવસ)',
+                'જસ્ટિસ કમલ નારાયણ સિંહ (કે. એન. સિંહ)',
                 'જસ્ટિસ જે. સી. શાહ',
-                'જસ્ટિસ જી. બી. પટનાયક',
+                'જસ્ટિસ જી. બી. પટનાયક'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જસ્ટિસ કે. એન. સિંહ માત્ર ૧૮ દિવસ (૨૫ નવેમ્બર ૧૯૯૧ થી ૧૨ ડિસેમ્બર ૧૯૯૧) માટે CJI પદે રહ્યા હતા, જે દેશનો સૌથી ટૂંકો CJI કાર્યકાળ છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૩ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7591,9 +7591,9 @@ graph TD
               question: 'વર્ષ ૧૯૭૩ માં કેશવાનંદ ભારતી ચુકાદા બાદ સરકારે કયા ૩ વરિષ્ઠ જજોનું અતિક્રમણ કરીને જસ્ટિસ એ. એન. રે ને CJI બનાવ્યા હતા?',
               options: [
                 'જસ્ટિસ જે. એમ. શેલત, જસ્ટિસ કે. એસ. હેગડે, અને જસ્ટિસ એ. એન. ગ્રોવર',
-                'જસ્ટિસ એચ. આર. ખન્ના, જસ્ટિસ એમ. એચ. બેગ, અને જસ્ટિસ પી. એન. ભગવતી',
                 'જસ્ટિસ એસ. એમ. સીક્રી, જસ્ટિસ જે. સી. શાહ, અને જસ્ટિસ વાય. વી. ચંદ્રચૂડ',
                 'જસ્ટિસ કે. સુબ્બારાવ, જસ્ટિસ એમ. હિદાયતુલ્લાહ, અને જસ્ટિસ વાંચૂ',
+                'જસ્ટિસ એચ. આર. ખન્ના, જસ્ટિસ એમ. એચ. બેગ, અને જસ્ટિસ પી. એન. ભગવતી'
               ],
               correctOptionIndex: 0,
               explanation: '૨૫ એપ્રિલ ૧૯૭૩ ના રોજ કેશવાનંદ ભારતી ચુકાદામાં સરકાર વિરુદ્ધ મત આપનાર ૩ વરિષ્ઠ જજો (જે.એમ. શેલત, કે.એસ. હેગડે, એ.એન. ગ્રોવર) ની વરિષ્ઠતા નકારીને ચોથા ક્રમના જસ્ટિસ એ. એન. રે ને CJI બનાવવામાં આવ્યા હતા.',
@@ -7606,7 +7606,7 @@ graph TD
                 'અનુચ્છેદ ૧૯(૧)(a) - મતદારોના માહિતીના અધિકાર (Right to Information) નો ભંગ',
                 'અનુચ્છેદ ૧૪ - કાયદા સમક્ષ સમાનતાનો ભંગ',
                 'અનુચ્છેદ ૨૧ - જીવનના અધિકારનો ભંગ',
-                'અનુચ્છેદ ૩૨ - બંધારણીય ઉપચારોનો ભંગ',
+                'અનુચ્છેદ ૩૨ - બંધારણીય ઉપચારોનો ભંગ'
               ],
               correctOptionIndex: 0,
               explanation: 'ફેબ્રુઆરી ૨૦૨૪ માં ADR વિ. ભારત સંઘ કેસમાં ૫ જજોની બંધારણીય બેંચે સર્વાનુમતે ચુકાદો આપ્યો કે રાજકીય પક્ષોના ગુપ્ત ફંડિંગ વાળી ઇલેક્ટોરલ બોન્ડ યોજના મતદારોના માહિતીના અધિકાર (અનુચ્છેદ ૧૯(૧)(a)) નું ઉલ્લંઘન કરે છે, જેથી તેને ગેરબંધારણીય ઠેરવી રદ કરી.',
@@ -7616,12 +7616,12 @@ graph TD
               id: 'mcq_sc_judicial_review_marbury_madison',
               question: 'વિશ્વમાં સૌપ્રથમ "ન્યાયિક પુનરાવલોકન (Judicial Review)" નો સિદ્ધાંત કયા ઐતિહાસિક કેસમાં પ્રસ્થાપિત થયો હતો?',
               options: [
-                'માર્બરી વિરુદ્ધ મેડિસન કેસ (૧૮૦૩ - અમેરિકા)',
                 'કેશવાનંદ ભારતી કેસ (૧૯૭૩)',
-                'ગોલકનાથ કેસ (૧૯૬૭)',
+                'માર્બરી વિરુદ્ધ મેડિસન કેસ (૧૮૦૩ - અમેરિકા)',
                 'મિનર્વા મિલ્સ કેસ (૧૯૮૦)',
+                'ગોલકનાથ કેસ (૧૯૬૭)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'વર્ષ ૧૮૦૩ માં અમેરિકન સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ જ્હોન માર્શલે માર્બરી વિ. મેડિસન કેસમાં ન્યાયિક પુનરાવલોકનનો સૌપ્રથમ ઐતિહાસિક સિદ્ધાંત આપ્યો હતો. ભારતીય બંધારણમાં સીધો આ શબ્દ નથી પરંતુ અનુચ્છેદ ૧૩(૨), ૩૨ અને ૨૨૬ માં આ સત્તા સમાયેલી છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૫ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7631,8 +7631,8 @@ graph TD
               options: [
                 'અનુચ્છેદ ૧૪૫(૪)',
                 'અનુચ્છેદ ૧૪૧',
-                'અનુચ્છેદ ૧૪૨',
                 'અનુચ્છેદ ૧૩૭',
+                'અનુચ્છેદ ૧૪૨'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૪૫(૪) સ્પષ્ટ આદેશ આપે છે કે સર્વોચ્ચ અદાલતના તમામ નિર્ણયો અને સલાહકારી અભિપ્રાયો ખુલ્લી અદાલતમાં જ જાહેર કરવામાં આવશે, ગુપ્ત રીતે નહીં.',
@@ -7642,12 +7642,12 @@ graph TD
               id: 'mcq_sc_rules_of_court_presidents_approval_art145',
               question: 'અનુચ્છેદ ૧૪૫ મુજબ સર્વોચ્ચ અદાલતના કામકાજ અને પ્રક્રિયાના નિયમો બનાવવાની સત્તા કોની પૂર્વ મંજૂરીને આધીન છે?',
               options: [
+                'કોઈની મંજૂરીની જરૂર નથી',
                 'ભારતના રાષ્ટ્રપતિની મંજૂરીને આધીન',
                 'ભારતની સંસદની ૨/૩ બહુમતીને આધીન',
-                'કેન્દ્રીય કાયદા મંત્રીની મંજૂરીને આધીન',
-                'કોઈની મંજૂરીની જરૂર નથી',
+                'કેન્દ્રીય કાયદા મંત્રીની મંજૂરીને આધીન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૪૫(૧) મુજબ સર્વોચ્ચ અદાલત રાષ્ટ્રપતિની પૂર્વ મંજૂરી (Approval of the President) થી અદાલતના વ્યવહાર અને પ્રક્રિયા સંબંધી નિયમો બનાવે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૫ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7655,12 +7655,12 @@ graph TD
               id: 'mcq_sc_judges_conduct_discussion_bar_art121',
               question: 'સંસદ કે રાજ્ય વિધાનમંડળમાં સર્વોચ્ચ અદાલત કે વડી અદાલતના ન્યાયાધીશના ન્યાયિક આચરણ પર ચર્ચા કરવા પર પ્રતિબંધ કયા અનુચ્છેદો હેઠળ છે?',
               options: [
-                'અનુચ્છેદ ૧૨૧ (સંસદ) અને અનુચ્છેદ ૨૧૧ (વિધાનમંડળ)',
-                'અનુચ્છેદ ૧૦૫ અને ૧૯૪',
                 'અનુચ્છેદ ૧૨૪ અને ૨૧૭',
+                'અનુચ્છેદ ૧૦૫ અને ૧૯૪',
                 'અનુચ્છેદ ૫૦ અને ૧૪૬',
+                'અનુચ્છેદ ૧૨૧ (સંસદ) અને અનુચ્છેદ ૨૧૧ (વિધાનમંડળ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૨૧ અને ૨૧૧ હેઠળ ન્યાયાધીશ સામે મહાભિયોગ પ્રસ્તાવ વિચારણા હેઠળ હોય તે સિવાય તેમના ન્યાયિક ફરજ પાલન અંગે ધારાસભામાં ચર્ચા કરવા પર કડક પ્રતિબંધ છે, જેથી ન્યાયતંત્ર રાજકીય દબાણથી મુક્ત રહે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૫ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7669,9 +7669,9 @@ graph TD
               question: 'અનુચ્છેદ ૧૪૬(૩) મુજબ સર્વોચ્ચ અદાલતના તમામ વહીવટી ખર્ચ, ન્યાયાધીશો અને સ્ટાફના પગાર-ભથ્થાં કયા ભંડોળ પર ભારિત (Charged) હોય છે?',
               options: [
                 'ભારતની સંચિત નિધિ (Consolidated Fund of India)',
-                'ભારતની આકસ્મિક નિધિ',
-                'દિલ્હી સરકારની સંચિત નિધિ',
                 'જાહેર હિસાબ ભંડોળ',
+                'દિલ્હી સરકારની સંચિત નિધિ',
+                'ભારતની આકસ્મિક નિધિ'
               ],
               correctOptionIndex: 0,
               explanation: 'સર્વોચ્ચ અદાલતનો તમામ વહીવટી ખર્ચ ભારતની સંચિત નિધિ પર ભારિત ખર્ચ (Charged Expenditure) હોય છે, જેના પર સંસદમાં મતદાન થતું નથી.',
@@ -7681,12 +7681,12 @@ graph TD
               id: 'mcq_sc_separation_judiciary_executive_art50',
               question: 'રાજ્યનીતિના કયા માર્ગદર્શક સિદ્ધાંત (DPSP) હેઠળ કારોબારીથી ન્યાયતંત્રને અલગ રાખવાનો બંધારણીય આદેશ આપવામાં આવ્યો છે?',
               options: [
-                'અનુચ્છેદ ૫૦',
-                'અનુચ્છેદ ૪૪',
-                'અનુચ્છેદ ૪૮',
                 'અનુચ્છેદ ૫૧',
+                'અનુચ્છેદ ૪૮',
+                'અનુચ્છેદ ૪૪',
+                'અનુચ્છેદ ૫૦'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૫૦ સ્પષ્ટ નિર્દેશ આપે છે કે રાજ્યની જાહેર સેવાઓમાં કારોબારીથી ન્યાયતંત્રનું અલગીકરણ (Separation of Judiciary from Executive) સુનિશ્ચિત કરવું.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૫ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7694,12 +7694,12 @@ graph TD
               id: 'mcq_sc_interpretation_article_147',
               question: 'બંધારણના કયા અનુચ્છેદમાં "બંધારણ અને ૧૯૩૫ ના ભારત શાસન અધિનિયમના અર્થઘટન (Interpretation)" નો સંદર્ભ આપવામાં આવ્યો છે?',
               options: [
-                'અનુચ્છેદ ૧૪૭',
                 'અનુચ્છેદ ૧૪૩',
-                'અનુચ્છેદ ૧૪૧',
                 'અનુચ્છેદ ૧૩૯',
+                'અનુચ્છેદ ૧૪૭',
+                'અનુચ્છેદ ૧૪૧'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૪૭ માં બંધારણ અને ભારત શાસન અધિનિયમ ૧૯૩૫ ના અર્થઘટન સંબંધી સ્પષ્ટતા દર્શાવવામાં આવી છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૫ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7707,12 +7707,12 @@ graph TD
               id: 'mcq_sc_judicial_overreach_meaning',
               question: '"ન્યાયિક અતિરેક (Judicial Overreach)" અંગે નીચેનામાંથી કયું વિધાન સૌથી સચોટ છે?',
               options: [
-                'જ્યારે ન્યાયતંત્ર સત્તા વિભાજનની મર્યાદા વટાવીને ધારાસભા કે કારોબારીના નીતિવિષયક ક્ષેત્રમાં દખલ કરે',
                 'જ્યારે ન્યાયતંત્ર મૂળભૂત અધિકારોનું રક્ષણ કરવા ઝડપી ચુકાદો આપે',
-                'જ્યારે ન્યાયતંત્ર સંસદના ગેરબંધારણીય કાયદાને રદ કરે',
                 'જ્યારે રાષ્ટ્રપતિ અનુચ્છેદ ૧૪૩ હેઠળ સલાહ માંગે',
+                'જ્યારે ન્યાયતંત્ર સત્તા વિભાજનની મર્યાદા વટાવીને ધારાસભા કે કારોબારીના નીતિવિષયક ક્ષેત્રમાં દખલ કરે',
+                'જ્યારે ન્યાયતંત્ર સંસદના ગેરબંધારણીય કાયદાને રદ કરે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ન્યાયિક અતિરેક (Judicial Overreach) ત્યારે બને છે જ્યારે અદાલત શક્તિ પૃથક્કરણના સિદ્ધાંત (અનુચ્છેદ ૫૦) નો ભંગ કરીને ચૂંટાયેલી સરકારના નીતિ ઘડતર કે વહીવટી ક્ષેત્રમાં સીધો હસ્તક્ષેપ કરે છે.',
               sourceVideoTitle: 'સર્વોચ્ચ અદાલત ભાગ-૫ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7720,12 +7720,12 @@ graph TD
               id: 'mcq_hc_salary_state_pension_india_art221',
               question: 'બંધારણના અનુચ્છેદ ૨૨૧ મુજબ વડી અદાલત (High Court) ના ન્યાયાધીશોને માસિક પગાર અને નિવૃત્તિ પેન્શન અનુક્રમે કયા ભંડોળમાંથી ચૂકવવામાં આવે છે?',
               options: [
-                'પગાર રાજ્યની સંચિત નિધિમાંથી, જ્યારે પેન્શન ભારતની સંચિત નિધિમાંથી',
                 'પગાર અને પેન્શન બંને રાજ્યની સંચિત નિધિમાંથી',
                 'પગાર અને પેન્શન બંને ભારતની સંચિત નિધિમાંથી',
                 'પગાર ભારતની સંચિત નિધિમાંથી, જ્યારે પેન્શન રાજ્યની સંચિત નિધિમાંથી',
+                'પગાર રાજ્યની સંચિત નિધિમાંથી, જ્યારે પેન્શન ભારતની સંચિત નિધિમાંથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૨૧ અને સંસદીય કાયદા મુજબ હાઈકોર્ટના જજોને માસિક પગાર સંબંધિત રાજ્યની સંચિત નિધિ (Consolidated Fund of the State) માંથી મળે છે, પરંતુ નિવૃત્તિ પેન્શન ભારતની સંચિત નિધિ (Consolidated Fund of India) પર ભારિત હોય છે, કારણ કે ન્યાયાધીશોની એક રાજ્યમાંથી બીજા રાજ્યમાં બદલી થતી હોવાથી પેન્શન વિવાદ ટાળવા કેન્દ્ર સરકારે પેન્શન પોતાના શિરે લીધું છે.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7733,12 +7733,12 @@ graph TD
               id: 'mcq_hc_additional_judges_art224_tenure',
               question: 'અનુચ્છેદ ૨૨૪(૧) હેઠળ વડી અદાલતમાં કાર્યભારના કામચલાઉ વધારા માટે રાષ્ટ્રપતિ દ્વારા "અપર ન્યાયાધીશ (Additional Judge)" ની નિમણૂક વધુમાં વધુ કેટલા સમય માટે કરી શકાય છે?',
               options: [
-                'મહત્તમ ૨ વર્ષ માટે (૬૨ વર્ષની વય સુધી)',
                 'મહત્તમ ૩ વર્ષ માટે (૬૫ વર્ષની વય સુધી)',
-                'મહત્તમ ૧ વર્ષ માટે (૬૦ વર્ષની વય સુધી)',
                 'મહત્તમ ૫ વર્ષ માટે',
+                'મહત્તમ ૧ વર્ષ માટે (૬૦ વર્ષની વય સુધી)',
+                'મહત્તમ ૨ વર્ષ માટે (૬૨ વર્ષની વય સુધી)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૨૪(૧) મુજબ હાઈકોર્ટમાં કામના હંગામી વધારા કે બાકી કેસોના નિકાલ માટે રાષ્ટ્રપતિ વધુમાં વધુ ૨ વર્ષની મુદત માટે અપર ન્યાયાધીશની નિમણૂક કરી શકે છે. પરંતુ કોઈપણ અપર કે કાર્યકારી ન્યાયાધીશ ૬૨ વર્ષની વય વટાવ્યા બાદ હોદ્દો ધરાવી શકતા નથી.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7747,9 +7747,9 @@ graph TD
               question: 'વડી અદાલતમાં મુખ્ય ન્યાયાધીશ ઉપરાંત અન્ય ન્યાયાધીશોની સંખ્યા નક્કી કરવાની બંધારણીય સત્તા કોની પાસે છે?',
               options: [
                 'ભારતના રાષ્ટ્રપતિ (President of India)',
-                'ભારતની સંસદ (Parliament of India)',
                 'સંબંધિત રાજ્યની વિધાનસભા',
                 'ભારતના મુખ્ય ન્યાયાધીશ (CJI)',
+                'ભારતની સંસદ (Parliament of India)'
               ],
               correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૨૧૬ મુજબ દરેક વડી અદાલતમાં મુખ્ય ન્યાયાધીશ ઉપરાંત રાષ્ટ્રપતિ સમયાંતરે યોગ્ય ગણે તેટલા અન્ય ન્યાયાધીશો રહેશે. સુપ્રીમ કોર્ટમાં જજોની સંખ્યા સંસદ કાયદા દ્વારા નક્કી કરે છે (અનુ. ૧૨૪(૧)), જ્યારે હાઈકોર્ટમાં જજોની સંખ્યા રાષ્ટ્રપતિ નક્કી કરે છે.',
@@ -7759,12 +7759,12 @@ graph TD
               id: 'mcq_hc_qualifications_no_distinguished_jurist_art217',
               question: 'સર્વોચ્ચ અદાલત (અનુ. ૧૨૪) અને વડી અદાલત (અનુ. ૨૧૭) ના ન્યાયાધીશોની લાયકાતો સંદર્ભે કયો મહત્વનો તફાવત છે?',
               options: [
-                'સુપ્રીમ કોર્ટમાં "પ્રતિષ્ઠિત કાયદાવિદ (Distinguished Jurist)" જજ બની શકે છે, પરંતુ હાઈકોર્ટમાં આવી કોઈ જોગવાઈ નથી',
-                'હાઈકોર્ટમાં લઘુત્તમ વય ૩૫ વર્ષ છે, જ્યારે સુપ્રીમ કોર્ટમાં કોઈ લઘુત્તમ વય નથી',
-                'હાઈકોર્ટમાં ૧૫ વર્ષ વકીલાતનો અનુભવ જરૂરી છે, જ્યારે સુપ્રીમ કોર્ટમાં ૧૦ વર્ષ',
                 'સુપ્રીમ કોર્ટમાં ભારતીય નાગરિકતા ફરજિયાત નથી',
+                'સુપ્રીમ કોર્ટમાં "પ્રતિષ્ઠિત કાયદાવિદ (Distinguished Jurist)" જજ બની શકે છે, પરંતુ હાઈકોર્ટમાં આવી કોઈ જોગવાઈ નથી',
+                'હાઈકોર્ટમાં ૧૫ વર્ષ વકીલાતનો અનુભવ જરૂરી છે, જ્યારે સુપ્રીમ કોર્ટમાં ૧૦ વર્ષ',
+                'હાઈકોર્ટમાં લઘુત્તમ વય ૩૫ વર્ષ છે, જ્યારે સુપ્રીમ કોર્ટમાં કોઈ લઘુત્તમ વય નથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'સુપ્રીમ કોર્ટના જજ બનવા માટે અનુચ્છેદ ૧૨૪(૩)(c) મુજબ રાષ્ટ્રપતિના મતે "પ્રતિષ્ઠિત કાયદાવિદ" હોવાની વૈકલ્પિક લાયકાત છે, પરંતુ હાઈકોર્ટ માટે અનુચ્છેદ ૨૧૭(૨) માં પ્રતિષ્ઠિત કાયદાવિદની કોઈ જોગવાઈ રાખવામાં આવી નથી; માત્ર ૧૦ વર્ષ ન્યાયિક હોદ્દો અથવા ૧૦ વર્ષ વકીલાત જ માન્ય છે.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7772,12 +7772,12 @@ graph TD
               id: 'mcq_hc_post_retirement_practice_art220',
               question: 'અનુચ્છેદ ૨૨૦ અનુસાર વડી અદાલતના કાયમી ન્યાયાધીશ તરીકે નિવૃત્ત થયેલ વ્યક્તિ ક્યાં વકીલાત કરી શકે છે?',
               options: [
-                'સર્વોચ્ચ અદાલતમાં અને અન્ય વડી અદાલતોમાં (જ્યાં તેઓ કાયમી જજ ન રહ્યા હોય)',
-                'ભારતની કોઈપણ અદાલતમાં વકીલાત કરી શકતા નથી',
-                'માત્ર પોતાની જ વડી અદાલતમાં વકીલાત કરી શકે છે',
                 'કોઈપણ જિલ્લા અદાલતમાં વકીલાત કરી શકે છે',
+                'માત્ર પોતાની જ વડી અદાલતમાં વકીલાત કરી શકે છે',
+                'ભારતની કોઈપણ અદાલતમાં વકીલાત કરી શકતા નથી',
+                'સર્વોચ્ચ અદાલતમાં અને અન્ય વડી અદાલતોમાં (જ્યાં તેઓ કાયમી જજ ન રહ્યા હોય)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૨૦ મુજબ હાઈકોર્ટના કાયમી ન્યાયાધીશ સુપ્રીમ કોર્ટમાં અને અન્ય એવી વડી અદાલતોમાં વકીલાત કરી શકે છે જ્યાં તેમણે કાયમી ન્યાયાધીશ તરીકે સેવા ન આપી હોય. પરંતુ તેઓ પોતાની મૂળ વડી અદાલત કે તેના તાબાની કોઈપણ અદાલતોમાં વકીલાત કરી શકતા નથી.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7785,12 +7785,12 @@ graph TD
               id: 'mcq_subordinate_courts_district_judge_appointment_art233',
               question: 'અનુચ્છેદ ૨૩૩ મુજબ જિલ્લા ન્યાયાધીશ (District Judge) ની નિમણૂક, પોસ્ટિંગ અને બઢતી કોના દ્વારા કરવામાં આવે છે?',
               options: [
-                'રાજ્યપાલ દ્વારા સંબંધિત વડી અદાલત (High Court) સાથે વિચાર-વિમર્શ કરીને',
-                'રાજ્ય જાહેર સેવા આયોગ (SPSC) ની સીધી ભલામણથી મુખ્યમંત્રી દ્વારા',
                 'ભારતના રાષ્ટ્રપતિ દ્વારા રાજ્યપાલની સલાહથી',
+                'રાજ્યપાલ દ્વારા સંબંધિત વડી અદાલત (High Court) સાથે વિચાર-વિમર્શ કરીને',
                 'વડી અદાલતના મુખ્ય ન્યાયાધીશ દ્વારા સ્વતંત્ર રીતે',
+                'રાજ્ય જાહેર સેવા આયોગ (SPSC) ની સીધી ભલામણથી મુખ્યમંત્રી દ્વારા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૨૩૩(૧) મુજબ જિલ્લા ન્યાયાધીશોની નિમણૂક રાજ્યપાલ સંબંધિત વડી અદાલત સાથે પરામર્શ કરીને કરે છે. આ પ્રક્રિયામાં રાજ્ય જાહેર સેવા આયોગ (SPSC) ની કોઈ ભૂમિકા હોતી નથી.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7798,12 +7798,12 @@ graph TD
               id: 'mcq_subordinate_judges_spsc_high_court_art234',
               question: 'અનુચ્છેદ ૨૩૪ હેઠળ જિલ્લા ન્યાયાધીશો સિવાયના અન્ય ન્યાયિક અધિકારીઓ (સિવિલ જજ, મેજિસ્ટ્રેટ) ની ભરતીમાં રાજ્યપાલ કોની સાથે પરામર્શ કરે છે?',
               options: [
-                'રાજ્ય જાહેર સેવા આયોગ (SPSC) અને વડી અદાલત (High Court) બંને સાથે',
-                'માત્ર વડી અદાલત સાથે',
-                'માત્ર કેન્દ્રીય કાયદા મંત્રાલય સાથે',
                 'માત્ર રાજ્યના મુખ્ય સચિવ સાથે',
+                'માત્ર કેન્દ્રીય કાયદા મંત્રાલય સાથે',
+                'માત્ર વડી અદાલત સાથે',
+                'રાજ્ય જાહેર સેવા આયોગ (SPSC) અને વડી અદાલત (High Court) બંને સાથે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૩૪ સ્પષ્ટ કરે છે કે જિલ્લા ન્યાયાધીશો સિવાયની રાજ્ય ન્યાયિક સેવાના અધિકારીઓની ભરતી રાજ્યપાલ દ્વારા રાજ્ય જાહેર સેવા આયોગ (SPSC) અને વડી અદાલત બંને સાથે વિચાર-વિમર્શ કરીને બનાવાયેલા નિયમો અનુસાર થાય છે.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7811,12 +7811,12 @@ graph TD
               id: 'mcq_governor_appointment_warrant_read_by_chief_secretary',
               question: 'રાજ્યપાલની નિમણૂક રાષ્ટ્રપતિના અધિપત્ર (Warrant under hand and seal - અનુચ્છેદ ૧૫૫) દ્વારા થાય છે. રાજ્યપાલ શપથ લે તે પૂર્વે આ વોરન્ટ સભા સમક્ષ કોણ વાંચી સંભળાવે છે?',
               options: [
-                'રાજ્યના મુખ્ય સચિવ (Chief Secretary)',
-                'વડી અદાલતના મુખ્ય ન્યાયાધીશ (Chief Justice)',
-                'રાજ્યના મુખ્યમંત્રી',
                 'વિધાનસભાના અધ્યક્ષ (Speaker)',
+                'રાજ્યના મુખ્યમંત્રી',
+                'વડી અદાલતના મુખ્ય ન્યાયાધીશ (Chief Justice)',
+                'રાજ્યના મુખ્ય સચિવ (Chief Secretary)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'રાજ્યપાલની શપથવિધિ (અનુચ્છેદ ૧૫૯) શરૂ થાય તે પૂર્વે રાષ્ટ્રપતિ દ્વારા જારી કરાયેલું નિમણૂક વોરન્ટ રાજ્યના મુખ્ય સચિવ (Chief Secretary) સત્તાવાર રીતે વાંચી સંભળાવે છે, ત્યારબાદ હાઈકોર્ટના મુખ્ય ન્યાયાધીશ રાજ્યપાલને શપથ લેવડાવે છે.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7824,12 +7824,12 @@ graph TD
               id: 'mcq_punchhi_commission_governor_collegium_impeachment',
               question: 'કેન્દ્ર-રાજ્ય સંબંધો અંગેના પુંછી કમિશન (૨૦૧૦) એ રાજ્યપાલની નિમણૂક અને દૂર કરવા સંદર્ભે કઈ મહત્વપૂર્ણ ભલામણ કરી હતી?',
               options: [
-                'વડાપ્રધાનના અધ્યક્ષપદે ૫ સભ્યોની કોલેજિયમ દ્વારા નિમણૂક અને વિધાનમંડળ દ્વારા મહાભિયોગથી હટાવવા',
                 'રાજ્યપાલની સીધી જનતા દ્વારા પ્રત્યક્ષ ચૂંટણી કરવી',
                 'રાજ્યપાલનું પદ સંપૂર્ણપણે નાબૂદ કરવું',
-                'સુપ્રીમ કોર્ટના CJI દ્વારા રાજ્યપાલની નિમણૂક કરવી',
+                'વડાપ્રધાનના અધ્યક્ષપદે ૫ સભ્યોની કોલેજિયમ દ્વારા નિમણૂક અને વિધાનમંડળ દ્વારા મહાભિયોગથી હટાવવા',
+                'સુપ્રીમ કોર્ટના CJI દ્વારા રાજ્યપાલની નિમણૂક કરવી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'પુંછી કમિશને ભલામણ કરી હતી કે રાજ્યપાલની નિમણૂક વડાપ્રધાન, ઉપરાષ્ટ્રપતિ, લોકસભા સ્પીકર, ગૃહમંત્રી અને લોકસભા વિરોધપક્ષના નેતાની ૫ સભ્યોની સમિતિ દ્વારા થવી જોઈએ અને રાજ્યપાલને મનસ્વી રીતે હટાવવાને બદલે રાજ્ય વિધાનમંડળ દ્વારા મહાભિયોગ પ્રક્રિયા અપનાવવી જોઈએ.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -7837,12 +7837,12 @@ graph TD
               id: 'mcq_bp_singhal_case_political_ideology_removal',
               question: 'બી.પી. સિંઘલ વિ. ભારત સંઘ (૨૦૧૦) ના ઐતિહાસિક કેસમાં સર્વોચ્ચ અદાલતે રાજ્યપાલને હટાવવા બાબતે કયો સીમાચિહ્નરૂપ ચુકાદો આપ્યો હતો?',
               options: [
-                'માત્ર કેન્દ્રમાં સત્તા બદલાવવાને લીધે કે રાજકીય વિચારધારાના આધારે રાજ્યપાલને હટાવી શકાય નહીં અને આવી બરતરફી અદાલતી સમીક્ષાને પાત્ર છે',
                 'રાષ્ટ્રપતિ ગમે ત્યારે કોઈપણ કારણ વગર રાજ્યપાલને હટાવી શકે અને તે ક્યારેય કોર્ટમાં પડકારી શકાય નહીં',
-                'રાજ્યપાલને ૫ વર્ષ પહેલાં કોઈપણ સંજોગોમાં હટાવી શકાય જ નહીં',
                 'રાજ્યપાલને હટાવવા માટે સંસદના બંને ગૃહોની મંજૂરી ફરજિયાત છે',
+                'માત્ર કેન્દ્રમાં સત્તા બદલાવવાને લીધે કે રાજકીય વિચારધારાના આધારે રાજ્યપાલને હટાવી શકાય નહીં અને આવી બરતરફી અદાલતી સમીક્ષાને પાત્ર છે',
+                'રાજ્યપાલને ૫ વર્ષ પહેલાં કોઈપણ સંજોગોમાં હટાવી શકાય જ નહીં'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'બી.પી. સિંઘલ કેસ (૨૦૧૦) માં ૫-જજોની બંધારણીય બેંચે સ્પષ્ટ કર્યું કે રાષ્ટ્રપતિની મરજી (Pleasure) અસીમિત કે મનસ્વી નથી. માત્ર કેન્દ્રમાં નવી સરકાર આવવાથી કે રાજકીય વિચારધારા ન મળતી હોવાના કારણે રાજ્યપાલને હટાવી શકાય નહીં અને જો મનસ્વી રીતે હટાવાય તો તે નિર્ણય અદાલતી સમીક્ષાને પાત્ર બને છે.',
               sourceVideoTitle: 'વડી અદાલત ભાગ-૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -8173,12 +8173,12 @@ graph TD
               id: 'mcq_niti_aayog_est_resolution',
               question: 'નીતિ આયોગની સ્થાપના ક્યારે અને કઈ સત્તા દ્વારા કરવામાં આવી હતી?',
               options: [
-                '૧૫ ઓગસ્ટ ૨૦૧૪, રાષ્ટ્રપતિના વટહુકમ દ્વારા',
                 '૧ જાન્યુઆરી ૨૦૧૫, કેન્દ્રીય કેબિનેટ પ્રસ્તાવ (Executive Resolution) દ્વારા',
+                '૧ એપ્રિલ ૨૦૧૫, બંધારણીય સુધારા દ્વારા',
                 '૨૬ જાન્યુઆરી ૨૦૧૫, સંસદીય કાયદા દ્વારા',
-                '૧ એપ્રિલ ૨૦૧૫, બંધારણીય સુધારા દ્વારા'
+                '૧૫ ઓગસ્ટ ૨૦૧૪, રાષ્ટ્રપતિના વટહુકમ દ્વારા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧ જાન્યુઆરી ૨૦૧૫ ના રોજ કેન્દ્રીય કેબિનેટના કારોબારી ઠરાવ દ્વારા આયોજન પંચના સ્થાને નીતિ આયોગની સ્થાપના થઈ હતી. તે બિન-બંધારણીય અને બિન-વૈધાનિક સંસ્થા છે.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8186,12 +8186,12 @@ graph TD
               id: 'mcq_niti_vice_chair_rank',
               question: 'નીતિ આયોગના ઉપાધ્યક્ષને ભારત સરકારના પ્રોટોકોલમાં કયો દરજ્જો પ્રાપ્ત થાય છે?',
               options: [
-                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) સમાન',
-                'કેબિનેટ સચિવ (Cabinet Secretary) સમાન',
                 'કેબિનેટ મંત્રી (Cabinet Minister) સમાન',
+                'કેબિનેટ સચિવ (Cabinet Secretary) સમાન',
+                'ભારતના મુખ્ય ન્યાયાધીશ (CJI) સમાન',
                 'રાજ્યપાલ સમાન'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'નીતિ આયોગના ઉપાધ્યક્ષની નિમણૂક વડાપ્રધાન દ્વારા થાય છે અને તેમને ભારત સરકારના કેબિનેટ મંત્રી સમાન દરજ્જો અને સુવિધાઓ આપવામાં આવે છે.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8199,12 +8199,12 @@ graph TD
               id: 'mcq_niti_first_vice_chair_ceo',
               question: 'નીતિ આયોગના પ્રથમ ઉપાધ્યક્ષ અને પ્રથમ CEO ની સાચી જોડી કઈ છે?',
               options: [
-                'સુમન બેરી અને બી.વી.આર. સુબ્રમણ્યમ',
-                'અરવિંદ પનગઢિયા અને સિંધુશ્રી ખુલ્લર',
+                'મોન્ટેક સિંહ આહલુવાલિયા અને પરમેશ્વરન ઐયર',
                 'ડૉ. રાજીવ કુમાર અને અમિતાભ કાંત',
-                'મોન્ટેક સિંહ આહલુવાલિયા અને પરમેશ્વરન ઐયર'
+                'અરવિંદ પનગઢિયા અને સિંધુશ્રી ખુલ્લર',
+                'સુમન બેરી અને બી.વી.આર. સુબ્રમણ્યમ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'નીતિ આયોગના પ્રથમ ઉપાધ્યક્ષ અરવિંદ પનગઢિયા હતા અને પ્રથમ CEO સિંધુશ્રી ખુલ્લર હતા. (વર્તમાન ઉપાધ્યક્ષ સુમન બેરી અને CEO બી.વી.આર. સુબ્રમણ્યમ છે).',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8213,11 +8213,11 @@ graph TD
               question: 'નીતિ આયોગની ગવર્નિંગ કાઉન્સિલ (Governing Council) માં નીચેનામાંથી કોનો સમાવેશ થતો નથી?',
               options: [
                 'તમામ રાજ્યોના મુખ્યમંત્રીઓ',
-                'વિધાનસભા ધરાવતા કેન્દ્રશાસિત પ્રદેશોના મુખ્યમંત્રીઓ',
                 'તમામ રાજ્યોના રાજ્યપાલો (Governors)',
-                'અન્ય કેન્દ્રશાસિત પ્રદેશોના લેફ્ટનન્ટ ગવર્નર્સ (LGs)'
+                'અન્ય કેન્દ્રશાસિત પ્રદેશોના લેફ્ટનન્ટ ગવર્નર્સ (LGs)',
+                'વિધાનસભા ધરાવતા કેન્દ્રશાસિત પ્રદેશોના મુખ્યમંત્રીઓ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'ગવર્નિંગ કાઉન્સિલમાં તમામ રાજ્યોના CMs અને UTs ના LGs હોય છે; પૂર્ણ રાજ્યોના રાજ્યપાલો તેમાં સામેલ હોતા નથી.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8225,12 +8225,12 @@ graph TD
               id: 'mcq_niti_fund_allocation_power',
               question: 'આયોજન પંચ અને નીતિ આયોગ વચ્ચે નીચેનામાંથી કયો સૌથી મહત્વપૂર્ણ તફાવત છે?',
               options: [
-                'નીતિ આયોગ પાસે રાજ્યોને નાણાં ફાળવણીની પ્રચંડ સત્તા છે, જે આયોજન પંચ પાસે નહોતી',
-                'નીતિ આયોગ પાસે નાણાં ફાળવવાની કોઈ સત્તા નથી, જ્યારે આયોજન પંચ નાણાં ફાળવણી કરતું હતું',
                 'નીતિ આયોગ બંધારણીય સંસ્થા છે જ્યારે આયોજન પંચ બિન-બંધારણીય હતું',
-                'નીતિ આયોગના અધ્યક્ષ રાષ્ટ્રપતિ હોય છે જ્યારે આયોજન પંચના વડાપ્રધાન હતા'
+                'નીતિ આયોગ પાસે રાજ્યોને નાણાં ફાળવણીની પ્રચંડ સત્તા છે, જે આયોજન પંચ પાસે નહોતી',
+                'નીતિ આયોગના અધ્યક્ષ રાષ્ટ્રપતિ હોય છે જ્યારે આયોજન પંચના વડાપ્રધાન હતા',
+                'નીતિ આયોગ પાસે નાણાં ફાળવવાની કોઈ સત્તા નથી, જ્યારે આયોજન પંચ નાણાં ફાળવણી કરતું હતું'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'આયોજન પંચ પાસે રાજ્યો અને મંત્રાલયોને નાણાં ફાળવવાની સત્તા હતી, જ્યારે નીતિ આયોગ માત્ર સલાહકાર થિંક-ટેન્ક છે અને તેની પાસે કોઈ નાણાં ફાળવણી સત્તા નથી.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8238,12 +8238,12 @@ graph TD
               id: 'mcq_part_b_states_1950',
               question: 'મૂળ બંધારણ (૧૯૫૦) ના ૪ વર્ગીકરણ પૈકી ભાગ "B" (Part B) માં કયા રાજ્યોનો સમાવેશ થતો હતો?',
               options: [
+                '૧૦ ચીફ કમિશનર શાસિત પ્રાંતો',
                 '૯ બ્રિટિશ ગવર્નર શાસિત પ્રાંતો',
                 '૯ મોટા દેશી રજવાડાંઓના સંઘો (રાજપ્રમુખ શાસિત)',
-                '૧૦ ચીફ કમિશનર શાસિત પ્રાંતો',
                 'અંદામાન અને નિકોબાર ટાપુઓ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ભાગ B માં હૈદરાબાદ, સૌરાષ્ટ્ર, રાજસ્થાન, મધ્ય ભારત જેવા મોટા રજવાડાંઓના ૯ સંઘો હતા જેમના વડા "રાજપ્રમુખ" કહેવાતા.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8264,12 +8264,12 @@ graph TD
               id: 'mcq_jvp_committee_members',
               question: 'ડિસેમ્બર ૧૯૪૮ માં કોંગ્રેસ દ્વારા રચાયેલી JVP સમિતિમાં નીચેના પૈકી કોણ સભ્ય ન હતું?',
               options: [
-                'જવાહરલાલ નેહરુ',
-                'વલ્લભભાઈ પટેલ',
                 'પટ્ટાભી સીતારામૈયા',
-                'જયપ્રકાશ નારાયણ'
+                'જયપ્રકાશ નારાયણ',
+                'વલ્લભભાઈ પટેલ',
+                'જવાહરલાલ નેહરુ'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 1,
               explanation: 'JVP સમિતિમાં જવાહરલાલ નેહરુ (J), વલ્લભભાઈ પટેલ (V) અને પટ્ટાભી સીતારામૈયા (P) હતા; જયપ્રકાશ નારાયણ તેમાં ન હતા.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8278,11 +8278,11 @@ graph TD
               question: 'પ્રથમ ભાષાવાર આંધ્ર રાજ્યની રચના માટે ૫૬/૫૮ દિવસના આમરણ ઉપવાસ બાદ કયા ગાંધીવાદી નેતા શહીદ થયા હતા?',
               options: [
                 'તંગુતુરી પ્રકાશમ',
+                'વી. વી. ગિરી',
                 'પોટ્ટી શ્રીરામુલુ (Potti Sreeramulu)',
-                'કે. કામરાજ',
-                'વી. વી. ગિરી'
+                'કે. કામરાજ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'પોટ્ટી શ્રીરામુલુના ૧૫ ડિસેમ્બર ૧૯૫૨ ના રોજ શહીદ થયા બાદ ૧ ઓક્ટોબર ૧૯૫૩ ના રોજ પ્રથમ ભાષાવાર રાજ્ય "આંધ્ર રાજ્ય" કર્નૂલ રાજધાની સાથે બન્યું.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8290,12 +8290,12 @@ graph TD
               id: 'mcq_fazal_ali_src_members',
               question: 'ડિસેમ્બર ૧૯૫૩ માં રચાયેલા રાજ્ય પુનર્ગઠન આયોગ (SRC) ના ૩ સભ્યોમાં કોનો સમાવેશ થતો ન હતો?',
               options: [
-                'જસ્ટિસ ફઝલ અલી',
-                'કે. એમ. પન્નીકર',
                 'એચ. એન. કુંઝરૂ',
-                'એસ. કે. ધાર'
+                'એસ. કે. ધાર',
+                'કે. એમ. પન્નીકર',
+                'જસ્ટિસ ફઝલ અલી'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 1,
               explanation: 'SRC ના અધ્યક્ષ જસ્ટિસ ફઝલ અલી અને અન્ય બે સભ્યો કે. એમ. પન્નીકર અને એચ. એન. કુંઝરૂ હતા; એસ. કે. ધાર ૧૯૪૮ ના આયોગના અધ્યક્ષ હતા.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8304,11 +8304,11 @@ graph TD
               question: '૭મા બંધારણીય સુધારા ૧૯૫૬ દ્વારા ૧ નવેમ્બર ૧૯૫૬ ના રોજ ભારતમાં કેટલા રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો રચાયા હતા?',
               options: [
                 '૧૬ રાજ્યો અને ૩ UTs',
-                '૧૪ રાજ્યો અને ૬ UTs',
+                '૨૮ રાજ્યો અને ૮ UTs',
                 '૧૫ રાજ્યો અને ૫ UTs',
-                '૨૮ રાજ્યો અને ૮ UTs'
+                '૧૪ રાજ્યો અને ૬ UTs'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૭મા સુધારા ૧૯૫૬ થી Part A, B, C, D વર્ગીકરણ રદ કરી ૧૪ રાજ્યો અને ૬ કેન્દ્રશાસિત પ્રદેશોની રચના કરવામાં આવી હતી.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8317,11 +8317,11 @@ graph TD
               question: 'દ્વિભાષી બોમ્બે રાજ્યનું વિભાજન થઈ ૧ મે ૧૯૬૦ ના રોજ બનેલું ગુજરાત ભારતીય સંઘનું કેટલામું રાજ્ય હતું?',
               options: [
                 '૧૩મું',
-                '૧૪મું',
                 '૧૫મું',
+                '૧૪મું',
                 '૧૬મું'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: '૧૯૫૬ માં ૧૪ રાજ્યો હતા. બોમ્બે પુનર્ગઠન અધિનિયમ ૧૯૬૦ હેઠળ ૧ મે ૧૯૬૦ ના રોજ ગુજરાત દેશનું ૧૫મું રાજ્ય બન્યું.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8329,12 +8329,12 @@ graph TD
               id: 'mcq_states_chronological_order',
               question: 'ભારતીય સંઘમાં રાજ્યો બનવાનો સાચો કાલક્રમિક ક્રમ કયો છે?',
               options: [
-                'ગુજરાત (૧૯૬૦) -> નાગાલેન્ડ (૧૯૬૩) -> હરિયાણા (૧૯૬૬) -> હિમાચલ પ્રદેશ (૧૯૭૧)',
-                'નાગાલેન્ડ (૧૯૬૦) -> ગુજરાત (૧૯૬૩) -> હિમાચલ પ્રદેશ (૧૯૬૬) -> હરિયાણા (૧૯૭૧)',
                 'ગુજરાત (૧૯૬૦) -> હરિયાણા (૧૯૬૩) -> નાગાલેન્ડ (૧૯૬૬) -> સિક્કિમ (૧૯૭૧)',
+                'નાગાલેન્ડ (૧૯૬૦) -> ગુજરાત (૧૯૬૩) -> હિમાચલ પ્રદેશ (૧૯૬૬) -> હરિયાણા (૧૯૭૧)',
+                'ગુજરાત (૧૯૬૦) -> નાગાલેન્ડ (૧૯૬૩) -> હરિયાણા (૧૯૬૬) -> હિમાચલ પ્રદેશ (૧૯૭૧)',
                 'હરિયાણા (૧૯૬૦) -> ગુજરાત (૧૯૬૩) -> હિમાચલ પ્રદેશ (૧૯૬૬) -> નાગાલેન્ડ (૧૯૭૧)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગુજરાત (૧૯૬૦ - ૧૫મું), નાગાલેન્ડ (૧૯૬૩ - ૧૬મું), હરિયાણા (૧૯૬૬ - ૧૭મું), હિમાચલ પ્રદેશ (૧૯૭૧ - ૧૮મું રાજ્ય બન્યા).',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8342,12 +8342,12 @@ graph TD
               id: 'mcq_first_coalition_pm_morarji',
               question: 'કેન્દ્ર સ્તરે સૌપ્રથમ ગઠબંધન સરકાર ક્યારે અને કોના નેતૃત્વમાં બની હતી?',
               options: [
-                '૧૯૬૭, ઇન્દિરા ગાંધી',
                 '૧૯૭૭, મોરારજી દેસાઈ (જનતા પાર્ટી)',
                 '૧૯૮૯, વી. પી. સિંહ (નેશનલ ફ્રન્ટ)',
-                '૧૯૯૯, અટલ બિહારી વાજપેયી (NDA)'
+                '૧૯૯૯, અટલ બિહારી વાજપેયી (NDA)',
+                '૧૯૬૭, ઇન્દિરા ગાંધી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧૯૭૭ માં કટોકટી બાદ મોરારજી દેસાઈના નેતૃત્વમાં જનતા પાર્ટીની પ્રથમ ગઠબંધન અને પ્રથમ બિન-કોંગ્રેસી સરકાર બની હતી.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8356,11 +8356,11 @@ graph TD
               question: '૫ વર્ષનો પૂર્ણ કાર્યકાળ પૂર્ણ કરનારી કેન્દ્રની સૌપ્રથમ બિન-કોંગ્રેસી ગઠબંધન સરકાર કઈ હતી?',
               options: [
                 'જનતા પાર્ટી સરકાર (૧૯૭૭-૧૯૮૨)',
-                'નેશનલ ફ્રન્ટ સરકાર (૧૯૮૯-૧૯૯૪)',
                 'NDA સરકાર - અટલ બિહારી વાજપેયી (૧૯૯૯-૨૦૦૪)',
-                'UPA સરકાર - ડૉ. મનમોહન સિંહ (૨૦૦૪-૨૦૦૯)'
+                'UPA સરકાર - ડૉ. મનમોહન સિંહ (૨૦૦૪-૨૦૦૯)',
+                'નેશનલ ફ્રન્ટ સરકાર (૧૯૮૯-૧૯૯૪)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'અટલ બિહારી વાજપેયીના નેતૃત્વવાળી NDA સરકારે ૧૯૯૯ થી ૨૦૦૪ સુધી સફળતાપૂર્વક ૫ વર્ષ પૂર્ણ કર્યા હતા.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8368,12 +8368,12 @@ graph TD
               id: 'mcq_cmp_coalition_meaning',
               question: 'ગઠબંધન સરકારોમાં સહયોગી પક્ષો વચ્ચે સામાન્ય એજન્ડા પર શાસન ચલાવવા માટે ઘડાતા દસ્તાવેજને શું કહેવાય છે?',
               options: [
-                'વ્હાઈટ પેપર (White Paper)',
-                'સમાન લઘુત્તમ કાર્યક્રમ (Common Minimum Programme - CMP)',
+                'વિઝન ડોક્યુમેન્ટ',
                 'સિટિઝન ચાર્ટર',
-                'વિઝન ડોક્યુમેન્ટ'
+                'વ્હાઈટ પેપર (White Paper)',
+                'સમાન લઘુત્તમ કાર્યક્રમ (Common Minimum Programme - CMP)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'સહયોગી પક્ષો પોતાના વિવાદાસ્પદ મુદ્દા બાજુ પર રાખી સામાન્ય સહમતિથી Common Minimum Programme (CMP) બનાવે છે.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8381,10 +8381,10 @@ graph TD
               id: 'mcq_citizen_charter_origin_uk',
               question: 'વિશ્વમાં સૌપ્રથમ "સિટિઝન ચાર્ટર" (નાગરિક અધિકાર પત્ર) ની શરૂઆત કયા દેશમાં અને કોના દ્વારા થઈ હતી?',
               options: [
-                'અમેરિકા, રોનાલ્ડ રીગન (૧૯૮૧)',
+                'કેનેડા, પિયરે ટ્રુડો (૧૯૭૨)',
                 'યુનાઇટેડ કિંગડમ (બ્રિટન), જ્હોન મેજર (૧૯૯૧)',
-                'સ્વીડન, ઓમ્બુડ્સમેન (૧૮૦૯)',
-                'કેનેડા, પિયરે ટ્રુડો (૧૯૭૨)'
+                'અમેરિકા, રોનાલ્ડ રીગન (૧૯૮૧)',
+                'સ્વીડન, ઓમ્બુડ્સમેન (૧૮૦૯)'
               ],
               correctOptionIndex: 1,
               explanation: '૧૯૯૧ માં યુનાઇટેડ કિંગડમના વડાપ્રધાન જ્હોન મેજર (John Major) દ્વારા સૌપ્રથમ સિટિઝન ચાર્ટર કાર્યક્રમ શરૂ કરાયો હતો.',
@@ -8394,12 +8394,12 @@ graph TD
               id: 'mcq_citizen_charter_india_adoption_1997',
               question: 'ભારતમાં સિટિઝન ચાર્ટર સ્વીકારવાનો ઐતિહાસિક નિર્ણય ક્યારે અને કઈ પરિષદમાં લેવાયો હતો?',
               options: [
-                '૧૯૫૨, પ્રથમ સંસદ સત્ર',
                 'મે ૧૯૯૭, મુખ્યમંત્રીઓની પરિષદ (I.K. Gujral ની અધ્યક્ષતા)',
                 '૨૦૦૫, રાષ્ટ્રીય વિકાસ પરિષદ',
-                '૨૦૧૪, નીતિ આયોગ ગવર્નિંગ કાઉન્સિલ'
+                '૨૦૧૪, નીતિ આયોગ ગવર્નિંગ કાઉન્સિલ',
+                '૧૯૫૨, પ્રથમ સંસદ સત્ર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'મે ૧૯૯૭ માં નવી દિલ્હીમાં તત્કાલીન PM આઈ. કે. ગુજરાલની અધ્યક્ષતામાં મુખ્યમંત્રીઓની પરિષદમાં સિટિઝન ચાર્ટર સ્વીકારાયું હતું.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8407,10 +8407,10 @@ graph TD
               id: 'mcq_sevottam_model_pillars',
               question: 'જાહેર સેવા વિતરણ સુધારવા DARPG દ્વારા વિકસાવવામાં આવેલા "સેવોત્તમ મોડેલ" ના કેટલા મુખ્ય ઘટકો/સ્તંભો છે?',
               options: [
-                '૨',
+                '૬',
                 '૩ (સિટિઝન ચાર્ટર, ફરિયાદ નિવારણ, સેવા વિતરણ ક્ષમતા)',
-                '૫',
-                '૬'
+                '૨',
+                '૫'
               ],
               correctOptionIndex: 1,
               explanation: 'સેવોત્તમના ૩ પાયાના સ્તંભો છે: ૧. સિટિઝન ચાર્ટર અમલીકરણ, ૨. જાહેર ફરિયાદ નિવારણ વ્યવસ્થા, ૩. સેવા વિતરણ ક્ષમતા નિર્માણ.',
@@ -8421,11 +8421,11 @@ graph TD
               question: 'ભારતમાં નાગરિકોને સમયબદ્ધ સરકારી સેવાઓની ખાતરી આપતો "લોક સેવા ગેરંટી અધિનિયમ" ઘડનાર પ્રથમ રાજ્ય કયું હતું?',
               options: [
                 'ગુજરાત (૨૦૧૩)',
-                'મધ્યપ્રદેશ (૨૦૧૦)',
                 'રાજસ્થાન (૨૦૧૧)',
-                'મહારાષ્ટ્ર (૨૦૧૫)'
+                'મહારાષ્ટ્ર (૨૦૧૫)',
+                'મધ્યપ્રદેશ (૨૦૧૦)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'મધ્યપ્રદેશ ૨૦૧૦ માં લોક સેવા ગેરંટી અધિનિયમ ઘડનાર પ્રથમ રાજ્ય બન્યું હતું. ગુજરાતમાં ૨૦૧૩ માં ગુજરાત જાહેર સેવા હક અધિનિયમ ઘડાયો.',
               sourceVideoTitle: 'નીતિ આયોગ, રાજ્યોનું પુનર્ગઠન by Dr. Dinesh Gehlot',
             ),
@@ -8433,12 +8433,12 @@ graph TD
               id: 'mcq_federal_word_etymology_foedus',
               question: 'સમવાયતંત્ર માટે વપરાતો અંગ્રેજી શબ્દ "Federal" કઈ ભાષાના કયા મૂળ શબ્દ પરથી ઉતરી આવ્યો છે?',
               options: [
-                'ગ્રીક શબ્દ "Polis" (નગર-રાજ્ય)',
                 'લૅટિન શબ્દ "Foedus" (કરાર અથવા સંધિ)',
-                'ફ્રેન્ચ શબ્દ "Souverain" (સર્વોચ્ચ સત્તા)',
-                'જર્મન શબ્દ "Bund" (સંઘ)'
+                'જર્મન શબ્દ "Bund" (સંઘ)',
+                'ગ્રીક શબ્દ "Polis" (નગર-રાજ્ય)',
+                'ફ્રેન્ચ શબ્દ "Souverain" (સર્વોચ્ચ સત્તા)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'Federal શબ્દ લૅટિન શબ્દ "Foedus" (ફોયડસ) પરથી આવ્યો છે, જેનો અર્થ Treaty અથવા Agreement (કરાર કે સંધિ) થાય છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8446,10 +8446,10 @@ graph TD
               id: 'mcq_indian_federal_model_canada',
               question: 'ભારતીય સમવાયતંત્રનું મોડેલ કયા દેશના બંધારણમાંથી પ્રેરિત થઈને સ્વીકારવામાં આવ્યું છે?',
               options: [
+                'સ્વિટ્ઝર્લેન્ડ',
                 'સંયુક્ત રાજ્ય અમેરિકા (USA)',
-                'ઓસ્ટ્રેલિયા',
                 'કેનેડા',
-                'સ્વિટ્ઝર્લેન્ડ'
+                'ઓસ્ટ્રેલિયા'
               ],
               correctOptionIndex: 2,
               explanation: 'અમેરિકા "Coming Together" મોડેલ છે, જ્યારે ભારતે કેનેડાનું "Holding Together" મોડેલ (સશક્ત કેન્દ્ર સાથેનું સંઘ) અપનાવ્યું છે.',
@@ -8459,12 +8459,12 @@ graph TD
               id: 'mcq_federal_features_not_unitary',
               question: 'નીચેનામાંથી કયું લક્ષણ ભારતીય બંધારણનું સમવાયી (Federal) લક્ષણ નથી?',
               options: [
-                'સત્તાનું બંધારણીય વિભાજન (૭મી અનુસૂચિ)',
-                'સ્વતંત્ર અને નિષ્પક્ષ ન્યાયતંત્ર',
+                'એકલ નાગરિકતા (Single Citizenship)',
                 'દ્વિગૃહી સંસદમાં રાજ્યોનું પ્રતિનિધિત્વ (રાજ્યસભા)',
-                'એકલ નાગરિકતા (Single Citizenship)'
+                'સ્વતંત્ર અને નિષ્પક્ષ ન્યાયતંત્ર',
+                'સત્તાનું બંધારણીય વિભાજન (૭મી અનુસૂચિ)'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 0,
               explanation: 'એકલ નાગરિકતા એ એકતંત્રી (Unitary) લક્ષણ છે. સમવાયતંત્રમાં સામાન્ય રીતે બેવડી નાગરિકતા (દા.ત. USA) હોય છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8474,8 +8474,8 @@ graph TD
               options: [
                 'ગ્રેનવિલ ઓસ્ટિન',
                 'પ્રોફેસર કે. સી. વ્હીઅર (K. C. Wheare)',
-                'મોરિસ જોન્સ',
-                'સર આઇવર જેનિંગ્સ'
+                'સર આઇવર જેનિંગ્સ',
+                'મોરિસ જોન્સ'
               ],
               correctOptionIndex: 1,
               explanation: 'કે. સી. વ્હીઅરે ભારતીય બંધારણને "અર્ધ-સમવાયી" (Quasi-Federal) કહ્યું છે કારણ કે તેમાં એકતંત્રી લક્ષણો વધુ પ્રભાવી છે.',
@@ -8485,12 +8485,12 @@ graph TD
               id: 'mcq_bommai_basic_structure_federalism',
               question: 'સર્વોચ્ચ અદાલતે કયા ઐતિહાસિક કેસમાં સમવાયતંત્ર (Federalism) ને બંધારણનું "મૂળભૂત માળખું" (Basic Structure) જાહેર કર્યું?',
               options: [
-                'શંકરી પ્રસાદ કેસ (૧૯૫૧)',
+                'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)',
                 'ગોલકનાથ કેસ (૧૯૬૭)',
-                'મિનર્વા મિલ્સ કેસ (૧૯૮૦)',
-                'એસ. આર. બોમ્માઈ કેસ (૧૯૯૪)'
+                'શંકરી પ્રસાદ કેસ (૧૯૫૧)',
+                'મિનર્વા મિલ્સ કેસ (૧૯૮૦)'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 0,
               explanation: '૧૯૯૪ ના એસ. આર. બોમ્માઈ કેસમાં સુપ્રીમ કોર્ટની ૯ જજોની બંધારણીય બેંચે સમવાયતંત્રને બંધારણનું મૂળભૂત માળખું ઠરાવ્યું હતું.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8511,8 +8511,8 @@ graph TD
               id: 'mcq_residuary_powers_article_248',
               question: 'ભારતીય બંધારણમાં અવશિષ્ટ સત્તાઓ (Residuary Powers - અનુચ્છેદ ૨૪૮) કોને સોંપવામાં આવી છે?',
               options: [
-                'રાજ્ય વિધાનસભાઓને',
                 'રાષ્ટ્રપતિને',
+                'રાજ્ય વિધાનસભાઓને',
                 'સંસદને (કેન્દ્ર સરકાર)',
                 'સુપ્રીમ કોર્ટને'
               ],
@@ -8524,12 +8524,12 @@ graph TD
               id: 'mcq_article_249_rajya_sabha_majority',
               question: 'અનુચ્છેદ ૨૪૯ હેઠળ રાજ્યસભા રાજ્ય યાદીના વિષય પર કાયદો બનાવવા સંસદને સત્તા આપતો ઠરાવ કેટલી બહુમતીથી પસાર કરે છે?',
               options: [
-                'ગૃહના કુલ સભ્યોની સાદી બહુમતી',
                 'હાજર રહી મતદાન કરતા સભ્યોની ૨/૩ બહુમતી',
+                'સર્વાનુમતે',
                 'વિશેષ બહુમતી અને ૫૦% રાજ્યોની મંજૂરી',
-                'સર્વાનુમતે'
+                'ગૃહના કુલ સભ્યોની સાદી બહુમતી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'રાજ્યસભા હાજર રહી મતદાન કરતા સભ્યોની ૨/૩ વિશેષ બહુમતીથી રાષ્ટ્રીય હિતનો ઠરાવ પસાર કરે ત્યારે સંસદ રાજ્ય યાદી પર ૧ વર્ષ માટે કાયદો બનાવી શકે છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8537,12 +8537,12 @@ graph TD
               id: 'mcq_article_253_international_treaties',
               question: 'આંતરરાષ્ટ્રીય સંધિઓ અને કરારોના અમલીકરણ માટે સંસદ રાજ્ય યાદીના વિષય પર કાયદો કઈ કલમ હેઠળ બનાવે છે?',
               options: [
-                'અનુચ્છેદ ૨૪૯',
-                'અનુચ્છેદ ૨૫૦',
                 'અનુચ્છેદ ૨૫૨',
-                'અનુચ્છેદ ૨૫૩'
+                'અનુચ્છેદ ૨૫૩',
+                'અનુચ્છેદ ૨૫૦',
+                'અનુચ્છેદ ૨૪૯'
               ],
-              correctOptionIndex: 3,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૨૫૩ હેઠળ સંસદ આંતરરાષ્ટ્રીય કરારોના અમલ માટે રાજ્યની મંજૂરી વિના પણ રાજ્ય યાદી પર કાયદો બનાવી શકે છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8550,9 +8550,9 @@ graph TD
               id: 'mcq_article_365_failure_directions',
               question: 'જો કોઈ રાજ્ય કેન્દ્ર સરકાર દ્વારા અપાયેલા બંધારણીય નિર્દેશોનું પાલન ન કરે, તો કઈ કલમ હેઠળ બંધારણીય તંત્ર નિષ્ફળ ગણાય છે?',
               options: [
-                'અનુચ્છેદ ૨૫૬',
-                'અનુચ્છેદ ૨૫૭',
                 'અનુચ્છેદ ૩૫૬',
+                'અનુચ્છેદ ૨૫૭',
+                'અનુચ્છેદ ૨૫૬',
                 'અનુચ્છેદ ૩૬૫'
               ],
               correctOptionIndex: 3,
@@ -8563,10 +8563,10 @@ graph TD
               id: 'mcq_inter_state_water_tribunal_262',
               question: 'આંતર-રાજ્ય નદી જળ વિવાદોના ન્યાયનિર્ણય માટે કાયદો ઘડવાની સત્તા સંસદને કયા અનુચ્છેદ હેઠળ પ્રાપ્ત થાય છે?',
               options: [
-                'અનુચ્છેદ ૨૬૧',
-                'અનુચ્છેદ ૨૬૨',
                 'અનુચ્છેદ ૨૬૩',
-                'અનુચ્છેદ ૨૮૦'
+                'અનુચ્છેદ ૨૬૨',
+                'અનુચ્છેદ ૨૮૦',
+                'અનુચ્છેદ ૨૬૧'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૨૬૨ હેઠળ સંસદ જળ વિવાદ ટ્રિબ્યુનલ રચી શકે છે અને અદાલતોની દખલગીરી મુક્ત રાખી શકે છે.',
@@ -8576,12 +8576,12 @@ graph TD
               id: 'mcq_inter_state_council_article_263',
               question: 'આંતર-રાજ્ય પરિષદ (Inter-State Council) ની સ્થાપના કયા અનુચ્છેદ હેઠળ અને કોના દ્વારા કરવામાં આવે છે?',
               options: [
-                'અનુચ્છેદ ૨૬૩, રાષ્ટ્રપતિ દ્વારા',
+                'અનુચ્છેદ ૨૬૩, વડાપ્રધાન દ્વારા',
                 'અનુચ્છેદ ૨૬૨, સંસદ દ્વારા',
                 'અનુચ્છેદ ૨૮૦, નાણામંત્રી દ્વારા',
-                'અનુચ્છેદ ૨૬૩, વડાપ્રધાન દ્વારા'
+                'અનુચ્છેદ ૨૬૩, રાષ્ટ્રપતિ દ્વારા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૬૩ હેઠળ રાષ્ટ્રપતિના જાહેર આદેશ દ્વારા આંતર-રાજ્ય પરિષદ સ્થાપવામાં આવે છે (પ્રથમ સ્થાપના મે ૧૯૯૦ માં થઈ હતી).',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8589,12 +8589,12 @@ graph TD
               id: 'mcq_inter_state_council_chairperson_pm',
               question: 'આંતર-રાજ્ય પરિષદ (Inter-State Council) ના અધ્યક્ષ કોણ હોય છે?',
               options: [
+                'નીતિ આયોગના ઉપાધ્યક્ષ',
                 'ભારતના રાષ્ટ્રપતિ',
-                'ભારતના વડાપ્રધાન',
                 'કેન્દ્રીય ગૃહમંત્રી',
-                'નીતિ આયોગના ઉપાધ્યક્ષ'
+                'ભારતના વડાપ્રધાન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ભારતના વડાપ્રધાન આંતર-રાજ્ય પરિષદના અધ્યક્ષ હોય છે અને તમામ રાજ્યોના મુખ્યમંત્રીઓ તેના સભ્યો હોય છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8604,8 +8604,8 @@ graph TD
               options: [
                 'જસ્ટિસ પી. એન. ભગવતી',
                 'જસ્ટિસ રણજિત સિંહ સરકારીયા',
-                'જસ્ટિસ એમ. એમ. પુંછી',
-                'જસ્ટિસ કે. સુબ્બારાવ'
+                'જસ્ટિસ કે. સુબ્બારાવ',
+                'જસ્ટિસ એમ. એમ. પુંછી'
               ],
               correctOptionIndex: 1,
               explanation: 'સુપ્રીમ કોર્ટના નિવૃત્ત જજ રણજિત સિંહ સરકારીયાના અધ્યક્ષપદે સરકારીયા કમિશન રચાયું હતું (અન્ય સભ્યો: બી. શિવરામન અને ડૉ. એસ. આર. સેન).',
@@ -8615,12 +8615,12 @@ graph TD
               id: 'mcq_sarkaria_article_356_dead_letter',
               question: 'સરકારીયા કમિશને અનુચ્છેદ ૩૫૬ (રાષ્ટ્રપતિ શાસન) ના ઉપયોગ અંગે કઈ મુખ્ય ભલામણ કરી હતી?',
               options: [
-                'અનુચ્છેદ ૩૫૬ સંપૂર્ણપણે નાબૂદ કરવો',
-                'તેનો ઉપયોગ દર ૫ વર્ષે ફરજિયાત કરવો',
                 'તેનો ઉપયોગ અત્યંત વિરલ સંજોગોમાં "આખરી ઉપાય" (Last Resort) તરીકે જ કરવો',
-                'રાજ્યપાલની ઇચ્છા મુજબ વાપરવો'
+                'રાજ્યપાલની ઇચ્છા મુજબ વાપરવો',
+                'તેનો ઉપયોગ દર ૫ વર્ષે ફરજિયાત કરવો',
+                'અનુચ્છેદ ૩૫૬ સંપૂર્ણપણે નાબૂદ કરવો'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'સરકારીયા કમિશને ભલામણ કરી હતી કે કલમ ૩૫૬ નો ઉપયોગ માત્ર બધા વિકલ્પો નિષ્ફળ ગયા પછી આખરી ઉપાય (Last Resort) તરીકે જ થવો જોઈએ.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8628,10 +8628,10 @@ graph TD
               id: 'mcq_punchhi_commission_governor_impeachment',
               question: 'કેન્દ્ર-રાજ્ય સંબંધો માટે એપ્રિલ ૨૦૦૭ માં રચાયેલા પુંછી કમિશને રાજ્યપાલને હટાવવા માટે કઈ ભલામણ કરી હતી?',
               options: [
-                'કેન્દ્રીય કેબિનેટના સામાન્ય ઠરાવથી',
+                'મુખ્યમંત્રીના આદેશથી',
                 'રાજ્ય વિધાનસભા દ્વારા મહાભિયોગ (Impeachment) જેવી પ્રક્રિયાથી',
-                'સુપ્રીમ કોર્ટના સીધા આદેશથી',
-                'મુખ્યમંત્રીના આદેશથી'
+                'કેન્દ્રીય કેબિનેટના સામાન્ય ઠરાવથી',
+                'સુપ્રીમ કોર્ટના સીધા આદેશથી'
               ],
               correctOptionIndex: 1,
               explanation: 'પુંછી કમિશને ભલામણ કરી હતી કે રાજ્યપાલને કેન્દ્રની મરજીથી મનસ્વી રીતે ન હટાવાય, પરંતુ રાજ્ય વિધાનસભા દ્વારા મહાભિયોગ જેવી પ્રક્રિયાથી જ હટાવવા જોઈએ.',
@@ -8641,12 +8641,12 @@ graph TD
               id: 'mcq_rajamannar_committee_1969_tamilnadu',
               question: 'તમિલનાડુ સરકાર દ્વારા ૧૯૬૯ માં કેન્દ્ર-રાજ્ય સંબંધોની તપાસ માટે કઈ સમિતિ નીમવામાં આવી હતી?',
               options: [
+                'સ્વર્ણસિંહ સમિતિ',
                 'બળવંતરાય મહેતા સમિતિ',
                 'રાજમન્નાર સમિતિ (Rajamannar Committee)',
-                'સ્વર્ણસિંહ સમિતિ',
                 'સંથાનમ સમિતિ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'તમિલનાડુની DMK સરકારે ડૉ. પી. વી. રાજમન્નારની અધ્યક્ષતામાં સમિતિ નીમી હતી જેણે કલમ ૩૫૬ અને IAS/IPS રદ કરવાની ભલામણ કરી હતી.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8654,12 +8654,12 @@ graph TD
               id: 'mcq_all_india_services_article_312',
               question: 'અખિલ ભારતીય સેવાઓ (All India Services) ની રચના અને સંચાલન અંગે બંધારણમાં કયો અનુચ્છેદ છે?',
               options: [
-                'અનુચ્છેદ ૩૧૧',
-                'અનુચ્છેદ ૩૧૨',
+                'અનુચ્છેદ ૩૨૪',
                 'અનુચ્છેદ ૩૧૫',
-                'અનુચ્છેદ ૩૨૪'
+                'અનુચ્છેદ ૩૧૧',
+                'અનુચ્છેદ ૩૧૨'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩૧૨ હેઠળ રાજ્યસભા ૨/૩ બહુમતીથી ઠરાવ પસાર કરી નવી અખિલ ભારતીય સેવા (દા.ત. IAS, IPS, IFoS) ની રચના સંસદ દ્વારા કરાવી શકે છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8667,10 +8667,10 @@ graph TD
               id: 'mcq_gst_council_voting_weightage',
               question: 'ભારતમાં GST કાઉન્સિલ (અનુચ્છેદ ૨૭૯-A) માં કેન્દ્ર સરકાર અને તમામ રાજ્યો પાસે અનુક્રમે કેટલો મતાધિકાર (Voting Weightage) હોય છે?',
               options: [
-                'કેન્દ્ર ૫૦% અને રાજ્યો ૫૦%',
-                'કેન્દ્ર ૧/૩ (૩૩.૩૩%) અને રાજ્યો ૨/૩ (૬૬.૬૭%)',
                 'કેન્દ્ર ૨/૩ અને રાજ્યો ૧/૩',
-                'તમામ રાજ્યો પાસે ૧-૧ મત અને કેન્દ્ર પાસે કોઈ મત નથી'
+                'કેન્દ્ર ૧/૩ (૩૩.૩૩%) અને રાજ્યો ૨/૩ (૬૬.૬૭%)',
+                'તમામ રાજ્યો પાસે ૧-૧ મત અને કેન્દ્ર પાસે કોઈ મત નથી',
+                'કેન્દ્ર ૫૦% અને રાજ્યો ૫૦%'
               ],
               correctOptionIndex: 1,
               explanation: 'GST કાઉન્સિલમાં કેન્દ્ર પાસે ૧/૩ (૩૩.૩૩%) અને રાજ્યો પાસે સંયુક્ત રીતે ૨/૩ (૬૬.૬૭%) મતાધિકાર છે; નિર્ણય માટે ૭૫% બહુમતી જરૂરી છે.',
@@ -8681,11 +8681,11 @@ graph TD
               question: 'અખિલ ભારતીય સેવાઓમાં કેન્દ્ર અને રાજ્યો વચ્ચે અધિકારીઓના ડેપ્યુટેશન માટે ૧૯૦૫ માં "ટેન્યોર સિસ્ટમ" (Tenure System) કોણે શરૂ કરી હતી?',
               options: [
                 'લોર્ડ રિપન',
+                'લોર્ડ કોર્નવોલિસ',
                 'લોર્ડ કર્ઝન (Lord Curzon)',
-                'લોર્ડ ડેલહાઉસી',
-                'લોર્ડ કોર્નવોલિસ'
+                'લોર્ડ ડેલહાઉસી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૧૯૦૫ માં વાઈસરોય લોર્ડ કર્ઝને "ટેન્યોર સિસ્ટમ" શરૂ કરી હતી, જેના હેઠળ પ્રાંતોમાંથી અધિકારીઓ નિશ્ચિત મુદત માટે કેન્દ્રમાં ડેપ્યુટેશન પર આવે છે અને પુનઃ રાજ્યમાં પરત ફરે છે.',
               sourceVideoTitle: 'સંઘીય માળખું by Dr. Dinesh Gehlot',
             ),
@@ -8973,12 +8973,12 @@ graph TD
               id: 'mcq_local_self_govt_father_ripon',
               question: 'ભારતમાં "સ્થાનિક સ્વરાજ્યના પિતા" (Father of Local Self-Government) તરીકે કોણ જાણીતું છે?',
               options: [
-                'લોર્ડ મેયો',
                 'લોર્ડ રિપન (Lord Ripon)',
                 'લોર્ડ ડેલહાઉસી',
+                'લોર્ડ મેયો',
                 'લોર્ડ કર્ઝન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧૮૮૨ ના ઐતિહાસિક સ્થાનિક સ્વરાજ્ય ઠરાવને કારણે વાઈસરોય લોર્ડ રિપનને "સ્થાનિક સ્વરાજ્યના પિતા" કહેવામાં આવે છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -8986,12 +8986,12 @@ graph TD
               id: 'mcq_chola_uttaramerur_inscription',
               question: 'પ્રાચીન ભારતમાં ગ્રામસભાની ચૂંટણી પદ્ધતિ (કુદવોલાઈ) અને ઉત્કૃષ્ટ સ્થાનિક વહીવટની વિગતો કયા શિલાલેખમાંથી મળે છે?',
               options: [
-                'જૂનાગઢ શિલાલેખ (રુદ્રદામા)',
-                'ઉત્તરમેરૂર શિલાલેખ (ચોલ રાજા પરાંતક પ્રથમ)',
+                'હાથીગુંફા શિલાલેખ (ખારવેલ)',
                 'અલ્હાબાદ સ્તંભલેખ (સમુદ્રગુપ્ત)',
-                'હાથીગુંફા શિલાલેખ (ખારવેલ)'
+                'ઉત્તરમેરૂર શિલાલેખ (ચોલ રાજા પરાંતક પ્રથમ)',
+                'જૂનાગઢ શિલાલેખ (રુદ્રદામા)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'તમિલનાડુમાં આવેલ ચોલ શાસનકાળનો ઉત્તરમેરૂર શિલાલેખ (૯૧૯-૯૨૯ ઈ.સ.) ગ્રામસભાની સમિતિઓ (વરીયમ) અને કુદવોલાઈ (લોટરી) પદ્ધતિની અજોડ વિગત આપે છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -8999,12 +8999,12 @@ graph TD
               id: 'mcq_article_40_gram_panchayat_dpsp',
               question: 'ભારતીય બંધારણમાં ગ્રામ પંચાયતોની સ્થાપના અને સ્વરાજ્યના એકમો તરીકે સત્તા સોંપણી અંગે કયા અનુચ્છેદમાં જોગવાઈ કરવામાં આવી છે?',
               options: [
-                'અનુચ્છેદ ૩૯',
                 'અનુચ્છેદ ૪૦',
+                'અનુચ્છેદ ૩૯',
                 'અનુચ્છેદ ૪૪',
                 'અનુચ્છેદ ૪૮'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'ભાગ-૪ ના રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો (DPSP) ના અનુચ્છેદ ૪૦ માં ગાંધીવાદી વિચારધારા હેઠળ રાજ્યને ગ્રામ પંચાયતો સ્થાપવાનો નિર્દેશ અપાયો છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9013,9 +9013,9 @@ graph TD
               question: 'ભારતમાં સામુદાયિક વિકાસ કાર્યક્રમ (Community Development Programme - CDP) ક્યારે શરૂ કરવામાં આવ્યો હતો?',
               options: [
                 '૧૫ ઓગસ્ટ ૧૯૪૭',
-                '૨૬ જાન્યુઆરી ૧૯૫૦',
+                '૨ ઓક્ટોબર ૧૯૫૯',
                 '૨ ઓક્ટોબર ૧૯૫૨',
-                '૨ ઓક્ટોબર ૧૯૫૯'
+                '૨૬ જાન્યુઆરી ૧૯૫૦'
               ],
               correctOptionIndex: 2,
               explanation: '૨ ઓક્ટોબર ૧૯૫૨ ના રોજ જવાહરલાલ નેહરુ સરકાર દ્વારા અમેરિકન ફોર્ડ ફાઉન્ડેશનના સહયોગથી ગ્રામીણ વિકાસ માટે સામુદાયિક વિકાસ કાર્યક્રમ શરૂ થયો હતો.',
@@ -9025,12 +9025,12 @@ graph TD
               id: 'mcq_balwant_rai_mehta_committee_1957',
               question: 'પંચાયતી રાજ માટે સૌપ્રથમ ત્રિ-સ્તરીય મોડેલ (3-Tier Model) અને "લોકશાહી વિકેન્દ્રીકરણ" ની ભલામણ કઈ સમિતિએ કરી હતી?',
               options: [
+                'જી.વી.કે. રાવ સમિતિ (૧૯૮૫)',
                 'બળવંતરાય મહેતા સમિતિ (૧૯૫૭)',
                 'અશોક મહેતા સમિતિ (૧૯૭૭)',
-                'જી.વી.કે. રાવ સમિતિ (૧૯૮૫)',
                 'એલ.એમ. સિંઘવી સમિતિ (૧૯૮૬)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બળવંતરાય મહેતા સમિતિએ ૧૯૫૭ માં "લોકશાહી વિકેન્દ્રીકરણ" ની ભલામણ કરી ગ્રામ પંચાયત, પંચાયત સમિતિ અને જિલ્લા પરિષદ એમ ત્રિ-સ્તરીય પંચાયતી રાજનું સૂચન કર્યું હતું.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9038,12 +9038,12 @@ graph TD
               id: 'mcq_first_panchayati_raj_nagaur_1959',
               question: 'ભારતમાં સૌપ્રથમ ત્રિ-સ્તરીય પંચાયતી રાજની સ્થાપના કયા રાજ્યમાં અને ક્યારે થઈ હતી?',
               options: [
+                'મહારાષ્ટ્ર, ૧ મે ૧૯૬૨',
                 'ગુજરાત, ૧ મે ૧૯૬૦',
-                'રાજસ્થાન (નાગૌર), ૨ ઓક્ટોબર ૧૯૫૯',
                 'આંધ્રપ્રદેશ, ૧૧ ઓક્ટોબર ૧૯૫૯',
-                'મહારાષ્ટ્ર, ૧ મે ૧૯૬૨'
+                'રાજસ્થાન (નાગૌર), ૨ ઓક્ટોબર ૧૯૫૯'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૨ ઓક્ટોબર ૧૯૫૯ ના રોજ રાજસ્થાનના નાગૌર જિલ્લાના બગદરી ગામે વડાપ્રધાન જવાહરલાલ નેહરુ દ્વારા દેશમાં સૌપ્રથમ પંચાયતી રાજનું ઉદ્ઘાટન કરાયું હતું (ત્યારબાદ ૧૧ ઓક્ટોબર ૧૯૫૯ આંધ્રપ્રદેશમાં).',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9052,11 +9052,11 @@ graph TD
               question: 'પંચાયતી રાજ માટે "દ્વિ-સ્તરીય મોડેલ" (મંડળ પંચાયત અને જિલ્લા પરિષદ) ની ભલામણ કઈ સમિતિએ કરી હતી?',
               options: [
                 'બળવંતરાય મહેતા સમિતિ',
-                'અશોક મહેતા સમિતિ (૧૯૭૭)',
                 'પી.કે. થુંગન સમિતિ',
+                'અશોક મહેતા સમિતિ (૧૯૭૭)',
                 'સરકારીયા કમિશન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'જનતા પાર્ટી સરકાર દ્વારા ૧૯૭૭ માં રચાયેલી અશોક મહેતા સમિતિએ ૧૯૭૮ માં દ્વિ-સ્તરીય પંચાયતી રાજ અને પક્ષીય ધોરણે ચૂંટણીની ભલામણ કરી હતી.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9064,12 +9064,12 @@ graph TD
               id: 'mcq_gvk_rao_grass_without_roots_1985',
               question: 'પંચાયતોના અમલદારશાહીકરણને "મૂળિયા વિનાનું ઘાસ" (Grass without roots) કઈ સમિતિએ ગણાવ્યું હતું?',
               options: [
-                'જી. વી. કે. રાવ સમિતિ (૧૯૮૫)',
                 'એલ. એમ. સિંઘવી સમિતિ',
-                'અશોક મહેતા સમિતિ',
-                'બળવંતરાય મહેતા સમિતિ'
+                'બળવંતરાય મહેતા સમિતિ',
+                'જી. વી. કે. રાવ સમિતિ (૧૯૮૫)',
+                'અશોક મહેતા સમિતિ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'જી.વી.કે. રાવ સમિતિ (૧૯૮૫ - CAARD) એ પંચાયતોની સ્થિતિને "મૂળિયા વગરનું ઘાસ" કહી જિલ્લા વિકાસ અધિકારી (DDO) ના પદના સર્જનની ભલામણ કરી હતી.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9077,12 +9077,12 @@ graph TD
               id: 'mcq_lm_singhvi_constitutional_status_1986',
               question: 'પંચાયતી રાજ સંસ્થાઓને સૌપ્રથમ "બંધારણીય દરજ્જો" (Constitutional Status) આપવાની ભલામણ કઈ સમિતિએ કરી હતી?',
               options: [
+                'ડૉ. એલ. એમ. સિંઘવી સમિતિ (૧૯૮૬)',
                 'બળવંતરાય મહેતા સમિતિ',
                 'અશોક મહેતા સમિતિ',
-                'ડૉ. એલ. એમ. સિંઘવી સમિતિ (૧૯૮૬)',
                 'હોબહાઉસ સમિતિ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: '૧૯૮૬ માં રાજીવ ગાંધી સરકાર દ્વારા રચાયેલી ડૉ. એલ. એમ. સિંઘવી સમિતિએ પંચાયતોને બંધારણીય દરજ્જો આપવાની અને ન્યાય પંચાયતો સ્થાપવાની સૌપ્રથમ સત્તાવાર ભલામણ કરી હતી.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9091,11 +9091,11 @@ graph TD
               question: '૭૩મો બંધારણીય સુધારો અધિનિયમ, ૧૯૯૨ દેશભરમાં કઈ તારીખથી અમલમાં આવ્યો?',
               options: [
                 '૨૨ ડિસેમ્બર ૧૯૯૨',
-                '૨૦ એપ્રિલ ૧૯૯૩',
                 '૨૪ એપ્રિલ ૧૯૯૩',
-                '૧૫ ઓગસ્ટ ૧૯૯૩'
+                '૧૫ ઓગસ્ટ ૧૯૯૩',
+                '૨૦ એપ્રિલ ૧૯૯૩'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: '૨૪ એપ્રિલ ૧૯૯૩ થી આ કાયદો દેશભરમાં લાગુ થયો, તેથી દર વર્ષે ૨૪ એપ્રિલને "રાષ્ટ્રીય પંચાયતી રાજ દિવસ" (National Panchayati Raj Day) તરીકે ઉજવવામાં આવે છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9103,12 +9103,12 @@ graph TD
               id: 'mcq_73rd_caa_part_9_eleventh_schedule',
               question: '૭૩મા બંધારણીય સુધારા દ્વારા બંધારણમાં કયો ભાગ અને કઈ અનુસૂચિ ઉમેરવામાં આવી?',
               options: [
-                'ભાગ-૯ અને ૧૧મી અનુસૂચિ',
+                'ભાગ-૮ અને ૧૦મી અનુસૂચિ',
                 'ભાગ-૯-A અને ૧૨મી અનુસૂચિ',
-                'ભાગ-૧૦ અને ૯મી અનુસૂચિ',
-                'ભાગ-૮ અને ૧૦મી અનુસૂચિ'
+                'ભાગ-૯ અને ૧૧મી અનુસૂચિ',
+                'ભાગ-૧૦ અને ૯મી અનુસૂચિ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૭૩મા સુધારાથી ભાગ-૯ (અનુચ્છેદ ૨૪૩ થી ૨૪૩-O) અને ૧૧મી અનુસૂચિ ઉમેરાઈ. (ભાગ-૯-A અને ૧૨મી અનુસૂચિ ૭૪મા સુધારાથી નગરપાલિકાઓ માટે ઉમેરાઈ).',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9116,12 +9116,12 @@ graph TD
               id: 'mcq_eleventh_schedule_29_subjects',
               question: 'બંધારણની ૧૧મી અનુસૂચિમાં પંચાયતોના કાર્યક્ષેત્રના કેટલા વિષયો દર્શાવવામાં આવ્યા છે?',
               options: [
-                '૧૮ વિષયો',
                 '૨૧ વિષયો',
                 '૨૯ વિષયો',
-                '૬૧ વિષયો'
+                '૬૧ વિષયો',
+                '૧૮ વિષયો'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'પંચાયતો માટે ૧૧મી અનુસૂચિમાં ૨૯ વિષયો દર્શાવવામાં આવ્યા છે (જ્યારે નગરપાલિકાઓ માટે ૧૨મી અનુસૂચિમાં ૧૮ વિષયો છે).',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9142,12 +9142,12 @@ graph TD
               id: 'mcq_article_243b_20_lakh_population_exemption',
               question: 'કઈ વસ્તીથી ઓછી વસ્તી ધરાવતા રાજ્યમાં મધ્યવર્તી (તાલુકા) સ્તરે પંચાયત ન બનાવવાની બંધારણીય છૂટ છે (કલમ ૨૪૩-B)?',
               options: [
-                '૧૦ લાખ',
                 '૨૦ લાખ',
+                '૧૦ લાખ',
                 '૩૦ લાખ',
                 '૫૦ લાખ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'જે રાજ્યની વસ્તી ૨૦ લાખ કે તેથી ઓછી હોય તેવા રાજ્યોમાં મધ્યવર્તી (તાલુકા/બ્લોક) સ્તરે પંચાયતનું ગઠન ન કરવાની છૂટ કલમ ૨૪૩-B(૨) આપે છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9156,11 +9156,11 @@ graph TD
               question: 'અનુચ્છેદ ૨૪૩-D મુજબ પંચાયતોમાં મહિલાઓ માટે ઓછામાં ઓછી કેટલી બેઠકો અનામત રાખવી બંધારણીય રીતે ફરજિયાત છે?',
               options: [
                 '૧/૪ (૨૫%)',
-                '૧/૩ (૩૩.૩૩%)',
                 '૧/૨ (૫૦%)',
-                '૨/૩ (૬૬%)'
+                '૨/૩ (૬૬%)',
+                '૧/૩ (૩૩.૩૩%)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'બંધારણ મુજબ ઓછામાં ઓછી ૧/૩ (૩૩.૩૩%) બેઠકો મહિલાઓ માટે ફરજિયાત છે. ગુજરાત સહિત ૨૦ થી વધુ રાજ્યોએ પોતાના કાયદામાં સુધારો કરી તેને ૫૦% કરી છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9169,11 +9169,11 @@ graph TD
               question: 'પંચાયતની ચૂંટણી લડવા માટે બંધારણ (અનુચ્છેદ ૨૪૩-F) મુજબ લઘુત્તમ વયમર્યાદા કેટલી હોવી જોઈએ?',
               options: [
                 '૧૮ વર્ષ',
-                '૨૧ વર્ષ',
                 '૨૫ વર્ષ',
-                '૩૦ વર્ષ'
+                '૩૦ વર્ષ',
+                '૨૧ વર્ષ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'મતદાન માટે ૧૮ વર્ષની વય છે, પરંતુ પંચાયતની ચૂંટણી લડવા માટે બંધારણીય લઘુત્તમ વય ૨૧ વર્ષ નિર્ધારિત છે (વિધાનસભા માટે ૨૫ વર્ષ હોય છે).',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9181,10 +9181,10 @@ graph TD
               id: 'mcq_article_243e_dissolution_six_months_election',
               question: 'જો કોઈ પંચાયતનું ૫ વર્ષ પહેલાં અકાળે વિસર્જન થાય, તો કેટલા સમયમાં પુનઃ ચૂંટણી યોજવી અનિવાર્ય છે?',
               options: [
-                '૧ મહિનામાં',
+                '૧ વર્ષમાં',
                 '૩ મહિનામાં',
                 '૬ મહિનામાં',
-                '૧ વર્ષમાં'
+                '૧ મહિનામાં'
               ],
               correctOptionIndex: 2,
               explanation: 'કલમ ૨૪૩-E મુજબ વિસર્જનની તારીખથી ૬ મહિનાની અંદર ચૂંટણી યોજવી ફરજિયાત છે અને નવી પંચાયત માત્ર બાકી રહેલા સમયગાળા માટે જ કાર્ય કરે છે.',
@@ -9195,11 +9195,11 @@ graph TD
               question: 'પંચાયતો માટે "રાજ્ય નાણા આયોગ" (State Finance Commission) ની રચના દર ૫ વર્ષે કોના દ્વારા થાય છે (કલમ ૨૪૩-I)?',
               options: [
                 'મુખ્યમંત્રી દ્વારા',
-                'રાજ્યપાલ દ્વારા',
                 'રાષ્ટ્રપતિ દ્વારા',
-                'કેન્દ્રીય નાણામંત્રી દ્વારા'
+                'કેન્દ્રીય નાણામંત્રી દ્વારા',
+                'રાજ્યપાલ દ્વારા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૨૪૩-I હેઠળ રાજ્યપાલ દર ૫ વર્ષે રાજ્ય નાણા આયોગની રચના કરે છે, જે પંચાયતોની નાણાકીય સ્થિતિની સમીક્ષા કરી કરવેરા અને ગ્રાન્ટ ફાળવણીની ભલામણો કરે છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9208,11 +9208,11 @@ graph TD
               question: 'સમગ્ર જિલ્લા માટે સંકલિત વિકાસ યોજનાનો મુસદ્દો તૈયાર કરવા માટે "જિલ્લા આયોજન સમિતિ" (DPC) ની જોગવાઈ કયા અનુચ્છેદમાં છે?',
               options: [
                 'અનુચ્છેદ ૨૪૩-G',
-                'અનુચ્છેદ ૨૪૩-ZD',
                 'અનુચ્છેદ ૨૪૩-ZE',
+                'અનુચ્છેદ ૨૪૩-ZD',
                 'અનુચ્છેદ ૨૮૦'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૭૪મા સુધારા હેઠળ ભાગ-૯-A ના અનુચ્છેદ ૨૪૩-ZD માં સમગ્ર જિલ્લા માટે વિકાસ યોજના તૈયાર કરવા જિલ્લા આયોજન સમિતિ (District Planning Committee) ની જોગવાઈ છે.',
               sourceVideoTitle: 'પંચાયત રાજ તેમજ જિલ્લા આયોજન સમિતિ by Dr. Dinesh Gehlot',
             ),
@@ -9220,10 +9220,10 @@ graph TD
               id: 'mcq_article_243zd_dpc_four_fifth_elected_members',
               question: 'જિલ્લા આયોજન સમિતિ (DPC) માં ઓછામાં ઓછા કેટલા સભ્યો જિલ્લા પંચાયત અને નગરપાલિકાઓમાંથી ચૂંટાય છે?',
               options: [
-                '૧/૨ (૫૦%)',
+                '૩/૪ (૭૫%)',
                 '૨/૩ (૬૬.૬૭%)',
                 '૪/૫ (૮૦%)',
-                '૩/૪ (૭૫%)'
+                '૧/૨ (૫૦%)'
               ],
               correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૨૪૩-ZD મુજબ DPC ના ઓછામાં ઓછા ૪/૫ (૮૦%) સભ્યો જિલ્લા પંચાયત અને નગરપાલિકાઓના ચૂંટાયેલા સભ્યો દ્વારા તેમની ગ્રામીણ-શહેરી વસ્તીના પ્રમાણમાં ચૂંટાય છે (MPC માં ૨/૩ સભ્યો હોય છે).',
@@ -9583,12 +9583,12 @@ graph TD
               id: 'mcq_cag_appointment_warrant',
               question: 'ભારતના CAG ની નિમણૂક રાષ્ટ્રપતિ દ્વારા કઈ રીતે કરવામાં આવે છે?',
               options: [
+                'સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ દ્વારા',
                 'કેન્દ્રીય ગૃહમંત્રીના સાદા પત્ર દ્વારા',
                 'પોતાના હસ્તાક્ષર અને મહોરવાળા અધિપત્ર (Warrant under hand and seal) હેઠળ',
-                'સંસદ દ્વારા પસાર ઠરાવ મુજબ સીધી ચૂંટણીથી',
-                'સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ દ્વારા'
+                'સંસદ દ્વારા પસાર ઠરાવ મુજબ સીધી ચૂંટણીથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૪૮(૧) મુજબ CAG ની નિમણૂક ભારતના રાષ્ટ્રપતિ પોતાના હસ્તાક્ષર અને મહોરવાળા અધિપત્ર (Warrant under hand and seal) દ્વારા કરે છે. (SC/HC જજ, રાજ્યપાલ અને CAG ની નિમણૂક જ વોરંટ હેઠળ થાય છે).',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9597,11 +9597,11 @@ graph TD
               question: 'ભારતના CAG નો કાર્યકાળ કેટલો હોય છે?',
               options: [
                 '૫ વર્ષ અથવા ૬૨ વર્ષની ઉંમર',
+                '૫ વર્ષ અથવા ૬૫ વર્ષની ઉંમર',
                 '૬ વર્ષ અથવા ૬૫ વર્ષની ઉંમર (જે વહેલું હોય ત્યાં સુધી)',
-                'રાષ્ટ્રપતિની મરજી હોય ત્યાં સુધી',
-                '૫ વર્ષ અથવા ૬૫ વર્ષની ઉંમર'
+                'રાષ્ટ્રપતિની મરજી હોય ત્યાં સુધી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'CAG (Duties, Powers and Conditions of Service) Act, 1971 અનુસાર CAG નો કાર્યકાળ ૬ વર્ષ અથવા ૬૫ વર્ષની ઉંમર (બેમાંથી જે વહેલું પૂરું થાય) ત્યાં સુધી હોય છે.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9609,12 +9609,12 @@ graph TD
               id: 'mcq_cag_removal_process',
               question: 'ભારતના નિયંત્રક અને મહાલેખાપરીક્ષક (CAG) ને હોદ્દા પરથી કઈ પ્રક્રિયા દ્વારા દૂર કરી શકાય છે?',
               options: [
-                'રાષ્ટ્રપતિ પોતાની સ્વેચ્છાએ ગમે ત્યારે હટાવી શકે છે',
                 'માત્ર સર્વોચ્ચ અદાલતના ન્યાયાધીશની જેમ જ સંસદની વિશેષ બહુમતીથી',
                 'વડાપ્રધાનની લેખિત ભલામણથી',
+                'રાષ્ટ્રપતિ પોતાની સ્વેચ્છાએ ગમે ત્યારે હટાવી શકે છે',
                 'લોકસભા સ્પીકરના આદેશથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૪૮(૧) મુજબ CAG ને માત્ર સર્વોચ્ચ અદાલતના ન્યાયાધીશ સમાન સાબિત થયેલ કદાચાર (Proved Misbehaviour) કે અસમર્થતાના આધારે સંસદના બંને ગૃહોની વિશેષ બહુમતીથી પસાર સંબોધન બાદ રાષ્ટ્રપતિ દ્વારા જ દૂર કરી શકાય છે.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9622,20 +9622,20 @@ graph TD
               id: 'mcq_cag_post_retirement_ban',
               question: 'નિવૃત્તિ બાદ CAG ના ભાવિ રોજગાર અંગે ભારતીય બંધારણમાં શું જોગવાઈ કરવામાં આવી છે?',
               options: [
+                'તેઓ નીતિ આયોગના ઉપાધ્યક્ષ બની શકે છે',
                 'તેઓ માત્ર રાજ્યપાલ બની શકે છે',
                 'તેઓ ભારત સરકાર કે કોઈપણ રાજ્ય સરકાર હેઠળ અન્ય કોઈ હોદ્દો સ્વીકારી શકતા નથી',
-                'તેઓ નીતિ આયોગના ઉપાધ્યક્ષ બની શકે છે',
                 'તેઓ કોઈપણ સરકારી પદ મેળવી શકે છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૪૮(૪) મુજબ CAG પદ પરથી નિવૃત્ત થયા પછી ભારત સરકાર કે કોઈપણ રાજ્ય સરકાર હેઠળ અન્ય કોઈપણ સરકારી પદ કે લાભદાયક હોદ્દો સ્વીકારવા માટે અપાત્ર (Ineligible) બને છે.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
             McqModel(
               id: 'mcq_cag_1976_accounting_separation',
               question: 'કયા વર્ષમાં કેન્દ્ર સરકારના હિસાબો લખવાનું (Accounting) કાર્ય CAG પાસેથી અલગ કરીને CGA ને સોંપવામાં આવ્યું?',
-              options: ['૧૯૫૦ માં', '૧૯૭૧ માં', '૧૯૭૬ માં', '૧૯૯૧ માં'],
-              correctOptionIndex: 2,
+              options: ['૧૯૭૬ માં', '૧૯૫૦ માં', '૧૯૯૧ માં', '૧૯૭૧ માં'],
+              correctOptionIndex: 0,
               explanation: '૧૯૭૬ માં કાયદાકીય સુધારા દ્વારા કેન્દ્ર સરકારના હિસાબો તૈયાર કરવાનું (Accounting) કાર્ય CAG પાસેથી અલગ કરી CGA (Controller General of Accounts) ને સોંપાયું, અને કેન્દ્ર સ્તરે CAG પાસે માત્ર ઓડિટિંગની સત્તા રહી.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9644,11 +9644,11 @@ graph TD
               question: '૧૯૭૬ ના વિભાજન બાદ રાજ્ય સરકારોના હિસાબોના સંદર્ભમાં CAG ની શી ભૂમિકા છે?',
               options: [
                 'રાજ્ય સ્તરે પણ હિસાબો રાખવાનું કામ અલગ કરી દેવાયું છે',
+                'રાજ્યોના હિસાબો માત્ર નાણાપંચ તૈયાર કરે છે',
                 'રાજ્યો માટે CAG આજે પણ લેખાંકન (Accounting) અને લેખાપરીક્ષણ (Auditing) બંને કાર્યો કરે છે',
-                'રાજ્યોના હિસાબો સાથે CAG ને કોઈ સંબંધ નથી',
-                'રાજ્યોના હિસાબો માત્ર નાણાપંચ તૈયાર કરે છે'
+                'રાજ્યોના હિસાબો સાથે CAG ને કોઈ સંબંધ નથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'કેન્દ્ર સ્તરે હિસાબ રાખવાનું કાર્ય ભલે અલગ કરાયું હોય, પરંતુ રાજ્ય સ્તરે CAG આજે પણ એકાઉન્ટ્સ તૈયાર કરવાનું (Accounting) અને ઓડિટ કરવાનું (Auditing) બંને કાર્યો સંભાળે છે.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9656,12 +9656,12 @@ graph TD
               id: 'mcq_cag_friend_philosopher_pac',
               question: 'સંસદની કઈ નાણાકીય સમિતિના "મિત્ર, દાર્શનિક અને માર્ગદર્શક" (Friend, Philosopher & Guide) તરીકે CAG ને ઓળખવામાં આવે છે?',
               options: [
-                'અંદાજ સમિતિ (Estimates Committee)',
-                'જાહેર હિસાબ સમિતિ (Public Accounts Committee - PAC)',
                 'જાહેર સાહસોની સમિતિ (COPU)',
-                'નિયમ સમિતિ (Rules Committee)'
+                'નિયમ સમિતિ (Rules Committee)',
+                'જાહેર હિસાબ સમિતિ (Public Accounts Committee - PAC)',
+                'અંદાજ સમિતિ (Estimates Committee)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'જાહેર હિસાબ સમિતિ (PAC - ૨૨ સભ્યો) CAG ના ઓડિટ અહેવાલોની તપાસ કરે છે અને CAG સમિતિની બેઠકોમાં ઉપસ્થિત રહી સાંસદોને નાણાકીય ગૂંચવણો સમજવામાં સહાય કરે છે, તેથી તેઓ PAC ના મિત્ર અને માર્ગદર્શક કહેવાય છે.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9669,12 +9669,12 @@ graph TD
               id: 'mcq_cag_india_vs_uk_difference',
               question: 'ભારતના CAG અને બ્રિટનના CAG વચ્ચેનો મુખ્ય તફાવત નીચેનામાંથી કયો છે?',
               options: [
-                'બ્રિટનમાં CAG સંસદ સભ્ય હોય છે',
                 'બ્રિટનમાં સરકારી તિજોરીમાંથી નાણાં ઉપાડવા CAG ની પૂર્વ મંજૂરી ફરજિયાત છે, જ્યારે ભારતમાં CAG માત્ર ખર્ચ પછી ઓડિટ કરે છે',
                 'ભારતમાં CAG ની નિમણૂક વડાપ્રધાન કરે છે',
-                'બ્રિટનમાં CAG ને ન્યાયિક સત્તાઓ પ્રાપ્ત છે'
+                'બ્રિટનમાં CAG ને ન્યાયિક સત્તાઓ પ્રાપ્ત છે',
+                'બ્રિટનમાં CAG સંસદ સભ્ય હોય છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'બ્રિટનમાં CAG વાસ્તવિક અર્થમાં "Comptroller" છે અને તિજોરીમાંથી નાણાં ઉપાડ પર પૂર્વ નિયંત્રણ ધરાવે છે; જ્યારે ભારતમાં CAG તિજોરીમાંથી નાણાં ઉપાડ પર નિયંત્રણ ધરાવતા નથી, માત્ર ખર્ચ પછી (Ex-post facto) ઓડિટ કરે છે.',
               sourceVideoTitle: 'CAG Of India (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9682,10 +9682,10 @@ graph TD
               id: 'mcq_cag_first_cag_of_india',
               question: 'સ્વતંત્ર ભારતના સૌપ્રથમ નિયંત્રક અને મહાલેખાપરીક્ષક (CAG) કોણ હતા?',
               options: [
-                'એ.કે. ચંદા',
-                'વી. નરહરિ રાવ (V. Narahari Rao)',
                 'એ.કે. રોય',
-                'વિનોદ રાય'
+                'વી. નરહરિ રાવ (V. Narahari Rao)',
+                'વિનોદ રાય',
+                'એ.કે. ચંદા'
               ],
               correctOptionIndex: 1,
               explanation: 'શ્રી વી. નરહરિ રાવ (૧૯૪૮ થી ૧૯૫૪) સ્વતંત્ર ભારતના સૌપ્રથમ CAG હતા.',
@@ -9695,12 +9695,12 @@ graph TD
               id: 'mcq_ag_constitutional_article',
               question: 'ભારતીય બંધારણના કયા ભાગ અને કયા અનુચ્છેદ હેઠળ ભારતના મહાન્યાયવાદી (Attorney General of India) ના પદની જોગવાઈ કરવામાં આવી છે?',
               options: [
-                'ભાગ-૫, અનુચ્છેદ ૭૬',
                 'ભાગ-૫, અનુચ્છેદ ૧૪૮',
                 'ભાગ-૬, અનુચ્છેદ ૧૬૫',
+                'ભાગ-૫, અનુચ્છેદ ૭૬',
                 'ભાગ-૫, અનુચ્છેદ ૮૮'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ભારતીય બંધારણના ભાગ-૫ (સંઘ), પ્રકરણ-૧ (કારોબારી) હેઠળ અનુચ્છેદ ૭૬ માં ભારતના એટર્ની જનરલ (મહાન્યાયવાદી) અંગેની જોગવાઈ છે. તેઓ કેન્દ્ર સરકારના મુખ્ય કાનૂની સલાહકાર અને દેશના સર્વોચ્ચ કાયદા અધિકારી છે.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9709,8 +9709,8 @@ graph TD
               question: 'ભારતના એટર્ની જનરલ (મહાન્યાયવાદી) તરીકે નિમણૂક પામવા માટે વ્યક્તિમાં બંધારણ મુજબ કઈ લાયકાત હોવી અનિવાર્ય છે?',
               options: [
                 'સર્વોચ્ચ અદાલત (Supreme Court) ના ન્યાયાધીશ બનવાની લાયકાત',
-                'વડી અદાલત (High Court) ના મુખ્ય ન્યાયાધીશ બનવાની લાયકાત',
                 'સંસદસભ્ય (MP) તરીકે ચૂંટાઈ આવવાની લાયકાત',
+                'વડી અદાલત (High Court) ના મુખ્ય ન્યાયાધીશ બનવાની લાયકાત',
                 'ઓછામાં ઓછા ૨૦ વર્ષ સુધી કોઈપણ અદાલતમાં વકીલાતનો અનુભવ'
               ],
               correctOptionIndex: 0,
@@ -9721,10 +9721,10 @@ graph TD
               id: 'mcq_ag_tenure_removal',
               question: 'ભારતના એટર્ની જનરલના કાર્યકાળ અને હોદ્દા પરથી હટાવવા સંબંધિત નીચેના પૈકી કયું વિધાન સાચું છે?',
               options: [
-                'તેમનો કાર્યકાળ ૫ વર્ષ અથવા ૬૫ વર્ષની વય સુધી બંધારણમાં નિશ્ચિત છે',
                 'સુપ્રીમ કોર્ટના જજની જેમ સંસદની વિશેષ બહુમતીથી જ તેમને હટાવી શકાય છે',
+                'રાષ્ટ્રપતિ તેમને માત્ર કેન્દ્રીય કાયદા મંત્રીની લેખિત મંજૂરીથી જ હટાવી શકે છે',
                 'તેઓ રાષ્ટ્રપતિની મરજી (Pleasure of the President) સુધી જ હોદ્દો ધારણ કરે છે અને બંધારણમાં કોઈ નિશ્ચિત મુદત નથી',
-                'રાષ્ટ્રપતિ તેમને માત્ર કેન્દ્રીય કાયદા મંત્રીની લેખિત મંજૂરીથી જ હટાવી શકે છે'
+                'તેમનો કાર્યકાળ ૫ વર્ષ અથવા ૬૫ વર્ષની વય સુધી બંધારણમાં નિશ્ચિત છે'
               ],
               correctOptionIndex: 2,
               explanation: 'બંધારણમાં એટર્ની જનરલનો કોઈ નિશ્ચિત કાર્યકાળ (જેમ કે ૫ વર્ષ કે ૬૫ વર્ષ) નક્કી નથી. અનુચ્છેદ ૭૬(૪) મુજબ તેઓ રાષ્ટ્રપતિની મરજી (Pleasure of the President) હોય ત્યાં સુધી હોદ્દો સંભાળે છે અને રાષ્ટ્રપતિ તેમને કોઈપણ સમયે હોદ્દા પરથી મુક્ત કરી શકે છે.',
@@ -9734,12 +9734,12 @@ graph TD
               id: 'mcq_ag_article_88_parliament',
               question: 'બંધારણના અનુચ્છેદ ૮૮ હેઠળ એટર્ની જનરલને સંસદ સંદર્ભે કયો વિશિષ્ટ અધિકાર પ્રાપ્ત થયેલો છે?',
               options: [
-                'સંસદના કોઈપણ ગૃહમાં બોલવાનો, બેસવાનો અને ગૃહના ખરડા પર મતદાન કરવાનો અધિકાર',
-                'સંસદના કોઈપણ ગૃહ, સંયુક્ત બેઠક કે સમિતિમાં બોલવાનો અને ભાગ લેવાનો અધિકાર, પરંતુ મતદાન કરવાનો અધિકાર નથી',
                 'માત્ર રાજ્યસભાની બેઠકમાં બોલવાનો અધિકાર, લોકસભામાં નહીં',
-                'લોકસભાના સ્પીકરની પરવાનગી વગર સંસદ પરિસરમાં પ્રવેશી શકતા નથી'
+                'લોકસભાના સ્પીકરની પરવાનગી વગર સંસદ પરિસરમાં પ્રવેશી શકતા નથી',
+                'સંસદના કોઈપણ ગૃહમાં બોલવાનો, બેસવાનો અને ગૃહના ખરડા પર મતદાન કરવાનો અધિકાર',
+                'સંસદના કોઈપણ ગૃહ, સંયુક્ત બેઠક કે સમિતિમાં બોલવાનો અને ભાગ લેવાનો અધિકાર, પરંતુ મતદાન કરવાનો અધિકાર નથી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૮૮ અનુસાર, એટર્ની જનરલને લોકસભા, રાજ્યસભા, સંસદની સંયુક્ત બેઠક અથવા તેઓ જે સમિતિમાં સભ્ય તરીકે નામાંકિત હોય તેમાં બોલવાનો અને કાર્યવાહીમાં ભાગ લેવાનો સંપૂર્ણ અધિકાર છે; પરંતુ તેઓ સંસદસભ્ય ન હોવાથી તેમને કોઈ બાબત પર મતદાન કરવાનો અધિકાર નથી.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9747,12 +9747,12 @@ graph TD
               id: 'mcq_ag_article_105_privileges',
               question: 'સંસદની કાર્યવાહીમાં ભાગ લેતી વખતે એટર્ની જનરલને કયા અનુચ્છેદ હેઠળ સંસદસભ્ય (MP) સમાન તમામ વિશેષાધિકારો (Privileges) અને મુક્તિઓ પ્રાપ્ત થાય છે?',
               options: [
-                'અનુચ્છેદ ૭૬(૩)',
-                'અનુચ્છેદ ૮૮',
                 'અનુચ્છેદ ૧૦૫(૪)',
-                'અનુચ્છેદ ૧૯૪(૩)'
+                'અનુચ્છેદ ૮૮',
+                'અનુચ્છેદ ૧૯૪(૩)',
+                'અનુચ્છેદ ૭૬(૩)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૦૫(૪) સ્પષ્ટ કરે છે કે સંસદ અથવા તેની સમિતિઓમાં બોલવાનો અધિકાર ધરાવનાર વ્યક્તિ (જેમાં એટર્ની જનરલ સામેલ છે) ને સંસદના સભ્ય (MP) ને મળતા તમામ વિશેષાધિકારો, કાનૂની સંરક્ષણ અને મુક્તિઓ ઉપલબ્ધ થાય છે.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9760,12 +9760,12 @@ graph TD
               id: 'mcq_ag_right_of_audience',
               question: 'ભારતના એટર્ની જનરલના અદાલતી ક્ષેત્રાધિકાર (Right of Audience) અંગે કઈ જોગવાઈ સાચી છે?',
               options: [
-                'તેઓ માત્ર સર્વોચ્ચ અદાલત (Supreme Court) માં જ પેશ થઈ શકે છે',
                 'તેઓ માત્ર દિલ્હી સ્થિત અદાલતોમાં જ હાજર રહી શકે છે',
-                'પોતાની સત્તાવાર ફરજો નિભાવવા માટે તેમને ભારતના સમગ્ર રાજ્યક્ષેત્રમાં આવેલી તમામ અદાલતોમાં સુનાવણીનો અધિકાર છે',
-                'વડી અદાલતમાં પેશ થવા માટે તેમણે સંબંધિત રાજ્યપાલની પૂર્વમંજૂરી લેવી પડે છે'
+                'વડી અદાલતમાં પેશ થવા માટે તેમણે સંબંધિત રાજ્યપાલની પૂર્વમંજૂરી લેવી પડે છે',
+                'તેઓ માત્ર સર્વોચ્ચ અદાલત (Supreme Court) માં જ પેશ થઈ શકે છે',
+                'પોતાની સત્તાવાર ફરજો નિભાવવા માટે તેમને ભારતના સમગ્ર રાજ્યક્ષેત્રમાં આવેલી તમામ અદાલતોમાં સુનાવણીનો અધિકાર છે'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૭૬(૩) મુજબ, એટર્ની જનરલને પોતાની કાનૂની ફરજોના પાલન અર્થે ભારતના સમગ્ર રાજ્યક્ષેત્રમાં આવેલી કોઈપણ અને તમામ અદાલતો (All Courts in India) માં સુનાવણી કરવાનો (Right of Audience) અને દલીલો કરવાનો અગ્રતાપૂર્ણ અધિકાર પ્રાપ્ત છે.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9773,12 +9773,12 @@ graph TD
               id: 'mcq_ag_solicitor_general',
               question: 'ભારતના સોલિસિટર જનરલ (Solicitor General of India) અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'તેમનો ઉલ્લેખ બંધારણના અનુચ્છેદ ૭૬ માં સહાયક તરીકે કરવામાં આવ્યો છે',
-                'તેઓ ગેર-બંધારણીય / વૈધાનિક પદ છે જે એટર્ની જનરલને મદદ કરવા માટે રચાયેલું છે',
                 'તેમને પણ અનુચ્છેદ ૮૮ હેઠળ સંસદમાં બોલવાનો અધિકાર પ્રાપ્ત છે',
-                'સોલિસિટર જનરલની નિમણૂક સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ દ્વારા કરવામાં આવે છે'
+                'તેમનો ઉલ્લેખ બંધારણના અનુચ્છેદ ૭૬ માં સહાયક તરીકે કરવામાં આવ્યો છે',
+                'સોલિસિટર જનરલની નિમણૂક સુપ્રીમ કોર્ટના મુખ્ય ન્યાયાધીશ દ્વારા કરવામાં આવે છે',
+                'તેઓ ગેર-બંધારણીય / વૈધાનિક પદ છે જે એટર્ની જનરલને મદદ કરવા માટે રચાયેલું છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ભારતીય બંધારણમાં સોલિસિટર જનરલ કે એડિશનલ સોલિસિટર જનરલનો કોઈ ઉલ્લેખ નથી (તેઓ બંધારણીય નહીં પરંતુ વૈધાનિક/વહીવટી હોદ્દા છે). તેઓ દેશના દ્વિતીય સર્વોચ્ચ કાયદા અધિકારી છે અને એટર્ની જનરલને સહાય કરે છે, પરંતુ તેમને સંસદમાં બોલવાનો અધિકાર હોતો નથી.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9787,11 +9787,11 @@ graph TD
               question: 'એટર્ની જનરલની ખાનગી કાનૂની વકીલાત (Private Practice) અને મર્યાદાઓ અંગે કયું વિધાન અસત્ય છે?',
               options: [
                 'તેઓ પૂર્ણકાલીન સરકારી કર્મચારી (Civil Servant) નથી, તેથી તેમને ખાનગી વકીલાતની છૂટ છે',
-                'તેઓ ભારત સરકાર વિરુદ્ધ કોઈ પક્ષકારને સલાહ આપી શકતા નથી કે કેસ લડી શકતા નથી',
                 'તેઓ ભારત સરકારની પૂર્વ પરવાનગી વિના કોઈપણ ફોજદારી કેસમાં આરોપીનો બચાવ કરી શકે છે',
-                'ભારત સરકારની પરવાનગી વિના તેઓ કોઈપણ કંપનીમાં ડિરેક્ટરનો હોદ્દો સ્વીકારી શકતા નથી'
+                'ભારત સરકારની પરવાનગી વિના તેઓ કોઈપણ કંપનીમાં ડિરેક્ટરનો હોદ્દો સ્વીકારી શકતા નથી',
+                'તેઓ ભારત સરકાર વિરુદ્ધ કોઈ પક્ષકારને સલાહ આપી શકતા નથી કે કેસ લડી શકતા નથી'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'વિધાન ૩ અસત્ય છે; કારણ કે એટર્ની જનરલ ભારત સરકારની પૂર્વ મંજૂરી મેળવ્યા વિના કોઈપણ ફોજદારી કેસમાં આરોપી (Accused in criminal cases) નો બચાવ કરી શકતા નથી.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9799,12 +9799,12 @@ graph TD
               id: 'mcq_ag_advocate_general_comparison',
               question: 'બંધારણીય જોગવાઈઓ મુજબ કેન્દ્રમાં \'એટર્ની જનરલ\' સમકક્ષ રાજ્ય કક્ષાએ કયું પદ છે અને તેનો બંધારણીય અનુચ્છેદ કયો છે?',
               options: [
-                'રાજ્ય લોકપાલ - અનુચ્છેદ ૧૫૨',
                 'રાજ્ય સોલિસિટર જનરલ - અનુચ્છેદ ૧૬૩',
-                'એડવોકેટ જનરલ (મહાધિવક્તા) - અનુચ્છેદ ૧૬૫',
-                'રાજ્ય પબ્લિક પ્રોસિક્યુટર - અનુચ્છેદ ૧૬૬'
+                'રાજ્ય પબ્લિક પ્રોસિક્યુટર - અનુચ્છેદ ૧૬૬',
+                'રાજ્ય લોકપાલ - અનુચ્છેદ ૧૫૨',
+                'એડવોકેટ જનરલ (મહાધિવક્તા) - અનુચ્છેદ ૧૬૫'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'જે રીતે કેન્દ્રમાં અનુચ્છેદ ૭૬ હેઠળ ભારતના એટર્ની જનરલ છે, તે જ રીતે રાજ્ય કક્ષાએ અનુચ્છેદ ૧૬૫ હેઠળ રાજ્યના એડવોકેટ જનરલ (મહાધિવક્તા) રાજ્ય સરકારના સર્વોચ્ચ કાયદા અધિકારી તરીકે કાર્ય કરે છે. તેમની નિમણૂક રાજ્યપાલ દ્વારા થાય છે.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9812,12 +9812,12 @@ graph TD
               id: 'mcq_ag_first_and_current',
               question: 'ભારતના સૌપ્રથમ એટર્ની જનરલ કોણ હતા, જેઓ ૧૯૫૦ થી ૧૯૬૩ સુધી સૌથી લાંબો કાર્યકાળ ધરાવતા હતા?',
               options: [
+                'સોલી સોરાબજી',
                 'સી. કે. દફતરી',
-                'એમ. સી. સેતલવાડ (M. C. Setalvad)',
                 'નિરેન ડે',
-                'સોલી સોરાબજી'
+                'એમ. સી. સેતલવાડ (M. C. Setalvad)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'શ્રી એમ. સી. સેતલવાડ ભારતના સૌપ્રથમ એટર્ની જનરલ (૧૯૫૦ થી ૧૯૬૩) હતા. તેઓ સતત ૧૩ વર્ષ સુધી આ પદ પર રહ્યા જે ભારતના ઈતિહાસમાં સૌથી લાંબો કાર્યકાળ છે. તેઓ સ્વતંત્ર ભારતના પ્રથમ લૉ કમિશનના અધ્યક્ષ પણ હતા.',
               sourceVideoTitle: 'Attorney General (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -9825,9 +9825,9 @@ graph TD
               id: 'mcq_ec_establishment_voters_day',
               question: 'ભારતીય ચૂંટણી પંચ (ECI) ની સ્થાપના કઈ તારીખે થઈ હતી, જેના માનમાં વર્ષ ૨૦૧૧ થી પ્રતિવર્ષ "રાષ્ટ્રીય મતદાતા દિવસ (National Voters\' Day)" ઉજવવામાં આવે છે?',
               options: [
-                '૨૬ જાન્યુઆરી, ૧૯૫૦',
-                '૨૫ જાન્યુઆરી, ૧૯૫૦',
                 '૧૫ ઓગસ્ટ, ૧૯૪૭',
+                '૨૫ જાન્યુઆરી, ૧૯૫૦',
+                '૨૬ જાન્યુઆરી, ૧૯૫૦',
                 '૨૬ નવેમ્બર, ૧૯૪૯'
               ],
               correctOptionIndex: 1,
@@ -9838,8 +9838,8 @@ graph TD
               id: 'mcq_ec_local_body_elections_state_ec',
               question: 'નીચેના પૈકી કઈ ચૂંટણીઓનું સંચાલન ભારતીય ચૂંટણી પંચ (Election Commission of India) દ્વારા કરવામાં આવતું નથી?',
               options: [
-                'ભારતના રાષ્ટ્રપતિ અને ઉપરાષ્ટ્રપતિની ચૂંટણીઓ',
                 'સંસદ (લોકસભા અને રાજ્યસભા) ની ચૂંટણીઓ',
+                'ભારતના રાષ્ટ્રપતિ અને ઉપરાષ્ટ્રપતિની ચૂંટણીઓ',
                 'રાજ્ય વિધાનમંડળ (વિધાનસભા અને વિધાન પરિષદ) ની ચૂંટણીઓ',
                 'પંચાયતો અને નગરપાલિકાઓની સ્થાનિક સ્વરાજ્યની ચૂંટણીઓ'
               ],
@@ -9851,12 +9851,12 @@ graph TD
               id: 'mcq_ec_61st_caa_voting_age_18',
               question: 'કયા બંધારણીય સુધારા દ્વારા લોકસભા અને વિધાનસભાઓમાં મતદાન માટેની લઘુત્તમ વયમર્યાદા ૨૧ વર્ષથી ઘટાડીને ૧૮ વર્ષ (અનુચ્છેદ ૩૨૬) કરવામાં આવી?',
               options: [
-                '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
-                '૪૪મો બંધારણીય સુધારો, ૧૯૭૮',
                 '૬૧મો બંધારણીય સુધારો, ૧૯૮૮',
-                '૭૩મો બંધારણીય સુધારો, ૧૯૯૨'
+                '૪૨મો બંધારણીય સુધારો, ૧૯૭૬',
+                '૭૩મો બંધારણીય સુધારો, ૧૯૯૨',
+                '૪૪મો બંધારણીય સુધારો, ૧૯૭૮'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: '૬૧મા બંધારણીય સુધારા અધિનિયમ, ૧૯૮૮ (અમલ ૨૮ માર્ચ ૧૯૮૯) દ્વારા અનુચ્છેદ ૩૨૬ માં સુધારો કરીને મત આપવાની વય ૨૧ વર્ષથી ઘટાડીને ૧૮ વર્ષ કરવામાં આવી હતી. આ જ કારણે ૧૬ ઓક્ટોબર ૧૯૮૯ ના રોજ ચૂંટણી પંચને પ્રથમ વાર ત્રિ-સદસ્યીય બનાવાયું હતું.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -9864,12 +9864,12 @@ graph TD
               id: 'mcq_ec_cec_removal_supreme_court_judge',
               question: 'ભારતના મુખ્ય ચૂંટણી કમિશનર (Chief Election Commissioner - CEC) ને તેમના હોદ્દા પરથી કઈ રીતે દૂર કરી શકાય છે?',
               options: [
+                'લોકસભામાં સાદી બહુમતીથી ઠરાવ પસાર કરીને',
                 'કેન્દ્રીય મંત્રીમંડળની લેખિત ભલામણથી રાષ્ટ્રપતિ દ્વારા સીધા જ',
-                'સર્વોચ્ચ અદાલતના ન્યાયાધીશની જેમ સંસદના બંને ગૃહોની વિશેષ બહુમતી દ્વારા સાબિત કદાચાર કે અસમર્થતાના આધારે',
                 'ભારતના મુખ્ય ન્યાયાધીશ (CJI) ની સલાહથી વડાપ્રધાન દ્વારા',
-                'લોકસભામાં સાદી બહુમતીથી ઠરાવ પસાર કરીને'
+                'સર્વોચ્ચ અદાલતના ન્યાયાધીશની જેમ સંસદના બંને ગૃહોની વિશેષ બહુમતી દ્વારા સાબિત કદાચાર કે અસમર્થતાના આધારે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૩૨૪(૫) ની શરત મુજબ, મુખ્ય ચૂંટણી કમિશનર (CEC) ને સર્વોચ્ચ અદાલતના ન્યાયાધીશની જેમ જ પ્રક્રિયા દ્વારા (સંસદના બંને ગૃહોમાં કુલ સભ્ય સંખ્યાની બહુમતી અને હાજર રહી મતદાન કરનાર સભ્યોની ૨/૩ બહુમતીથી) રાષ્ટ્રપતિ દ્વારા જ દૂર કરી શકાય છે.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -9877,12 +9877,12 @@ graph TD
               id: 'mcq_ec_3_member_permanent_1993',
               question: 'ભારતીય ચૂંટણી પંચ કાયમી ધોરણે ત્રિ-સદસ્યીય પંચ (૧ CEC + ૨ અન્ય ચૂંટણી કમિશનરો) તરીકે ક્યારથી અમલમાં આવ્યું?',
               options: [
-                '૨૫ જાન્યુઆરી, ૧૯૫૦ થી',
-                '૧૬ ઓક્ટોબર, ૧૯૮૯ થી',
                 '૧ ઓક્ટોબર, ૧૯૯૩ થી',
-                '૧ જાન્યુઆરી, ૨૦૦૦ થી'
+                '૧ જાન્યુઆરી, ૨૦૦૦ થી',
+                '૨૫ જાન્યુઆરી, ૧૯૫૦ થી',
+                '૧૬ ઓક્ટોબર, ૧૯૮૯ થી'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: '૧ ઓક્ટોબર ૧૯૯૩ થી રાષ્ટ્રપતિ દ્વારા જારી વટહુકમ (પાછળથી અધિનિયમ) દ્વારા ભારતીય ચૂંટણી પંચને કાયમી ધોરણે ત્રિ-સદસ્યીય બનાવવામાં આવ્યું. ત્રણેય કમિશનરો સમાન સત્તા અને પગાર ધરાવે છે અને નિર્ણય બહુમતીથી લેવાય છે.',
               sourceVideoTitle: 'વિધાન પરિષદ, ચૂંટણી પંચ by Dr. Dinesh Gehlot',
             ),
@@ -9890,10 +9890,10 @@ graph TD
               id: 'mcq_ec_first_and_female_cec',
               question: 'ભારતના સૌપ્રથમ મુખ્ય ચૂંટણી કમિશનર અને એકમાત્ર મહિલા મુખ્ય ચૂંટણી કમિશનર સંબંધિત કઈ જોડી સાચી છે?',
               options: [
-                'પ્રથમ CEC: કે.વી.કે. સુંદરમ | મહિલા CEC: ફાતિમા બીબી',
+                'પ્રથમ CEC: એમ.એસ. ગિલ | મહિલા CEC: નિર્મલા સીતારામન',
                 'પ્રથમ CEC: સુકુમાર સેન | મહિલા CEC: વી. એસ. રમાદેવી',
-                'પ્રથમ CEC: ટી.એન. શેષન | મહિલા CEC: કિરણ બેદી',
-                'પ્રથમ CEC: એમ.એસ. ગિલ | મહિલા CEC: નિર્મલા સીતારામન'
+                'પ્રથમ CEC: કે.વી.કે. સુંદરમ | મહિલા CEC: ફાતિમા બીબી',
+                'પ્રથમ CEC: ટી.એન. શેષન | મહિલા CEC: કિરણ બેદી'
               ],
               correctOptionIndex: 1,
               explanation: 'ભારતના સૌપ્રથમ મુખ્ય ચૂંટણી કમિશનર શ્રી સુકુમાર સેન (૧૯૫૦-૧૯૫૮) હતા. ભારતના ઈતિહાસમાં આજ દિન સુધી એકમાત્ર મહિલા મુખ્ય ચૂંટણી કમિશનર તરીકે શ્રીમતી વી. એસ. રમાદેવી (૨૬ નવેમ્બર ૧૯૯૦ થી ૧૧ ડિસેમ્બર ૧૯૯૦) એ સેવા આપી હતી.',
@@ -10267,10 +10267,10 @@ graph TD
               id: 'mcq_lokpal_name_origin_singhvi',
               question: 'ભારતમાં સૌપ્રથમ વખત "લોકપાલ" અને "લોકાયુક્ત" શબ્દો કોણે પ્રયોજ્યા હતા?',
               options: [
-                'મોરારજી દેસાઈ',
+                'અન્ના હજારે',
                 'ડૉ. એલ. એમ. સિંઘવી',
                 'કે. હનુમંતૈયા',
-                'અન્ના હજારે'
+                'મોરારજી દેસાઈ'
               ],
               correctOptionIndex: 1,
               explanation: '૧૯૬૩ માં પ્રસિદ્ધ કાયદાવિદ અને સંસદસભ્ય ડૉ. લક્ષ્મીમલ્લ સિંઘવી (L. M. Singhvi) દ્વારા ઓમ્બુડ્સમેન સંસ્થાના સ્થાને ભારતીય પરિપ્રેક્ષ્યમાં "લોકપાલ" અને "લોકાયુક્ત" શબ્દો પ્રચલિત કરવામાં આવ્યા હતા.',
@@ -10292,8 +10292,8 @@ graph TD
             McqModel(
               id: 'mcq_lokpal_first_bill_year',
               question: 'ભારતીય સંસદમાં સૌપ્રથમ વખત લોકપાલ વિધેયક (Lokpal Bill) કયા વર્ષમાં રજૂ કરવામાં આવ્યું હતું?',
-              options: ['૧૯૬૬ માં', '૧૯૬૮ માં', '૧૯૭૧ માં', '૧૯૮૯ માં'],
-              correctOptionIndex: 1,
+              options: ['૧૯૬૮ માં', '૧૯૭૧ માં', '૧૯૮૯ માં', '૧૯૬૬ માં'],
+              correctOptionIndex: 0,
               explanation: 'ઇન્દિરા ગાંધીના વડાપ્રધાનપદ હેઠળ ચોથી લોકસભામાં ૧૯૬૮ માં પ્રથમ લોકપાલ બિલ રજૂ થયું હતું, જે લોકસભામાં પસાર થયું પરંતુ રાજ્યસભામાં પહોંચે તે પહેલાં લોકસભા વિસર્જિત થતાં રદબાતલ થયું હતું.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10301,19 +10301,19 @@ graph TD
               id: 'mcq_lokpal_act_enforcement_date',
               question: 'લોકપાલ અને લોકાયુક્ત અધિનિયમ, ૨૦૧૩ દેશભરમાં કઈ તારીખથી અમલમાં આવ્યો?',
               options: [
+                '૧ જાન્યુઆરી ૨૦૧૩',
                 '૧ જાન્યુઆરી ૨૦૧૪',
-                '૧૬ જાન્યુઆરી ૨૦૧૪',
                 '૨૬ જાન્યુઆરી ૨૦૧૪',
-                '૧ જાન્યુઆરી ૨૦૧૩'
+                '૧૬ જાન્યુઆરી ૨૦૧૪'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'રાષ્ટ્રપતિ પ્રણબ મુખર્જીએ ૧ જાન્યુઆરી ૨૦૧૪ ના રોજ બિલ પર હસ્તાક્ષર કર્યા અને તે ૧૬ જાન્યુઆરી ૨૦૧૪ થી સત્તાવાર રીતે સમગ્ર ભારતમાં લાગુ થયો.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
             McqModel(
               id: 'mcq_lokpal_members_count',
               question: 'લોકપાલ સંસ્થામાં અધ્યક્ષ ઉપરાંત મહત્તમ કેટલા સભ્યો હોઈ શકે છે?',
-              options: ['૪ સભ્યો', '૬ સભ્યો', '૮ સભ્યો', '૧૦ સભ્યો'],
+              options: ['૧૦ સભ્યો', '૪ સભ્યો', '૮ સભ્યો', '૬ સભ્યો'],
               correctOptionIndex: 2,
               explanation: 'લોકપાલમાં ૧ અધ્યક્ષ અને મહત્તમ ૮ સભ્યો (કુલ ૯ સભ્યો: ૧ + ૮) હોય છે, જેમાં ૫૦% ન્યાયિક અને ૫૦% SC/ST/OBC/લઘુમતી/મહિલા સભ્યો હોવા ફરજિયાત છે.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
@@ -10322,12 +10322,12 @@ graph TD
               id: 'mcq_lokpal_selection_committee_head',
               question: 'લોકપાલની પસંદગી સમિતિ (Selection Committee) ના અધ્યક્ષ કોણ હોય છે?',
               options: [
-                'ભારતના રાષ્ટ્રપતિ',
-                'ભારતના મુખ્ય ન્યાયાધીશ (CJI)',
                 'ભારતના વડાપ્રધાન',
-                'લોકસભાના અધ્યક્ષ (Speaker)'
+                'લોકસભાના અધ્યક્ષ (Speaker)',
+                'ભારતના રાષ્ટ્રપતિ',
+                'ભારતના મુખ્ય ન્યાયાધીશ (CJI)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'લોકપાલ અધિનિયમ ૨૦૧૩ ની કલમ ૪ હેઠળની ૫ સભ્યોની પસંદગી સમિતિના અધ્યક્ષ ભારતના વડાપ્રધાન હોય છે.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10335,12 +10335,12 @@ graph TD
               id: 'mcq_lokpal_tenure_age',
               question: 'લોકપાલના અધ્યક્ષ અને સભ્યોનો કાર્યકાળ કેટલો હોય છે?',
               options: [
+                '૬ વર્ષ અથવા ૬૫ વર્ષની ઉંમર',
                 '૫ વર્ષ અથવા ૬૫ વર્ષની ઉંમર',
                 '૫ વર્ષ અથવા ૭૦ વર્ષની ઉંમર',
-                '૬ વર્ષ અથવા ૬૫ વર્ષની ઉંમર',
                 '૬ વર્ષ અથવા ૭૦ વર્ષની ઉંમર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'લોકપાલના અધ્યક્ષ અને સભ્યો ૫ વર્ષ અથવા ૭૦ વર્ષની વય (જે વહેલું હોય ત્યાં સુધી) પદ ધારણ કરે છે.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10350,8 +10350,8 @@ graph TD
               options: [
                 'સાદી બહુમતી (૧/૨)',
                 'સંપૂર્ણ બેંચના ઓછામાં ઓછા ૨/૩ સભ્યો',
-                'સંપૂર્ણ બેંચના ઓછામાં ઓછા ૩/૪ સભ્યો',
-                'સર્વાનુમતે તમામ સભ્યો'
+                'સર્વાનુમતે તમામ સભ્યો',
+                'સંપૂર્ણ બેંચના ઓછામાં ઓછા ૩/૪ સભ્યો'
               ],
               correctOptionIndex: 1,
               explanation: 'વડાપ્રધાન વિરુદ્ધ તપાસ માટે લોકપાલની સંપૂર્ણ બેંચ વિચારણા કરે અને ઓછામાં ઓછા ૨/૩ સભ્યો મંજૂરી આપે તો જ તપાસ થઈ શકે છે (અને આવી સુનાવણી ઇન-કેમેરા થાય છે).',
@@ -10362,9 +10362,9 @@ graph TD
               question: 'ભારતના પ્રથમ લોકપાલ અધ્યક્ષ (First Chairperson of Lokpal) તરીકે કોની નિમણૂક કરવામાં આવી હતી?',
               options: [
                 'જસ્ટિસ પીનાકી ચંદ્ર ઘોષ',
+                'જસ્ટિસ એન. વી. રમના',
                 'જસ્ટિસ એ. એમ. ખાનવિલકર',
-                'જસ્ટિસ જગદીશ સિંહ ખેહર',
-                'જસ્ટિસ એન. વી. રમના'
+                'જસ્ટિસ જગદીશ સિંહ ખેહર'
               ],
               correctOptionIndex: 0,
               explanation: 'માર્ચ ૨૦૧૯ માં ભારતના સર્વોચ્ચ અદાલતના ભૂતપૂર્વ ન્યાયાધીશ પીનાકી ચંદ્ર ઘોષ (Justice P. C. Ghose) દેશના પ્રથમ લોકપાલ અધ્યક્ષ બન્યા હતા.',
@@ -10374,12 +10374,12 @@ graph TD
               id: 'mcq_lokayukta_first_state_established',
               question: 'લોકાયુક્ત સંસ્થાની વાસ્તવિક સ્થાપના કરનાર ભારતનું સૌપ્રથમ રાજ્ય કયું હતું?',
               options: [
-                'ઓડિશા (૧૯૭૦)',
                 'મહારાષ્ટ્ર (૧૯૭૧)',
                 'રાજસ્થાન (૧૯૭૩)',
+                'ઓડિશા (૧૯૭૦)',
                 'કર્ણાટક (૧૯૮૪)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'ઓડિશાએ ૧૯૭૦ માં પ્રથમ કાયદો બનાવ્યો હતો પરંતુ સ્થાપના ૧૯૮૩ માં થઈ હતી; જ્યારે મહારાષ્ટ્રે ૧૯૭૧ માં સૌપ્રથમ લોકાયુક્ત સંસ્થાની વાસ્તવિક સ્થાપના કરી હતી.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10388,11 +10388,11 @@ graph TD
               question: 'કેન્દ્રીય તકેદારી આયોગ (CVC) ની સ્થાપના ૧૯૬૪ માં કઈ સમિતિની ભલામણથી કરવામાં આવી હતી?',
               options: [
                 'સ્વર્ણસિંહ સમિતિ',
-                'કે. સંથાનમ સમિતિ',
                 'દિનેશ ગોસ્વામી સમિતિ',
+                'કે. સંથાનમ સમિતિ',
                 'વર્મા સમિતિ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ભ્રષ્ટાચાર નિવારણ માટેની સંથાનમ સમિતિ (૧૯૬૨-૬૪) ની ભલામણથી ૧૯૬૪ માં કેન્દ્ર સરકારના ઠરાવ દ્વારા CVC ની સ્થાપના કરવામાં આવી હતી.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10400,12 +10400,12 @@ graph TD
               id: 'mcq_cvc_unique_tenure',
               question: 'કેન્દ્રીય તકેદારી કમિશનર (CVC) નો કાર્યકાળ કેટલો હોય છે?',
               options: [
-                '૫ વર્ષ અથવા ૬૫ વર્ષ',
                 '૬ વર્ષ અથવા ૬૫ વર્ષ',
                 '૪ વર્ષ અથવા ૬૫ વર્ષ',
-                '૫ વર્ષ અથવા ૭૦ વર્ષ'
+                '૫ વર્ષ અથવા ૭૦ વર્ષ',
+                '૫ વર્ષ અથવા ૬૫ વર્ષ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'CVC નો કાર્યકાળ વિશિષ્ટ રીતે ૪ વર્ષ અથવા ૬૫ વર્ષની ઉંમર (જે વહેલું હોય તે) હોય છે, જે ભારતીય વહીવટી તંત્રમાં એક અનોખો અપવાદ છે.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10426,12 +10426,12 @@ graph TD
               id: 'mcq_lokpal_false_complaint_penalty',
               question: 'લોકપાલ હેઠળ ખોટી અને દ્વેષપૂર્ણ ફરિયાદ કરનાર વ્યક્તિ સામે કઈ સજાની જોગવાઈ છે?',
               options: [
-                '₹૨૫,૦૦૦ સુધીનો દંડ',
-                '૧ વર્ષ સુધીની કેદ અથવા ₹૧ લાખ સુધીનો દંડ (અથવા બંને)',
+                'કોઈ સજાની જોગવાઈ નથી',
                 '૩ વર્ષ સુધીની કેદ અને ₹૫ લાખ દંડ',
-                'કોઈ સજાની જોગવાઈ નથી'
+                '₹૨૫,૦૦૦ સુધીનો દંડ',
+                '૧ વર્ષ સુધીની કેદ અથવા ₹૧ લાખ સુધીનો દંડ (અથવા બંને)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'લોકપાલ અને લોકાયુક્ત અધિનિયમ ૨૦૧૩ ની કલમ ૪૬ હેઠળ ખોટી અને બદઇરાદાપૂર્વકની ફરિયાદ કરનાર સામે ૧ વર્ષ સુધીની કેદ અથવા ₹૧ લાખ સુધીનો દંડ થઈ શકે છે.',
               sourceVideoTitle: 'લોકપાલ, લોકાયુક્ત, CVC by Dr. Dinesh Gehlot',
             ),
@@ -10452,12 +10452,12 @@ graph TD
               id: 'mcq_rti_article_19_supreme_court',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ હેઠળ સર્વોચ્ચ અદાલતે માહિતી મેળવવાના અધિકારને મૂળભૂત અધિકાર ગણાવ્યો છે?',
               options: [
-                'અનુચ્છેદ ૧૪',
-                'અનુચ્છેદ ૧૯(૧)(a)',
                 'અનુચ્છેદ ૨૫',
-                'અનુચ્છેદ ૩૨'
+                'અનુચ્છેદ ૩૨',
+                'અનુચ્છેદ ૧૯(૧)(a)',
+                'અનુચ્છેદ ૧૪'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'રાજ નારાયણ કેસ (૧૯૭૫) અને એસ.પી. ગુપ્તા કેસ (૧૯૮૧) માં સુપ્રીમ કોર્ટે ઠરાવ્યું કે વાણી અને અભિવ્યક્તિની સ્વતંત્રતા (કલમ ૧૯(૧)(a)) માં માહિતી મેળવવાનો અધિકાર અભિન્ન અંગ તરીકે સમાયેલો છે.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10465,12 +10465,12 @@ graph TD
               id: 'mcq_rti_mkss_aruna_roy',
               question: 'ભારતમાં RTI જનઆંદોલનની શરૂઆત કરનાર "મજદૂર કિસાન શક્તિ સંગઠન" (MKSS) સાથે કયા અગ્રણી સામાજિક કાર્યકર સંકળાયેલા છે?',
               options: [
-                'મેધા પાટકર',
                 'અરુણા રોય',
-                'સુંદરલાલ બહુગુણા',
-                'બાબાસાહેબ આમ્ટે'
+                'મેધા પાટકર',
+                'બાબાસાહેબ આમ્ટે',
+                'સુંદરલાલ બહુગુણા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'પૂર્વ IAS અધિકારી અરુણા રોય, નિખિલ ડે અને શંકર સિંહે ૧૯૯૦ માં રાજસ્થાનના દેવડુંગરી ખાતે MKSS ની સ્થાપના કરી "હમારા પૈસા, હમારા હિસાબ" સૂત્ર સાથે RTI આંદોલન છેડ્યું હતું.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10478,12 +10478,12 @@ graph TD
               id: 'mcq_rti_first_state_tamil_nadu',
               question: 'ભારતમાં સૌપ્રથમ માહિતી અધિકાર (RTI) કાયદો બનાવનાર રાજ્ય કયું હતું?',
               options: [
-                'રાજસ્થાન (૨૦૦૦)',
                 'તમિલનાડુ (૧૯૯૭)',
                 'મહારાષ્ટ્ર (૨૦૦૨)',
+                'રાજસ્થાન (૨૦૦૦)',
                 'ગોવા (૧૯૯૭)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'તમિલનાડુએ ૧૯૯૭ માં ભારતનું સૌપ્રથમ રાજ્ય સ્તરનું રાઈટ ટુ ઈન્ફોર્મેશન એક્ટ પસાર કર્યું હતું.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10491,28 +10491,28 @@ graph TD
               id: 'mcq_rti_act_2005_enforcement_date',
               question: 'માહિતી અધિકાર અધિનિયમ, ૨૦૦૫ (RTI Act 2005) સમગ્ર ભારતમાં કઈ તારીખથી અમલમાં આવ્યો?',
               options: [
+                '૧ જાન્યુઆરી ૨૦૦૫',
                 '૧૫ જૂન ૨૦૦૫',
-                '૧૨ ઓક્ટોબર ૨૦૦૫',
                 '૨૬ જાન્યુઆરી ૨૦૦૬',
-                '૧ જાન્યુઆરી ૨૦૦૫'
+                '૧૨ ઓક્ટોબર ૨૦૦૫'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'રાષ્ટ્રપતિ ડૉ. એ.પી.જે. અબ્દુલ કલામે ૧૫ જૂન ૨૦૦૫ ના રોજ મંજૂરી આપી અને તેના ૧૨૦ દિવસ પછી ૧૨ ઓક્ટોબર ૨૦૦૫ ના રોજ કાયદો સંપૂર્ણપણે અમલી બન્યો.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
             McqModel(
               id: 'mcq_rti_pio_30_days',
               question: 'RTI અધિનિયમ હેઠળ સામાન્ય સંજોગોમાં જાહેર માહિતી અધિકારી (PIO) એ કેટલા દિવસમાં માહિતી પૂરી પાડવી પડે છે?',
-              options: ['૧૫ દિવસ', '૩૦ દિવસ', '૪૫ દિવસ', '૬૦ દિવસ'],
-              correctOptionIndex: 1,
+              options: ['૬૦ દિવસ', '૪૫ દિવસ', '૩૦ દિવસ', '૧૫ દિવસ'],
+              correctOptionIndex: 2,
               explanation: 'કલમ ૭(૧) મુજબ PIO એ અરજી મળ્યાના ૩૦ દિવસની અંદર માહિતી પૂરી પાડવી અથવા કારણો સાથે નામંજૂર કરવી પડે છે.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
             McqModel(
               id: 'mcq_rti_life_liberty_48_hours',
               question: 'જો માંગવામાં આવેલી માહિતી કોઈ વ્યક્તિના "જીવન અને વ્યક્તિગત સ્વાતંત્ર્ય" (Life & Liberty) સાથે સંકળાયેલી હોય, તો કેટલા સમયમાં આપવી અનિવાર્ય છે?',
-              options: ['૨૪ કલાક', '૪૮ કલાક', '૭૨ કલાક', '૭ દિવસ'],
-              correctOptionIndex: 1,
+              options: ['૭૨ કલાક', '૨૪ કલાક', '૭ દિવસ', '૪૮ કલાક'],
+              correctOptionIndex: 3,
               explanation: 'કલમ ૭(૧) ના વિશેષ પરંતુક મુજબ જીવન અને અંગત સ્વતંત્રતા સાથે જોડાયેલી માહિતી ૪૮ કલાક (48 Hours) માં આપવી કાયદેસર ફરજિયાત છે.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10520,12 +10520,12 @@ graph TD
               id: 'mcq_rti_section_20_penalty',
               question: 'RTI કાયદાની કલમ ૨૦ હેઠળ PIO પર વિલંબ બદલ દૈનિક કેટલો અને મહત્તમ કેટલો દંડ થઈ શકે છે?',
               options: [
-                'દૈનિક ₹૧૦૦, મહત્તમ ₹૧૦,૦૦૦',
-                'દૈનિક ₹૨૫૦, મહત્તમ ₹૨૫,૦૦૦',
+                'દૈનિક ₹૧,૦૦૦, મહત્તમ ₹૧,૦૦,૦૦૦',
                 'દૈનિક ₹૫૦૦, મહત્તમ ₹૫૦,૦૦૦',
-                'દૈનિક ₹૧,૦૦૦, મહત્તમ ₹૧,૦૦,૦૦૦'
+                'દૈનિક ₹૨૫૦, મહત્તમ ₹૨૫,૦૦૦',
+                'દૈનિક ₹૧૦૦, મહત્તમ ₹૧૦,૦૦૦'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'માહિતી આપવામાં અકારણ વિલંબ માટે પ્રતિ દિવસ ₹૨૫૦ અને મહત્તમ ₹૨૫,૦૦૦ સુધીનો દંડ પીઆઈઓ ના અંગત પગારમાંથી વસૂલવામાં આવે છે.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10533,12 +10533,12 @@ graph TD
               id: 'mcq_cic_selection_committee_members',
               question: 'કેન્દ્રીય માહિતી આયોગ (CIC) ના કમિશનરોની નિમણૂક સમિતિમાં નીચેનામાંથી કોનો સમાવેશ થતો નથી?',
               options: [
+                'વડાપ્રધાન દ્વારા નામાંકિત કેન્દ્રીય કેબિનેટ મંત્રી',
                 'ભારતના વડાપ્રધાન',
                 'લોકસભામાં વિપક્ષના નેતા',
-                'ભારતના મુખ્ય ન્યાયાધીશ (CJI)',
-                'વડાપ્રધાન દ્વારા નામાંકિત કેન્દ્રીય કેબિનેટ મંત્રી'
+                'ભારતના મુખ્ય ન્યાયાધીશ (CJI)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'CIC ની પસંદગી સમિતિમાં માત્ર ૩ સભ્યો હોય છે: વડાપ્રધાન (અધ્યક્ષ), લોકસભામાં વિપક્ષના નેતા અને કેન્દ્રીય કેબિનેટ મંત્રી. તેમાં CJI નો સમાવેશ થતો નથી.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10546,10 +10546,10 @@ graph TD
               id: 'mcq_cic_first_wajahat_habibullah',
               question: 'ભારતના પ્રથમ મુખ્ય માહિતી કમિશનર (Chief Information Commissioner) કોણ હતા?',
               options: [
-                'સત્યાનંદ મિશ્રા',
+                'રાજીવ માથુર',
                 'વજાહત હબીબુલ્લાહ',
-                'એ. એન. તિવારી',
-                'રાજીવ માથુર'
+                'સત્યાનંદ મિશ્રા',
+                'એ. એન. તિવારી'
               ],
               correctOptionIndex: 1,
               explanation: '૨૦૦૫ માં કેન્દ્રીય માહિતી આયોગની સ્થાપના વખતે વજાહત હબીબુલ્લાહ (Wajahat Habibullah) દેશના પ્રથમ CIC બન્યા હતા.',
@@ -10560,11 +10560,11 @@ graph TD
               question: 'આયોજન પંચ (Planning Commission) ની સ્થાપના કઈ તારીખે કરવામાં આવી હતી?',
               options: [
                 '૨૬ જાન્યુઆરી ૧૯૫૦',
-                '૧૫ માર્ચ ૧૯૫૦',
                 '૬ ઓગસ્ટ ૧૯૫૨',
+                '૧૫ માર્ચ ૧૯૫૦',
                 '૧ જાન્યુઆરી ૧૯૫૧'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૧૫ માર્ચ ૧૯૫૦ ના રોજ કેન્દ્ર સરકારના કેબિનેટ ઠરાવ દ્વારા બિન-બંધારણીય સલાહકારી સંસ્થા તરીકે આયોજન પંચની સ્થાપના થઈ હતી.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10572,12 +10572,12 @@ graph TD
               id: 'mcq_planning_commission_santhanam_quote',
               question: 'આયોજન પંચને "સુપર કેબિનેટ" તરીકે કોણે સંબોધિત કર્યું હતું?',
               options: [
-                'ડૉ. બી. આર. આંબેડકર',
                 'કે. સંથાનમ',
-                'અશોક ચંદા',
-                'સરદાર વલ્લભભાઈ પટેલ'
+                'ડૉ. બી. આર. આંબેડકર',
+                'સરદાર વલ્લભભાઈ પટેલ',
+                'અશોક ચંદા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'પ્રસિદ્ધ અર્થશાસ્ત્રી અને વહીવટકર્તા કે. સંથાનમે આયોજન પંચની અતિશય વધી ગયેલી સત્તાઓને કારણે તેને "સુપર કેબિનેટ" કહ્યું હતું.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10585,12 +10585,12 @@ graph TD
               id: 'mcq_ndc_date_pm_chairman',
               question: 'રાષ્ટ્રીય વિકાસ પરિષદ (NDC) ની સ્થાપના ક્યારે થઈ હતી અને તેના અધ્યક્ષ કોણ હોય છે?',
               options: [
+                '૧૨ ઓક્ટોબર ૨૦૦૫, ગૃહમંત્રી',
                 '૧૫ માર્ચ ૧૯૫૦, રાષ્ટ્રપતિ',
                 '૬ ઓગસ્ટ ૧૯૫૨, વડાપ્રધાન',
-                '૧ જાન્યુઆરી ૨૦૧૫, નાણામંત્રી',
-                '૧૨ ઓક્ટોબર ૨૦૦૫, ગૃહમંત્રી'
+                '૧ જાન્યુઆરી ૨૦૧૫, નાણામંત્રી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૬ ઓગસ્ટ ૧૯૫૨ ના રોજ NDC સ્થપાઈ હતી, જેના અધ્યક્ષ વડાપ્રધાન હોય છે અને તમામ રાજ્યોના મુખ્યમંત્રીઓ તેના સભ્યો હોય છે.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10598,12 +10598,12 @@ graph TD
               id: 'mcq_niti_aayog_date_established',
               question: 'નીતિ આયોગ (NITI Aayog) ની સ્થાપના ક્યારે કરવામાં આવી?',
               options: [
-                '૧૫ ઓગસ્ટ ૨૦૧૪',
                 '૧ જાન્યુઆરી ૨૦૧૫',
+                '૧ એપ્રિલ ૨૦૧૫',
                 '૨૬ જાન્યુઆરી ૨૦૧૫',
-                '૧ એપ્રિલ ૨૦૧૫'
+                '૧૫ ઓગસ્ટ ૨૦૧૪'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'આયોજન પંચનું વિસર્જન કરીને ૧ જાન્યુઆરી ૨૦૧૫ ના રોજ કેબિનેટ ઠરાવ દ્વારા નીતિ આયોગની સ્થાપના કરવામાં આવી.',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10611,12 +10611,12 @@ graph TD
               id: 'mcq_niti_aayog_first_vice_chairman',
               question: 'નીતિ આયોગના પ્રથમ ઉપાધ્યક્ષ (Vice-Chairman) કોણ હતા?',
               options: [
-                'રાજીવ કુમાર',
                 'સુમન બેરી',
-                'અરવિંદ પનગઢિયા',
-                'અમિતાભ કાંત'
+                'અમિતાભ કાંત',
+                'રાજીવ કુમાર',
+                'અરવિંદ પનગઢિયા'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'પ્રસિદ્ધ અર્થશાસ્ત્રી અરવિંદ પનગઢિયા (Arvind Panagariya) નીતિ આયોગના પ્રથમ ઉપાધ્યક્ષ હતા (વર્તમાન ઉપાધ્યક્ષ સુમન બેરી છે).',
               sourceVideoTitle: 'RTI, CIC, આયોજન પંચ & NDC by Dr. Dinesh Gehlot',
             ),
@@ -10750,9 +10750,9 @@ graph TD
               id: 'mcq_const_amend_south_africa_source',
               question: 'ભારતીય બંધારણમાં બંધારણીય સુધારાની પ્રક્રિયા (ભાગ-૨૦, અનુચ્છેદ ૩૬૮) કયા દેશના બંધારણમાંથી લેવામાં આવી છે?',
               options: [
-                'આયર્લેન્ડ',
-                'દક્ષિણ આફ્રિકા',
                 'કેનેડા',
+                'દક્ષિણ આફ્રિકા',
+                'આયર્લેન્ડ',
                 'ઓસ્ટ્રેલિયા'
               ],
               correctOptionIndex: 1,
@@ -10763,12 +10763,12 @@ graph TD
               id: 'mcq_const_rigid_flexible_comparison',
               question: 'વિશ્વના બંધારણોના સંદર્ભમાં કઠોર (Rigid) અને પરિવર્તનશીલ (Flexible) બંધારણનું શ્રેષ્ઠ ઉદાહરણ અનુક્રમે કયું છે?',
               options: [
-                'કઠોર: બ્રિટન | પરિવર્તનશીલ: અમેરિકા',
                 'કઠોર: અમેરિકા | પરિવર્તનશીલ: બ્રિટન',
-                'કઠોર: ભારત | પરિવર્તનશીલ: સ્વિટ્ઝર્લેન્ડ',
-                'કઠોર: કેનેડા | પરિવર્તનશીલ: જર્મની'
+                'કઠોર: કેનેડા | પરિવર્તનશીલ: જર્મની',
+                'કઠોર: બ્રિટન | પરિવર્તનશીલ: અમેરિકા',
+                'કઠોર: ભારત | પરિવર્તનશીલ: સ્વિટ્ઝર્લેન્ડ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અમેરિકાનું બંધારણ અત્યંત કઠોર છે (સંઘીય ૨/૩ બહુમતી + ૩/૪ રાજ્યોની બહાલી જરૂરી છે), જ્યારે બ્રિટનનું બંધારણ અત્યંત પરિવર્તનશીલ છે કારણ કે સામાન્ય કાયદાની જેમ સાદી બહુમતીથી કંઈપણ બદલાઈ શકે છે. ભારત આ બંનેનું સુંદર મિશ્રણ છે.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10776,12 +10776,12 @@ graph TD
               id: 'mcq_const_amend_simple_majority_outside_368',
               question: 'નીચેનામાંથી કઈ જોગવાઈમાં ફેરફાર કરવા માટે અનુચ્છેદ ૩૬૮ હેઠળ બંધારણીય સુધારો કરવો પડતો નથી (સાદી બહુમતીથી થઈ શકે છે)?',
               options: [
+                'નવા રાજ્યનો પ્રવેશ અથવા સીમા પરિવર્તન (અનુચ્છેદ ૨ અને ૩)',
                 'મૂળભૂત અધિકારો (ભાગ-૩)',
                 'રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો (ભાગ-૪)',
-                'નવા રાજ્યનો પ્રવેશ અથવા સીમા પરિવર્તન (અનુચ્છેદ ૨ અને ૩)',
                 'રાષ્ટ્રપતિની ચૂંટણી પદ્ધતિ (અનુચ્છેદ ૫૫)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૪ સ્પષ્ટપણે નિર્દેશ કરે છે કે અનુચ્છેદ ૨ અને ૩ હેઠળ નવા રાજ્યોની સ્થાપના કે સીમા પરિવર્તન સંસદની સાદી બહુમતીથી થાય છે અને તેને અનુચ્છેદ ૩૬૮ હેઠળ બંધારણીય સુધારો ગણવામાં આવતો નથી.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10789,12 +10789,12 @@ graph TD
               id: 'mcq_const_amend_half_states_majority',
               question: 'સંઘીય માળખાને સ્પર્શતી જોગવાઈઓમાં સુધારો કરતી વખતે ઓછામાં ઓછા ૫૦% રાજ્યોના વિધાનમંડળોએ કઈ બહુમતીથી બહાલી આપવાની હોય છે?',
               options: [
-                'સાદી બહુમતી (Simple Majority)',
                 'વિશેષ બહુમતી (Special Majority)',
-                'સંપૂર્ણ બહુમતી (Absolute Majority)',
-                'પ્રભાવી બહુમતી (Effective Majority)'
+                'સાદી બહુમતી (Simple Majority)',
+                'પ્રભાવી બહુમતી (Effective Majority)',
+                'સંપૂર્ણ બહુમતી (Absolute Majority)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૩૬૮ હેઠળ સંઘીય વિષયોમાં સુધારા માટે સંસદમાં બંને ગૃહોની વિશેષ બહુમતી જરૂરી છે, પરંતુ ૫૦% રાજ્યોના વિધાનમંડળોએ આ વિધેયક પોતાની સાદી બહુમતી (Simple Majority) થી જ મંજૂર કરવાનું હોય છે.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10804,10 +10804,10 @@ graph TD
               options: [
                 '૧૨૧મો બંધારણીય સુધારો ખરડો',
                 '૧૨૨મો બંધારણીય સુધારો ખરડો',
-                '૧૨૩મો બંધારણીય સુધારો ખરડો',
-                '૧૨૪મો બંધારણીય સુધારો ખરડો'
+                '૧૨૪મો બંધારણીય સુધારો ખરડો',
+                '૧૨૩મો બંધારણીય સુધારો ખરડો'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: '૧૨૩મો બંધારણીય સુધારો ખરડો પાસ થઈને ૧૦૨મો સુધારો કાયદો (૨૦૧૮) બન્યો અને અનુચ્છેદ ૩૩૮B ઉમેરી NCBC ને બંધારણીય દરજ્જો આપ્યો. (૧૨૨મો ખરડો = ૧૦૧મો GST એક્ટ; ૧૨૪મો ખરડો = ૧૦૩મો EWS એક્ટ).',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10815,12 +10815,12 @@ graph TD
               id: 'mcq_const_article_334_104th_amendment',
               question: '૧૦૪મા બંધારણીય સુધારા અધિનિયમ, ૨૦૨૦ (૧૨૬મો ખરડો) દ્વારા નીચેનામાંથી કયો ઐતિહાસિક ફેરફાર કરવામાં આવ્યો?',
               options: [
+                'ન્યાયાધીશોની નિમણૂક માટે NJAC ની સ્થાપના કરાઈ',
                 'SC/ST ની લોકસભા-વિધાનસભા અનામત ૨૦૩૦ સુધી વધારાઈ અને એંગ્લો-ઇન્ડિયન નામાંકન રદ કરાયું',
-                'EWS માટે ૧૦% અનામત લાગુ કરવામાં આવી',
                 'મતદાનની ઉંમર ૨૧ થી ઘટાડીને ૧૮ વર્ષ કરવામાં આવી',
-                'ન્યાયાધીશોની નિમણૂક માટે NJAC ની સ્થાપના કરાઈ'
+                'EWS માટે ૧૦% અનામત લાગુ કરવામાં આવી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૦૪મા સુધારા દ્વારા અનુચ્છેદ ૩૩૪ માં સુધારો કરી લોકસભા અને વિધાનસભાઓમાં SC અને ST ની રાજકીય અનામત ૨૫ જાન્યુઆરી ૨૦૩૦ સુધી લંબાવવામાં આવી, જ્યારે એંગ્લો-ઇન્ડિયન નામાંકનને આગળ લંબાવાયું નહીં, જેથી એંગ્લો-ઇન્ડિયન નામાંકન સમાપ્ત થયું.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10829,11 +10829,11 @@ graph TD
               question: 'ભારતીય બંધારણના અનુચ્છેદ ૭૫(૩) મુજબ કેન્દ્રીય મંત્રી પરિષદ સામૂહિક રીતે કોના પ્રત્યે જવાબદાર હોય છે?',
               options: [
                 'સંસદ પ્રત્યે',
-                'લોકસભા પ્રત્યે',
                 'રાજ્યસભા પ્રત્યે',
-                'ભારતના રાષ્ટ્રપતિ પ્રત્યે'
+                'ભારતના રાષ્ટ્રપતિ પ્રત્યે',
+                'લોકસભા પ્રત્યે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૭૫(૩) મુજબ મંત્રી પરિષદ સામૂહિક રીતે "લોકસભા (House of the People)" પ્રત્યે જવાબદાર છે. વ્યક્તિગત રીતે મંત્રીઓ અનુચ્છેદ ૭૫(૨) મુજબ રાષ્ટ્રપતિની મરજી સુધી હોદ્દો સંભાળે છે.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10841,12 +10841,12 @@ graph TD
               id: 'mcq_const_state_collective_responsibility_164_2',
               question: 'રાજ્ય સ્તરે મંત્રી પરિષદ સામૂહિક રીતે કોના પ્રત્યે જવાબદાર હોય છે (અનુચ્છેદ ૧૬૪(૨))?',
               options: [
-                'રાજ્યપાલ પ્રત્યે',
+                'વિધાન પરિષદ પ્રત્યે',
                 'રાજ્ય વિધાનમંડળ પ્રત્યે',
-                'વિધાનસભા પ્રત્યે',
-                'વિધાન પરિષદ પ્રત્યે'
+                'રાજ્યપાલ પ્રત્યે',
+                'વિધાનસભા પ્રત્યે'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'અનુચ્છેદ ૧૬૪(૨) સ્પષ્ટપણે જણાવે છે કે રાજ્યની મંત્રી પરિષદ સામૂહિક રીતે રાજ્યની "વિધાનસભા (Legislative Assembly)" પ્રત્યે જવાબદાર રહેશે.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -10854,10 +10854,10 @@ graph TD
               id: 'mcq_const_91st_amendment_council_size',
               question: '૯૧મા બંધારણીય સુધારા ૨૦૦૩ મુજબ રાજ્યોમાં મંત્રી પરિષદમાં મુખ્યમંત્રી સહિત મંત્રીઓની મહત્તમ અને લઘુત્તમ મર્યાદા કેટલી નક્કી કરાઈ છે?',
               options: [
-                'મહત્તમ ૧૦% અને લઘુત્તમ ૫ મંત્રીઓ',
+                'મહત્તમ ૧૫% અને લઘુત્તમ ૧૦ મંત્રીઓ',
                 'મહત્તમ ૧૫% અને લઘુત્તમ ૧૨ મંત્રીઓ',
                 'મહત્તમ ૨૦% અને લઘુત્તમ ૧૫ મંત્રીઓ',
-                'મહત્તમ ૧૫% અને લઘુત્તમ ૧૦ મંત્રીઓ'
+                'મહત્તમ ૧૦% અને લઘુત્તમ ૫ મંત્રીઓ'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૬૪(૧A) મુજબ રાજ્યમાં મંત્રીઓની સંખ્યા વિધાનસભાના ૧૫% થી વધુ ન હોવી જોઈએ, અને કોઈપણ રાજ્યમાં મુખ્યમંત્રી સહિત મંત્રીઓની સંખ્યા ૧૨ થી ઓછી ન હોવી જોઈએ.',
@@ -10867,12 +10867,12 @@ graph TD
               id: 'mcq_const_article_169_council_majorities',
               question: 'રાજ્યમાં વિધાન પરિષદ (Legislative Council) નું સર્જન કે નાબૂદી કરવા અનુચ્છેદ ૧૬૯ મુજબ વિધાનસભા અને સંસદમાં અનુક્રમે કઈ બહુમતી જરૂરી છે?',
               options: [
+                'બંને ગૃહોમાં વિશેષ બહુમતી',
                 'વિધાનસભા: સાદી બહુમતી | સંસદ: વિશેષ બહુમતી',
                 'વિધાનસભા: વિશેષ બહુમતી | સંસદ: સાદી બહુમતી',
-                'બંને ગૃહોમાં સાદી બહુમતી',
-                'બંને ગૃહોમાં વિશેષ બહુમતી'
+                'બંને ગૃહોમાં સાદી બહુમતી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અનુચ્છેદ ૧૬૯ હેઠળ રાજ્ય વિધાનસભા પોતાની વિશેષ બહુમતી (કુલ સભ્યોની બહુમતી + ૨/૩ હાજર અને મતદાન) થી ઠરાવ પસાર કરે છે, પરંતુ સંસદ તેને સામાન્ય કાયદાની જેમ સાદી બહુમતી (Simple Majority) થી જ મંજૂર કરે છે.',
               sourceVideoTitle: 'મહત્વપૂર્ણ તથ્યો - ૧ (Utkarsh Classes by Dr. Dinesh Gehlot)',
             ),
@@ -11465,12 +11465,12 @@ graph TD
               id: 'mcq_pubadmin_p1_1',
               question: 'અંગ્રેજી શબ્દ "Administration" મૂળ કઈ ભાષાના કયા શબ્દો પરથી ઊતરી આવ્યો છે?',
               options: [
-                'ગ્રીક - Ad + Ministro',
                 'લૅટિન - Ad + Ministrare',
-                'ફ્રેન્ચ - Admin + Stratum',
+                'ગ્રીક - Ad + Ministro',
                 'જર્મન - Ad + Minister',
+                'ફ્રેન્ચ - Admin + Stratum'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'Administration શબ્દ મૂળ લૅટિન ભાષાના "ad" (તરફ) અને "ministrare" (સેવા કરવી / સંભાળ રાખવી) પરથી બન્યો છે, જેનો શાબ્દિક અર્થ "લોકોની સેવા કરવી" થાય છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11478,12 +11478,12 @@ graph TD
               id: 'mcq_pubadmin_p1_2',
               question: 'જાહેર વહીવટના પિતા (Father of Public Administration) તરીકે કોણ ઓળખાય છે?',
               options: [
-                'એલ. ડી. વ્હાઇટ',
                 'વૂડ્રો વિલ્સન',
                 'હર્બર્ટ સાયમન',
-                'લ્યુથર ગુલિક',
+                'એલ. ડી. વ્હાઇટ',
+                'લ્યુથર ગુલિક'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧૮૮૭ માં વૂડ્રો વિલ્સન દ્વારા "The Study of Administration" નિબંધ પ્રકાશિત થયો હતો, જેમાં તેમણે રાજકારણ-વહીવટ દ્વૈતવાદ આપીને સ્વતંત્ર વિષય તરીકે જાહેર વહીવટનો પાયો નાખ્યો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11491,10 +11491,10 @@ graph TD
               id: 'mcq_pubadmin_p1_3',
               question: 'વિશ્વનું પ્રથમ અધિકૃત પાઠ્યપુસ્તક "Introduction to the Study of Public Administration" (૧૯૨૬) કોના દ્વારા લખવામાં આવ્યું હતું?',
               options: [
-                'ફ્રેન્ક ગુડનાઉ',
+                'ડ્વાઇટ વાલ્ડો',
                 'ડબલ્યુ. એફ. વિલોબી',
                 'એલ. ડી. વ્હાઇટ',
-                'ડ્વાઇટ વાલ્ડો',
+                'ફ્રેન્ક ગુડનાઉ'
               ],
               correctOptionIndex: 2,
               explanation: '૧૯૨૬ માં એલ. ડી. વ્હાઇટે જાહેર વહીવટનું સૌપ્રથમ પાઠ્યપુસ્તક લખ્યું હતું, જેની સાથે જાહેર વહીવટના વિકાસનો પ્રથમ તબક્કો પૂર્ણ થયો હતો.',
@@ -11504,12 +11504,12 @@ graph TD
               id: 'mcq_pubadmin_p1_4',
               question: 'લ્યુથર ગુલિક દ્વારા રજૂ કરાયેલ "POSDCORB" સૂત્રમાં "CO" નો અર્થ શું થાય છે?',
               options: [
-                'Cooperation (સહકાર)',
-                'Coordinating (સંકલન)',
-                'Commanding (આદેશ આપવો)',
                 'Controlling (નિયંત્રણ)',
+                'Commanding (આદેશ આપવો)',
+                'Cooperation (સહકાર)',
+                'Coordinating (સંકલન)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'POSDCORB માં CO એટલે Coordinating (સંકલન સાધવું). સંગઠનના વિવિધ વિભાગો અને પ્રવૃત્તિઓ વચ્ચે તાલમેલ બેસાડવો તે સંકલન છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11517,12 +11517,12 @@ graph TD
               id: 'mcq_pubadmin_p1_5',
               question: '"જાહેર વહીવટ એ કાતરના બે પાંખીયા સમાન છે - એક પાંખિયું POSDCORB અને બીજું પાંખિયું વિષયવસ્તુનું જ્ઞાન છે." - આ કાતરનું રૂપક (Scissors Analogy) કોણે આપ્યું હતું?',
               options: [
-                'રોબર્ટ ડાલ',
                 'લેવિસ મેરિયમ',
-                'હર્બર્ટ સાયમન',
                 'ચેસ્ટર બર્નાર્ડ',
+                'રોબર્ટ ડાલ',
+                'હર્બર્ટ સાયમન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'લેવિસ મેરિયમે ગુલિકના POSDCORB ની મર્યાદા દર્શાવતા કાતરનું રૂપક આપ્યું હતું કે વહીવટી તકનીક અને વિષયવસ્તુ જ્ઞાન (Subject Matter Knowledge) બંને એકસાથે જ કાર્યક્ષમ પરિણામ આપી શકે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11530,12 +11530,12 @@ graph TD
               id: 'mcq_pubadmin_p1_6',
               question: 'શાસ્ત્રીય વહીવટી સિદ્ધાંતોને "કહેવતો" (Proverbs) અને દંતકથાઓ કહીને કયા વિચારકે નકારી કાઢ્યા હતા?',
               options: [
+                'પોલ એપલબી',
                 'હર્બર્ટ સાયમન',
                 'હેનરી ફેયોલ',
-                'એલ. ડી. વ્હાઇટ',
-                'પોલ એપલબી',
+                'એલ. ડી. વ્હાઇટ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૯૪૭ માં હર્બર્ટ સાયમને તેમના પુસ્તક "Administrative Behavior" માં પરંપરાગત સિદ્ધાંતોને વૈજ્ઞાનિક આધાર વિનાની વિરોધાભાસી કહેવતો ગણાવી હતી અને તાર્કિક નિર્ણય પ્રક્રિયાનો સિદ્ધાંત રજૂ કર્યો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11543,12 +11543,12 @@ graph TD
               id: 'mcq_pubadmin_p1_7',
               question: 'જાહેર વહીવટના વિકાસનો કયો તબક્કો "ઓળખનું સંકટ" (Crisis of Identity) તરીકે ઓળખાય છે?',
               options: [
-                'તબક્કો ૧ (૧૮૮૭ - ૧૯૨૬)',
-                'તબક્કો ૨ (૧૯૨૭ - ૧૯૩૭)',
-                'તબક્કો ૪ (૧૯૪૮ - ૧૯૭૦)',
                 'તબક્કો ૫ (૧૯૭૧ - હાલ)',
+                'તબક્કો ૪ (૧૯૪૮ - ૧૯૭૦)',
+                'તબક્કો ૧ (૧૮૮૭ - ૧૯૨૬)',
+                'તબક્કો ૨ (૧૯૨૭ - ૧૯૩૭)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: '૧૯૪૮ થી ૧૯૭૦ નો ચોથો તબક્કો "ઓળખનું સંકટ" કહેવાય છે કારણ કે સિદ્ધાંતો તૂટી પડ્યા બાદ જાહેર વહીવટ પોતાની આગવી ઓળખ ગુમાવી બેઠો હતો અને રાજ્યશાસ્ત્ર તેમજ સંચાલનશાસ્ત્ર વચ્ચે અસ્તિત્વ શોધતો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11556,12 +11556,12 @@ graph TD
               id: 'mcq_pubadmin_p1_8',
               question: '૧૯૬૮ માં યોજાયેલ પ્રથમ "મિન્નોબ્રૂક પરિષદ" (First Minnowbrook Conference) ના અધ્યક્ષ કોણ હતા, જેના પરિણામે "નવ જાહેર વહીવટ" (NPA) નો ઉદ્ભવ થયો?',
               options: [
+                'ફ્રેડ રિગ્સ',
                 'વૂડ્રો વિલ્સન',
                 'ડ્વાઇટ વાલ્ડો',
-                'ફ્રેડ રિગ્સ',
-                'એલ્ટન મેયો',
+                'એલ્ટન મેયો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ડ્વાઇટ વાલ્ડોના નેતૃત્વ હેઠળ ૧૯૬૮ માં સિરાક્યુઝ યુનિવર્સિટી ખાતે પ્રથમ મિન્નોબ્રૂક પરિષદ મળી હતી, જેણે મૂલ્યો, સામાજિક સમાનતા અને પરિવર્તન પર કેન્દ્રિત નવ જાહેર વહીવટ (NPA) ની સ્થાપના કરી.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11569,12 +11569,12 @@ graph TD
               id: 'mcq_pubadmin_p1_9',
               question: 'તુલનાત્મક જાહેર વહીવટ (CPA) માં વિકાસશીલ દેશોની વહીવટી રચના સમજાવવા માટે "પ્રિઝમેટિક-સલા મોડેલ" (Prismatic-Sala Model) કોણે વિકસાવ્યું હતું?',
               options: [
-                'એડવર્ડ વાઈડનર',
                 'ફ્રેડ ડબલ્યુ. રિગ્સ',
-                'ચેસ્ટર બર્નાર્ડ',
                 'જેમ્સ મૂની',
+                'ચેસ્ટર બર્નાર્ડ',
+                'એડવર્ડ વાઈડનર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'ફ્રેડ રિગ્સે પ્રિઝમેટિક સમાજ અને તેની વહીવટી ઓફિસ માટે "સલા" (Sala) મોડેલ રજૂ કર્યું હતું, જે વિકાસશીલ દેશોના જાહેર વહીવટના અભ્યાસ માટેનું ક્રાંતિકારી મોડેલ ગણાય છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-1',
             ),
@@ -11582,10 +11582,10 @@ graph TD
               id: 'mcq_pubadmin_p1_10',
               question: 'જાહેર વહીવટ અને ખાનગી વહીવટ વચ્ચેનો મુખ્ય અને પાયાનો તફાવત કયો છે?',
               options: [
-                'સંચાલકીય તકનીકોનો ઉપયોગ',
+                'અધિકારશ્રેણીનું માળખું',
                 'નાણાકીય હિસાબ-કિતાબ અને ઓડિટ',
                 'લોકકલ્યાણનો ઉદ્દેશ અને જાહેર જવાબદેહી',
-                'અધિકારશ્રેણીનું માળખું',
+                'સંચાલકીય તકનીકોનો ઉપયોગ'
               ],
               correctOptionIndex: 2,
               explanation: 'જાહેર વહીવટનો અંતિમ ઉદ્દેશ નાગરિક સેવા અને લોકકલ્યાણ છે તથા તે સંસદ/વિધાનસભા અને જનતા સમક્ષ સંપૂર્ણ જવાબદેહ છે; જ્યારે ખાનગી વહીવટનો કેન્દ્રીય ઉદ્દેશ મહત્તમ નફો મેળવવાનો હોય છે.',
@@ -11595,10 +11595,10 @@ graph TD
               id: 'mcq_pubadmin_p2_1',
               question: 'સંગઠન (Organization) શબ્દ મૂળ કઈ ભાષાના કયા શબ્દ પરથી ઉતરી આવ્યો છે?',
               options: [
-                'લૅટિન - Organum',
+                'જર્મન - Organismus',
                 'ગ્રીક - Organon',
                 'ફ્રેન્ચ - Organise',
-                'જર્મન - Organismus',
+                'લૅટિન - Organum'
               ],
               correctOptionIndex: 1,
               explanation: 'Organization શબ્દ ગ્રીક શબ્દ "Organon" પરથી બન્યો છે, જેનો અર્થ માનવ શરીરનું "અંગ" અથવા "સાધન" થાય છે. જેમ અંગો શરીર ચલાવે છે તેમ વિભાગો સંગઠન ચલાવે છે.',
@@ -11610,8 +11610,8 @@ graph TD
               options: [
                 'હેનરી ફેયોલ',
                 'ચેસ્ટર બર્નાર્ડ',
-                'એફ. ડબલ્યુ. ટેલર',
                 'લ્યુથર ગુલિક',
+                'એફ. ડબલ્યુ. ટેલર'
               ],
               correctOptionIndex: 1,
               explanation: 'ચેસ્ટર બર્નાર્ડે તેમના પુસ્તક "The Functions of the Executive" (૧૯૩૮) માં દર્શાવ્યું હતું કે કોઈપણ સંગઠનને કાર્યક્ષમ રાખવા માટે માનવીય લાગણીઓ અને અનૌપચારિક સંબંધો અનિવાર્ય છે.',
@@ -11622,11 +11622,11 @@ graph TD
               question: 'જેમ્સ મૂની અને એલન રેલી દ્વારા અધિકારશ્રેણી (Hierarchy) ને કયા નામે ઓળખાવવામાં આવી છે?',
               options: [
                 'ગેંગ પ્લેન્ક (Gang Plank)',
-                'સ્કેલર પ્રક્રિયા (Scalar Process)',
-                'કાર્યાત્મક પ્રક્રિયા (Functional Process)',
                 'નિયંત્રણ કડી (Control Chain)',
+                'સ્કેલર પ્રક્રિયા (Scalar Process)',
+                'કાર્યાત્મક પ્રક્રિયા (Functional Process)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'મૂની અને રેલીએ અધિકારશ્રેણીને "સ્કેલર પ્રક્રિયા" (સીડી જેવી વ્યવસ્થા) તરીકે ઓળખાવી છે, જેમાં સત્તા ઉપરથી નીચે અને જવાબદેહી નીચેથી ઉપર વહે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11634,12 +11634,12 @@ graph TD
               id: 'mcq_pubadmin_p2_4',
               question: 'અધિકારશ્રેણીમાં ફાઇલોના વિલંબ અને લાલફીતાશાહીને ઘટાડવા હેનરી ફેયોલે કયો સિદ્ધાંત આપ્યો હતો?',
               options: [
-                'સ્કેલર ચેઇન',
-                'ગેંગ પ્લેન્ક (Gang Plank / Level Jumping)',
                 'કાર્યાત્મક ફોરમેનશીપ',
                 'ડેપ્યુટેશન',
+                'સ્કેલર ચેઇન',
+                'ગેંગ પ્લેન્ક (Gang Plank / Level Jumping)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'હેનરી ફેયોલે કટોકટીમાં સમાન કક્ષાના બે કર્મચારીઓ ઉપરીની મંજૂરીથી સીધો સમાંતર સંપર્ક કરી શકે તે માટે "ગેંગ પ્લેન્ક" (Level Jumping) નો ખ્યાલ આપ્યો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11648,11 +11648,11 @@ graph TD
               question: '"One Subordinate, One Boss" (એક તાબેદાર, એક બોસ) એ કયા વહીવટી સિદ્ધાંતનું મૂળભૂત સૂત્ર છે?',
               options: [
                 'નિર્દેશનની એકતા',
-                'આજ્ઞાની એકતા (Unity of Command)',
-                'અધિકારશ્રેણી',
                 'સત્તા સોંપણી',
+                'અધિકારશ્રેણી',
+                'આજ્ઞાની એકતા (Unity of Command)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'આજ્ઞાની એકતા મુજબ કોઈપણ કર્મચારીને માત્ર એક જ ઉપરી અધિકારી તરફથી આદેશ મળવો જોઈએ અને તે માત્ર તે જ એક અધિકારી પ્રત્યે જવાબદાર હોવો જોઈએ.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11660,12 +11660,12 @@ graph TD
               id: 'mcq_pubadmin_p2_6',
               question: 'એફ. ડબલ્યુ. ટેલરે આજ્ઞાની એકતાના સ્થાને કેટલા નિષ્ણાત ફોરમેનનું મોડેલ (Functional Foremanship) રજૂ કર્યું હતું?',
               options: [
+                '૮',
                 '૪',
                 '૬',
-                '૮',
-                '૧૨',
+                '૧૨'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'ટેલરે ૮ ફોરમેનનું મોડેલ આપ્યું હતું, જેમાં ૪ આયોજન વિભાગના (રૂટ ક્લાર્ક, ઇન્સ્ટ્રક્શન ક્લાર્ક, ટાઇમ-કોસ્ટ ક્લાર્ક, શિસ્ત અધિકારી) અને ૪ ઉત્પાદન વિભાગના (ગેંગ બોસ, સ્પીડ બોસ, રિપેર બોસ, ઇન્સ્પેક્ટર) હોય છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11673,12 +11673,12 @@ graph TD
               id: 'mcq_pubadmin_p2_7',
               question: 'વી. એ. ગ્રેક્યુનાસ (V.A. Graicunas) નું ગાણિતિક સૂત્ર કયા વહીવટી સિદ્ધાંત સાથે સંબંધિત છે?',
               options: [
+                'આજ્ઞાની એકતા',
                 'સત્તા સોંપણી',
                 'નિયંત્રણનો વિસ્તાર (Span of Control)',
-                'સંકલન',
-                'આજ્ઞાની એકતા',
+                'સંકલન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ગ્રેક્યુનાસે ૧૯૩૩ માં નિયંત્રણના વિસ્તાર માટે R = n(2^(n-1) + n - 1) સૂત્ર આપ્યું હતું, જે દર્શાવે છે કે તાબાના કર્મચારીઓ વધતાં સંબંધોની જટિલતા ગુણોત્તર રીતે વધે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11686,12 +11686,12 @@ graph TD
               id: 'mcq_pubadmin_p2_8',
               question: 'સત્તા સોંપણી (Delegation of Authority) સંદર્ભે કયો સુવર્ણ નિયમ સાચો છે?',
               options: [
+                'માત્ર ઉત્તરદાયિત્વ સોંપી શકાય છે, સત્તા નહીં.',
                 'સત્તા અને ઉત્તરદાયિત્વ બંને સંપૂર્ણ સોંપી શકાય છે.',
                 'સત્તા સોંપી શકાય છે, પરંતુ અંતિમ ઉત્તરદાયિત્વ ક્યારેય સોંપી શકાતું નથી.',
-                'માત્ર ઉત્તરદાયિત્વ સોંપી શકાય છે, સત્તા નહીં.',
-                'સત્તા સોંપ્યા બાદ ઉપરી અધિકારી કોઈપણ રીતે જવાબદાર રહેતો નથી.',
+                'સત્તા સોંપ્યા બાદ ઉપરી અધિકારી કોઈપણ રીતે જવાબદાર રહેતો નથી.'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ઉપરી અધિકારી કાર્ય કરવાની સત્તા તાબાના કર્મચારીને આપી શકે છે, પરંતુ કામની સફળતા કે નિષ્ફળતા માટે અંતિમ ઉત્તરદાયિત્વ (Accountability) હંમેશા મૂળ ઉપરી અધિકારીનું જ રહે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11699,12 +11699,12 @@ graph TD
               id: 'mcq_pubadmin_p2_9',
               question: '"સંકલન એ સંગઠનનો પ્રથમ અને સર્વોચ્ચ સિદ્ધાંત છે" - આ વિધાન કોનું છે?',
               options: [
-                'હેનરી ફેયોલ',
                 'જેમ્સ મૂની (James Mooney)',
+                'હેનરી ફેયોલ',
                 'લ્યુથર ગુલિક',
-                'હર્બર્ટ સાયમન',
+                'હર્બર્ટ સાયમન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'જેમ્સ મૂનીના મતે તમામ પ્રવૃત્તિઓનો અંતિમ હેતુ સુમેળ અને તાલમેલ સાધવાનો હોવાથી સંકલન એ સંગઠનનો પ્રથમ સિદ્ધાંત છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11712,12 +11712,12 @@ graph TD
               id: 'mcq_pubadmin_p2_10',
               question: 'નીચેનામાંથી કઈ સંસ્થા "સ્ટાફ એજન્સી" (Staff Agency) નું ઉદાહરણ છે?',
               options: [
-                'ગૃહ મંત્રાલય',
-                'જિલ્લા કલેક્ટર કચેરી',
-                'નીતિ આયોગ (NITI Aayog)',
                 'ગુજરાત પોલીસ મહાનિર્દેશક (DGP) કચેરી',
+                'નીતિ આયોગ (NITI Aayog)',
+                'જિલ્લા કલેક્ટર કચેરી',
+                'ગૃહ મંત્રાલય'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'નીતિ આયોગ પાસે નિર્ણય લેવાની કે આદેશ આપવાની કોઈ કારોબારી સત્તા નથી; તે માત્ર સરકારને સલાહ અને સંશોધન પૂરું પાડતી શુદ્ધ સ્ટાફ એજન્સી છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-2',
             ),
@@ -11725,10 +11725,10 @@ graph TD
               id: 'mcq_pubadmin_p3_1',
               question: 'ભારતમાં સૌપ્રથમ વખત ૧૭૭૨ માં "જિલ્લા કલેક્ટર" (District Collector) ના પદનું સર્જન કોના દ્વારા કરવામાં આવ્યું હતું?',
               options: [
-                'લોર્ડ કોર્નવોલીસ',
-                'વોરન હેસ્ટિંગ્સ',
                 'લોર્ડ વેલેસ્લી',
+                'વોરન હેસ્ટિંગ્સ',
                 'લોર્ડ ડેલહાઉસી',
+                'લોર્ડ કોર્નવોલીસ'
               ],
               correctOptionIndex: 1,
               explanation: '૧૭૭૨ માં બંગાળના ગવર્નર વોરન હેસ્ટિંગ્સે મહેસૂલ એકત્રિત કરવા અને શાંતિ-વ્યવસ્થા જાળવવા માટે ભારતમાં સૌપ્રથમ કલેક્ટર પદ સ્થાપ્યું હતું.',
@@ -11741,7 +11741,7 @@ graph TD
                 'સરદાર વલ્લભભાઈ પટેલ',
                 'લોર્ડ મેકોલે',
                 'લોર્ડ કોર્નવોલીસ',
-                'લોર્ડ રિપન',
+                'લોર્ડ રિપન'
               ],
               correctOptionIndex: 2,
               explanation: 'લોર્ડ કોર્નવોલીસે સિવિલ સેવકોનો ખાનગી વેપાર અટકાવી, પગાર વધારી, ૧૭૯૩ ના કોડ દ્વારા સત્તાનું પૃથક્કરણ કરી સિવિલ સર્વિસને વ્યાવસાયિક અને સુદ્રઢ માળખું આપ્યું હતું.',
@@ -11751,12 +11751,12 @@ graph TD
               id: 'mcq_pubadmin_p3_3',
               question: 'મુઘલ સમ્રાટ અકબરની "મનસબદારી પ્રથા" માં "જાત" (Zat) શબ્દ શું દર્શાવતો હતો?',
               options: [
-                'અધિકારીએ રાખવાના ઘોડેસવારોની સંખ્યા',
-                'અધિકારીનો વ્યક્તિગત દરજ્જો અને નિશ્ચિત પગાર',
-                'જમીનની ફળદ્રુપતાનો પ્રકાર',
                 'ધાર્મિક કરની ટકાવારી',
+                'અધિકારીએ રાખવાના ઘોડેસવારોની સંખ્યા',
+                'જમીનની ફળદ્રુપતાનો પ્રકાર',
+                'અધિકારીનો વ્યક્તિગત દરજ્જો અને નિશ્ચિત પગાર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'જાત (Zat) એ મનસબદારનો વ્યક્તિગત દરજ્જો (Personal Status) અને પગાર નક્કી કરતો હતો, જ્યારે સવાર (Sawar) એ રાખવાના ઘોડેસવારોની સૈન્ય સંખ્યા દર્શાવતો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11767,7 +11767,7 @@ graph TD
                 'પેશ્વા (પંતપ્રધાન)',
                 'અમાત્ય (મજમુદાર)',
                 'સુમંત (દબીર)',
-                'શુરુનવીસ (સચિવ)',
+                'શુરુનવીસ (સચિવ)'
               ],
               correctOptionIndex: 2,
               explanation: 'સુમંત (દબીર) વિદેશ મંત્રાલય સંભાળતા અને વિદેશી રાજ્યો સાથે સંબંધો તથા રાજદૂતોની બાબતોનું સંચાલન કરતા હતા.',
@@ -11777,12 +11777,12 @@ graph TD
               id: 'mcq_pubadmin_p3_5',
               question: 'કૌટિલ્યના "અર્થશાસ્ત્ર" માં વર્ણવેલ રાજ્યના "સપ્તાંગ સિદ્ધાંત" મુજબ મંત્રીઓ અને ઉચ્ચ અધિકારીઓ (અમાત્ય) ને શરીરના કયા અંગ સમાન ગણાવ્યા છે?',
               options: [
-                'શિર (મગજ)',
                 'નેત્ર (આંખો)',
                 'બાહુ (હાથ)',
-                'જંઘા (પગ)',
+                'શિર (મગજ)',
+                'જંઘા (પગ)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'કૌટિલ્ય મુજબ રાજા એ શિર છે, અમાત્ય (મંત્રીઓ/અધિકારીઓ) એ આંખો છે, જનપદ જંઘા છે, દુર્ગ હાથ છે અને કોષ મુખ છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11791,11 +11791,11 @@ graph TD
               question: '૧૮૫૪ માં કઈ સમિતિની ભલામણોના આધારે ૧૮૫૫ થી લંડન ખાતે ICS માટે ખુલ્લી સ્પર્ધાત્મક પરીક્ષા (Open Competition) શરૂ થઈ?',
               options: [
                 'એચીસન સમિતિ',
-                'મેકોલે સમિતિ (Macaulay Committee)',
-                'લી સમિતિ',
                 'હંટર સમિતિ',
+                'મેકોલે સમિતિ (Macaulay Committee)',
+                'લી સમિતિ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'લોર્ડ મેકોલેની અધ્યક્ષતા હેઠળ ૧૮૫૪ ની સમિતિએ ભલામણ કરી કે ICS ની ભરતી પેટ્રોનેજ સિસ્ટમના બદલે મેરિટ આધારિત ખુલ્લી સ્પર્ધાત્મક પરીક્ષા દ્વારા થવી જોઈએ.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11803,12 +11803,12 @@ graph TD
               id: 'mcq_pubadmin_p3_7',
               question: '૧૮૬૩ માં સિવિલ સર્વિસ (ICS) પરીક્ષા પાસ કરનાર સૌપ્રથમ ભારતીય કોણ હતા?',
               options: [
-                'સુરેન્દ્રનાથ બેનર્જી',
                 'સત્યેન્દ્રનાથ ટાગોર',
-                'સુભાષચંદ્ર બોઝ',
+                'સુરેન્દ્રનાથ બેનર્જી',
                 'રવીન્દ્રનાથ ટાગોર',
+                'સુભાષચંદ્ર બોઝ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'રવીન્દ્રનાથ ટાગોરના મોટા ભાઈ સત્યેન્દ્રનાથ ટાગોર ૧૮૬૩ માં માત્ર ૨૧ વર્ષની વયે લંડનમાં પરીક્ષા પાસ કરી પ્રથમ ભારતીય ICS બન્યા હતા.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11816,12 +11816,12 @@ graph TD
               id: 'mcq_pubadmin_p3_8',
               question: '૧ ઓક્ટોબર ૧૯૨૬ ના રોજ સ્થપાયેલ ભારતના પ્રથમ "કેન્દ્રીય પબ્લિક સર્વિસ કમિશન" ના પ્રથમ અધ્યક્ષ કોણ હતા?',
               options: [
-                'સર રોસ બાર્કર (Sir Ross Barker)',
-                'સર ચાર્લ્સ એચીસન',
-                'લોર્ડ લી',
                 'એચ. કે. કૃપલાની',
+                'સર ચાર્લ્સ એચીસન',
+                'સર રોસ બાર્કર (Sir Ross Barker)',
+                'લોર્ડ લી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'લી કમિશન (૧૯૨૩) ની ભલામણ મુજબ ૧ ઓક્ટોબર ૧૯૨૬ ના રોજ પબ્લિક સર્વિસ કમિશનની સ્થાપના થઈ અને સર રોસ બાર્કર તેના પ્રથમ અધ્યક્ષ બન્યા હતા.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11829,12 +11829,12 @@ graph TD
               id: 'mcq_pubadmin_p3_9',
               question: 'ભારતમાં દર વર્ષે "૨૧ એપ્રિલ" ના રોજ "રાષ્ટ્રીય સિવિલ સર્વિસીસ ડે" શા માટે ઉજવવામાં આવે છે?',
               options: [
-                'આ દિવસે પ્રથમ ICS પરીક્ષા ભારતમાં લેવાઈ હતી',
                 'સરદાર પટેલે આ દિવસે ૧૯૪૭ માં મેટકાફ હાઉસ ખાતે સિવિલ સેવકોને "સ્ટીલ ફ્રેમ ઓફ ઈન્ડિયા" તરીકે સંબોધ્યા હતા',
+                'આ દિવસે પ્રથમ ICS પરીક્ષા ભારતમાં લેવાઈ હતી',
                 'આ દિવસે બંધારણનો ભાગ XIV લાગુ થયો હતો',
-                'આ દિવસે સત્યેન્દ્રનાથ ટાગોરે ICS નો હોદ્દો સંભાળ્યો હતો',
+                'આ દિવસે સત્યેન્દ્રનાથ ટાગોરે ICS નો હોદ્દો સંભાળ્યો હતો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૨૧ એપ્રિલ ૧૯૪૭ ના રોજ સરદાર વલ્લભભાઈ પટેલે મેટકાફ હાઉસ, દિલ્હી ખાતે સ્વતંત્ર ભારતના પ્રથમ બેચના સિવિલ સેવકોને સંબોધન કરી "Steel Frame of India" ગણાવ્યા હતા.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11842,12 +11842,12 @@ graph TD
               id: 'mcq_pubadmin_p3_10',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદ હેઠળ રાજ્યસભાને ૨/૩ બહુમતીથી નવી "અખિલ ભારતીય સેવા" (All India Service) ના સર્જનની વિશિષ્ટ સત્તા છે?',
               options: [
-                'અનુચ્છેદ ૩૧૧',
                 'અનુચ્છેદ ૩૧૨',
                 'અનુચ્છેદ ૩૧૫',
-                'અનુચ્છેદ ૩૨૦',
+                'અનુચ્છેદ ૩૧૧',
+                'અનુચ્છેદ ૩૨૦'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૩૧૨ મુજબ જો રાજ્યસભા ૨/૩ બહુમતીથી ઠરાવ પસાર કરે તો સંસદ કાયદા દ્વારા નવી અખિલ ભારતીય સેવા બનાવી શકે છે (જેમ કે ૧૯૬૬ માં IFoS).',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-3',
             ),
@@ -11855,12 +11855,12 @@ graph TD
               id: 'mcq_pubadmin_p4_1',
               question: 'સૌપ્રથમ વખત ૧૭૪૫ માં "Bureaucracy" (દફતરશાહી/અમલદારશાહી) શબ્દનો પ્રયોગ કયા વિદ્વાન દ્વારા કરવામાં આવ્યો હતો?',
               options: [
-                'મેક્સ વેબર',
-                'વિન્સેન્ટ ડી ગોર્ને (Vincent de Gournay)',
                 'હેનરી ફેયોલ',
                 'વૂડ્રો વિલ્સન',
+                'મેક્સ વેબર',
+                'વિન્સેન્ટ ડી ગોર્ને (Vincent de Gournay)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૧૭૪૫ માં ફ્રેન્ચ અર્થશાસ્ત્રી વિન્સેન્ટ ડી ગોર્નેએ ફ્રેન્ચ શબ્દ "Bureau" (ટેબલ/કચેરી) અને ગ્રીક શબ્દ "Kratos" (શાસન) પરથી "Bureaucracy" શબ્દ પ્રયોજ્યો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11871,7 +11871,7 @@ graph TD
                 'પરંપરાગત સત્તા (Traditional Authority)',
                 'ચમત્કારી સત્તા (Charismatic Authority)',
                 'કાયદાકીય-તાર્કિક સત્તા (Legal-Rational Authority)',
-                'ધાર્મિક સત્તા (Theocratic Authority)',
+                'ધાર્મિક સત્તા (Theocratic Authority)'
               ],
               correctOptionIndex: 2,
               explanation: 'વેબર મુજબ આધુનિક અમલદારશાહી કોઈ વ્યક્તિ કે પરંપરા પર નહીં પરંતુ બંધારણ, કાયદા અને લેખિત હોદ્દામાં સ્થાપિત કાયદાકીય-તાર્કિક સત્તા (Legal-Rational Authority) પર આધારિત હોય છે.',
@@ -11883,8 +11883,8 @@ graph TD
               options: [
                 'કે. હનુમંતૈયા',
                 'મોરારજી દેસાઈ',
-                'વીરપ્પા મોઈલી',
                 'એલ. એમ. સિંઘવી',
+                'વીરપ્પા મોઈલી'
               ],
               correctOptionIndex: 1,
               explanation: '૫ જાન્યુઆરી ૧૯૬૬ ના રોજ રચાયેલ પ્રથમ ARC ના અધ્યક્ષ મોરારજી દેસાઈ હતા. ૧૯૬૭ માં તેઓ નાયબ વડાપ્રધાન બનતાં કે. હનુમંતૈયા અધ્યક્ષ બન્યા હતા. આ આયોગે લોકપાલ અને લોકાયુક્તની સૌપ્રથમ ભલામણ કરી હતી.',
@@ -11894,12 +11894,12 @@ graph TD
               id: 'mcq_pubadmin_p4_4',
               question: '૨૦૦૫ માં રચાયેલ "દ્વિતીય વહીવટી સુધારણા આયોગ" (2nd ARC) ના અધ્યક્ષ કોણ હતા?',
               options: [
-                'મોરારજી દેસાઈ',
                 'વીરપ્પા મોઈલી (M. Veerappa Moily)',
+                'મોરારજી દેસાઈ',
                 'વાય. વી. રેડ્ડી',
-                'અરુણા રોય',
+                'અરુણા રોય'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'ઓગસ્ટ ૨૦૦૫ માં વીરપ્પા મોઈલીની અધ્યક્ષતામાં ૨મો ARC રચાયો હતો, જેણે RTI, સુશાસન, ઈ-ગવર્નન્સ, વહીવટી નૈતિકતા અને નાગરિક કેન્દ્રિત વહીવટ પર ૧૫ ઐતિહાસિક અહેવાલો આપ્યા હતા.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11910,7 +11910,7 @@ graph TD
                 'યુએસએ - બિલ ક્લિન્ટન',
                 'યુનાઇટેડ કિંગડમ (UK) - જોન મેજર (John Major)',
                 'ફ્રાન્સ - ફ્રાન્કોઇસ મિથેરાન્ડ',
-                'ભારત - પી. વી. નરસિંહ રાવ',
+                'ભારત - પી. વી. નરસિંહ રાવ'
               ],
               correctOptionIndex: 1,
               explanation: '૧૯૯૧ માં યુનાઇટેડ કિંગડમ (UK) ના વડાપ્રધાન જોન મેજર (John Major) દ્વારા નાગરિક સેવાઓની ગુણવત્તા, માપદંડ અને ફરિયાદ નિવારણ માટે સિટિઝન ચાર્ટરની શરૂઆત કરવામાં આવી હતી.',
@@ -11921,11 +11921,11 @@ graph TD
               question: 'ભારતમાં RTI કાયદો ઘડવા માટે રાજસ્થાનમાં "હમારા પૈસા, હમારા હિસાબ" જન આંદોલન ચલાવનાર પૂર્વ IAS અધિકારી અને સંસ્થા કઈ છે?',
               options: [
                 'મેધા પાટકર - નર્મદા બચાવો આંદોલન',
-                'અરુણા રોય - મજદૂર કિસાન શક્તિ સંગઠન (MKSS)',
-                'અન્ના હજારે - ભ્રષ્ટાચાર વિરોધી આંદોલન',
                 'કિરણ બેદી - ઇન્ડિયા અગેઇન્સ્ટ કરપ્શન',
+                'અન્ના હજારે - ભ્રષ્ટાચાર વિરોધી આંદોલન',
+                'અરુણા રોય - મજદૂર કિસાન શક્તિ સંગઠન (MKSS)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અરુણા રોય અને MKSS એ રાજસ્થાનના દેવડુંગરી ગામથી જનસુનાવણી ચલાવીને માહિતીના અધિકારની ક્રાંતિ સર્જી હતી, જેના પરિણામે ૨૦૦૫ માં કેન્દ્રીય RTI Act પસાર થયો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11933,12 +11933,12 @@ graph TD
               id: 'mcq_pubadmin_p4_7',
               question: 'માહિતીનો અધિકાર અધિનિયમ (RTI Act 2005) હેઠળ જો માહિતી વ્યક્તિના "જીવન અથવા અંગત સ્વતંત્રતા" (Life or Liberty) સંબંધિત હોય, તો કેટલા સમયમાં આપવી ફરજિયાત છે?',
               options: [
-                '૨૪ કલાક',
                 '૪૮ કલાક',
                 '૭ દિવસ',
-                '૩૦ દિવસ',
+                '૨૪ કલાક',
+                '૩૦ દિવસ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'RTI Act ની કલમ ૭(૧) મુજબ સામાન્ય માહિતી ૩૦ દિવસમાં, પરંતુ જો માહિતી કોઈ વ્યક્તિના જીવન કે અંગત સ્વાતંત્ર્ય સંબંધિત હોય તો અરજી મળ્યાના ૪૮ કલાકમાં આપવી ફરજિયાત છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11947,11 +11947,11 @@ graph TD
               question: '"SMART Governance" સંકલ્પનામાં અક્ષર "M" નો સાચો અર્થ શું થાય છે?',
               options: [
                 'Modern (આધુનિક)',
-                'Moral (નૈતિક)',
-                'Measurable (માપી શકાય તેવું)',
                 'Mechanized (યાંત્રિક)',
+                'Moral (નૈતિક)',
+                'Measurable (માપી શકાય તેવું)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'SMART એટલે Simple (સરળ), Moral (નૈતિક - વહીવટી મૂલ્યો/પ્રામાણિકતા), Accountable (જવાબદાર), Responsive (પ્રત્યુત્તરશીલ) અને Transparent (પારદર્શક).',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11959,12 +11959,12 @@ graph TD
               id: 'mcq_pubadmin_p4_9',
               question: 'કેન્દ્રીય નાણા મંત્રાલયનો કયો વિભાગ દર વર્ષે દેશનું વાર્ષિક અંદાજપત્ર (Union Budget) તૈયાર કરવાની મુખ્ય જવાબદારી સંભાળે છે?',
               options: [
-                'મહેસૂલ વિભાગ (Department of Revenue)',
                 'આર્થિક બાબતોનો વિભાગ (Department of Economic Affairs - DEA)',
-                'ખર્ચ વિભાગ (Department of Expenditure)',
                 'નાણાકીય સેવાઓનો વિભાગ (Department of Financial Services)',
+                'ખર્ચ વિભાગ (Department of Expenditure)',
+                'મહેસૂલ વિભાગ (Department of Revenue)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'Department of Economic Affairs (DEA) નો બજેટ વિભાગ દર વર્ષે કેન્દ્રીય બજેટ અને સંસદમાં રજૂ થતો આર્થિક સર્વેક્ષણ અહેવાલ તૈયાર કરવાની નોડલ એજન્સી છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11972,12 +11972,12 @@ graph TD
               id: 'mcq_pubadmin_p4_10',
               question: 'ભારત સરકારના વહીવટી પદાનુક્રમમાં દેશના સર્વોચ્ચ સનદી સેવક (Highest Civil Servant) કોણ હોય છે?',
               options: [
+                'કેબિનેટ સચિવ (Cabinet Secretary)',
                 'ગૃહ સચિવ (Home Secretary)',
                 'પ્રધાનમંત્રીના અગ્ર સચિવ (Principal Secretary to PM)',
-                'કેબિનેટ સચિવ (Cabinet Secretary)',
-                'વિદેશ સચિવ (Foreign Secretary)',
+                'વિદેશ સચિવ (Foreign Secretary)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'કેબિનેટ સચિવ (Cabinet Secretary) એ ભારત સરકારના સર્વોચ્ચ સનદી સેવક, કેન્દ્રીય સચિવાલયના વડા, સિવિલ સર્વિસ બોર્ડના અધ્યક્ષ અને કેબિનેટના મુખ્ય વહીવટી સલાહકાર હોય છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-4',
             ),
@@ -11985,12 +11985,12 @@ graph TD
               id: 'mcq_pubadmin_p5_1',
               question: 'ભારતમાં સૌપ્રથમ વખત વાઇસરોયની કારોબારી પરિષદમાં "પોર્ટફોલિયો સિસ્ટમ" (Portfolio System) ની શરૂઆત કોના દ્વારા કરવામાં આવી હતી?',
               options: [
+                'લોર્ડ રિપન',
                 'લોર્ડ ડેલહાઉસી',
                 'લોર્ડ કેનિંગ',
-                'લોર્ડ રિપન',
-                'લોર્ડ કર્ઝન',
+                'લોર્ડ કર્ઝન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૧૮૫૯ માં લોર્ડ કેનિંગે દરેક સભ્યને સ્વતંત્ર ખાતું સોંપવાની પોર્ટફોલિયો વ્યવસ્થા શરૂ કરી, જેને ભારતીય પરિષદ અધિનિયમ ૧૮૬૧ દ્વારા કાનૂની માન્યતા મળી.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -11998,12 +11998,12 @@ graph TD
               id: 'mcq_pubadmin_p5_2',
               question: 'ભારત સરકારના વહીવટી પદાનુક્રમમાં સમગ્ર દેશના સર્વોચ્ચ સનદી સેવક (Highest Civil Servant) કોણ હોય છે?',
               options: [
-                'પ્રધાનમંત્રીના અગ્ર સચિવ',
-                'કેન્દ્રીય ગૃહ સચિવ',
                 'કેબિનેટ સચિવ (Cabinet Secretary)',
+                'કેન્દ્રીય ગૃહ સચિવ',
                 'કેન્દ્રીય નાણા સચિવ',
+                'પ્રધાનમંત્રીના અગ્ર સચિવ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'કેબિનેટ સચિવ દેશના ટોચના IAS અધિકારી, કેબિનેટ સચિવાલયના વડા અને સિવિલ સર્વિસીસ બોર્ડના પદેન અધ્યક્ષ હોય છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12011,12 +12011,12 @@ graph TD
               id: 'mcq_pubadmin_p5_3',
               question: 'કેન્દ્ર સરકારમાં મંત્રાલય હેઠળના સંગઠનાત્મક માળખામાં "ડિવિઝન" (Division) ના વડા તરીકે સામાન્ય રીતે કયા અધિકારી કાર્યરત હોય છે?',
               options: [
-                'સેક્શન ઓફિસર',
                 'ડિરેક્ટર અથવા ડેપ્યુટી સેક્રેટરી',
                 'અંડર સેક્રેટરી',
-                'કેબિનેટ મંત્રી',
+                'સેક્શન ઓફિસર',
+                'કેબિનેટ મંત્રી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'મંત્રાલય ➔ વિભાગ (સચિવ) ➔ વિંગ (સંયુક્ત સચિવ) ➔ ડિવિઝન (ડિરેક્ટર / ડેપ્યુટી સેક્રેટરી) ➔ બ્રાન્ચ (અંડર સેક્રેટરી) ➔ સેક્શન (સેક્શન ઓફિસર).',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12024,12 +12024,12 @@ graph TD
               id: 'mcq_pubadmin_p5_4',
               question: 'કેન્દ્ર સરકારમાં સંયુક્ત સચિવ અને તેથી ઉચ્ચ હોદ્દાઓ પર નિમણૂક કરવાની સત્તા ધરાવતી "Appointments Committee of the Cabinet" (ACC) માં કોણ સામેલ હોય છે?',
               options: [
-                'રાષ્ટ્રપતિ અને વડાપ્રધાન',
-                'વડાપ્રધાન અને કેન્દ્રીય ગૃહમંત્રી',
-                'વડાપ્રધાન અને લોકસભા વિપક્ષ નેતા',
                 'કેબિનેટ સચિવ અને UPSC ચેરમેન',
+                'રાષ્ટ્રપતિ અને વડાપ્રધાન',
+                'વડાપ્રધાન અને લોકસભા વિપક્ષ નેતા',
+                'વડાપ્રધાન અને કેન્દ્રીય ગૃહમંત્રી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'કેબિનેટની નિમણૂક સમિતિ (ACC) માં વડાપ્રધાન (અધ્યક્ષ) અને ગૃહમંત્રી એમ બે સભ્યો હોય છે, જે કેન્દ્ર સરકારના તમામ ઉચ્ચ પદોની નિમણૂક મંજૂર કરે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12037,12 +12037,12 @@ graph TD
               id: 'mcq_pubadmin_p5_5',
               question: 'સંસદ દ્વારા પસાર કરાયેલા કાયદાના અમલીકરણ માટે કારોબારી (મંત્રાલય/સચિવો) દ્વારા જે વિગતવાર નિયમો ઘડવામાં આવે છે તેને શું કહેવાય છે?',
               options: [
-                'પ્રાકૃતિક વિધાન',
                 'ગૌણ વિધાન / સોંપાયેલ ધારાપ્રધાન (Delegated Legislation)',
-                'બંધારણીય સુધારો',
                 'વટહુકમ',
+                'બંધારણીય સુધારો',
+                'પ્રાકૃતિક વિધાન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'સંસદ કાયદાનો પાયાનો ઢાંચો બનાવે છે, જ્યારે તેના વિગતવાર નિયમો ઘડવાની સત્તા કારોબારીને સોંપે છે જેને Delegated Legislation કહે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12050,12 +12050,12 @@ graph TD
               id: 'mcq_pubadmin_p5_6',
               question: 'બંધારણના કયા અનુચ્છેદ હેઠળ સુપ્રીમ કોર્ટ અને હાઇકોર્ટને મૂળભૂત અધિકારોનું ઉલ્લંઘન કરતા કાયદાઓને ગેરબંધારણીય ઠેરવવાની શક્તિ (ન્યાયિક પુનરાવલોકન) મળે છે?',
               options: [
-                'અનુચ્છેદ ૧૨',
                 'અનુચ્છેદ ૧૩',
                 'અનુચ્છેદ ૧૪',
                 'અનુચ્છેદ ૧૯',
+                'અનુચ્છેદ ૧૨'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અનુચ્છેદ ૧૩ મુજબ મૂળભૂત અધિકારો સાથે અસંગત કોઈપણ કાયદો તે અસંગતતાની હદ સુધી રદબાતલ (Void) ઠરે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12063,12 +12063,12 @@ graph TD
               id: 'mcq_pubadmin_p5_7',
               question: 'જો કોઈ કાયદાનો માત્ર અમુક ભાગ ગેરબંધારણીય હોય અને બાકીનો કાયદો સ્વતંત્ર રીતે લાગુ થઈ શકે તેમ હોય, તો માત્ર ગેરબંધારણીય કલમ જ રદ થાય છે. આ કયો સિદ્ધાંત છે?',
               options: [
-                'ગ્રહણતાનો સિદ્ધાંત (Doctrine of Eclipse)',
-                'પૃથક્કરણનો સિદ્ધાંત (Doctrine of Severability)',
                 'પિતૃત્વનો સિદ્ધાંત (Doctrine of Pith and Substance)',
                 'રંગીન વિધાનનો સિદ્ધાંત (Doctrine of Colourable Legislation)',
+                'પૃથક્કરણનો સિદ્ધાંત (Doctrine of Severability)',
+                'ગ્રહણતાનો સિદ્ધાંત (Doctrine of Eclipse)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'Severability એટલે અલગ કરવું. અમાન્ય ભાગને માન્ય ભાગથી અલગ કરી માત્ર અમાન્ય ભાગ રદ કરવામાં આવે છે અને બાકીનો કાયદો અમલમાં રહે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12076,10 +12076,10 @@ graph TD
               id: 'mcq_pubadmin_p5_8',
               question: 'રાજ્યના સમગ્ર વહીવટી તંત્રના વડા, સનદી સેવાઓના પ્રમુખ અને મુખ્યમંત્રીના મુખ્ય સલાહકાર કોણ હોય છે?',
               options: [
-                'એડવોકેટ જનરલ',
-                'મુખ્ય સચિવ (Chief Secretary)',
-                'ગૃહ સચિવ',
                 'ડીજીપી (DGP)',
+                'મુખ્ય સચિવ (Chief Secretary)',
+                'એડવોકેટ જનરલ',
+                'ગૃહ સચિવ'
               ],
               correctOptionIndex: 1,
               explanation: 'મુખ્ય સચિવ રાજ્યના સર્વોચ્ચ સનદી અધિકારી છે જે રાજ્ય કેબિનેટ અને સમગ્ર વહીવટી તંત્રના વડા તરીકે કાર્ય કરે છે.',
@@ -12089,10 +12089,10 @@ graph TD
               id: 'mcq_pubadmin_p5_9',
               question: 'ભારતીય બંધારણના કયા અનુચ્છેદો હેઠળ સંસદસભ્યો અને વિધાનસભ્યો માટે "લાભનું પદ" (Office of Profit) ધરાવવા પર ગેરલાયકાતની જોગવાઈ છે?',
               options: [
-                'અનુચ્છેદ ૭૪ અને ૧૬૩',
+                'અનુચ્છેદ ૧૨૩ અને ૨૧૩',
                 'અનુચ્છેદ ૧૦૨ અને ૧૯૧',
                 'અનુચ્છેદ ૧૧૦ અને ૧૯૯',
-                'અનુચ્છેદ ૧૨૩ અને ૨૧૩',
+                'અનુચ્છેદ ૭૪ અને ૧૬૩'
               ],
               correctOptionIndex: 1,
               explanation: 'અનુચ્છેદ ૧૦૨(૧)(a) હેઠળ સંસદસભ્યો અને અનુચ્છેદ ૧૯૧(૧)(a) હેઠળ વિધાનસભ્યો માટે લાભનું પદ ધરાવવા પર સભ્યપદ રદ થવાની જોગવાઈ છે.',
@@ -12102,12 +12102,12 @@ graph TD
               id: 'mcq_pubadmin_p5_10',
               question: 'તાલુકા કક્ષાએ પંચાયત અને ગ્રામીણ વિકાસ વહીવટના વડા તરીકે કયા અધિકારી કાર્ય કરે છે?',
               options: [
-                'મામલતદાર',
-                'તાલુકા વિકાસ અધિકારી (TDO)',
                 'જિલ્લા કલેક્ટર',
                 'નાયબ મામલતદાર',
+                'તાલુકા વિકાસ અધિકારી (TDO)',
+                'મામલતદાર'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'તાલુકા કક્ષાએ મહેસૂલ અને મેજિસ્ટ્રિયલ વડા મામલતદાર છે, જ્યારે પંચાયતી રાજ અને વિકાસ કાર્યોના વડા તાલુકા વિકાસ અધિકારી (TDO) છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-5',
             ),
@@ -12195,12 +12195,12 @@ graph TD
               id: 'mcq_pubadmin_p6_1',
               question: 'ગુજરાત સરકારના ટેકનોલોજી આધારિત જનફરિયાદ નિવારણ પોર્ટલ "SWAGAT" ને કયા વર્ષમાં સંયુક્ત રાષ્ટ્ર (United Nations) દ્વારા પ્રતિષ્ઠિત "UN Public Service Award" એનાયત થયો હતો?',
               options: [
-                '૨૦૦૫',
-                '૨૦૦૮',
                 '૨૦૧૦',
+                '૨૦૦૫',
                 '૨૦૧૪',
+                '૨૦૦૮'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: '૨૦૦૩ માં શરૂ થયેલા SWAGAT (State Wide Attention on Grievances by Application of Technology) કાર્યક્રમને ટેકનોલોજી દ્વારા નાગરિકોની ફરિયાદોના ઝડપી નિકાલ માટે વર્ષ ૨૦૧૦ માં પ્રતિષ્ઠિત UN Public Service Award પ્રાપ્ત થયો હતો.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12208,12 +12208,12 @@ graph TD
               id: 'mcq_pubadmin_p6_2',
               question: 'ઈ-ગવર્નન્સના સંદર્ભમાં "Digital Gujarat" અને "e-Nagar" પોર્ટલ મુખ્યત્વે કયા ઇન્ટરેક્શન મોડેલ હેઠળ આવે છે?',
               options: [
-                'G2G (Government to Government)',
-                'G2C (Government to Citizen)',
                 'G2B (Government to Business)',
+                'G2G (Government to Government)',
                 'G2E (Government to Employee)',
+                'G2C (Government to Citizen)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'Digital Gujarat અને e-Nagar સામાન્ય નાગરિકોને સીધી ઓનલાઇન સેવાઓ (દાખલા, પ્રમાણપત્રો, વેરાની ચુકવણી) પૂરી પાડતા હોવાથી તે Government to Citizen (G2C) મોડેલ છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12222,11 +12222,11 @@ graph TD
               question: 'ગુજરાતમાં એશિયાનું સૌથી મોટું અને વ્યાપક ઈન્ટરનેટ/ઈન્ટ્રાનેટ નેટવર્ક કયું છે જે સચિવાલયથી લઈ તમામ જિલ્લા અને તાલુકા કચેરીઓને જોડે છે?',
               options: [
                 'NICNET',
-                'GSWAN (Gujarat State Wide Area Network)',
                 'BharatNet',
                 'RailTel',
+                'GSWAN (Gujarat State Wide Area Network)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'GSWAN (Gujarat State Wide Area Network) એશિયાનું સૌથી મોટું સ્ટેટ વાઈડ એરિયા નેટવર્ક છે, જે તમામ સરકારી કચેરીઓને વૉઇસ, ડેટા અને વીડિયો કનેક્ટિવિટી પૂરી પાડે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12234,12 +12234,12 @@ graph TD
               id: 'mcq_pubadmin_p6_4',
               question: 'ગુજરાતમાં જમીન મહેસૂલ રેકોર્ડ્સ (RoR - Record of Rights) જેમ કે ૭/૧૨ અને ૮-અ ના ઉતારાઓનું કમ્પ્યુટરાઇઝેશન કયા પ્રોજેક્ટ હેઠળ કરવામાં આવ્યું છે?',
               options: [
-                'e-GujCop',
                 'e-Dhara (ભૂલેખ)',
-                'i-Khedut',
                 'ATVT',
+                'i-Khedut',
+                'e-GujCop'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'e-Dhara (ભૂલેખ) પ્રોજેક્ટ હેઠળ ગુજરાતના તમામ ગામોના જમીન રેકોર્ડ્સ (૭/૧૨, ૮-અ અને હક્કપત્રક નોંધો) નું સંપૂર્ણ કમ્પ્યુટરાઇઝેશન અને ઓનલાઇન વિતરણ શક્ય બન્યું છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12247,12 +12247,12 @@ graph TD
               id: 'mcq_pubadmin_p6_5',
               question: 'સરકારી ખરીદીમાં પારદર્શિતા લાવવા અને ભ્રષ્ટાચાર નાબૂદ કરવા ભારત સરકાર દ્વારા શરૂ કરાયેલું "GeM" પોર્ટલ કયા પ્રકારનું ઈ-ગવર્નન્સ મોડલ છે?',
               options: [
-                'G2C',
-                'G2B (Government to Business)',
-                'G2E',
                 'C2C',
+                'G2E',
+                'G2C',
+                'G2B (Government to Business)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'GeM (Government e-Marketplace) સરકાર અને ખાનગી વેપારીઓ/સપ્લાયર્સ વચ્ચેનું પ્લેટફોર્મ હોવાથી તે Government to Business (G2B) મોડેલ છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12260,12 +12260,12 @@ graph TD
               id: 'mcq_pubadmin_p6_6',
               question: 'ગુજરાત સરકારના "ATVT" (આપણો તાલુકો વાઇબ્રન્ટ તાલુકો) કાર્યક્રમ હેઠળ નાગરિકોને ઝડપી દાખલા-પ્રમાણપત્રો આપવા કયા કેન્દ્રો કાર્યરત છે?',
               options: [
-                'સુગમ કેન્દ્રો',
                 'જનસેવા કેન્દ્રો (Jan Seva Kendras)',
                 'ઉમંગ કેન્દ્રો',
                 'સાયબર કેન્દ્રો',
+                'સુગમ કેન્દ્રો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'તાલુકા મામલતદાર કચેરી ખાતે ATVT હેઠળ જનસેવા કેન્દ્રો સ્થાપિત કરાયા છે જે સિંગલ-વિન્ડો દ્વારા ૩૫+ પ્રકારના પ્રમાણપત્રો અને દાખલાઓ નક્કી કરેલ સમયમર્યાદામાં પૂરા પાડે છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12273,10 +12273,10 @@ graph TD
               id: 'mcq_pubadmin_p6_7',
               question: 'ગાંધીનગર સચિવાલય ખાતે સમગ્ર રાજ્યના ૨૦+ વિભાગોના ૩,૦૦૦+ કી પરફોર્મન્સ ઇન્ડિકેટર્સ (KPIs) નું વાસ્તવિક સમય (Real-Time) મોનિટરિંગ કઈ સિસ્ટમ દ્વારા થાય છે?',
               options: [
-                'SWAGAT',
-                'CM Dashboard',
                 'e-Nagar',
+                'CM Dashboard',
                 'GSDC Portal',
+                'SWAGAT'
               ],
               correctOptionIndex: 1,
               explanation: 'ગાંધીનગર ખાતે CM Dashboard દ્વારા રાજ્ય સરકારના મુખ્ય પ્રોજેક્ટ્સ અને યોજનાઓનું વાસ્તવિક સમયમાં સર્વોચ્ચ કક્ષાએથી મોનિટરિંગ કરવામાં આવે છે.',
@@ -12366,10 +12366,10 @@ graph TD
               id: 'mcq_pubadmin_p6_8',
               question: '"The Science of \'Muddling Through\'" નિબંધમાં જાહેર નીતિ નિર્માણના \'ઇન્ક્રીમેન્ટલ મોડેલ\' (Incremental Model) ના પ્રણેતા કોણ હતા?',
               options: [
-                'હર્બર્ટ સાયમન (Herbert Simon)',
-                'ચાર્લ્સ લિન્ડબ્લોમ (Charles Lindblom)',
                 'થોમસ ડાઇ (Thomas Dye)',
+                'ચાર્લ્સ લિન્ડબ્લોમ (Charles Lindblom)',
                 'વુડ્રો વિલ્સન (Woodrow Wilson)',
+                'હર્બર્ટ સાયમન (Herbert Simon)'
               ],
               correctOptionIndex: 1,
               explanation: 'ચાર્લ્સ લિન્ડબ્લોમે ૧૯૫૯ માં "The Science of \'Muddling Through\'" માં જણાવ્યું કે સરકારો પ્રવર્તમાન નીતિઓમાં નાના-નાના ક્રમશઃ ફેરફારો (Incremental changes) કરે છે.',
@@ -12379,12 +12379,12 @@ graph TD
               id: 'mcq_pubadmin_p6_9',
               question: 'જાહેર નીતિ નિર્માણ ચક્ર (Policy Making Life Cycle) નો પ્રથમ તાર્કિક તબક્કો કયો છે?',
               options: [
-                'નીતિ અમલીકરણ (Policy Implementation)',
-                'એજન્ડા સેટિંગ અને સમસ્યા ઓળખ (Agenda Setting)',
                 'નીતિ મૂલ્યાંકન (Policy Evaluation)',
                 'નીતિ કાયદેસરતા (Policy Legitimation)',
+                'એજન્ડા સેટિંગ અને સમસ્યા ઓળખ (Agenda Setting)',
+                'નીતિ અમલીકરણ (Policy Implementation)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'નીતિ ચક્ર હંમેશા સમસ્યાની ઓળખ અને સમાજમાં કઈ સમસ્યાને વહીવટી પ્રાથમિકતા આપવી તે "એજન્ડા સેટિંગ" થી શરૂ થાય છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12392,12 +12392,12 @@ graph TD
               id: 'mcq_pubadmin_p6_10',
               question: 'જાહેર વહીવટમાં "સોશિયલ ઓડિટ" (Social Audit) ની કાનૂની જોગવાઈ સૌપ્રથમ કયા કેન્દ્રીય અધિનિયમની કલમ ૧૭ હેઠળ ફરજિયાત બનાવવામાં આવી હતી?',
               options: [
-                'RTI Act 2005',
                 'MGNREGA Act 2005',
-                'Lokpal Act 2013',
                 'PESA Act 1996',
+                'Lokpal Act 2013',
+                'RTI Act 2005'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'મનરેગા (MGNREGA Act 2005) ની કલમ ૧૭ હેઠળ તમામ વિકાસ કામોનું ગ્રામસભા દ્વારા સોશિયલ ઓડિટ કરવું કાયદેસર રીતે ફરજિયાત બનાવવામાં આવ્યું છે.',
               sourceVideoTitle: 'LearningPocket GPSC - જાહેર વહીવટ Part-6',
             ),
@@ -12609,7 +12609,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l1_1',
               question: '\'Ethics\' શબ્દ મૂળ કઈ ભાષાના કયા શબ્દ પરથી ઉતરી આવ્યો છે?',
-              options: ['લૅટિન - Mos', 'ગ્રીક - Ethos', 'ફ્રેન્ચ - Etiquette', 'સંસ્કૃત - Niti'],
+              options: ['સંસ્કૃત - Niti', 'ગ્રીક - Ethos', 'લૅટિન - Mos', 'ફ્રેન્ચ - Etiquette'],
               correctOptionIndex: 1,
               explanation: 'Ethics શબ્દ ગ્રીક શબ્દ \'Ethos\' પરથી આવ્યો છે, જેનો અર્થ રિવાજ, આચાર કે ચારિત્ર્ય થાય છે. જ્યારે લૅટિન શબ્દ \'Mores\' પરથી Morality શબ્દ બન્યો છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
@@ -12617,23 +12617,23 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l1_2',
               question: 'નીચેનામાંથી નીતિશાસ્ત્ર કયા પ્રકારનું વિજ્ઞાન છે?',
-              options: ['વર્ણનાત્મક વિજ્ઞાન (Descriptive Science)', 'વાસ્તવિક વિજ્ઞાન (Positive Science)', 'આદર્શમૂલક / પ્રતિમાનક વિજ્ઞાન (Normative Science)', 'પ્રાયોગિક ભૌતિક વિજ્ઞાન (Empirical Science)'],
-              correctOptionIndex: 2,
+              options: ['પ્રાયોગિક ભૌતિક વિજ્ઞાન (Empirical Science)', 'વાસ્તવિક વિજ્ઞાન (Positive Science)', 'વર્ણનાત્મક વિજ્ઞાન (Descriptive Science)', 'આદર્શમૂલક / પ્રતિમાનક વિજ્ઞાન (Normative Science)'],
+              correctOptionIndex: 3,
               explanation: 'નીતિશાસ્ત્ર \'શું છે\' તેનું નહીં પરંતુ \'શું હોવું જોઈએ\' (What ought to be) તેવા આદર્શો નક્કી કરતું આદર્શમૂલક વિજ્ઞાન (Normative Science) છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_3',
               question: 'નીતિશાસ્ત્રના દાયરામાં નીચેનામાંથી કઈ ક્રિયાઓનું જ નૈતિક મૂલ્યાંકન શક્ય છે?',
-              options: ['અનૈચ્છિક સહજ ક્રિયાઓ (Involuntary Actions)', 'ઐચ્છિક માનવીય ક્રિયાઓ (Voluntary Human Actions)', 'ગાઢ નિંદ્રામાં બોલાયેલા શબ્દો', 'નાના અબુધ બાળકો દ્વારા થયેલી ક્રિયાઓ'],
-              correctOptionIndex: 1,
+              options: ['નાના અબુધ બાળકો દ્વારા થયેલી ક્રિયાઓ', 'ગાઢ નિંદ્રામાં બોલાયેલા શબ્દો', 'અનૈચ્છિક સહજ ક્રિયાઓ (Involuntary Actions)', 'ઐચ્છિક માનવીય ક્રિયાઓ (Voluntary Human Actions)'],
+              correctOptionIndex: 3,
               explanation: 'માત્ર ઐચ્છિક ક્રિયાઓ (Actus Humanus) જેમાં જ્ઞાન, ઇચ્છાશક્તિ અને પસંદગીની સ્વતંત્રતા હોય, તેનું જ નૈતિક કે અનૈતિક તરીકે મૂલ્યાંકન થઈ શકે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_4',
               question: '"સાધન અને સાધ્ય વચ્ચેનો સંબંધ બીજ અને વૃક્ષ જેવો છે" - આ વિચારધારા કોની છે?',
-              options: ['નિકોલો માકિયાવેલી', 'મહાત્મા ગાંધી', 'જેરેમી બેન્થમ', 'થોમસ હોબ્સ'],
+              options: ['જેરેમી બેન્થમ', 'મહાત્મા ગાંધી', 'થોમસ હોબ્સ', 'નિકોલો માકિયાવેલી'],
               correctOptionIndex: 1,
               explanation: 'ગાંધીજી માનતા હતા કે ઉમદા સાધ્ય મેળવવા માટે સાધન પણ પવિત્ર જ હોવું જોઈએ. અપવિત્ર સાધનોથી ક્યારેય નૈતિક પરિણામ લાવી શકાતું નથી.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
@@ -12641,23 +12641,23 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l1_5',
               question: '"મહત્તમ લોકોનું મહત્તમ સુખ" (Greatest Happiness of the Greatest Number) એ કયા નૈતિક સિદ્ધાંતનો પાયો છે?',
-              options: ['કર્તવ્યવાદ (Deontology)', 'ઉપયોગિતાવાદ (Utilitarianism)', 'સદ્ગુણ નીતિશાસ્ત્ર (Virtue Ethics)', 'અંતરાત્માવાદ (Intuitionism)'],
-              correctOptionIndex: 1,
+              options: ['ઉપયોગિતાવાદ (Utilitarianism)', 'સદ્ગુણ નીતિશાસ્ત્ર (Virtue Ethics)', 'અંતરાત્માવાદ (Intuitionism)', 'કર્તવ્યવાદ (Deontology)'],
+              correctOptionIndex: 0,
               explanation: 'ઉપયોગિતાવાદ (જેરેમી બેન્થમ અને જે. એસ. મિલ) અનુસાર કોઈ કાર્યનું નૈતિક મૂલ્ય તેનાથી સર્જાતા સુખ કે ઉપયોગિતાના પરિણામ પર આધાર રાખે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_6',
               question: 'ઇમેન્યુઅલ કાન્ટનો \'નિરપેક્ષ આદેશ\' (Categorical Imperative) નીતિશાસ્ત્રની કઈ વિચારધારા સાથે સંબંધિત છે?',
-              options: ['પરિણામવાદ (Teleology)', 'કર્તવ્યવાદ (Deontology)', 'વ્યવહારવાદ (Pragmatism)', 'સુખવાદ (Hedonism)'],
-              correctOptionIndex: 1,
+              options: ['સુખવાદ (Hedonism)', 'પરિણામવાદ (Teleology)', 'વ્યવહારવાદ (Pragmatism)', 'કર્તવ્યવાદ (Deontology)'],
+              correctOptionIndex: 3,
               explanation: 'કાન્ટના મતે પરિણામની ચિંતા કર્યા વિના \'કર્તવ્ય ખાતર કર્તવ્ય\' (Duty for duty\'s sake) કરવું તે જ સર્વોચ્ચ નીતિમત્તા છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_7',
               question: 'નીચેનામાંથી કયા ચિંતકે ૪ મુખ્ય સદ્ગુણો (Cardinal Virtues - શાણપણ, સાહસ, સંયમ, ન્યાય) ની સંકલ્પના આપી હતી?',
-              options: ['પ્લેટો અને એરિસ્ટોટલ', 'કાર્લ માર્ક્સ', 'હર્બર્ટ સાયમન', 'જોન લોક'],
+              options: ['પ્લેટો અને એરિસ્ટોટલ', 'જોન લોક', 'હર્બર્ટ સાયમન', 'કાર્લ માર્ક્સ'],
               correctOptionIndex: 0,
               explanation: 'પ્રાચીન ગ્રીક ફિલસૂફો પલેટો અને એરિસ્ટોટલે ચાર મુખ્ય સદ્ગુણો (Wisdom, Courage, Temperance, Justice) નું પ્રતિપાદન કર્યું હતું.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
@@ -12665,31 +12665,31 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l1_8',
               question: 'પરા-નીતિશાસ્ત્ર (Meta-Ethics) નો મુખ્ય વિષય કયો છે?',
-              options: ['ચોક્કસ કાયદાઓ ઘડવા', 'નૈતિક પદો અને ભાષાનો અર્થ શોધવો (દા.ત. "સારું" એટલે શું?)', 'માત્ર સમાજના જૂના રિવાજોની યાદી બનાવવી', 'સરકારી બજેટનું નૈતિક મૂલ્યાંકન કરવું'],
-              correctOptionIndex: 1,
+              options: ['સરકારી બજેટનું નૈતિક મૂલ્યાંકન કરવું', 'માત્ર સમાજના જૂના રિવાજોની યાદી બનાવવી', 'ચોક્કસ કાયદાઓ ઘડવા', 'નૈતિક પદો અને ભાષાનો અર્થ શોધવો (દા.ત. "સારું" એટલે શું?)'],
+              correctOptionIndex: 3,
               explanation: 'Meta-Ethics નૈતિક વિભાવનાઓની મૂળ પ્રકૃતિ, ભાષા અને તેના તાત્વિક અર્થોની ઊંડાણપૂર્વક તપાસ કરે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_9',
               question: 'બાયોએથિક્સ (Bioethics), પર્યાવરણીય નીતિશાસ્ત્ર અને વહીવટી નીતિશાસ્ત્ર એ નીતિશાસ્ત્રની કઈ શાખાના ભાગ છે?',
-              options: ['વર્ણનાત્મક નીતિશાસ્ત્ર', 'પરા-નીતિશાસ્ત્ર', 'વ્યવહારુ / અનુપ્રયુક્ત નીતિશાસ્ત્ર (Applied Ethics)', 'પૂર્વધારણાત્મક નીતિશાસ્ત્ર'],
-              correctOptionIndex: 2,
+              options: ['પરા-નીતિશાસ્ત્ર', 'વર્ણનાત્મક નીતિશાસ્ત્ર', 'પૂર્વધારણાત્મક નીતિશાસ્ત્ર', 'વ્યવહારુ / અનુપ્રયુક્ત નીતિશાસ્ત્ર (Applied Ethics)'],
+              correctOptionIndex: 3,
               explanation: 'વ્યવહારુ નીતિશાસ્ત્ર (Applied Ethics) વાસ્તવિક જીવનના ચોક્કસ વ્યાવસાયિક અને સમકાલીન ક્ષેત્રોમાં નૈતિક સિદ્ધાંતોનો વિનિયોગ કરે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_10',
               question: 'બાળકના નૈતિક મૂલ્ય ઘડતરમાં "પ્રથમ પાઠશાળા" કઈ ગણાય છે?',
-              options: ['પ્રાથમિક શાળા', 'પરિવાર (Family)', 'સોશિયલ મીડિયા', 'સરકારી સંસ્થાઓ'],
-              correctOptionIndex: 1,
+              options: ['સોશિયલ મીડિયા', 'પ્રાથમિક શાળા', 'પરિવાર (Family)', 'સરકારી સંસ્થાઓ'],
+              correctOptionIndex: 2,
               explanation: 'પરિવાર એ બાળકના નૈતિક અને સામાજિક મૂલ્યોનું પ્રાથમિક પારણું છે, જ્યાં બાળક અનુકરણ અને પ્રેમ દ્વારા આચરણ શીખે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_11',
               question: 'જાહેર/વ્યાવસાયિક સંબંધોમાં નીચેનામાંથી કયું લક્ષણ અનિવાર્ય છે?',
-              options: ['લાગણી અને સ્વજનો પ્રત્યે સહજ પક્ષપાત', 'વસ્તુનિષ્ઠતા (Objectivity) અને કાયદાનું સમાન પાલન', 'અનૌપચારિકતા અને અંગત વફાદારી', 'વ્યક્તિગત અંતઃપ્રેરણા મુજબ મનસ્વી નિર્ણયો'],
+              options: ['અનૌપચારિકતા અને અંગત વફાદારી', 'વસ્તુનિષ્ઠતા (Objectivity) અને કાયદાનું સમાન પાલન', 'લાગણી અને સ્વજનો પ્રત્યે સહજ પક્ષપાત', 'વ્યક્તિગત અંતઃપ્રેરણા મુજબ મનસ્વી નિર્ણયો'],
               correctOptionIndex: 1,
               explanation: 'જાહેર ક્ષેત્રમાં અધિકારીએ વ્યક્તિગત લાગણી કે પૂર્વગ્રહ વગર કાયદા અને યોગ્યતાના આધારે તટસ્થ નિર્ણયો લેવાના હોય છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
@@ -12697,7 +12697,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l1_12',
               question: 'નીચેનામાંથી કઈ સ્થિતિ "હિતોનો સંઘર્ષ" (Conflict of Interest) દર્શાવે છે?',
-              options: ['અધિકારી નિયમ મુજબ સમયસર ઓફિસે પહોંચે', 'અધિકારી પોતાના પુત્રની કંપનીને સરકારી કોન્ટ્રાક્ટ મંજૂર કરે', 'અધિકારી પારદર્શક રીતે RTI નો જવાબ આપે', 'અધિકારી ગરીબ નાગરિકની સમસ્યા સાંભળે'],
+              options: ['અધિકારી ગરીબ નાગરિકની સમસ્યા સાંભળે', 'અધિકારી પોતાના પુત્રની કંપનીને સરકારી કોન્ટ્રાક્ટ મંજૂર કરે', 'અધિકારી પારદર્શક રીતે RTI નો જવાબ આપે', 'અધિકારી નિયમ મુજબ સમયસર ઓફિસે પહોંચે'],
               correctOptionIndex: 1,
               explanation: 'જ્યારે જાહેર ફરજ અને વ્યક્તિગત/કૌટુંબિક હિત વચ્ચે ટકરાવ થાય ત્યારે તેને હિતોનો સંઘર્ષ કહે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
@@ -12705,23 +12705,23 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l1_13',
               question: 'કાયદો અને નીતિશાસ્ત્ર અંગે નીચેનામાંથી કયું વિધાન સાચું છે?',
-              options: ['દરેક કાયદેસર બાબત હંમેશા સંપૂર્ણપણે નૈતિક જ હોય છે', 'કાયદો એ નૈતિકતાનું ન્યૂનતમ ધોરણ છે', 'અનૈતિક કાર્ય ક્યારેય કાયદેસર હોઈ શકે નહીં', 'કાયદો અને નૈતિકતા બંને એકબીજાથી સંપૂર્ણપણે વિરોધાભાસી છે'],
-              correctOptionIndex: 1,
+              options: ['કાયદો એ નૈતિકતાનું ન્યૂનતમ ધોરણ છે', 'કાયદો અને નૈતિકતા બંને એકબીજાથી સંપૂર્ણપણે વિરોધાભાસી છે', 'અનૈતિક કાર્ય ક્યારેય કાયદેસર હોઈ શકે નહીં', 'દરેક કાયદેસર બાબત હંમેશા સંપૂર્ણપણે નૈતિક જ હોય છે'],
+              correctOptionIndex: 0,
               explanation: 'કાયદો સમાજમાં ન્યૂનતમ સ્વીકાર્ય આચરણ ફરજિયાત બનાવે છે, પરંતુ નૈતિકતા કાયદા કરતાં વધુ ઉચ્ચ આદર્શો અને શુદ્ધ અંતઃકરણની અપેક્ષા રાખે છે.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_14',
               question: 'માનવીય ક્રિયાના નૈતિક નિર્ધારકોમાં નીચેનામાંથી કોનો સમાવેશ થતો નથી?',
-              options: ['સાધ્ય / ઈરાદો (Intention)', 'સાધન / કાર્યનું સ્વરૂપ (Means)', 'પરિસ્થિતિ / સંદર્ભ (Circumstances)', 'વ્યક્તિનું શારીરિક વજન અને રંગ'],
-              correctOptionIndex: 3,
+              options: ['વ્યક્તિનું શારીરિક વજન અને રંગ', 'સાધ્ય / ઈરાદો (Intention)', 'સાધન / કાર્યનું સ્વરૂપ (Means)', 'પરિસ્થિતિ / સંદર્ભ (Circumstances)'],
+              correctOptionIndex: 0,
               explanation: 'નૈતિકતાના ૩ સ્વીકૃત નિર્ધારકો ઈરાદો (Motive), સાધન (Means) અને સંદર્ભ (Circumstances) છે; શારીરિક બાંધો નિર્ધારક નથી.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l1_15',
               question: 'જાહેર વહીવટમાં "સાધુતા" (Probity in Governance) એટલે શું?',
-              options: ['માત્ર પૂજા-પાઠ અને આધ્યાત્મિક ચિંતન', 'જાહેર ફરજોમાં સંપૂર્ણ પ્રામાણિકતા, પારદર્શિતા અને ભ્રષ્ટાચારહીન આચરણ', 'કોઈ પણ કાયદાકીય નિયમોનું પાલન ન કરવું', 'માત્ર અંગત નફા માટે સત્તાનો ઉપયોગ'],
+              options: ['માત્ર અંગત નફા માટે સત્તાનો ઉપયોગ', 'જાહેર ફરજોમાં સંપૂર્ણ પ્રામાણિકતા, પારદર્શિતા અને ભ્રષ્ટાચારહીન આચરણ', 'માત્ર પૂજા-પાઠ અને આધ્યાત્મિક ચિંતન', 'કોઈ પણ કાયદાકીય નિયમોનું પાલન ન કરવું'],
               correctOptionIndex: 1,
               explanation: 'વહીવટમાં સાધુતા (Probity) એટલે જાહેર સેવામાં ઉચ્ચતમ નૈતિક આદર્શો, પ્રમાણિકતા અને સત્યનિષ્ઠાનું ચુસ્ત પાલન.',
               sourceVideoTitle: 'L1: નીતિશાસ્ત્ર અને માનવ સંવાદ (Bhoraniya\'s Guidance)',
@@ -12729,7 +12729,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_1',
               question: 'માનવ જીવનમાં \'શાંતિ\', \'સુખ\' અને \'ન્યાય\' કયા પ્રકારના મૂલ્યો ગણાય છે?',
-              options: ['સાધન મૂલ્યો (Instrumental Values)', 'સાધ્ય મૂલ્યો / અંતિમ મૂલ્યો (Terminal / Intrinsic Values)', 'માત્ર આર્થિક મૂલ્યો', 'અનૈતિક મૂલ્યો'],
+              options: ['માત્ર આર્થિક મૂલ્યો', 'સાધ્ય મૂલ્યો / અંતિમ મૂલ્યો (Terminal / Intrinsic Values)', 'સાધન મૂલ્યો (Instrumental Values)', 'અનૈતિક મૂલ્યો'],
               correctOptionIndex: 1,
               explanation: 'જે મૂલ્યો સ્વયંમાં અંતિમ લક્ષ્ય હોય અને અન્ય કોઈ વસ્તુ મેળવવા માટે નહીં પણ પોતાના માટે જ ઇચ્છનીય હોય તેને સાધ્ય મૂલ્યો (Terminal / Intrinsic Values) કહે છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12737,7 +12737,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_2',
               question: 'નીચેનામાંથી કયું મૂલ્ય "સાધન મૂલ્ય" (Instrumental Value) નું ઉદાહરણ છે?',
-              options: ['આનંદ / સુખ (Happiness)', 'મુક્તિ / મોક્ષ (Salvation)', 'પ્રામાણિકતા (Honesty)', 'આત્મસંતોષ (Self-fulfillment)'],
+              options: ['આત્મસંતોષ (Self-fulfillment)', 'આનંદ / સુખ (Happiness)', 'પ્રામાણિકતા (Honesty)', 'મુક્તિ / મોક્ષ (Salvation)'],
               correctOptionIndex: 2,
               explanation: 'પ્રામાણિકતા, હિંમત અને શિસ્ત એ જીવનના અંતિમ લક્ષ્યો સિદ્ધ કરવાના સાધનો (વર્તણૂકીય રીતો) હોવાથી સાધન મૂલ્યો છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12745,15 +12745,15 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_3',
               question: 'ગાંધીજીએ ૧૯૨૫માં \'યંગ ઇન્ડિયા\'માં કેટલા "સામાજિક પાપો" (Social Sins) ની યાદી આપી હતી?',
-              options: ['૫', '૭', '૧૦', '૧૨'],
-              correctOptionIndex: 1,
+              options: ['૫', '૧૨', '૧૦', '૭'],
+              correctOptionIndex: 3,
               explanation: 'ગાંધીજીએ ૧૯૨૫માં "Seven Social Sins" આપ્યા હતા, જેમાં સિદ્ધાંત વગરનું રાજકારણ, શ્રમ વગરની સંપત્તિ, વિવેક વિનાનો આનંદ વગેરે સામેલ છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_4',
               question: 'ગાંધીજીના ૭ સામાજિક પાપોમાં નીચેનામાંથી કયું પાપ સામેલ નથી?',
-              options: ['સિદ્ધાંત વગરનું રાજકારણ', 'નીતિમત્તા વગરનો વેપાર', 'વિજ્ઞાન વગરની ટેકનોલોજી', 'માનવતા વગરનું વિજ્ઞાન'],
+              options: ['સિદ્ધાંત વગરનું રાજકારણ', 'માનવતા વગરનું વિજ્ઞાન', 'વિજ્ઞાન વગરની ટેકનોલોજી', 'નીતિમત્તા વગરનો વેપાર'],
               correctOptionIndex: 2,
               explanation: 'સાચો શબ્દ "માનવતા વગરનું વિજ્ઞાન" (Science without Humanity) છે; \'વિજ્ઞાન વગરની ટેકનોલોજી\' એ ગાંધીજીની યાદીમાં નહોતું.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12761,7 +12761,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_5',
               question: '"દરિદ્ર નારાયણ" (ગરીબોની સેવા એ જ ઈશ્વર સેવા) ની વિભાવના કયા મહાન વિચારક સાથે સંકળાયેલી છે?',
-              options: ['સ્વામી વિવેકાનંદ', 'કૌટિલ્ય', 'રાજા રામમોહન રાય', 'જ્યોતિરાવ ફુલે'],
+              options: ['સ્વામી વિવેકાનંદ', 'કૌટિલ્ય', 'જ્યોતિરાવ ફુલે', 'રાજા રામમોહન રાય'],
               correctOptionIndex: 0,
               explanation: 'સ્વામી વિવેકાનંદે પીડિત અને વંચિત માનવજાતની સેવામાં જ સાચી ઈશ્વર ભક્તિ જોઈ હતી.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12769,7 +12769,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_6',
               question: 'શાસનમાં "બંધારણીય નૈતિકતા" (Constitutional Morality) ની સંકલ્પના પર સૌથી વધુ ભાર કોણે મૂક્યો હતો?',
-              options: ['લોર્ડ માઉન્ટબેટન', 'ડૉ. બી. આર. આંબેડકર', 'મોતીલાલ નેહરુ', 'સી. રાજગોપાલાચારી'],
+              options: ['સી. રાજગોપાલાચારી', 'ડૉ. બી. આર. આંબેડકર', 'લોર્ડ માઉન્ટબેટન', 'મોતીલાલ નેહરુ'],
               correctOptionIndex: 1,
               explanation: 'ડૉ. આંબેડકરે બંધારણ સભામાં ભારપૂર્વક કહ્યું હતું કે લોકશાહીના અસ્તિત્વ માટે માત્ર કાયદાનું શાસન નહીં પરંતુ \'બંધારણીય નૈતિકતા\' અનિવાર્ય છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12777,15 +12777,15 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_7',
               question: 'ભારતીય સનદી સેવાઓ (Civil Services) ને "સ્ટીલ ફ્રેમ ઓફ ઈન્ડિયા" કોણે કહી હતી?',
-              options: ['પંડિત જવાહરલાલ નેહરુ', 'સરદાર વલ્લભભાઈ પટેલ', 'ડૉ. રાજેન્દ્ર પ્રસાદ', 'લાલ બહાદુર શાસ્ત્રી'],
-              correctOptionIndex: 1,
+              options: ['પંડિત જવાહરલાલ નેહરુ', 'લાલ બહાદુર શાસ્ત્રી', 'ડૉ. રાજેન્દ્ર પ્રસાદ', 'સરદાર વલ્લભભાઈ પટેલ'],
+              correctOptionIndex: 3,
               explanation: 'સરદાર પટેલે ૨૧ એપ્રિલ ૧૯૪૭ના રોજ મેટકાફ હાઉસમાં સનદી અધિકારીઓને દેશની અખંડિતતા જાળવતી \'સ્ટીલ ફ્રેમ\' ગણાવી હતી.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_8',
               question: 'બાળકના પ્રાથમિક સામાજિકીકરણ (Primary Socialization) માં સૌથી મહત્વની ભૂમિકા કોની હોય છે?',
-              options: ['શાળાના આચાર્ય', 'પરિવાર (Family)', 'સરકારી વહીવટીતંત્ર', 'સિનેમા અને મીડિયા'],
+              options: ['શાળાના આચાર્ય', 'પરિવાર (Family)', 'સિનેમા અને મીડિયા', 'સરકારી વહીવટીતંત્ર'],
               correctOptionIndex: 1,
               explanation: 'પરિવાર એ બાળકના જીવનનું પ્રથમ વાતાવરણ છે જ્યાં તે અનુકરણ દ્વારા પાયાના સંસ્કારો અને મૂલ્યો મેળવે છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12793,7 +12793,7 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_9',
               question: 'બાળકમાં સમાનતા, બંધુતા અને વૈજ્ઞાનિક અભિગમ જેવા મૂલ્યોનું ઔપચારિક ઘડતર મુખ્યત્વે ક્યાં થાય છે?',
-              options: ['ધાર્મિક ઉત્સવોમાં', 'શૈક્ષણિક સંસ્થાઓમાં (Educational Institutions)', 'બજારમાં', 'માત્ર ઘરમાં'],
+              options: ['માત્ર ઘરમાં', 'શૈક્ષણિક સંસ્થાઓમાં (Educational Institutions)', 'ધાર્મિક ઉત્સવોમાં', 'બજારમાં'],
               correctOptionIndex: 1,
               explanation: 'શાળાઓ અને કોલેજોમાં બાળક વિવિધ પૃષ્ઠભૂમિના લોકો સાથે ભળીને બંધારણીય અને તાર્કિક મૂલ્યો શીખે છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
@@ -12801,48 +12801,48 @@ graph TD
             McqModel(
               id: 'mcq_ethics_l2_10',
               question: '"ટ્રસ્ટીશીપનો સિદ્ધાંત" (Theory of Trusteeship) કોણે આપ્યો હતો?',
-              options: ['કાર્લ માર્ક્સ', 'મહાત્મા ગાંધી', 'એડમ સ્મિથ', 'જોન સ્ટુઅર્ટ મિલ'],
-              correctOptionIndex: 1,
+              options: ['મહાત્મા ગાંધી', 'જોન સ્ટુઅર્ટ મિલ', 'કાર્લ માર્ક્સ', 'એડમ સ્મિથ'],
+              correctOptionIndex: 0,
               explanation: 'ગાંધીજી અનુસાર ધનિકો પોતાની સંપત્તિના માલિક નથી, પરંતુ સમાજના કલ્યાણ માટે તેના ટ્રસ્ટી છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_11',
               question: 'પર્યાવરણીય નૈતિકતામાં "આંતર-પેઢી સમાનતા" (Intergenerational Equity) એટલે શું?',
-              options: ['માત્ર વર્તમાન પેઢીએ તમામ સંસાધનો વાપરી નાખવા', 'ભાવી પેઢીના હક્કો અને સંસાધનોનું રક્ષણ કરવું', 'માત્ર પ્રાચીન પરંપરાઓનું પાલન કરવું', 'ઔદ્યોગિક પ્રદૂષણને પ્રોત્સાહન આપવું'],
-              correctOptionIndex: 1,
+              options: ['માત્ર પ્રાચીન પરંપરાઓનું પાલન કરવું', 'માત્ર વર્તમાન પેઢીએ તમામ સંસાધનો વાપરી નાખવા', 'ઔદ્યોગિક પ્રદૂષણને પ્રોત્સાહન આપવું', 'ભાવી પેઢીના હક્કો અને સંસાધનોનું રક્ષણ કરવું'],
+              correctOptionIndex: 3,
               explanation: 'ભવિષ્યમાં આવનારી પેઢીઓ માટે પણ પૃથ્વી અને સંસાધનો સુરક્ષિત રહે તે ટકાઉ વિકાસ અને નૈતિકતાનો પાયો છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_12',
               question: 'જાહેર વહીવટમાં નૈતિકતાના પાલનથી નીચેનામાંથી શું પ્રાપ્ત થાય છે?',
-              options: ['લાલફીતાશાહી અને ભ્રષ્ટાચારમાં વધારો', 'નાગરિકોનો શાસનમાં વિશ્વાસ (Public Trust) અને સુશાસન', 'સગાવાદ અને પક્ષપાત', 'સરકારી યોજનાઓમાં વિલંબ'],
-              correctOptionIndex: 1,
+              options: ['સરકારી યોજનાઓમાં વિલંબ', 'લાલફીતાશાહી અને ભ્રષ્ટાચારમાં વધારો', 'સગાવાદ અને પક્ષપાત', 'નાગરિકોનો શાસનમાં વિશ્વાસ (Public Trust) અને સુશાસન'],
+              correctOptionIndex: 3,
               explanation: 'વહીવટમાં નૈતિકતાથી સરકારની કાયદેસરતા વધે છે અને લોકોનો લોકશાહી સંસ્થાઓ પર વિશ્વાસ દ્રઢ બને છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_13',
               question: 'વ્યક્તિગત સ્તરે અનૈતિક વર્તનનું મુખ્ય મનોવૈજ્ઞાનિક પરિણામ શું હોય છે?',
-              options: ['આત્મસન્માનમાં અસાધારણ વૃદ્ધિ', 'અપરાધભાવ (Guilt), આત્મગ્લાનિ અને માનસિક તાણ', 'ચારિત્ર્યની ઉચ્ચ સ્થિતિ', 'કાયમી આંતરિક શાંતિ'],
-              correctOptionIndex: 1,
+              options: ['આત્મસન્માનમાં અસાધારણ વૃદ્ધિ', 'કાયમી આંતરિક શાંતિ', 'અપરાધભાવ (Guilt), આત્મગ્લાનિ અને માનસિક તાણ', 'ચારિત્ર્યની ઉચ્ચ સ્થિતિ'],
+              correctOptionIndex: 2,
               explanation: 'અનૈતિક વર્તનથી અંતરાત્મા કલુષિત થાય છે અને વ્યક્તિ ભય તથા આત્મગ્લાનિ અનુભવે છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_14',
               question: '"સર્વોદય" (Sarvodaya) શબ્દનો અર્થ શું થાય છે?',
-              options: ['માત્ર અમીરોનો ઉદય', 'માત્ર શાસક વર્ગનો ઉદય', 'સૌનો ઉદય / તમામનું સર્વાંગી કલ્યાણ', 'માત્ર શહેરી વિસ્તારોનો વિકાસ'],
-              correctOptionIndex: 2,
+              options: ['માત્ર શાસક વર્ગનો ઉદય', 'સૌનો ઉદય / તમામનું સર્વાંગી કલ્યાણ', 'માત્ર અમીરોનો ઉદય', 'માત્ર શહેરી વિસ્તારોનો વિકાસ'],
+              correctOptionIndex: 1,
               explanation: 'સર્વોદય એટલે સમાજના તમામ વર્ગોનો ઉદય, જે અંત્યોદય (છેવાડાના માનવીના કલ્યાણ) થી શરૂ થાય છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l2_15',
               question: 'વર્ગખંડમાં વિદ્યાર્થીઓ માટે શિક્ષકની સૌથી મહત્વની ભૂમિકા કઈ છે?',
-              options: ['માત્ર પુસ્તકીય વાંચન કરાવનાર', 'નૈતિક રોલ મોડેલ (Ethical Role Model)', 'કડક સજા આપનાર અધિકારી', 'વ્યાપારી માર્ગદર્શક'],
-              correctOptionIndex: 1,
+              options: ['નૈતિક રોલ મોડેલ (Ethical Role Model)', 'કડક સજા આપનાર અધિકારી', 'માત્ર પુસ્તકીય વાંચન કરાવનાર', 'વ્યાપારી માર્ગદર્શક'],
+              correctOptionIndex: 0,
               explanation: 'શિક્ષકનું વ્યક્તિગત ચારિત્ર્ય, સમાન વ્યવહાર અને સત્યનિષ્ઠા વિદ્યાર્થીઓ માટે સૌથી મોટો નૈતિક પ્રેરણાસ્રોત બને છે.',
               sourceVideoTitle: 'L2: નીતિશાસ્ત્ર અને માનવ સંવાદ Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -12850,12 +12850,12 @@ graph TD
               id: 'mcq_ethics_l10_1',
               question: 'બાળકના નૈતિક અને સામાજિક મૂલ્યોના સિંચનમાં "પ્રથમ પાઠશાળા" કઈ ગણાય છે?',
               options: [
-                'પ્રાથમિક શાળા',
                 'પરિવાર (Family)',
                 'સોશિયલ મીડિયા',
+                'પ્રાથમિક શાળા',
                 'યુનિવર્સિટી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'બાળક જન્મથી જ પરિવારના સભ્યોના અનુકરણ અને આંતરિકીકરણ દ્વારા પ્રાથમિક સંસ્કારો ગ્રહણ કરે છે.',
               sourceVideoTitle: 'L10: સિવિલ સેવાના મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -12864,11 +12864,11 @@ graph TD
               question: 'કિશોરાવસ્થા (Adolescence - ૧૩ થી ૧૯ વર્ષ) દરમિયાન બાળકના વર્તન અને મૂલ્યો પર કોનો સૌથી નિર્ણાયક પ્રભાવ પડે છે?',
               options: [
                 'માત્ર રાજકીય નેતાઓ',
-                'પીઅર ગ્રુપ / મિત્રવર્તુળ (Peer Group)',
                 'માત્ર પાઠ્યપુસ્તકો',
-                'સરકારી પરિપત્રો'
+                'સરકારી પરિપત્રો',
+                'પીઅર ગ્રુપ / મિત્રવર્તુળ (Peer Group)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'આ વયજૂથમાં બાળક પરિવાર કરતાં પોતાના મિત્રોના અભિપ્રાય અને પીઅર પ્રેશરને વધુ મહત્વ આપે છે.',
               sourceVideoTitle: 'L10: સિવિલ સેવાના મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -12876,9 +12876,9 @@ graph TD
               id: 'mcq_ethics_l10_3',
               question: 'જવાબદારી (Responsibility) અને જવાબદેહી (Accountability) વચ્ચેનો સૌથી નિર્ણાયક તાત્વિક તફાવત કયો છે?',
               options: [
-                'જવાબદારી અને જવાબદેહી બંને સમાન છે',
-                'જવાબદારી સોંપી શકાય છે, પરંતુ અંતિમ પરિણામોની જવાબદેહી ક્યારેય અન્યને સોંપી શકાતી નથી',
                 'જવાબદેહી અન્યને સોંપી શકાય છે પરંતુ જવાબદારી નહીં',
+                'જવાબદારી સોંપી શકાય છે, પરંતુ અંતિમ પરિણામોની જવાબદેહી ક્યારેય અન્યને સોંપી શકાતી નથી',
+                'જવાબદારી અને જવાબદેહી બંને સમાન છે',
                 'બંને માત્ર કાગળ પર હોય છે'
               ],
               correctOptionIndex: 1,
@@ -12889,12 +12889,12 @@ graph TD
               id: 'mcq_ethics_l10_4',
               question: 'દ્વિતીય વહીવટી સુધારણા પંચ (Second ARC) ના અહેવાલ મુજબ સનદી સેવકમાં \'સત્યનિષ્ઠા\' (Integrity) નો મુખ્ય માપદંડ કયો છે?',
               options: [
-                'માત્ર ઓફિસમાં સમયસર હાજર રહેવું',
                 'જાહેર પદ અને સત્તાનો પોતાના કે સગાં-સંબંધીઓના અંગત લાભ માટે દુરુપયોગ ન કરવો',
+                'માત્ર ઓફિસમાં સમયસર હાજર રહેવું',
                 'તમામ સરકારી ફાઇલો ગુપ્ત રાખવી',
                 'માત્ર મંત્રીઓની આજ્ઞા પાળવી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '2nd ARC મુજબ હોદ્દાનો વ્યક્તિગત સ્વાર્થ કે સગાવાદ માટે દુરુપયોગ અટકાવવો તે સત્યનિષ્ઠાનો પાયો છે.',
               sourceVideoTitle: 'L10: સિવિલ સેવાના મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -12902,10 +12902,10 @@ graph TD
               id: 'mcq_ethics_l10_5',
               question: 'કાયદાકીય અસ્પષ્ટતા કે ગ્રે એરિયા (Gray Areas) માં નિર્ણય લેતી વખતે સનદી સેવકે ક્રિકેટ અમ્પાયરની જેમ કેવો અભિગમ અપનાવવો જોઈએ?',
               options: [
-                'અંગત લાગણીઓ આધારિત (Subjective)',
+                'કોઈ નિર્ણય ન લેવો',
                 'તથ્યો, પુરાવા અને કાયદા આધારિત વસ્તુનિષ્ઠતા (Objective)',
-                'સત્તાધારી પક્ષના હિત મુજબ',
-                'કોઈ નિર્ણય ન લેવો'
+                'અંગત લાગણીઓ આધારિત (Subjective)',
+                'સત્તાધારી પક્ષના હિત મુજબ'
               ],
               correctOptionIndex: 1,
               explanation: 'અધિકારીએ ક્રિકેટ અમ્પાયરની જેમ સબ્જેક્ટિવિટી છોડીને ઓબ્જેક્ટિવિટી અને નિષ્પક્ષતા જાળવવી જોઈએ.',
@@ -12915,10 +12915,10 @@ graph TD
               id: 'mcq_ethics_l10_6',
               question: 'આજના AI, ઓટોમેશન અને હાઇબ્રિડ વર્કના દોરમાં લીડર માટે કર્મચારીઓનું માનસિક સ્વાસ્થ્ય સાચવવા કયું કૌશલ્ય સૌથી નિર્ણાયક છે?',
               options: [
-                'માત્ર તાનાશાહી આદેશો આપવા',
+                'કર્મચારીઓ સાથે વાતચીત બંધ કરવી',
                 'સહાનુભૂતિપૂર્વક સાંભળવું (Empathetic Listening) અને ભાવનાત્મક બુદ્ધિમત્તા',
-                'વધુ પડતો કાગળનો ઉપયોગ કરવો',
-                'કર્મચારીઓ સાથે વાતચીત બંધ કરવી'
+                'માત્ર તાનાશાહી આદેશો આપવા',
+                'વધુ પડતો કાગળનો ઉપયોગ કરવો'
               ],
               correctOptionIndex: 1,
               explanation: 'ટેકનોલોજીકલ ડિસરપ્શન વખતે લીડરની માનવીય હૂંફ અને એમ્પેથી કર્મચારીઓને માનસિક સ્થિરતા આપે છે.',
@@ -13120,11 +13120,11 @@ graph TD
               question: '\'મનોવલણ\' (Attitude) ની સૌથી સચોટ વ્યાખ્યા નીચેનામાંથી કઈ છે?',
               options: [
                 'ક્ષણિક માનસિક આવેગ',
-                'કોઈ વ્યક્તિ, વિચાર કે પરિસ્થિતિ પ્રત્યે અનુકૂળ કે પ્રતિકૂળ મૂલ્યાંકન કરવાની સ્થિર માનસિક પૂર્વતૈયારી',
                 'માત્ર જન્મજાત વારસાગત ગુણધર્મ',
-                'શારીરિક ક્રિયા કરવાની ક્ષમતા'
+                'શારીરિક ક્રિયા કરવાની ક્ષમતા',
+                'કોઈ વ્યક્તિ, વિચાર કે પરિસ્થિતિ પ્રત્યે અનુકૂળ કે પ્રતિકૂળ મૂલ્યાંકન કરવાની સ્થિર માનસિક પૂર્વતૈયારી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'મનોવલણ એ કોઈ ચોક્કસ સંદર્ભ કે વિચાર (Attitude Object) પ્રત્યે સાનુકૂળ કે પ્રતિકૂળ પ્રતિક્રિયા આપવાની પ્રમાણમાં સ્થિર અને શીખેલી માનસિક સિસ્ટમ છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13132,12 +13132,12 @@ graph TD
               id: 'mcq_ethics_l3_2',
               question: 'મનોવલણના ત્રિ-પરિમાણીય CAB મોડેલમાં \'C\' શાનું પ્રતિનિધિત્વ કરે છે?',
               options: [
-                'Character (ચારિત્ર્ય)',
-                'Conscience (અંતરાત્મા)',
                 'Cognitive (બોધાત્મક - જ્ઞાન, માહિતી અને માન્યતાઓ)',
-                'Compassion (કરુણા)'
+                'Compassion (કરુણા)',
+                'Character (ચારિત્ર્ય)',
+                'Conscience (અંતરાત્મા)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'CAB મોડેલમાં C = Cognitive (બોધાત્મક/જ્ઞાનાત્મક ઘટક), જે વિષય વિશેના તથ્યો, માન્યતાઓ અને જ્ઞાન સાથે સંકળાયેલ છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13145,12 +13145,12 @@ graph TD
               id: 'mcq_ethics_l3_3',
               question: 'CAB મોડેલના કયા ઘટક હેઠળ \'ગમો, અણગમો, પ્રેમ કે તિરસ્કાર\' જેવી લાગણીઓનો સમાવેશ થાય છે?',
               options: [
-                'Cognitive Component',
                 'Affective Component (ભાવાત્મક ઘટક)',
+                'Cognitive Component',
                 'Behavioral Component',
                 'Aptitude Component'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'Affective (A) ઘટક વ્યક્તિની સંવેદનાઓ, લાગણીઓ અને મૂલ્યાંકનાત્મક ગમા-અણગમા સાથે સંબંધિત છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13158,12 +13158,12 @@ graph TD
               id: 'mcq_ethics_l3_4',
               question: 'CAB મોડેલનો \'B\' ઘટક શેના સાથે સંબંધિત છે?',
               options: [
-                'Belief (માન્યતા)',
-                'Brainpower (બુદ્ધિશક્તિ)',
+                'Benevolence (પરોપકાર)',
                 'Behavioral (વર્તનાત્મક ક્રિયા કે પ્રતિભાવ આપવાની તત્પરતા)',
-                'Benevolence (પરોપકાર)'
+                'Belief (માન્યતા)',
+                'Brainpower (બુદ્ધિશક્તિ)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'B = Behavioral Component, જે વ્યક્તિના વાસ્તવિક બાહ્ય વર્તન, ક્રિયા અને વર્તણૂકીય વલણને દર્શાવે છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13171,12 +13171,12 @@ graph TD
               id: 'mcq_ethics_l3_5',
               question: 'જાહેર જીવન અને અંગત જીવન વચ્ચે સ્પષ્ટ ભેદરેખા ન જળવાય તો વહીવટમાં નીચેનામાંથી કયું અનૈતિક પરિણામ સર્જાય છે?',
               options: [
-                'વસ્તુનિષ્ઠતામાં વધારો',
-                'સગાવાદ (Nepotism) અને હિતોનો સંઘર્ષ (Conflict of Interest)',
+                'કાયદાના શાસનનું સુદ્રઢીકરણ',
                 'વહીવટી પારદર્શિતા',
-                'કાયદાના શાસનનું સુદ્રઢીકરણ'
+                'સગાવાદ (Nepotism) અને હિતોનો સંઘર્ષ (Conflict of Interest)',
+                'વસ્તુનિષ્ઠતામાં વધારો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'અંગત પારિવારિક સંબંધો જાહેર હોદ્દા પર પ્રભાવ પાડે ત્યારે સગાવાદ અને હિતોનો સંઘર્ષ ઉત્પન્ન થાય છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13185,9 +13185,9 @@ graph TD
               question: 'અમેરિકન પ્રમુખ બિલ ક્લિન્ટન સામે મોનિકા લેવિન્સ્કી પ્રકરણમાં ઊભો થયેલો વિવાદ મુખ્યત્વે કયા નૈતિક સિદ્ધાંત સાથે સંકળાયેલો હતો?',
               options: [
                 'ખાનગી જીવનની અશુદ્ધિ ધરાવતી વ્યક્તિ જાહેર પદ પર વિશ્વાસપાત્ર ન હોઈ શકે',
-                'આર્થિક ઉદારીકરણનો સિદ્ધાંત',
                 'ચૂંટણી બોન્ડનો વિવાદ',
-                'પર્યાવરણીય પ્રદૂષણ'
+                'પર્યાવરણીય પ્રદૂષણ',
+                'આર્થિક ઉદારીકરણનો સિદ્ધાંત'
               ],
               correctOptionIndex: 0,
               explanation: 'પાશ્ચાત્ય સંસ્કૃતિમાં માનવામાં આવે છે કે જો કોઈ વ્યક્તિ પોતાના અંગત જીવનમાં અપ્રામાણિક હોય તો તે રાષ્ટ્ર માટે સારો શાસક (Statesman) ન બની શકે.',
@@ -13197,12 +13197,12 @@ graph TD
               id: 'mcq_ethics_l3_7',
               question: 'નીચેનામાંથી કયું લક્ષણ મનોવલણ (Attitude) નું નથી?',
               options: [
-                'તે શીખાયેલું (Acquired) હોય છે.',
                 'તે સાપેક્ષ સ્થિરતા (Relatively Enduring) ધરાવે છે.',
                 'તે ૧૦૦% અપરિવર્તનશીલ હોય છે અને ક્યારેય બદલી શકાતું નથી.',
+                'તે શીખાયેલું (Acquired) હોય છે.',
                 'તે હંમેશા કોઈ ચોક્કસ વિષય કે વ્યક્તિ પ્રત્યે લક્ષિત હોય છે.'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'મનોવલણ સ્થિર હોવા છતાં અપરિવર્તનશીલ નથી; યોગ્ય શિક્ષણ, પ્રેરણા અને અનુભવો દ્વારા વલણમાં પરિવર્તન લાવી શકાય છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13210,20 +13210,20 @@ graph TD
               id: 'mcq_ethics_l3_8',
               question: 'જંગલમાં સિંહ સૌથી મોટો, ઝડપી કે સૌથી બુદ્ધિશાળી ન હોવા છતાં \'રાજા\' શા માટે ગણાય છે?',
               options: [
-                'તેના મોટા કદના કારણે',
-                'તેના વિશિષ્ટ આત્મવિશ્વાસુ અને નિર્ભય મનોવલણ (King Attitude) ના કારણે',
+                'તેની શાકાહારી પ્રકૃતિને લીધે',
                 'જંગલના કાયદા દ્વારા ઘોષિત હોવાથી',
-                'તેની શાકાહારી પ્રકૃતિને લીધે'
+                'તેના વિશિષ્ટ આત્મવિશ્વાસુ અને નિર્ભય મનોવલણ (King Attitude) ના કારણે',
+                'તેના મોટા કદના કારણે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'શારીરિક પરિમાણો કરતાં વ્યક્તિ કે પ્રાણીનું મનોવલણ (Attitude) તેની સરદારી અને પરિણામ નક્કી કરે છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l3_9',
               question: 'વાવાઝોડા વખતે બધા પક્ષીઓથી વિપરીત વાદળોની ઉપર ઊડીને \'આકાશ પર રાજ કરનાર\' પક્ષી તરીકે ભોરાણીયા સરે કોનું ઉદાહરણ આપ્યું?',
-              options: ['પોપટ', 'ગરુડ (Eagle)', 'કબૂતર', 'મોર'],
-              correctOptionIndex: 1,
+              options: ['પોપટ', 'કબૂતર', 'ગરુડ (Eagle)', 'મોર'],
+              correctOptionIndex: 2,
               explanation: 'ગરુડનો એટીટ્યુડ વિપરીત પરિસ્થિતિઓને પોતાની પ્રગતિનું સાધન બનાવવાનું પ્રતીક છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13231,19 +13231,19 @@ graph TD
               id: 'mcq_ethics_l3_10',
               question: 'માર્લબોરો (Marlboro) સિગરેટ કંપનીએ પોતાના વેચાણમાં ક્રાંતિ લાવવા માટે સિગરેટને કઈ ભાવના સાથે જોડી હતી?',
               options: [
-                'સાધુભાવ અને આધ્યાત્મિકતા',
-                'પુરુષત્વ (Manliness) અને રફ-એન્ડ-ટફ લાઈફસ્ટાઈલ',
+                'ધાર્મિક વિધિઓ',
                 'માત્ર સ્ત્રી સ્વાતંત્ર્ય',
-                'ધાર્મિક વિધિઓ'
+                'સાધુભાવ અને આધ્યાત્મિકતા',
+                'પુરુષત્વ (Manliness) અને રફ-એન્ડ-ટફ લાઈફસ્ટાઈલ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'માર્લબોરોએ વિજ્ઞાપનો દ્વારા ગ્રાહકના મનમાં સિગરેટને પુરુષત્વ અને સ્વેગ સાથે સાંકળીને ભાવાત્મક આકર્ષણ ઊભું કર્યું હતું.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
             McqModel(
               id: 'mcq_ethics_l3_11',
               question: '૨૦૧૧ ના ક્રિકેટ વર્લ્ડ કપમાં જીવલેણ બિમારી (કેન્સર) ની શરૂઆત હોવા છતાં અડગ સકારાત્મક વલણથી ભારતને વિજય અપાવનાર કયા ખેલાડીનો સંદર્ભ લેક્ચરમાં અપાયો છે?',
-              options: ['વિરેન્દ્ર સેહવાગ', 'યુવરાજ સિંહ', 'ઝહીર ખાન', 'સુરેશ રૈના'],
+              options: ['વિરેન્દ્ર સેહવાગ', 'યુવરાજ સિંહ', 'સુરેશ રૈના', 'ઝહીર ખાન'],
               correctOptionIndex: 1,
               explanation: 'યુવરાજ સિંહના અતૂટ દેશપ્રેમ અને વિજયી વલણે શારીરિક પીડાને પરાસ્ત કરી હતી.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
@@ -13253,8 +13253,8 @@ graph TD
               question: '"Aptitude decides what you can do; Attitude decides how well you do it." - આ કથન અનુસાર યોગ્યતા (Aptitude) અને વલણ (Attitude) વચ્ચે મુખ્ય ભેદ શું છે?',
               options: [
                 'યોગ્યતા ક્ષમતા દર્શાવે છે, જ્યારે વલણ કાર્ય પ્રત્યેનો અભિગમ અને નૈતિક નિષ્ઠા દર્શાવે છે.',
-                'યોગ્યતા માત્ર શારીરિક બળ છે, વલણ માત્ર કાયદો છે.',
                 'બંને એકબીજાના સમાનાર્થી છે.',
+                'યોગ્યતા માત્ર શારીરિક બળ છે, વલણ માત્ર કાયદો છે.',
                 'વહીવટમાં યોગ્યતાની કોઈ જરૂર નથી.'
               ],
               correctOptionIndex: 0,
@@ -13278,12 +13278,12 @@ graph TD
               id: 'mcq_ethics_l3_14',
               question: 'એક આદર્શ સનદી અધિકારીમાં નીચેનામાંથી કયું મનોવલણ હોવું અનિચ્છનીય (Unethical) છે?',
               options: [
-                'રાજકીય તટસ્થતા (Political Neutrality)',
                 'નબળા વર્ગો પ્રત્યે કરુણા (Compassion)',
-                'લાલફીતાશાહી અને નાગરિકો પ્રત્યે ઉદાસીનતા (Apathy & Red Tapism)',
-                'વસ્તુનિષ્ઠતા (Objectivity)'
+                'વસ્તુનિષ્ઠતા (Objectivity)',
+                'રાજકીય તટસ્થતા (Political Neutrality)',
+                'લાલફીતાશાહી અને નાગરિકો પ્રત્યે ઉદાસીનતા (Apathy & Red Tapism)'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'નાગરિકો પ્રત્યે ઉદાસીન વલણ અને લાલફીતાશાહી સુશાસનની વિરુદ્ધ છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13291,12 +13291,12 @@ graph TD
               id: 'mcq_ethics_l3_15',
               question: 'માર્કેટિંગ કંપનીઓ દ્વારા ગ્રાહકોનું વલણ બદલવા માટે સામાન્ય રીતે કયા બે માનવીય મનોભાવોનો સૌથી વધુ ઉપયોગ કરવામાં આવે છે?',
               options: [
-                'સત્ય અને અહિંસા',
                 'ભય (Fear) અને લાલચ (Greed)',
+                'જિજ્ઞાસા અને શિસ્ત',
                 'ત્યાગ અને વૈરાગ્ય',
-                'જિજ્ઞાસા અને શિસ્ત'
+                'સત્ય અને અહિંસા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'વિજ્ઞાપનો ગ્રાહકના મનમાં રોગ, સુંદરતા ગુમાવવાનો ભય કે આર્થિક લાભની લાલચ પેદા કરીને વલણ અને ખરીદી વર્તન બદલે છે.',
               sourceVideoTitle: 'L3: વલણ (Attitude) Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13304,12 +13304,12 @@ graph TD
               id: 'mcq_ethics_l4_1',
               question: 'મનોવલણ (Attitude) ના ઘડતર સંદર્ભે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'મનોવલણ જન્મજાત અને જનીનીય (Genetic) હોય છે.',
+                'મનોવલણ ક્યારેય બદલી શકાતું નથી.',
                 'બાળક જન્મથી જ જ્ઞાતિ કે લિંગ આધારિત પૂર્વગ્રહો લઈને જન્મે છે.',
-                'મનોવલણ એ સામાજિકીકરણ અને અનુભવો દ્વારા શીખાયેલું (Acquired) હોય છે.',
-                'મનોવલણ ક્યારેય બદલી શકાતું નથી.'
+                'મનોવલણ જન્મજાત અને જનીનીય (Genetic) હોય છે.',
+                'મનોવલણ એ સામાજિકીકરણ અને અનુભવો દ્વારા શીખાયેલું (Acquired) હોય છે.'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'મનોવલણ જન્મજાત નથી પરંતુ વ્યક્તિ પર્યાવરણ, પરિવાર, શાળા અને અનુભવોમાંથી કેળવે છે.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13318,9 +13318,9 @@ graph TD
               question: 'કોઈ વ્યક્તિ ટ્રાફિક પોલીસ સાથેના એક ખરાબ અનુભવ પરથી "બધા જ પોલીસવાળા ખરાબ હોય છે" તેવું માની લે, તો આ મનોવલણ ઘડતરનું કયું પરિબળ છે?',
               options: [
                 'પ્રત્યક્ષ અંગત અનુભવ પરથી અતિ-સામાન્યીકરણ (Overgeneralization from Direct Experience)',
-                'વારસાગત બુદ્ધિમત્તા',
                 'બંધારણીય જોગવાઈ',
-                'સાધ્ય મૂલ્ય'
+                'સાધ્ય મૂલ્ય',
+                'વારસાગત બુદ્ધિમત્તા'
               ],
               correctOptionIndex: 0,
               explanation: 'મર્યાદિત અંગત અનુભવો પરથી સમગ્ર સંસ્થા કે જૂથ વિશે સામાન્યીકરણ કરી લેવું એ પૂર્વગ્રહયુક્ત વલણ બનાવે છે.',
@@ -13330,10 +13330,10 @@ graph TD
               id: 'mcq_ethics_l4_3',
               question: 'વ્યક્તિએ પોતે જાતે ક્યારેય અનુભવ ન કર્યો હોય છતાં અન્ય લોકોની વાતો કે સિનેમા પરથી વલણ બાંધી લેવું, તેને કેવો અનુભવ કહેવાય?',
               options: [
-                'Direct Experience',
+                'Aptitude',
                 'પરોક્ષ / અન્યના અનુભવો (Vicarious / Indirect Experience)',
                 'Cognitive Dissonance',
-                'Aptitude'
+                'Direct Experience'
               ],
               correctOptionIndex: 1,
               explanation: 'સાસુ-વહુ કે અન્ય જૂથો વિશે સમાજમાંથી સાંભળેલી વાતોના આધારે બંધાતું વલણ પરોક્ષ અનુભવનું પરિણામ છે.',
@@ -13344,11 +13344,11 @@ graph TD
               question: 'પ્રેરક સંચાર (Persuasion) ના પ્રક્રિયા મોડેલના ૩ મુખ્ય ઘટકો કયા છે?',
               options: [
                 'ધન, સત્તા અને પદ',
-                'સ્રોત (Source), સંદેશ (Message) અને લક્ષિત શ્રોતા (Audience)',
                 'કાયદો, પોલીસ અને અદાલત',
-                'ઇરાદો, ક્રિયા અને પરિણામ'
+                'ઇરાદો, ક્રિયા અને પરિણામ',
+                'સ્રોત (Source), સંદેશ (Message) અને લક્ષિત શ્રોતા (Audience)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'પ્રેરક સંચારમાં કોણ કહે છે (Source), શું કહે છે (Message) અને કોને કહે છે (Audience) - આ ત્રણ પાયાના ઘટકો છે.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13356,12 +13356,12 @@ graph TD
               id: 'mcq_ethics_l4_5',
               question: 'કોમી રમખાણો કે તણાવ વખતે શાંતિ જાળવવા માટે ફિલ્મ સ્ટાર કરતાં ધર્મગુરુનો સંદેશ વધુ અસરકારક સાબિત થાય છે. આ પ્રેરક સંચારના કયા લક્ષણને આભારી છે?',
               options: [
+                'કાયદાકીય સજાનો ભય',
                 'સ્રોતની વિષયાનુરૂપ અધિકૃતતા અને સ્વીકાર્યતા (Contextual Authority & Credibility)',
                 'સંદેશની લંબાઈ',
-                'શ્રોતાઓની આર્થિક સ્થિતિ',
-                'કાયદાકીય સજાનો ભય'
+                'શ્રોતાઓની આર્થિક સ્થિતિ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જે તે ધાર્મિક જૂથ પોતાના ધર્મગુરુના શબ્દોને અધિકૃત અને પવિત્ર માને છે, જેથી સંદેશની સ્વીકાર્યતા ઝડપથી વધે છે.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13371,8 +13371,8 @@ graph TD
               options: [
                 'Halo Effect',
                 'Boomerang Effect (બૂમરેંગ અસર)',
-                'Hawthorne Effect',
-                'Placebo Effect'
+                'Placebo Effect',
+                'Hawthorne Effect'
               ],
               correctOptionIndex: 1,
               explanation: 'ભયનો અતિરેક શ્રોતામાં રક્ષણાત્મક નકારાત્મકતા પેદા કરે છે, જેનાથી ઈચ્છિત પરિણામને બદલે વિપરીત અસર થાય છે.',
@@ -13383,11 +13383,11 @@ graph TD
               question: 'સ્વચ્છ ભારત મિશન હેઠળ ગ્રામીણ ભારતમાં શૌચાલયના ઉપયોગને પ્રોત્સાહિત કરવા માટે કઈ મુખ્ય ભાવાત્મક અપીલ (Emotional Appeal) કરવામાં આવી હતી?',
               options: [
                 'માત્ર સબસિડીના નાણાંની લાલચ',
+                'વિદેશ પ્રવાસની ઓફર',
                 'મહિલા સન્માન, ગરિમા (ઇજ્જત ઘર) અને બાળ આરોગ્ય',
-                'પોલીસ કેસની ધમકી',
-                'વિદેશ પ્રવાસની ઓફર'
+                'પોલીસ કેસની ધમકી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'વિદ્યા બાલન અને અમિતાભ બચ્ચન દ્વારા શૌચાલયને મહિલા સન્માન અને રોગમુક્તિ સાથે સાંકળીને વલણ બદલવામાં આવ્યું હતું.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13395,12 +13395,12 @@ graph TD
               id: 'mcq_ethics_l4_8',
               question: 'ગુજરાત પ્રવાસનને વેગ આપવા અમિતાભ બચ્ચન દ્વારા ચલાવાયેલ કયા સુપ્રસિદ્ધ કેમ્પેઇને લોકોના પ્રવાસન વલણમાં ધરખમ પરિવર્તન આણ્યું?',
               options: [
-                'પલ્સ પોલિયો',
                 '"ખુશબૂ ગુજરાત કી" (કચ્છ નહીં દેખા તો કુછ નહીં દેખા)',
                 'દરવાજા બંધ',
-                'અતિથિ દેવો ભવ'
+                'અતિથિ દેવો ભવ',
+                'પલ્સ પોલિયો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'આ પ્રેરક અભિયાને કચ્છ અને ગુજરાતના પર્યટન સ્થળો પ્રત્યે લોકોનું મનોવલણ હકારાત્મક બનાવ્યું.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13408,10 +13408,10 @@ graph TD
               id: 'mcq_ethics_l4_9',
               question: 'સનદી અધિકારી સમક્ષ જ્યારે "કાયદાનું કઠોર પાલન" અને "ગરીબ પ્રત્યે માનવીય કરુણા" વચ્ચે દ્વિધા ઊભી થાય, ત્યારે સૌથી યોગ્ય વહીવટી અભિગમ કયો છે?',
               options: [
-                'ગરીબને તગેડી મૂકવો',
                 'નિયમો તોડીને ગેરકાયદેસર લાભ આપવો',
+                'તાત્કાલિક રાજીનામું આપી દેવું',
                 'કાયદાનું ઉલ્લંઘન કર્યા વિના સક્રિય રીતે દસ્તાવેજી સહાય કરવી અથવા વૈકલ્પિક રાહત ફંડ/NGO મારફત મદદ કરવી',
-                'તાત્કાલિક રાજીનામું આપી દેવું'
+                'ગરીબને તગેડી મૂકવો'
               ],
               correctOptionIndex: 2,
               explanation: 'નિયમોનું પાલન અને કરુણા બંને વચ્ચે સંતુલન સાધીને રચનાત્મક ઉકેલ લાવવો એ જ સાચું નૈતિક શાસન છે.',
@@ -13421,12 +13421,12 @@ graph TD
               id: 'mcq_ethics_l4_10',
               question: 'બિહાર અને યુપી જેવા રાજ્યોમાં યુપીએસસી/જીપીએસસી પાસ યુવાનોના અપહરણ કરી પરાણે લગ્ન કરાવી દેવાની ઘટનાઓ (પકડૌવા વિવાહ) કઈ સામાજિક બદીના દબાણનું પરિણામ છે?',
               options: [
-                'પર્યાવરણીય પ્રદૂષણ',
                 'દહેજ પ્રથા (Dowry System) અને સામાજિક સરખામણી',
-                'આર્થિક મંદી',
-                'શહેરીકરણ'
+                'શહેરીકરણ',
+                'પર્યાવરણીય પ્રદૂષણ',
+                'આર્થિક મંદી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'સરકારી નોકરીયાત વર માટે કરોડો રૂપિયાના દહેજની માંગણીના લીધે સમાજમાં આવી વિકૃત બદીઓ જન્મ લે છે.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13434,12 +13434,12 @@ graph TD
               id: 'mcq_ethics_l4_11',
               question: '"આ તો સરકારી મિલકત છે, આપણું શું જાય છે?" - આ માનસિકતા કયા નૈતિક સિદ્ધાંતના અભાવને દર્શાવે છે?',
               options: [
-                'નાગરિક ધર્મ અને સાર્વજનિક સંપત્તિ પ્રત્યે જવાબદેહી (Civic Sense & Public Stewardship)',
-                'વ્યક્તિગત સ્વાતંત્ર્ય',
+                'સંઘવાદ',
                 'મૂડીવાદ',
-                'સંઘવાદ'
+                'વ્યક્તિગત સ્વાતંત્ર્ય',
+                'નાગરિક ધર્મ અને સાર્વજનિક સંપત્તિ પ્રત્યે જવાબદેહી (Civic Sense & Public Stewardship)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'જાહેર મિલકતને પોતાની ન ગણવી એ નાગરિક મૂલ્યો અને રાષ્ટ્રીય મનોવલણની ખામી છે.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13447,12 +13447,12 @@ graph TD
               id: 'mcq_ethics_l4_12',
               question: 'સમય વ્યવસ્થાપન અને જીવન પ્રાથમિકતાઓ દર્શાવતી "બરણી અને પથ્થરની વાર્તા" (Jar of Life) માં \'મોટા પથ્થરો\' શાનું પ્રતીક છે?',
               options: [
-                'સોશિયલ મીડિયા અને વ્યર્થ ગપ્પાં',
                 'જીવનના સર્વોચ્ચ ધ્યેયો: કારકિર્દી, સ્વાસ્થ્ય, પરિવાર અને મૂલ્યો',
                 'નાની-મોટી ખરીદીઓ',
+                'સોશિયલ મીડિયા અને વ્યર્થ ગપ્પાં',
                 'ઓફિસનું નજીવું પેપરવર્ક'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'મોટા પથ્થરો જીવનના અનિવાર્ય ધ્યેયો છે, જેને સમયરૂપી બરણીમાં સૌથી પહેલા સ્થાન આપવું પડે છે.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13460,12 +13460,12 @@ graph TD
               id: 'mcq_ethics_l4_13',
               question: '"બરણી અને પથ્થરની વાર્તા" માં \'રેતી\' (Sand) શાનું પ્રતીક છે?',
               options: [
+                'દેશભક્તિ',
                 'જીવનના ગૌણ, બિનજરૂરી સમય બગાડતા મુદ્દાઓ અને ક્ષુલ્લક મનોરંજન',
                 'મુખ્ય કારકિર્દી',
-                'માતા-પિતાની સેવા',
-                'દેશભક્તિ'
+                'માતા-પિતાની સેવા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જો જીવન રેતી જેવી ક્ષુલ્લક બાબતોથી ભરાઈ જાય તો મોટા ધ્યેયો માટે જગ્યા બચતી નથી.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13486,12 +13486,12 @@ graph TD
               id: 'mcq_ethics_l4_15',
               question: 'સ્વચ્છ ભારત મિશનમાં અમિતાભ બચ્ચન દ્વારા ચલાવાયેલ \'દરવાજા બંધ\' કેમ્પેઇનનો મુખ્ય ઉદ્દેશ્ય શું હતો?',
               options: [
-                'રાત્રે ઘરના બારણાં બંધ રાખવા',
                 'શૌચાલય બનાવીને તેનો દરવાજો બંધ રાખી નિયમિત ઉપયોગ કરવો અને ખુલ્લામાં શૌચ ત્યજવું',
-                'બેંકના દરવાજા બંધ કરવા',
-                'શાળાના વર્ગખંડ બંધ રાખવા'
+                'રાત્રે ઘરના બારણાં બંધ રાખવા',
+                'શાળાના વર્ગખંડ બંધ રાખવા',
+                'બેંકના દરવાજા બંધ કરવા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '\'દરવાજા બંધ\' કેમ્પેઇને શૌચાલયના ઉપયોગની ટેવ પાડવા માટે દેશવ્યાપી સફળતા મેળવી હતી.',
               sourceVideoTitle: 'L4: વલણ (Attitude) Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13499,12 +13499,12 @@ graph TD
               id: 'mcq_ethics_l9_1',
               question: 'કોઈ ચોક્કસ ક્ષેત્રમાં તાલીમ દ્વારા વિશિષ્ટ કૌશલ્ય પ્રાપ્ત કરવાની આંતરિક અને સુષુપ્ત ક્ષમતાને શું કહેવાય?',
               options: [
-                'મનોવલણ (Attitude)',
-                'યોગ્યતા / અભિયોગ્યતા (Aptitude)',
+                'પૂર્વગ્રહ',
                 'માત્ર નસીબ',
-                'પૂર્વગ્રહ'
+                'યોગ્યતા / અભિયોગ્યતા (Aptitude)',
+                'મનોવલણ (Attitude)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'Aptitude એટલે વ્યક્તિની ચોક્કસ કૌશલ્ય શીખવાની કુદરતી કે સુષુપ્ત શક્તિ.',
               sourceVideoTitle: 'L9: માનવ મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -13512,12 +13512,12 @@ graph TD
               id: 'mcq_ethics_l9_2',
               question: 'જાહેર જીવનના ૭ પાયાના નૈતિક સિદ્ધાંતો (Seven Principles of Public Life) કઈ કમિટી દ્વારા ભલામણ કરવામાં આવ્યા હતા?',
               options: [
-                'સરકારીયા કમિશન',
                 'નોલાન કમિટી (Nolan Committee, UK ૧૯૯૫)',
+                'મંડલ કમિશન',
                 'પૂંછી કમિશન',
-                'મંડલ કમિશન'
+                'સરકારીયા કમિશન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: '૧૯૯૫ માં યુકેની નોલાન કમિટીએ નિઃસ્વાર્થતા, સત્યનિષ્ઠા, વસ્તુનિષ્ઠતા, જવાબદેહી, પારદર્શિતા, પ્રમાણિકતા અને નેતૃત્વની ભલામણ કરી હતી.',
               sourceVideoTitle: 'L9: માનવ મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -13525,12 +13525,12 @@ graph TD
               id: 'mcq_ethics_l9_3',
               question: 'ભારતીય ચૂંટણી પંચ (ECI) ને સંપૂર્ણ રાજકીય તટસ્થતા (Political Neutrality) અને બંધારણીય સ્વાયત્તતા અપાવનાર ૧૦મા મુખ્ય ચૂંટણી કમિશનર કોણ હતા?',
               options: [
-                'સુકુમાર સેન',
-                'ટી.એન. શેષન (T.N. Seshan)',
                 'સુનિલ અરોરા',
-                'રાજીવ કુમાર'
+                'રાજીવ કુમાર',
+                'ટી.એન. શેષન (T.N. Seshan)',
+                'સુકુમાર સેન'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: '૧૯૯૧ થી ૧૯૯૬ દરમિયાન ટી.એન. શેષને બંધારણની કલમ ૩૨૪ ના કાયદા અને ભાવના (Letter & Spirit) નું ચુસ્ત પાલન કરી ચૂંટણી સુધારા કર્યા હતા.',
               sourceVideoTitle: 'L9: માનવ મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -13538,12 +13538,12 @@ graph TD
               id: 'mcq_ethics_l9_4',
               question: '"જેમ જીભ પર મધ કે ઝેર હોય અને તેનો સ્વાદ ન ચાખવો અશક્ય છે, તેમ સરકારી નાણાં સંભાળનાર અમલદાર ભ્રષ્ટાચાર ન કરે તે માનવું કઠિન છે" - આ પ્રસિદ્ધ વિધાન કોનું છે?',
               options: [
-                'મેગાસ્થનીઝ',
-                'કૌટિલ્ય / ચાણક્ય (અર્થશાસ્ત્ર)',
                 'સમ્રાટ અશોક',
-                'ચંદ્રગુપ્ત મૌર્ય'
+                'ચંદ્રગુપ્ત મૌર્ય',
+                'મેગાસ્થનીઝ',
+                'કૌટિલ્ય / ચાણક્ય (અર્થશાસ્ત્ર)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'ચાણક્યએ અર્થશાસ્ત્રમાં સરકારી અધિકારીઓમાં નાણાકીય સાધુતા (Probity in Governance) અને તકેદારીની અનિવાર્યતા દર્શાવી હતી.',
               sourceVideoTitle: 'L9: માનવ મૂલ્યો (Bhoraniya\'s Guidance)',
             ),
@@ -13551,9 +13551,9 @@ graph TD
               id: 'mcq_ethics_l9_5',
               question: 'સનદી સેવામાં "તદનુભૂતિ (Empathy) + વહીવટી પગલાં (Administrative Action)" ના સમન્વયથી કયા સર્વોચ્ચ વહીવટી મૂલ્યનું નિર્માણ થાય છે?',
               options: [
-                'માત્ર સહાનુભૂતિ (Sympathy)',
-                'કરુણા (Compassion / જનકલ્યાણકારી સહાય)',
                 'અહંકાર',
+                'કરુણા (Compassion / જનકલ્યાણકારી સહાય)',
+                'માત્ર સહાનુભૂતિ (Sympathy)',
                 'ઉદાસીનતા'
               ],
               correctOptionIndex: 1,
@@ -13564,10 +13564,10 @@ graph TD
               id: 'mcq_ethics_l9_6',
               question: 'વિજિલન્સ તપાસ કે પ્રમોશન અટકી જવાના અતિશય ભયથી અધિકારી જ્યારે પ્રજાહિતના સાચા નિર્ણયો લેવાનું ટાળે છે ત્યારે તેને શું કહેવાય?',
               options: [
-                'ઝડપી સુશાસન',
+                'પારદર્શિતા',
                 'ડિસિઝન પેરાલિસિસ (Decision Paralysis / વહીવટી પક્ષાઘાત)',
                 'નૈતિક સાહસ',
-                'પારદર્શિતા'
+                'ઝડપી સુશાસન'
               ],
               correctOptionIndex: 1,
               explanation: 'ડરના કારણે નિર્ણયો પેન્ડિંગ રાખવા તેને Decision Paralysis કહેવાય છે; સાચો સનદી સેવક આગળ આવીને જવાબદેહી (Accountability) સ્વીકારે છે.',
@@ -13760,12 +13760,12 @@ graph TD
               id: 'mcq_ethics_l6_1',
               question: 'એથિક્સમાં \'સત્યનિષ્ઠા\' (Integrity) ની સૌથી સચોટ કસોટી નીચેનામાંથી કઈ છે?',
               options: [
-                'જ્યારે કોઈ જોતું હોય ત્યારે નિયમો પાળવા',
                 'કોઈપણ સંજોગો કે દબાણ હેઠળ નૈતિક સિદ્ધાંતો સાથે સમાધાન કરવાનો સંપૂર્ણ ઇનકાર (Complete refusal to compromise)',
                 'માત્ર કાયદાની છટકબારીઓ શોધીને બચી જવું',
-                'ઉપરી અધિકારીના તમામ ગેરકાયદે આદેશોનું પાલન કરવું'
+                'ઉપરી અધિકારીના તમામ ગેરકાયદે આદેશોનું પાલન કરવું',
+                'જ્યારે કોઈ જોતું હોય ત્યારે નિયમો પાળવા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'સત્યનિષ્ઠા એટલે તમામ સંજોગોમાં ૦% સમાધાન અને નૈતિક સિદ્ધાંતો પ્રત્યે ૧૦૦% વફાદારી.',
               sourceVideoTitle: 'L6: Ethics PYQ Solution - Part 2 (Bhoraniya\'s Guidance)',
             ),
@@ -13773,12 +13773,12 @@ graph TD
               id: 'mcq_ethics_l6_2',
               question: '\'૧% નૈતિક સમાધાન એ ૧૦૦% સમાધાન તરફ દોરી જાય છે\' - આ સિદ્ધાંત શું દર્શાવે છે?',
               options: [
-                'ભ્રષ્ટાચાર એ વન-વે રસ્તો (One-Way Street) છે, જેમાં એક વાર અનૈતિક પગલું ભર્યા પછી પાછા ફરવું અશક્ય બને છે',
-                '૧% સમાધાન હંમેશા સ્વીકાર્ય છે',
                 'સરકારી નોકરીમાં સમાધાન વગર ચાલી ન શકે',
-                'આ માત્ર ગણિતનો નિયમ છે'
+                'આ માત્ર ગણિતનો નિયમ છે',
+                'ભ્રષ્ટાચાર એ વન-વે રસ્તો (One-Way Street) છે, જેમાં એક વાર અનૈતિક પગલું ભર્યા પછી પાછા ફરવું અશક્ય બને છે',
+                '૧% સમાધાન હંમેશા સ્વીકાર્ય છે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અનૈતિકતાની શરૂઆત નાના સમાધાનથી થાય છે જે આખરે સંપૂર્ણ નૈતિક પતનમાં પરિણમે છે.',
               sourceVideoTitle: 'L6: Ethics PYQ Solution - Part 2 (Bhoraniya\'s Guidance)',
             ),
@@ -13786,12 +13786,12 @@ graph TD
               id: 'mcq_ethics_l6_3',
               question: 'સનદી અધિકારી માટે \'ક્રોધ\' (Anger) ને સૌથી નુકસાનકારક આવેગ કેમ માનવામાં આવે છે?',
               options: [
+                'કારણ કે તેનાથી ઓફિસનો સમય બગડે છે',
                 'કારણ કે તે વજન વધારે છે',
                 'કારણ કે તે વિવેકબુદ્ધિ અને તાર્કિક નિર્ણય ક્ષમતાને અંધ કરી આવેગજન્ય પક્ષપાત સર્જે છે',
-                'કારણ કે તેનાથી ઓફિસનો સમય બગડે છે',
                 'કારણ કે તે કાયદેસર ગુનો છે'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ક્રોધિત અધિકારી તટસ્થ અને ન્યાયી નિર્ણયો લઈ શકતો નથી.',
               sourceVideoTitle: 'L6: Ethics PYQ Solution - Part 2 (Bhoraniya\'s Guidance)',
             ),
@@ -13799,12 +13799,12 @@ graph TD
               id: 'mcq_ethics_l6_4',
               question: 'અસાધારણ અન્યાય, ભ્રષ્ટાચાર કે અત્યાચાર સામે દર્શાવાતી સૈદ્ધાંતિક અને નિયંત્રિત કડકાઈને નૈતિકતામાં શું કહેવાય?',
               options: [
-                'અંધ ક્રોધ',
                 'રાઇટ્સિયસ ઇન્ડિગ્નેશન (Righteous Indignation / નૈતિક આક્રોશ)',
-                'માનસિક રોગ',
-                'અહંકાર'
+                'અહંકાર',
+                'અંધ ક્રોધ',
+                'માનસિક રોગ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અન્યાય સામે નૈતિક આક્રોશ ("No Means No") એ શિસ્ત અને ન્યાય જાળવવાનું ઉચિત સાધન છે.',
               sourceVideoTitle: 'L6: Ethics PYQ Solution - Part 2 (Bhoraniya\'s Guidance)',
             ),
@@ -13812,12 +13812,12 @@ graph TD
               id: 'mcq_ethics_l6_5',
               question: 'આધુનિક સમયમાં નૈતિક મૂલ્યોના સંકટ (Crisis of Values) પાછળનું મૂળભૂત કારણ કયું છે?',
               options: [
-                'પુસ્તકોની અછત',
-                'સારા જીવન (Good Life) નો સંકુચિત ભૌતિકવાદી અને ગ્રાહકવાદી દ્રષ્ટિકોણ',
                 'વસ્તી વધારો',
-                'ખેતીમાં ઘટાડો'
+                'ખેતીમાં ઘટાડો',
+                'સારા જીવન (Good Life) નો સંકુચિત ભૌતિકવાદી અને ગ્રાહકવાદી દ્રષ્ટિકોણ',
+                'પુસ્તકોની અછત'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'માત્ર ભૌતિક સુખ અને સ્વેગને જ સારું જીવન માનવાથી ભ્રષ્ટાચાર અને નૈતિક પતન સર્જાય છે.',
               sourceVideoTitle: 'L6: Ethics PYQ Solution - Part 2 (Bhoraniya\'s Guidance)',
             ),
@@ -13825,12 +13825,12 @@ graph TD
               id: 'mcq_ethics_l6_6',
               question: 'ફિલ્મ \'નાયક\' (Nayak) માં પરેશ રાવલનો અનિલ કપૂરને કહેવાયેલો કયો સંવાદ રાજકારણમાં સુધારા માટે પ્રેરક છે?',
               options: [
-                'પૈસા બોલતા હૈ',
-                'જો બધા એમ કહીને ભાગશે કે આ ગટર છે, તો ગટર સાફ કરવા કોઈકે તો અંદર ઉતરવું જ પડશે',
                 'કાયદો અંધળો છે',
-                'રાજકારણ માત્ર રાજાઓ માટે છે'
+                'રાજકારણ માત્ર રાજાઓ માટે છે',
+                'જો બધા એમ કહીને ભાગશે કે આ ગટર છે, તો ગટર સાફ કરવા કોઈકે તો અંદર ઉતરવું જ પડશે',
+                'પૈસા બોલતા હૈ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'સ્વચ્છ શાસન માટે સારા અને નૈતિક લોકોએ સક્રિય રાજકારણમાં જોડાવું અનિવાર્ય છે.',
               sourceVideoTitle: 'L6: Ethics PYQ Solution - Part 2 (Bhoraniya\'s Guidance)',
             ),
@@ -13838,12 +13838,12 @@ graph TD
               id: 'mcq_ethics_l7_1',
               question: '\'Emotional Intelligence: Why It Can Matter More Than IQ\' પુસ્તકના લેખક કોણ છે?',
               options: [
-                'સિગ્મંડ ફ્રોઈડ',
-                'ડેનિયલ ગોલમેન (Daniel Goleman)',
                 'કાર્લ જંગ',
-                'જોન રોલ્સ'
+                'જોન રોલ્સ',
+                'સિગ્મંડ ફ્રોઈડ',
+                'ડેનિયલ ગોલમેન (Daniel Goleman)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: '૧૯૯૫ માં ડેનિયલ ગોલમેને ભાવનાત્મક બુદ્ધિમત્તાના ૫-પરિમાણીય મોડેલને વિશ્વ સમક્ષ રજૂ કર્યું હતું.',
               sourceVideoTitle: 'L7: ભાવનાત્મક બુદ્ધિમત્તા Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13851,12 +13851,12 @@ graph TD
               id: 'mcq_ethics_l7_2',
               question: 'પોતાની શક્તિઓ, નબળાઈઓ, મૂડ અને આવેગોનું નિષ્પક્ષ અવલોકન કરવું તે ગોલમેનના કયા ઘટક હેઠળ આવે છે?',
               options: [
-                'તદનુભૂતિ',
-                'સ્વ-જાગૃતિ (Self-Awareness)',
                 'સામાજિક કૌશલ્ય',
-                'સહાનુભૂતિ'
+                'તદનુભૂતિ',
+                'સહાનુભૂતિ',
+                'સ્વ-જાગૃતિ (Self-Awareness)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'પોતાની આંતરિક લાગણીઓ અને મર્યાદાઓથી વાકેફ રહેવું તે સ્વ-જાગૃતિ છે.',
               sourceVideoTitle: 'L7: ભાવનાત્મક બુદ્ધિમત્તા Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13865,9 +13865,9 @@ graph TD
               question: 'ઉશ્કેરાટજનક પરિસ્થિતિ કે વિરોધ વચ્ચે પોતાના આવેગો અને ક્રોધ પર સંયમ રાખી શાંતિપૂર્ણ નિર્ણય લેવો એ શું દર્શાવે છે?',
               options: [
                 'સ્વ-નિયમન (Self-Regulation)',
+                'બૌદ્ધિક અસમર્થતા',
                 'કાયરતા',
-                'ઉદાસીનતા',
-                'બૌદ્ધિક અસમર્થતા'
+                'ઉદાસીનતા'
               ],
               correctOptionIndex: 0,
               explanation: 'લાગણીઓ અને આવેગોનું સંતુલિત સંચાલન એ સ્વ-નિયમન છે.',
@@ -13877,12 +13877,12 @@ graph TD
               id: 'mcq_ethics_l7_4',
               question: 'અણધારી નિષ્ફળતા કે આંચકા પછી પણ હતાશ થયા વગર ફરી ઊભા થઈ લક્ષ્ય તરફ ધપવાની ક્ષમતાને મનોવિજ્ઞાનમાં શું કહે છે?',
               options: [
-                'ડિપ્રેશન',
                 'રેઝિલિયન્સ (Resilience / સ્થિતપ્રજ્ઞતા)',
                 'પૂર્વગ્રહ',
+                'ડિપ્રેશન',
                 'લાલફીતાશાહી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'નિષ્ફળતામાંથી ઝડપથી બેઠા થવાની માનસિક તાકાતને Resilience કહેવાય છે.',
               sourceVideoTitle: 'L7: ભાવનાત્મક બુદ્ધિમત્તા Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13890,10 +13890,10 @@ graph TD
               id: 'mcq_ethics_l7_5',
               question: 'સહાનુભૂતિ (Sympathy) અને તદનુભૂતિ (Empathy) વચ્ચેનો મુખ્ય તાત્વિક તફાવત કયો છે?',
               options: [
-                'સહાનુભૂતિમાં ક્રિયા જોડાયેલી છે',
-                'સહાનુભૂતિ માત્ર મૌખિક દયા છે, જ્યારે તદનુભૂતિ સામેવાળાના દર્દને જાતે અનુભવી સક્રિય ઉકેલ શોધે છે',
                 'બંને એકબીજાના સમાનાર્થી છે',
-                'તદનુભૂતિ નકારાત્મક લાગણી છે'
+                'સહાનુભૂતિ માત્ર મૌખિક દયા છે, જ્યારે તદનુભૂતિ સામેવાળાના દર્દને જાતે અનુભવી સક્રિય ઉકેલ શોધે છે',
+                'તદનુભૂતિ નકારાત્મક લાગણી છે',
+                'સહાનુભૂતિમાં ક્રિયા જોડાયેલી છે'
               ],
               correctOptionIndex: 1,
               explanation: 'તદનુભૂતિ પીડિતના સ્થાને ઊભા રહી તેના દર્દને અનુભવે છે અને વહીવટી રાહત આપે છે.',
@@ -13903,12 +13903,12 @@ graph TD
               id: 'mcq_ethics_l7_6',
               question: 'ઓફિસના પટાવાળા, સફાઈ કર્મચારી કે ડ્રાઇવર સાથે આદરપૂર્વક વાત કરવી અને તેમની સાથે સુમેળભર્યા સંબંધો બાંધવા એ ગોલમેનના કયા ઘટકનું ઉદાહરણ છે?',
               options: [
-                'બૌદ્ધિક આંક (IQ)',
-                'સામાજિક કૌશલ્ય (Social Skills)',
+                'કઠોર શિસ્ત',
                 'સ્પર્ધાત્મકતા',
-                'કઠોર શિસ્ત'
+                'બૌદ્ધિક આંક (IQ)',
+                'સામાજિક કૌશલ્ય (Social Skills)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'આંતરવ્યક્તિક સુમેળ અને માનવીય આદર એ સોશિયલ સ્કિલ્સનો ભાગ છે.',
               sourceVideoTitle: 'L7: ભાવનાત્મક બુદ્ધિમત્તા Part-1 (Bhoraniya\'s Guidance)',
             ),
@@ -13917,11 +13917,11 @@ graph TD
               question: 'સ્ટેનફોર્ડ યુનિવર્સિટીના મનોવૈજ્ઞાનિક વોલ્ટર મિશેલ દ્વારા આવેગ નિયંત્રણ (Impulse Control) અને આત્મસંયમ ચકાસવા કયો વિશ્વપ્રસિદ્ધ પ્રયોગ કરવામાં આવ્યો હતો?',
               options: [
                 'બોબો ડોલ પ્રયોગ',
-                'માર્શમેલો એક્સપેરિમેન્ટ (Marshmallow Experiment)',
+                'પાવલોવ શ્વાન પ્રયોગ',
                 'પ્રિઝન સિમ્યુલેશન પ્રયોગ',
-                'પાવલોવ શ્વાન પ્રયોગ'
+                'માર્શમેલો એક્સપેરિમેન્ટ (Marshmallow Experiment)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'વોલ્ટર મિશેલ દ્વારા બાળકોમાં તાત્કાલિક લાલચ રોકી દીર્ઘકાલીન પુરસ્કાર મેળવવા માટે માર્શમેલો ચોકલેટનો પ્રયોગ કરાયો હતો.',
               sourceVideoTitle: 'L8: ભાવનાત્મક બુદ્ધિમત્તા Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13930,9 +13930,9 @@ graph TD
               question: '\'વિલંબિત સંતોષ\' (Delayed Gratification) સનદી સેવકને નીચેનામાંથી કયા નૈતિક પતન સામે સૌથી મોટું કવચ પૂરું પાડે છે?',
               options: [
                 'લાંચ, કમિશન અને ભ્રષ્ટાચારના તાત્કાલિક પ્રલોભન (Instant Gain) સામે',
+                'સરકારી પરિપત્ર વાંચવા સામે',
                 'સમયસર ઓફિસ પહોંચવા સામે',
-                'ફાઈલ વર્ક કરવા સામે',
-                'સરકારી પરિપત્ર વાંચવા સામે'
+                'ફાઈલ વર્ક કરવા સામે'
               ],
               correctOptionIndex: 0,
               explanation: 'ભ્રષ્ટાચાર એ ક્ષણિક લાલચ છે જે જેલ અને બદનામી તરફ દોરી જાય છે; વિલંબિત સંતોષ ધરાવતો અધિકારી સત્યનિષ્ઠા અને દીર્ઘકાલીન આત્મસન્માન પસંદ કરે છે.',
@@ -13942,12 +13942,12 @@ graph TD
               id: 'mcq_ethics_l8_3',
               question: 'ગૌતમ અદાણી અને ધીરુભાઈ અંબાણી જેવા સફળ ઉદ્યોગપતિઓના જીવન વિશ્લેષણ પરથી વહીવટી નેતૃત્વ માટે કયું તત્વ સૌથી નિર્ણાયક પુરવાર થાય છે?',
               options: [
+                'કાયદાકીય છટકબારીઓ',
                 'માત્ર ઔપચારિક ડીગ્રીઓ અને ઊંચો IQ',
                 'ઉચ્ચ ભાવનાત્મક બુદ્ધિમત્તા (EQ), પીપલ મેનેજમેન્ટ સ્કિલ્સ અને સંકટ સહનશીલતા',
-                'માત્ર વારસાગત મૂડી',
-                'કાયદાકીય છટકબારીઓ'
+                'માત્ર વારસાગત મૂડી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'માત્ર IQ નોકરી અપાવે છે; પરંતુ સામ્રાજ્ય અને નેતૃત્વ સ્થાપવા ઉચ્ચ EQ અને સંબંધોનું સચોટ સંચાલન અનિવાર્ય છે.',
               sourceVideoTitle: 'L8: ભાવનાત્મક બુદ્ધિમત્તા Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13956,11 +13956,11 @@ graph TD
               question: 'જાહેર વહીવટમાં સ્થાનિક બાહુબલી કે રાજકીય દબાણ હેઠળ ગેરકાયદે ખંડણી/પેરોલ આપવાની માંગણી સામે સનદી સેવકે શું દર્શાવવું જોઈએ?',
               options: [
                 'રાજકીય દબાણ સામે શરણાગતિ',
+                'નોકરી છોડીને ભાગી જવું',
                 'નૈતિક સાહસ (Moral Courage) અને શૂન્ય સમાધાન (Zero Compromise to Say NO)',
-                'લાંચમાંથી પોતાનો હિસ્સો માંગવો',
-                'નોકરી છોડીને ભાગી જવું'
+                'લાંચમાંથી પોતાનો હિસ્સો માંગવો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'ગેરકાયદે માંગણીઓ સામે નમ્યા વગર કાયદાકીય અડગતા દર્શાવવી એ સનદી સેવકનું પાયાનું નૈતિક કર્તવ્ય છે.',
               sourceVideoTitle: 'L8: ભાવનાત્મક બુદ્ધિમત્તા Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -13968,9 +13968,9 @@ graph TD
               id: 'mcq_ethics_l8_5',
               question: 'ભોરાણીયા સર દ્વારા દર્શાવેલ વહીવટી મૂલ્યોના પદાનુક્રમમાં (Hierarchy of Values) \'સત્યનિષ્ઠા\' (Integrity) પછી જાહેર જીવનમાં સર્વોચ્ચ શુદ્ધતા દર્શાવતું કયું મૂલ્ય આવે છે?',
               options: [
-                'માત્ર શારીરિક બળ',
-                'પ્રોબિટી (Probity in Governance / સાધુતા અને નૈતિક પવિત્રતા)',
                 'અંધ આજ્ઞાપાલન',
+                'પ્રોબિટી (Probity in Governance / સાધુતા અને નૈતિક પવિત્રતા)',
+                'માત્ર શારીરિક બળ',
                 'ગુપ્તતા'
               ],
               correctOptionIndex: 1,
@@ -13981,12 +13981,12 @@ graph TD
               id: 'mcq_ethics_l8_6',
               question: 'જ્યારે ન્યાયાધીશ સમક્ષ કાયદાનું કઠોર પાલન (Justice) અને અતિ લાચાર-પીડિત પ્રત્યે માનવીય દયા (Compassion) વચ્ચે ઘર્ષણ થાય, ત્યારે તેને નીતિશાસ્ત્રમાં શું કહેવાય?',
               options: [
-                'મૂલ્ય સંઘર્ષ (Value Conflict)',
-                'કાયદાકીય ભૂલ',
+                'અસમર્થતા',
                 'અપરાધ',
-                'અસમર્થતા'
+                'મૂલ્ય સંઘર્ષ (Value Conflict)',
+                'કાયદાકીય ભૂલ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'જ્યારે બે ઉચ્ચ સદ્ગુણો સામસામે ટકરાય ત્યારે ઉદભવતી સ્થિતિને મૂલ્ય સંઘર્ષ (Value Conflict) કહે છે જેમાં ન્યાયિક વિવેકબુદ્ધિ વાપરવી પડે છે.',
               sourceVideoTitle: 'L8: ભાવનાત્મક બુદ્ધિમત્તા Part-2 (Bhoraniya\'s Guidance)',
             ),
@@ -14084,12 +14084,12 @@ graph TD
               id: 'mcq_ethics_l5_1',
               question: 'ડૉ. બાબાસાહેબ આંબેડકરના મતે \'બંધારણીય નૈતિકતા\' (Constitutional Morality) નો સાચો અર્થ શું છે?',
               options: [
+                'બહુમતી સમાજના વિચારોનું લઘુમતી પર થોપવું',
                 'માત્ર સત્તા મેળવવાની રાજકીય યુક્તિ',
-                'બંધારણના સર્વોચ્ચ લોકશાહી મૂલ્યો, સામાજિક ન્યાય અને કાયદાના શાસન પ્રત્યે સમર્પણ',
                 'પ્રાચીન ધાર્મિક રૂઢિઓનું આંધળું પાલન',
-                'બહુમતી સમાજના વિચારોનું લઘુમતી પર થોપવું'
+                'બંધારણના સર્વોચ્ચ લોકશાહી મૂલ્યો, સામાજિક ન્યાય અને કાયદાના શાસન પ્રત્યે સમર્પણ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'બંધારણીય નૈતિકતા એ બંધારણના અક્ષરો કરતાં તેના આત્મા અને માનવીય ગરિમાપૂર્ણ સમાનતા પ્રત્યેની આંતરિક વફાદારી છે.',
               sourceVideoTitle: 'L5: Ethics PYQ Solution - Part 1 (Bhoraniya\'s Guidance)',
             ),
@@ -14111,11 +14111,11 @@ graph TD
               question: '\'Fight or Fright\' જેવી અસાધારણ આપત્તિજનક સ્થિતિમાં નિયમિત નાણાકીય ટેન્ડરિંગ બાયપાસ કરવા માટે કયો પાયાનો નૈતિક સિદ્ધાંત હોવો અનિવાર્ય છે?',
               options: [
                 'અંગત કંપનીઓને નફો કરાવવો',
+                'મીડિયા કવરેજ મેળવવું',
                 'વિશાળ જનહિત અને માનવજીવન બચાવવાનું ધ્યેય (Larger Public Good)',
-                'વિદેશી પ્રવાસ કરવો',
-                'મીડિયા કવરેજ મેળવવું'
+                'વિદેશી પ્રવાસ કરવો'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'કટોકટીમાં નિયમો હળવા કરવાનો એકમાત્ર નૈતિક આધાર \'વિશાળ જનકલ્યાણ અને જીવનરક્ષણ\' છે.',
               sourceVideoTitle: 'L5: Ethics PYQ Solution - Part 1 (Bhoraniya\'s Guidance)',
             ),
@@ -14123,12 +14123,12 @@ graph TD
               id: 'mcq_ethics_l5_4',
               question: 'શાસનમાં \'સાધુતા\' (Probity in Governance) નો શો અર્થ થાય છે?',
               options: [
+                'કાયદાઓથી ઉપર થઈ જવું',
                 'માત્ર કાયદેસર રીતે નિર્દોષ સાબિત થવું',
-                'ચારિત્ર્યની સર્વોચ્ચ શુદ્ધતા, નિષ્કલંકતા અને કોઈપણ શંકાથી પર પારદર્શિતા',
                 'ખૂબ કડક સજા કરવી',
-                'કાયદાઓથી ઉપર થઈ જવું'
+                'ચારિત્ર્યની સર્વોચ્ચ શુદ્ધતા, નિષ્કલંકતા અને કોઈપણ શંકાથી પર પારદર્શિતા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'પ્રોબિટી એ પ્રામાણિકતા કરતાં પણ ઊંચું નૈતિક મૂલ્ય છે, જેમાં શંકાને પણ કોઈ સ્થાન હોતું નથી.',
               sourceVideoTitle: 'L5: Ethics PYQ Solution - Part 1 (Bhoraniya\'s Guidance)',
             ),
@@ -14137,11 +14137,11 @@ graph TD
               question: 'ડૉ. એ.પી.જે. અબ્દુલ કલામના મતે દેશને ભ્રષ્ટાચાર મુક્ત અને સુંદર મનવાળો બનાવવા કયા ૩ વ્યક્તિઓ નિર્ણાયક છે?',
               options: [
                 'પ્રધાનમંત્રી, રાષ્ટ્રપતિ અને મુખ્ય ન્યાયાધીશ',
-                'માતા, પિતા અને શિક્ષક',
                 'પોલીસ, લશ્કર અને ગુપ્તચર એજન્સી',
+                'માતા, પિતા અને શિક્ષક',
                 'વકીલ, વેપારી અને રાજકારણી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'બાળકના પ્રાથમિક મૂલ્ય ઘડતરમાં માતા, પિતા અને શિક્ષક પ્રથમ જીવંત રોલ મોડેલ છે.',
               sourceVideoTitle: 'L5: Ethics PYQ Solution - Part 1 (Bhoraniya\'s Guidance)',
             ),
@@ -14149,12 +14149,12 @@ graph TD
               id: 'mcq_ethics_l5_6',
               question: 'જ્યારે કોઈ વ્યક્તિ લાંબા સમય સુધી ભ્રષ્ટાચાર કે અનૈતિક કૃત્યો સાથે સમાધાન કરી લે છે અને અંતરાત્માનો અવાજ બહેરો થઈ જાય છે, ત્યારે તેને શું કહેવાય?',
               options: [
-                'નૈતિક જાગૃતિ',
                 'નૈતિક બહેરાશ અથવા અંતરાત્માનું સંકટ (Crisis of Conscience / Desensitization)',
                 'સામાજિક ક્રાંતિ',
-                'આધ્યાત્મિક સિદ્ધિ'
+                'આધ્યાત્મિક સિદ્ધિ',
+                'નૈતિક જાગૃતિ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'વારંવારના અનૈતિક સમાધાનોથી વ્યક્તિમાં અંતરાત્માનું સંકટ અને નૈતિક બહેરાશ આવી જાય છે.',
               sourceVideoTitle: 'L5: Ethics PYQ Solution - Part 1 (Bhoraniya\'s Guidance)',
             ),
@@ -15613,15 +15613,15 @@ RevisionNoteModel(
 McqModel(
               id: 'mcq_sec7_pauranik_1',
               question: 'પૌરાણિક માન્યતા મુજબ ગુજરાતમાં સૌપ્રથમ માનવ વસાહત અને રાજવંશની સ્થાપના કરનાર રાજા કોણ હતા?',
-              options: ['રાજા આનર્ત', 'રાજા શર્યાતિ', 'રાજા રેવત', 'ચંદ્રગુપ્ત મૌર્ય'],
-              correctOptionIndex: 1,
+              options: ['રાજા રેવત', 'રાજા આનર્ત', 'ચંદ્રગુપ્ત મૌર્ય', 'રાજા શર્યાતિ'],
+              correctOptionIndex: 3,
               explanation: 'વૈવસ્વત મનુના પુત્ર શર્યાતિએ ગુજરાતમાં આવીને પ્રથમ વ્યવસ્થિત માનવ વસાહત અને રાજ્ય સ્થાપ્યું હતું. શર્યાતિના પુત્ર આનર્ત પરથી પ્રદેશનું નામ આનર્ત પડ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_pauranik_2',
               question: 'આનર્ત પ્રદેશની પ્રાચીન પૌરાણિક રાજધાની "કુશસ્થળી" ની સ્થાપના નીચેનામાંથી કયા શાસકે કરી હતી?',
-              options: ['રાજા આનર્ત', 'રાજા શર્યાતિ', 'રાજા રેવત', 'ભગવાન શ્રીકૃષ્ણ'],
+              options: ['ભગવાન શ્રીકૃષ્ણ', 'રાજા આનર્ત', 'રાજા રેવત', 'રાજા શર્યાતિ'],
               correctOptionIndex: 2,
               explanation: 'આનર્તના પુત્ર રાજા રેવતે સમુદ્રકાંઠે કુશસ્થળી (હાલનું દ્વારકા/બેટ દ્વારકા) નગરી વસાવી પોતાની રાજધાની બનાવી હતી. આ કુશસ્થળીના ખંડેરો પર પાછળથી વિશ્વકર્માએ દ્વારાવતીનું નિર્માણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
@@ -15629,16 +15629,16 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_pauranik_3',
               question: 'જૂનાગઢ પાસે આવેલા ગિરનાર પર્વતનું પૌરાણિક નામ "રૈવતક" કોના નામ પરથી પડ્યું હોવાનું મનાય છે?',
-              options: ['ઋષિ રૈવત', 'રાજા રેવત (રૈવત)', 'રૈવતક નામના રાક્ષસ', 'રેવતી દેવી'],
-              correctOptionIndex: 1,
+              options: ['ઋષિ રૈવત', 'રૈવતક નામના રાક્ષસ', 'રાજા રેવત (રૈવત)', 'રેવતી દેવી'],
+              correctOptionIndex: 2,
               explanation: 'આનર્તના પુત્ર રાજા રેવત (રૈવત) પરથી ગિરનાર પર્વતનું પૌરાણિક નામ "રૈવતક" પડ્યું હતું. રેવતની પુત્રી રેવતીના લગ્ન બલરામજી સાથે થયા હતા.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_pauranik_4',
               question: 'ભગવાન શ્રીકૃષ્ણને "રણછોડ" નામ કયા શાસકોના સંયુક્ત આક્રમણ સમયે યુદ્ધભૂમિ છોડવાને કારણે મળ્યું હતું?',
-              options: ['કૌરવો અને કર્ણ', 'કંસ અને શિશુપાલ', 'જરાસંધ અને કાલયવન', 'બાણાસુર અને નરકાસુર'],
-              correctOptionIndex: 2,
+              options: ['બાણાસુર અને નરકાસુર', 'જરાસંધ અને કાલયવન', 'કૌરવો અને કર્ણ', 'કંસ અને શિશુપાલ'],
+              correctOptionIndex: 1,
               explanation: 'મગધનરેશ જરાસંધ અને મ્લેચ્છ રાજા કાલયવનના ૧૮મા આક્રમણ વખતે મથુરાની પ્રજાના રક્ષણ માટે શ્રીકૃષ્ણ રણભૂમિ છોડી સૌરાષ્ટ્ર પધાર્યા, જેથી તેઓ "રણછોડ" કહેવાયા.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
@@ -15646,19 +15646,19 @@ McqModel(
               id: 'mcq_sec7_pauranik_5',
               question: 'પૌરાણિક દ્વારિકામાં યાદવોની શાસન પ્રણાલી સંદર્ભે નીચેનામાંથી કયું વિધાન સાચું છે?',
               options: [
-                'યાદવોમાં વંશપરંપરાગત એકહથ્થુ રાજાશાહી પ્રણાલી હતી',
+                'યાદવોની સેનાના સેનાપતિ અક્રૂર હતા',
                 'શ્રીકૃષ્ણ યાદવ સામ્રાજ્યના સર્વોચ્ચ રાજા હતા',
-                'યાદવો ગણરાજ્ય (સંઘરાજ્ય) વ્યવસ્થા ધરાવતા હતા જેના પ્રમુખ રાજા ઉગ્રસેન હતા',
-                'યાદવોની સેનાના સેનાપતિ અક્રૂર હતા'
+                'યાદવોમાં વંશપરંપરાગત એકહથ્થુ રાજાશાહી પ્રણાલી હતી',
+                'યાદવો ગણરાજ્ય (સંઘરાજ્ય) વ્યવસ્થા ધરાવતા હતા જેના પ્રમુખ રાજા ઉગ્રસેન હતા'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 3,
               explanation: 'યાદવો કોઈ નિરંકુશ રાજાશાહી નહીં પરંતુ અંધક-વૃષ્ણિ કુળનું બનેલું લોકશાહી ગણરાજ્ય ધરાવતા હતા. શ્રીકૃષ્ણએ ઉગ્રસેનને સંઘપ્રમુખ બનાવ્યા હતા, બલરામ સેનાપતિ હતા અને શ્રીકૃષ્ણ પોતે મંત્રી પરિષદના નેતા હતા.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_pauranik_6',
               question: 'ગુજરાતના "ગરબા" નું પ્રાચીન મૂળ મનાતું "લાશ્ય નૃત્ય" સૌરાષ્ટ્રમાં કોના દ્વારા પ્રચલિત કરવામાં આવ્યું હતું?',
-              options: ['રાધાજી દ્વારા', 'રુક્મિણીજી દ્વારા', 'સત્યભામા દ્વારા', 'બાણાસુરની પુત્રી ઉષા (ઓખા) દ્વારા'],
+              options: ['સત્યભામા દ્વારા', 'રાધાજી દ્વારા', 'રુક્મિણીજી દ્વારા', 'બાણાસુરની પુત્રી ઉષા (ઓખા) દ્વારા'],
               correctOptionIndex: 3,
               explanation: 'અનિરુદ્ધ સાથે લગ્ન બાદ દ્વારકા આવેલી ઉષાએ પાર્વતીજી પાસેથી શીખેલું શૃંગારિક "લાશ્ય નૃત્ય" સૌરાષ્ટ્રની ગોપીઓને શીખવ્યું, જે કાળક્રમે ગરબાના સ્વરૂપમાં વિકસિત થયું.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
@@ -15666,15 +15666,15 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_pauranik_7',
               question: 'કયા પવિત્ર તીર્થ ખાતે યાદવ કુમારોએ મહર્ષિઓની મજાક ઉડાવતાં સામ્બને લોખંડનું મુસળ ઉત્પન્ન થવાનો શાપ મળ્યો હતો?',
-              options: ['પ્રભાસ પાટણ', 'પિંડારક તીર્થ (દેવભૂમિ દ્વારકા)', 'ભાલકા તીર્થ', 'સુદામાપુરી'],
-              correctOptionIndex: 1,
+              options: ['પિંડારક તીર્થ (દેવભૂમિ દ્વારકા)', 'સુદામાપુરી', 'ભાલકા તીર્થ', 'પ્રભાસ પાટણ'],
+              correctOptionIndex: 0,
               explanation: 'દ્વારકા પાસે આવેલા પિંડારક ક્ષેત્રમાં વિશ્વામિત્ર, કણ્વ અને દુર્વાસા ઋષિઓની મજાક ઉડાવવા બદલ સામ્બને સમગ્ર યાદવકુળના નાશનું કારણ બનનાર મુસળનો શાપ મળ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_pauranik_8',
               question: 'યાદવો વચ્ચે આંતરિક મહાસંહાર ("યાદવાસ્થળી") કયા સ્થળે અને કયા શસ્ત્ર સમાન ઘાસથી થયો હતો?',
-              options: ['દ્વારકામાં, દર્ભ ઘાસથી', 'પ્રભાસ પાટણમાં (સોમનાથ), એરકા ઘાસથી', 'શામળાજીમાં, વાંસની લાકડીઓથી', 'ગિરનારમાં, પથ્થરોથી'],
+              options: ['દ્વારકામાં, દર્ભ ઘાસથી', 'પ્રભાસ પાટણમાં (સોમનાથ), એરકા ઘાસથી', 'ગિરનારમાં, પથ્થરોથી', 'શામળાજીમાં, વાંસની લાકડીઓથી'],
               correctOptionIndex: 1,
               explanation: 'પ્રભાસ પાટણ ખાતે ત્રિવેણી સંગમ (હિરણ, કપિલા, સરસ્વતી) કિનારે મુસળના ભૂકામાંથી ઉગી નીકળેલા લોખંડી "એરકા ઘાસ" વડે યાદવો અંદરોઅંદર લડી મર્યા હતા.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
@@ -15682,23 +15682,23 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_pauranik_9',
               question: 'ભગવાન શ્રીકૃષ્ણએ કયા સ્થળે પોતાના નશ્વર ભૌતિક દેહનો ત્યાગ કરી પરમધામ (ગોલોક) ગમન કર્યું હતું?',
-              options: ['ભાલકા તીર્થ (વેરાવળ)', 'દેહોત્સર્ગ તીર્થ (ત્રિવેણી સંગમ, સોમનાથ)', 'બેટ દ્વારકા', 'માધવપુર ઘેડ'],
-              correctOptionIndex: 1,
+              options: ['બેટ દ્વારકા', 'માધવપુર ઘેડ', 'ભાલકા તીર્થ (વેરાવળ)', 'દેહોત્સર્ગ તીર્થ (ત્રિવેણી સંગમ, સોમનાથ)'],
+              correctOptionIndex: 3,
               explanation: 'ભાલકા તીર્થ ખાતે પીપળા નીચે જરા પારધીનું બાણ વાગ્યા બાદ ભગવાન શ્રીકૃષ્ણ ત્રિવેણી સંગમ તટે પધાર્યા અને દેહોત્સર્ગ તીર્થ (ગોલોકધામ) ખાતે દેહત્યાગ કર્યો હતો.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_pauranik_10',
               question: 'સમુદ્રમાં ડૂબેલી પૌરાણિક દ્વારકા નગરીના અવશેષો શોધવા માટે ૧૯૮૦ના દાયકામાં દરિયાઈ પુરાતત્વીય ઉત્ખનન (Marine Archaeology) કોની આગેવાનીમાં થયું હતું?',
-              options: ['રખાલદાસ બેનર્જી', 'ડૉ. હસમુખ સાંકળિયા', 'ડૉ. એસ. આર. રાવ (S. R. Rao)', 'જ્યોતિન્દ્ર નાથ દીક્ષિત'],
-              correctOptionIndex: 2,
+              options: ['રખાલદાસ બેનર્જી', 'જ્યોતિન્દ્ર નાથ દીક્ષિત', 'ડૉ. હસમુખ સાંકળિયા', 'ડૉ. એસ. આર. રાવ (S. R. Rao)'],
+              correctOptionIndex: 3,
               explanation: 'લોથલના શોધક વિશ્વવિખ્યાત પુરાતત્વવિદ્ ડૉ. એસ. આર. રાવ (S. R. Rao) એ બેટ દ્વારકા અને દ્વારકાના સમુદ્રમાં ડૂબેલી પૌરાણિક નગરીના પ્રાચીન લંગરો, પથ્થરની દિવાલો અને મુદ્રાઓ શોધી કાઢી હતી.',
               sourceVideoTitle: 'Gujarat History 01 : પૌરાણિક કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_1',
               question: '"ગુજરાત" શબ્દનો સર્વપ્રથમ લેખિત સાહિત્યિક ઉલ્લેખ નીચેનામાંથી કયા ગ્રંથમાં જોવા મળે છે?',
-              options: ['કાન્હડદે પ્રબંધ', 'આબુરાસ (ઈ.સ. ૧૨૧૪)', 'પ્રબંધચિંતામણી', 'કુમારપાળ ચરિત'],
+              options: ['કાન્હડદે પ્રબંધ', 'આબુરાસ (ઈ.સ. ૧૨૧૪)', 'કુમારપાળ ચરિત', 'પ્રબંધચિંતામણી'],
               correctOptionIndex: 1,
               explanation: 'કવિ પાલ્હણ/જલ્હણ રચિત "આબુરાસ" (ઈ.સ. ૧૨૧૪ - વિ.સં. ૧૨૭૦) માં સૌપ્રથમ વખત "ગુજરાત" શબ્દનો લેખિત ઉલ્લેખ મળે છે.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
@@ -15706,15 +15706,15 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_namkaran_2',
               question: 'પ્રાચીન ભૂગોળવેત્તા ટોલેમીએ દક્ષિણ ગુજરાતના "લાટ પ્રદેશ" માટે કયો શબ્દ પ્રયોજ્યો હતો?',
-              options: ['સુરાષ્ટ્રીન', 'લારીકે (Larike)', 'બારીગાઝા', 'મોફિસ'],
-              correctOptionIndex: 1,
+              options: ['લારીકે (Larike)', 'મોફિસ', 'બારીગાઝા', 'સુરાષ્ટ્રીન'],
+              correctOptionIndex: 0,
               explanation: 'ટોલેમીએ લાટ પ્રદેશને "લારીકે", સૌરાષ્ટ્રને "સુરાષ્ટ્રીન", ભરૂચને "બારીગાઝા" અને મહી નદીને "મોફિસ" તરીકે ઓળખાવી હતી.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_3',
               question: 'સાતમી સદીમાં ગુજરાતની મુલાકાતે આવેલા ચીની મુસાફર હ્યુઅન ત્સાંગે "સૌરાષ્ટ્ર" પ્રદેશ માટે કયો શબ્દ વાપર્યો હતો?',
-              options: ['કુ-ચે-લો', 'સુ-લા-ચા (Su-la-cha)', 'ફા-લા-ભી', 'ઓ-રા-તુ-રા'],
+              options: ['ઓ-રા-તુ-રા', 'સુ-લા-ચા (Su-la-cha)', 'ફા-લા-ભી', 'કુ-ચે-લો'],
               correctOptionIndex: 1,
               explanation: 'હ્યુઅન ત્સાંગે સૌરાષ્ટ્રને "સુ-લા-ચા", ઉત્તર ગુજરાત/ગુર્જર દેશને "કુ-ચે-લો" અને વલભીને "ફા-લા-ભી" તરીકે વર્ણવી હતી.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
@@ -15722,15 +15722,15 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_namkaran_4',
               question: '"ગુજરાત ગઢ પાટણ ભલો, દેશ ભલો ગુજરાત..." આ પ્રસિદ્ધ ઐતિહાસિક પંક્તિઓ કયા મધ્યકાલીન ગ્રંથમાંથી લેવામાં આવી છે?',
-              options: ['પૃથ્વીરાજ રાસો', 'હમીર રાસો', 'કાન્હડદે પ્રબંધ (કવિ પદ્મનાભ)', 'રણમલ્લ છંદ'],
-              correctOptionIndex: 2,
+              options: ['હમીર રાસો', 'પૃથ્વીરાજ રાસો', 'રણમલ્લ છંદ', 'કાન્હડદે પ્રબંધ (કવિ પદ્મનાભ)'],
+              correctOptionIndex: 3,
               explanation: 'ઈ.સ. ૧૪૫૫ માં કવિ પદ્મનાભ રચિત ઐતિહાસિક મહાકાવ્ય "કાન્હડદે પ્રબંધ" માં પાટણ અને ગુજરાતની સંસ્કૃતિ અને જાહોજલાલીનું ગૌરવગાન કરતી આ પંક્તિઓ છે.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_5',
               question: 'પ્રાચીન કાળમાં મહી નદીથી લઈને દક્ષિણે તાપી/દમણગંગા સુધીનો પ્રદેશ કયા નામે ઓળખાતો હતો?',
-              options: ['આનર્ત પ્રદેશ', 'લાટ પ્રદેશ', 'સોરઠ પ્રદેશ', 'ગુર્જરત્રા'],
+              options: ['આનર્ત પ્રદેશ', 'લાટ પ્રદેશ', 'ગુર્જરત્રા', 'સોરઠ પ્રદેશ'],
               correctOptionIndex: 1,
               explanation: 'મહી અને દમણગંગા વચ્ચેનો દક્ષિણ ગુજરાતનો પ્રદેશ પ્રાચીન કાળમાં "લાટ પ્રદેશ" કહેવાતો હતો, જેનો ઉલ્લેખ વાત્સ્યાયનના કામસૂત્રમાં પણ છે.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
@@ -15738,39 +15738,39 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_namkaran_6',
               question: 'સૌરાષ્ટ્ર દ્વીપકલ્પને "કાઠિયાવાડ" નામ મુખ્યત્વે કોના દ્વારા આપવામાં આવ્યું હતું?',
-              options: ['સોલંકી શાસકો દ્વારા', 'ગુપ્ત સમ્રાટો દ્વારા', 'મરાઠાઓ અને બ્રિટિશરો દ્વારા', 'મુઘલ બાદશાહ અકબર દ્વારા'],
-              correctOptionIndex: 2,
+              options: ['મરાઠાઓ અને બ્રિટિશરો દ્વારા', 'સોલંકી શાસકો દ્વારા', 'મુઘલ બાદશાહ અકબર દ્વારા', 'ગુપ્ત સમ્રાટો દ્વારા'],
+              correctOptionIndex: 0,
               explanation: 'સૌરાષ્ટ્રના મધ્યભાગમાં કાઠી દરબારોના શાસન અને શૌર્યના કારણે મરાઠાઓ અને ત્યારબાદ બ્રિટિશરોએ સમગ્ર પ્રદેશને "કાઠિયાવાડ" (કાઠીઓનો દેશ) નામ આપ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_7',
               question: 'આનર્ત પ્રદેશનું મુખ્ય નગર "આનર્તપુર / ચમત્કારપુર" હાલમાં કયા નામે ઓળખાય છે?',
-              options: ['પાટણ', 'વડનગર', 'જૂનાગઢ', 'મોઢેરા'],
-              correctOptionIndex: 1,
+              options: ['પાટણ', 'જૂનાગઢ', 'મોઢેરા', 'વડનગર'],
+              correctOptionIndex: 3,
               explanation: 'પ્રાચીન આનર્તપુર પાછળથી આનંદપુર, ચમત્કારપુર અને હાલમાં મહેસાણા જિલ્લાનું ઐતિહાસિક "વડનગર" બન્યું. સ્કંદ પુરાણના નાગર ખંડમાં તેનો ઉલ્લેખ છે.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_8',
               question: 'ઈ.સ. ૧૫૭૩ માં ગુજરાત વિજય બાદ મુઘલ બાદશાહ અકબરે ગુજરાતને કયા સત્તાવાર વહીવટી એકમનું નામ આપ્યું હતું?',
-              options: ['ગુર્જર રિયાસત', 'સૂબા ગુજરાત (Subah Gujarat)', 'કાઠિયાવાડ એજન્સી', 'લાટ પ્રાંત'],
-              correctOptionIndex: 1,
+              options: ['લાટ પ્રાંત', 'કાઠિયાવાડ એજન્સી', 'સૂબા ગુજરાત (Subah Gujarat)', 'ગુર્જર રિયાસત'],
+              correctOptionIndex: 2,
               explanation: 'અકબરે ગુજરાતને મુઘલ સામ્રાજ્યનો એક અલગ પ્રાંત બનાવી "સૂબા ગુજરાત" નામ આપ્યું, જેનો ઉલ્લેખ અબુલ ફઝલના "આઈન-એ-અકબરી" માં છે.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_9',
               question: '૧ મે ૧૯૬૦ ના રોજ નવરચિત ગુજરાત રાજ્યનું ઉદ્ઘાટન સાબરમતી આશ્રમ ખાતે કોના પાવન હસ્તે થયું હતું?',
-              options: ['ડૉ. રાજેન્દ્ર પ્રસાદ', 'પંડિત જવાહરલાલ નેહરુ', 'સરદાર વલ્લભભાઈ પટેલ', 'પૂજ્ય રવિશંકર મહારાજ'],
-              correctOptionIndex: 3,
+              options: ['પંડિત જવાહરલાલ નેહરુ', 'ડૉ. રાજેન્દ્ર પ્રસાદ', 'પૂજ્ય રવિશંકર મહારાજ', 'સરદાર વલ્લભભાઈ પટેલ'],
+              correctOptionIndex: 2,
               explanation: 'ગુજરાતના મુકસેવક પૂજ્ય રવિશંકર મહારાજના વરદ હસ્તે સાબરમતી આશ્રમ, અમદાવાદ ખાતે ૧ મે ૧૯૬૦ ના રોજ ગુજરાત રાજ્યનું મંગલ ઉદ્ઘાટન થયું હતું.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_namkaran_10',
               question: '"ગુર્જરત્રા" શબ્દનો શાબ્દિક અર્થ શું થાય છે?',
-              options: ['ગુર્જરોનો વેપાર', 'ગુર્જરો દ્વારા રક્ષિત પ્રદેશ', 'ગુર્જરોનું મૂળ વતન', 'ગુર્જર રાજાઓનો મહેલ'],
+              options: ['ગુર્જરોનું મૂળ વતન', 'ગુર્જરો દ્વારા રક્ષિત પ્રદેશ', 'ગુર્જરોનો વેપાર', 'ગુર્જર રાજાઓનો મહેલ'],
               correctOptionIndex: 1,
               explanation: 'ગુર્જર + ત્રા (ત્રાણ એટલે રક્ષણ). ગુર્જરો દ્વારા રક્ષાયેલી ભૂમિ એટલે "ગુર્જરત્રા", જેમાંથી સમય જતાં "ગુજરાત" શબ્દ ઉતરી આવ્યો છે.',
               sourceVideoTitle: 'Gujarat History 02 : ગુજરાતનું નામકરણ (Teaching Kishan)',
@@ -15778,48 +15778,48 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_prag_1',
               question: '"ભારતીય પ્રાગ-ઇતિહાસના પિતા" (Father of Indian Pre-history) તરીકે કોને ઓળખવામાં આવે છે?',
-              options: ['સર જોન માર્શલ', 'રોબર્ટ બ્રૂસ ફૂટ (Robert Bruce Foote)', 'ડૉ. હસમુખ સાંકળિયા', 'એલેક્ઝાન્ડર કનિગહામ'],
-              correctOptionIndex: 1,
+              options: ['રોબર્ટ બ્રૂસ ફૂટ (Robert Bruce Foote)', 'ડૉ. હસમુખ સાંકળિયા', 'સર જોન માર્શલ', 'એલેક્ઝાન્ડર કનિગહામ'],
+              correctOptionIndex: 0,
               explanation: 'બ્રિટિશ ભૂસ્તરશાસ્ત્રી રોબર્ટ બ્રૂસ ફૂટે ભારતમાં સૌપ્રથમ પાષાણ ઓજારો શોધ્યા હતા અને ૧૮૯૩ માં ગુજરાતમાં સાબરમતી તટે કોટ-પેઢામલીમાંથી ઓજારો શોધ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_2',
               question: 'ગુજરાતમાં આવેલું પ્રખ્યાત મધ્ય પાષાણ યુગીન સ્થળ "લાંઘણજ" કયા જિલ્લામાં આવેલું છે?',
-              options: ['સાબરકાંઠા', 'મહેસાણા', 'પાટણ', 'બનાસકાંઠા'],
-              correctOptionIndex: 1,
+              options: ['પાટણ', 'બનાસકાંઠા', 'સાબરકાંઠા', 'મહેસાણા'],
+              correctOptionIndex: 3,
               explanation: 'લાંઘણજ મહેસાણા જિલ્લામાં આવેલું છે, જે સમગ્ર ભારતમાં મધ્ય પાષાણ યુગના ૧૪ માનવ કંકાલો અને ગેંડાના હાડકાં માટે જાણીતું છે.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_3',
               question: 'લાંઘણજ ખાતે ૧૯૪૧-૪૨ માં વૈજ્ઞાનિક ઉત્ખનન હાથ ધરી ૧૪ માનવ હાડપિંજરો શોધનાર પુરાતત્વવિદ્ કોણ હતા?',
-              options: ['ડૉ. એસ. આર. રાવ', 'ડૉ. હસમુખ ધીરજલાલ સાંકળિયા', 'રખાલદાસ બેનર્જી', 'માધો સ્વરૂપ વત્સ'],
-              correctOptionIndex: 1,
+              options: ['ડૉ. હસમુખ ધીરજલાલ સાંકળિયા', 'ડૉ. એસ. આર. રાવ', 'રખાલદાસ બેનર્જી', 'માધો સ્વરૂપ વત્સ'],
+              correctOptionIndex: 0,
               explanation: 'ડેક્કન કોલેજના મહાન પુરાતત્વવિદ્ ડૉ. એચ. ડી. સાંકળિયાએ લાંઘણજનું ઉત્ખનન કરી ગુજરાતના પ્રાગ-ઇતિહાસને વિશ્વ સમક્ષ ઉજાગર કર્યો હતો.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_4',
               question: 'મધ્ય પાષાણ યુગ (Mesolithic Age) દરમિયાન વપરાતા ૧ થી ૫ સે.મી. લાંબા નાના પથ્થરના ઓજારોને કયા નામે ઓળખવામાં આવે છે?',
-              options: ['મેગાલિથ્સ', 'માઇક્રોલિથ્સ (Microliths / લઘુ પાષાણ)', 'નિયોલિથ્સ', 'પેબલ્સ'],
-              correctOptionIndex: 1,
+              options: ['મેગાલિથ્સ', 'નિયોલિથ્સ', 'પેબલ્સ', 'માઇક્રોલિથ્સ (Microliths / લઘુ પાષાણ)'],
+              correctOptionIndex: 3,
               explanation: 'મધ્ય પાષાણ યુગમાં ચકમક પથ્થર અને અકીકના અત્યંત તીક્ષ્ણ નાના પથ્થરના ઓજારો વપરાતા, જેને "માઇક્રોલિથ્સ" (લઘુ પાષાણ ઓજારો) કહે છે.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_5',
               question: 'માનવ ઇતિહાસમાં ખેતી (કૃષિ), પૈડાંની શોધ અને માટીકામની શરૂઆત કયા યુગમાં થઈ હતી?',
-              options: ['પુરા પાષાણ યુગ', 'મધ્ય પાષાણ યુગ', 'નૂતન પાષાણ યુગ (Neolithic Age)', 'લોહ યુગ'],
-              correctOptionIndex: 2,
+              options: ['પુરા પાષાણ યુગ', 'નૂતન પાષાણ યુગ (Neolithic Age)', 'મધ્ય પાષાણ યુગ', 'લોહ યુગ'],
+              correctOptionIndex: 1,
               explanation: 'નૂતન પાષાણ યુગમાં ક્રાંતિકારી પરિવર્તન આવ્યું; માનવી ખેતી, પૈડું, માટીના વાસણો અને સ્થાયી વસાહત અપનાવી અન્ન ઉત્પાદક બન્યો.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_6',
               question: 'માનવ સભ્યતા દ્વારા શોધાયેલી અને ઉપયોગમાં લેવાયેલી સૌપ્રથમ ધાતુ કઈ હતી?',
-              options: ['લોખંડ (Iron)', 'તાંબુ (Copper)', 'કાંસું (Bronze)', 'સોનું (Gold)'],
-              correctOptionIndex: 1,
+              options: ['તાંબુ (Copper)', 'કાંસું (Bronze)', 'સોનું (Gold)', 'લોખંડ (Iron)'],
+              correctOptionIndex: 0,
               explanation: 'માનવીએ પથ્થર પછી સૌપ્રથમ તાંબાની શોધ કરી હતી, જેથી તે કાળ "તામ્ર-પાષાણ યુગ" (Chalcolithic Age) કહેવાયો.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
@@ -15827,35 +15827,35 @@ McqModel(
               id: 'mcq_sec7_prag_7',
               question: 'લાંઘણજમાંથી મળેલા માનવ હાડપિંજરો કઈ વિશિષ્ટ મુદ્રામાં દફનાવવામાં આવેલા હતા?',
               options: [
+                'પગ વાળીને ગર્ભસ્થ શિશુ જેવી વળેલી મુદ્રામાં (Flexed position)',
                 'બેઠેલી ધ્યાન મુદ્રામાં',
                 'ઊંધા સુવડાવીને',
-                'પગ વાળીને ગર્ભસ્થ શિશુ જેવી વળેલી મુદ્રામાં (Flexed position)',
                 'માત્ર ખોપડી જ દફનાવેલી હતી'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 0,
               explanation: 'લાંઘણજના ૧૪ કંકાલ પૂર્વ-પશ્ચિમ દિશામાં પગ વાળીને વળેલી મુદ્રામાં દફનાવેલા મળ્યા હતા, જે મૃત્યુ પછીના જીવનની માન્યતા દર્શાવે છે.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_8',
               question: 'ગુજરાતમાં પુરા પાષાણ યુગના પથ્થરના ઓજારો સૌપ્રથમ ૧૮૯૩ માં કઈ નદીના કિનારેથી મળ્યા હતા?',
-              options: ['નર્મદા નદી', 'સાબરમતી નદી (કોટ અને પેઢામલી)', 'તાપી નદી', 'ભાદર નદી'],
-              correctOptionIndex: 1,
+              options: ['તાપી નદી', 'નર્મદા નદી', 'સાબરમતી નદી (કોટ અને પેઢામલી)', 'ભાદર નદી'],
+              correctOptionIndex: 2,
               explanation: 'રોબર્ટ બ્રૂસ ફૂટે ૧૮૯૩ માં સાબરમતી નદી કિનારે આવેલા કોટ અને પેઢામલી (મહેસાણા) ખાતેથી પુરા પાષાણ યુગના ઓજારો શોધ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_9',
               question: 'પ્રાચીન પ્રાગ-ઐતિહાસિક શૈલચિત્રો (Rock Paintings) માટે જાણીતું સ્થળ "ચામરડી" ગુજરાતના કયા જિલ્લામાં આવેલું છે?',
-              options: ['જૂનાગઢ', 'ભાવનગર (પાલિતાણા પાસે)', 'કચ્છ', 'પંચમહાલ'],
-              correctOptionIndex: 1,
+              options: ['ભાવનગર (પાલિતાણા પાસે)', 'કચ્છ', 'પંચમહાલ', 'જૂનાગઢ'],
+              correctOptionIndex: 0,
               explanation: 'ભાવનગર જિલ્લામાં પાલિતાણા નજીક આવેલી ચામરડીની ટેકરીઓમાંથી પ્રાચીન ગુફા શૈલચિત્રો મળી આવ્યા છે.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_10',
               question: 'સિંધુ ખીણની હડપ્પીય સભ્યતા ધાતુ યુગના કયા તબક્કા સાથે સંબંધ ધરાવે છે?',
-              options: ['પુરા પાષાણ યુગ', 'કાંસ્ય યુગ (Bronze Age)', 'લોહ યુગ', 'સુવર્ણ યુગ'],
+              options: ['સુવર્ણ યુગ', 'કાંસ્ય યુગ (Bronze Age)', 'લોહ યુગ', 'પુરા પાષાણ યુગ'],
               correctOptionIndex: 1,
               explanation: 'હડપ્પીય સભ્યતા એ કાંસ્ય યુગીન (Bronze Age) નગરીય સભ્યતા હતી, જેમાં તાંબુ અને ટીન મિશ્ર કરીને કાંસાના ઓજારો બનાવવામાં આવતા હતા.',
               sourceVideoTitle: 'Gujarat History 03 : પ્રાગ ઐતિહાસિક યુગ (Teaching Kishan)',
@@ -15863,8 +15863,8 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_hadappa_1',
               question: 'ગુજરાતમાંથી મળી આવેલું સર્વપ્રથમ હડપ્પીય સભ્યતાનું સ્થળ નીચેનામાંથી કયું હતું?',
-              options: ['લોથલ', 'રંગપુર (ઈ.સ. ૧૯૩૧)', 'ધોળાવીરા', 'રોજડી'],
-              correctOptionIndex: 1,
+              options: ['રંગપુર (ઈ.સ. ૧૯૩૧)', 'રોજડી', 'ધોળાવીરા', 'લોથલ'],
+              correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૧૯૩૧ માં માધો સ્વરૂપ વત્સ દ્વારા સુખભાદર નદી કિનારે રંગપુરની શોધ કરવામાં આવી હતી, જે ગુજરાતનું પ્રથમ હડપ્પીય સ્થળ છે.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
@@ -15879,23 +15879,23 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_hadappa_3',
               question: 'સામાન્ય રીતે હડપ્પીય નગરો બે ભાગમાં વહેંચાયેલા હતા, પરંતુ કયું એકમાત્ર નગર "ત્રિ-સ્તરીય નગર રચના" (દુર્ગ, મધ્યમ નગર, નીચલું નગર) ધરાવતું હતું?',
-              options: ['કાલીબંગન', 'ધોળાવીરા (કચ્છ)', 'લોથલ', 'બનવાલી'],
-              correctOptionIndex: 1,
+              options: ['બનવાલી', 'લોથલ', 'ધોળાવીરા (કચ્છ)', 'કાલીબંગન'],
+              correctOptionIndex: 2,
               explanation: 'કચ્છના ખદીર બેટમાં આવેલું ધોળાવીરા ત્રિ-સ્તરીય નગર આયોજન ધરાવતું સમગ્ર સિંધુ સભ્યતાનું એકમાત્ર નગર હતું.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_4',
               question: 'જુલાઈ ૨૦૨૧ માં યુનેસ્કો (UNESCO) દ્વારા ભારતની ૪૦મી વર્લ્ડ હેરિટેજ સાઇટ તરીકે કયા સ્થળને ઘોષિત કરવામાં આવ્યું?',
-              options: ['લોથલ', 'મોઢેરા સૂર્યમંદિર', 'ધોળાવીરા', 'વડનગર કીર્તિતોરણ'],
-              correctOptionIndex: 2,
+              options: ['વડનગર કીર્તિતોરણ', 'ધોળાવીરા', 'મોઢેરા સૂર્યમંદિર', 'લોથલ'],
+              correctOptionIndex: 1,
               explanation: '૨૭ જુલાઈ ૨૦૨૧ ના રોજ યુનેસ્કો દ્વારા ધોળાવીરાને ભારતની ૪૦મી અને ગુજરાતની ૪થી વર્લ્ડ હેરિટેજ સાઇટ જાહેર કરાઈ.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_5',
               question: 'હડપ્પીય સભ્યતા દરમિયાન ચોક્કસ માપણી પદ્ધતિ દર્શાવતી "હાથીદાંતની માપપટ્ટી" (Ivory Scale) ક્યાંથી મળી આવી છે?',
-              options: ['મોહેં-જો-દડો', 'લોથલ', 'રંગપુર', 'સુરકોટડા'],
+              options: ['મોહેં-જો-દડો', 'લોથલ', 'સુરકોટડા', 'રંગપુર'],
               correctOptionIndex: 1,
               explanation: 'લોથલમાંથી હાથીદાંતની બનેલી માપપટ્ટી મળી આવી છે જે તેમના ગણિત અને વજન-માપના ઉચ્ચ ધોરણો દર્શાવે છે.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
@@ -15903,47 +15903,47 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_hadappa_6',
               question: 'સફેદ ચિરોડી (જીપ્સમ) ના બનેલા ૧૦ મોટા અક્ષરોનું વિશ્વનું સૌથી પ્રાચીન "સાઇનબોર્ડ" કયા સ્થળના કિલ્લાના પ્રવેશદ્વાર પરથી મળ્યું છે?',
-              options: ['હડપ્પા', 'ધોળાવીરા', 'રાખીગઢી', 'લોથલ'],
-              correctOptionIndex: 1,
+              options: ['ધોળાવીરા', 'લોથલ', 'રાખીગઢી', 'હડપ્પા'],
+              correctOptionIndex: 0,
               explanation: 'ધોળાવીરાના ઉત્તરીય પ્રવેશદ્વાર પરથી લાકડાના પાટિયામાં જડેલા જીપ્સમના ૧૦ અક્ષરોનું સૂચના-પાટિયું મળ્યું છે.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_7',
               question: 'ગુજરાતના કયા હડપ્પીય સ્થળેથી "ઘોડાના અસ્થિઓ" (હાડકાં અને દાંત) મળી આવ્યા છે?',
-              options: ['સુરકોટડા (કચ્છ)', 'રોજડી (રાજકોટ)', 'કુંતાસી (મોરબી)', 'દેશલપર'],
-              correctOptionIndex: 0,
+              options: ['રોજડી (રાજકોટ)', 'દેશલપર', 'કુંતાસી (મોરબી)', 'સુરકોટડા (કચ્છ)'],
+              correctOptionIndex: 3,
               explanation: 'કચ્છના રાપર તાલુકામાં આવેલા સુરકોટડા ખાતેથી ૧૯૬૪ માં જે. પી. જોશીને ઘોડાના અસ્થિઓ અને અંડાકાર કબરના પુરાવા મળ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_8',
               question: 'મેસોપોટેમિયા (સુમેરિયન) ગ્રંથોમાં સિંધુ ખીણ સભ્યતાના પ્રદેશ માટે કયો શબ્દ પ્રયોજવામાં આવ્યો છે?',
-              options: ['દિલમુન', 'મગન', 'મેલુહા (Meluhha)', 'લારીકે'],
-              correctOptionIndex: 2,
+              options: ['લારીકે', 'દિલમુન', 'મગન', 'મેલુહા (Meluhha)'],
+              correctOptionIndex: 3,
               explanation: 'મેસોપોટેમિયાના શિલાલેખોમાં સિંધુ પ્રદેશને "મેલુહા" કહેવાયો છે, જ્યારે દિલમુન (બહેરીન) અને મગન (ઓમાન) મધ્યસ્થી બંદરો હતા.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_9',
               question: 'પંચતંત્રની "ચાલાક શિયાળ" અને "તરસ્યો કાગડો" ની વાર્તાનું ચિત્રણ ધરાવતી માટીની બરણી કયા સ્થળેથી પ્રાપ્ત થઈ છે?',
-              options: ['રંગપુર', 'લોથલ', 'પ્રભાસ પાટણ', 'પાદરી'],
-              correctOptionIndex: 1,
+              options: ['લોથલ', 'પ્રભાસ પાટણ', 'રંગપુર', 'પાદરી'],
+              correctOptionIndex: 0,
               explanation: 'લોથલમાંથી મળેલી ચિત્રિત માટીની બરણી પર ઝાડ પર બેઠેલા પક્ષીના મોંમાં માછલી અને નીચે ઊભેલા શિયાળનું ચિત્ર છે, જે પંચતંત્રની કથા દર્શાવે છે.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_10',
               question: 'વરસાદી પાણીના સંગ્રહ માટે ૧૬ જેટલા પથ્થરથી કંડારેલા જળાશયો (Rainwater Harvesting Reservoirs) કયા નગરમાંથી મળ્યા છે?',
-              options: ['મોહેં-જો-દડો', 'ધોળાવીરા', 'કાલીબંગન', 'લોથલ'],
-              correctOptionIndex: 1,
+              options: ['ધોળાવીરા', 'મોહેં-જો-દડો', 'લોથલ', 'કાલીબંગન'],
+              correctOptionIndex: 0,
               explanation: 'ધોળાવીરામાં મનહર અને માનસર નદી પર બંધ બાંધી નગરમાં ૧૬ વિશાળ જળાશયોમાં પાણી સંગ્રહિત કરવાની વિશ્વની અજોડ વોટર મેનેજમેન્ટ સિસ્ટમ હતી.',
               sourceVideoTitle: 'Gujarat History 04 : હડપ્પીય સભ્યતા (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_1',
               question: 'સિંધુખીણ સંસ્કૃતિના કયા સ્થળેથી ઘોડાના અસ્થિઓ (હાડકાં અને દાંત) મળ્યા હોવાનો દાવો થયેલ છે?',
-              options: ['લોથલ', 'રંગપુર', 'સુરકોટડા (કચ્છ)', 'રોજડી (રાજકોટ)'],
+              options: ['રોજડી (રાજકોટ)', 'લોથલ', 'સુરકોટડા (કચ્છ)', 'રંગપુર'],
               correctOptionIndex: 2,
               explanation: 'ઈ.સ. ૧૯૬૪ માં જગતપતિ જોશી (જે. પી. જોશી) દ્વારા કચ્છના રાપર તાલુકામાં શોધાયેલા સુરકોટડામાંથી ઘોડાના અસ્થિ અને દાંતના અવશેષો મળ્યા હતા, જેને એ. કે. શર્મા દ્વારા ઘોડાના હોવાનું પ્રમાણિત કરાયું હતું.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
@@ -15951,39 +15951,39 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_hadappa_sites_2',
               question: 'હડપ્પીય યુગનું પ્રસિદ્ધ ઔદ્યોગિક બંદર "કુંતાસી" (બીબીનો ટીંબો) કયા જિલ્લામાં અને કઈ નદીના કિનારે આવેલું છે?',
-              options: ['કચ્છ – લૂણી નદી', 'મોરબી – ફૂલકી નદી', 'રાજકોટ – ભાદર નદી', 'સુરેન્દ્રનગર – ભોગાવો નદી'],
-              correctOptionIndex: 1,
+              options: ['મોરબી – ફૂલકી નદી', 'સુરેન્દ્રનગર – ભોગાવો નદી', 'કચ્છ – લૂણી નદી', 'રાજકોટ – ભાદર નદી'],
+              correctOptionIndex: 0,
               explanation: 'કુંતાસી મોરબી જિલ્લાના માળિયા-મિયાણા તાલુકામાં ફૂલકી નદી કિનારે આવેલું છે. અહીંથી વહાણ લાંગરવા માટેની પથ્થરની પ્રાચીન જેટી (Jetty) અને તાંબા ગાળવાની ભઠ્ઠીઓ મળી આવી છે.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_3',
               question: 'હાથીના અવશેષો, માછલી પકડવાના કાંટા અને ૨૧ જેટલા સુવર્ણ અલંકારો નીચેનામાંથી કયા હડપ્પીય સ્થળેથી પ્રાપ્ત થયા છે?',
-              options: ['દેસલપર', 'રોજડી / શ્રીનાથગઢ (રાજકોટ)', 'પાદરી (ભાવનગર)', 'માલવણ (સુરત)'],
-              correctOptionIndex: 1,
+              options: ['માલવણ (સુરત)', 'પાદરી (ભાવનગર)', 'રોજડી / શ્રીનાથગઢ (રાજકોટ)', 'દેસલપર'],
+              correctOptionIndex: 2,
               explanation: 'રાજકોટના ગોંડલ તાલુકામાં ભાદર નદી તટે આવેલા રોજડી (શ્રીનાથગઢ) માંથી હાથીના હાડકાં-દાંત, માછલી પકડવાના તાંબાના કાંટા અને ૨૧ સોનાના આભૂષણો મળ્યા છે. અહીં વાસણ પર કૂતરાનું ચિત્ર પણ અંકિત છે.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_4',
               question: 'ગુજરાતમાં સિંધુ સભ્યતાનું સૌથી દક્ષિણમાં આવેલું પુરાતત્વીય સ્થળ કયું છે?',
-              options: ['ભગતરાવ (ભરૂચ)', 'માલવણ (સુરત)', 'પાદરી (ભાવનગર)', 'કુંતાસી (મોરબી)'],
-              correctOptionIndex: 1,
+              options: ['ભગતરાવ (ભરૂચ)', 'કુંતાસી (મોરબી)', 'માલવણ (સુરત)', 'પાદરી (ભાવનગર)'],
+              correctOptionIndex: 2,
               explanation: 'સુરત જિલ્લાના ચોર્યાસી તાલુકામાં તાપી નદીના મુખ પ્રદેશ પાસે આવેલું "માલવણ" ગુજરાતમાં હડપ્પીય સભ્યતાનું સૌથી દક્ષિણતમ સ્થળ માનવામાં આવે છે.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_5',
               question: 'કયા હડપ્પીય સ્થળેથી માટીના મોટા વાસણ પર "બે શિંગડાવાળા દેવતા" નું ચિત્ર મળી આવ્યું છે?',
-              options: ['પાદરી / કેરાળા (ભાવનગર)', 'લાખાબાવળ (જામનગર)', 'શિકારપુર (કચ્છ)', 'પ્રભાસ પાટણ (ગીર સોમનાથ)'],
-              correctOptionIndex: 0,
+              options: ['પ્રભાસ પાટણ (ગીર સોમનાથ)', 'પાદરી / કેરાળા (ભાવનગર)', 'શિકારપુર (કચ્છ)', 'લાખાબાવળ (જામનગર)'],
+              correctOptionIndex: 1,
               explanation: 'ભાવનગરના તળાજા તાલુકામાં શેત્રુંજી નદી મુખ પાસે આવેલા પાદરી (કેરાળા) માંથી પ્રો. વસંત શિંદેના ઉત્ખનન દરમિયાન શિંગડાવાળા દેવતાનું ચિત્ર ધરાવતું વિશિષ્ટ વાસણ તથા તાંબાના બાણ મળ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_6',
               question: 'કચ્છના નખત્રાણા તાલુકામાં મોરાઈ (મોર) નદી કિનારે આવેલું પથ્થરની જાડી કિલ્લેબંધી ધરાવતું હડપ્પીય સંરક્ષણ મથક કયું છે?',
-              options: ['સુરકોટડા', 'દેસલપર (ગુણલી)', 'ખીરસરા', 'નેત્રા'],
+              options: ['ખીરસરા', 'દેસલપર (ગુણલી)', 'નેત્રા', 'સુરકોટડા'],
               correctOptionIndex: 1,
               explanation: 'દેસલપર નખત્રાણા તાલુકામાં મોરાઈ નદીના કિનારે આવેલું છે, જ્યાંથી પથ્થરની વિશાળ સંરક્ષણાત્મક દિવાલો, સિંધુ મુદ્રાઓ અને તાંબાના ઓજારો પ્રાપ્ત થયા હતા.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
@@ -15991,15 +15991,15 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_hadappa_sites_7',
               question: 'કચ્છના ભચાઉ તાલુકામાં આવેલું હડપ્પીય સ્થળ "શિકારપુર" સ્થાનિક લોકોમાં કયા નામે જાણીતું છે?',
-              options: ['કોટડા ટિંબો', 'બીબીનો ટીંબો', 'વાલ્મીઓ ટીંબો', 'લાલ ટેકરો'],
-              correctOptionIndex: 2,
+              options: ['વાલ્મીઓ ટીંબો', 'બીબીનો ટીંબો', 'લાલ ટેકરો', 'કોટડા ટિંબો'],
+              correctOptionIndex: 0,
               explanation: 'શિકારપુર સ્થાનિક રીતે "વાલ્મીઓ ટીંબો" તરીકે ઓળખાય છે. અહીંથી અકીકના મણકા બનાવવાની કાર્યશાળા તથા ૮૫% થી વધુ પાળતુ પશુઓના હાડકાં મળી આવ્યા છે.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_8',
               question: 'ભરૂચ જિલ્લાના હાંસોટ તાલુકામાં કિમ નદી કિનારે આવેલું કયું હડપ્પીય બંદર ડૉ. એસ. આર. રાવ દ્વારા શોધાયું હતું?',
-              options: ['ભગતરાવ', 'માલવણ', 'કાવી', 'ગંધાર'],
+              options: ['ભગતરાવ', 'ગંધાર', 'કાવી', 'માલવણ'],
               correctOptionIndex: 0,
               explanation: 'ભગતરાવ ભરૂચ જિલ્લાના હાંસોટ તાલુકામાં કિમ નદીના મુખ પ્રદેશ પર આવેલું હડપ્પીય બંદર હતું, જેનું ઉત્ખનન ૧૯૫૭-૫૮ માં ડૉ. એસ. આર. રાવ દ્વારા કરવામાં આવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
@@ -16007,39 +16007,39 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_hadappa_sites_9',
               question: 'અંડાકાર ખાડાઓ અને પથ્થરોના ઢગલા ઢાંકેલી વિશિષ્ટ "Cairn Burial" તેમજ અસ્થિકળશ દફન ક્યાંથી મળ્યા છે?',
-              options: ['લોથલ', 'ધોળાવીરા', 'સુરકોટડા', 'રંગપુર'],
-              correctOptionIndex: 2,
+              options: ['લોથલ', 'રંગપુર', 'ધોળાવીરા', 'સુરકોટડા'],
+              correctOptionIndex: 3,
               explanation: 'સુરકોટડામાંથી અંડાકાર ખાડાવાળી પથ્થર ઢાંકેલી કબરો (Cairn burial) અને મોટા માટીના માટલામાં અસ્થિ ભરી દાટવાની પ્રથા (Pot burial) જોવા મળે છે.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_hadappa_sites_10',
               question: 'પુરાતત્વમાં "પ્રભાસ કલ્ચર" (Prabhas Ware) તરીકે ઓળખાતા વિશિષ્ટ ગુલાબી-જાંબલી રંગની ઝાંયવાળા માટીપાત્રો ક્યાંથી મળ્યા છે?',
-              options: ['પ્રભાસ પાટણ (સોમનાથ)', 'બેટ દ્વારકા', 'પોરબંદર', 'માંગરોળ'],
-              correctOptionIndex: 0,
+              options: ['માંગરોળ', 'પ્રભાસ પાટણ (સોમનાથ)', 'પોરબંદર', 'બેટ દ્વારકા'],
+              correctOptionIndex: 1,
               explanation: 'ગીર સોમનાથના પ્રભાસ પાટણ (હિરણ્ય ત્રિવેણી સંગમ) ખાતેથી વિશિષ્ટ ગુલાબી-જાંબલી માટીકામ અને ગોળાકાર મુદ્રા મળી હોવાથી પુરાતત્વમાં તેને "પ્રભાસ કલ્ચર" નામ અપાયું છે.',
               sourceVideoTitle: 'Gujarat History 05 : સિંધુખીણ સંસ્કૃતિ નગરો (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_1',
               question: 'જૈન ધર્મના ૨૨મા તીર્થંકર ભગવાન નેમિનાથ (અરિષ્ટનેમિ) નું નિર્વાણ સ્થળ ગુજરાતમાં કયું છે?',
-              options: ['પાલિતાણા (શત્રુંજય)', 'ગિરનાર (રેવતાચલ, જૂનાગઢ)', 'તારંગા (મહેસાણા)', 'શંખેશ્વર (પાટણ)'],
-              correctOptionIndex: 1,
+              options: ['ગિરનાર (રેવતાચલ, જૂનાગઢ)', 'તારંગા (મહેસાણા)', 'શંખેશ્વર (પાટણ)', 'પાલિતાણા (શત્રુંજય)'],
+              correctOptionIndex: 0,
               explanation: '૨૨મા તીર્થંકર નેમિનાથ ભગવાન શ્રીકૃષ્ણના સમકાલીન અને પિતરાઈ ભાઈ હતા. તેમણે જૂનાગઢના ગિરનાર (રેવતાચલ) પર્વત પર કઠોર તપસ્યા કરીને નિર્વાણ પ્રાપ્ત કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_2',
               question: 'વલ્લભી (ભાવનગર) ખાતે ઈ.સ. ૫૧૨ માં યોજાયેલી બીજી જૈન ધર્મ સંગીતિના અધ્યક્ષ કોણ હતા?',
-              options: ['સ્થૂલભદ્ર', 'ભદ્રબાહુ', 'દેવર્ધિગણ ક્ષમાશ્રમણ', 'હેમચંદ્રાચાર્ય'],
-              correctOptionIndex: 2,
+              options: ['દેવર્ધિગણ ક્ષમાશ્રમણ', 'હેમચંદ્રાચાર્ય', 'ભદ્રબાહુ', 'સ્થૂલભદ્ર'],
+              correctOptionIndex: 0,
               explanation: 'મૈત્રક કાળ દરમિયાન વલ્લભી ખાતે દેવર્ધિગણ ક્ષમાશ્રમણની અધ્યક્ષતામાં બીજી જૈન સભા યોજાઈ હતી, જેમાં જૈન આગમ ગ્રંથોનું સત્તાવાર લિપિબદ્ધિકરણ કરવામાં આવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_3',
               question: 'મહાવીર સ્વામી દ્વારા પાર્શ્વનાથના ચાર મહાવ્રતોમાં કયું પાંચમું મહાવ્રત ઉમેરવામાં આવ્યું હતું?',
-              options: ['અહિંસા', 'અસ્તેય', 'અપરિગ્રહ', 'બ્રહ્મચર્ય'],
+              options: ['અપરિગ્રહ', 'અહિંસા', 'અસ્તેય', 'બ્રહ્મચર્ય'],
               correctOptionIndex: 3,
               explanation: '૨૩મા તીર્થંકર પાર્શ્વનાથે અહિંસા, સત્ય, અસ્તેય અને અપરિગ્રહ એમ ચાર વ્રતો આપ્યા હતા; જ્યારે મહાવીર સ્વામીએ પાંચમું વ્રત બ્રહ્મચર્ય જોડ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
@@ -16047,31 +16047,31 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_jain_buddha_4',
               question: 'ગુજરાતના કયા સ્થળેથી ક્ષત્રપ કાળનો પ્રસિદ્ધ બોધિસ્તૂપ અને બુદ્ધના અસ્થિ ધરાવતી પવિત્ર મંજૂષા (દાબડી) મળી આવી છે?',
-              options: ['વડનગર', 'દેવની મોરી (શામળાજી, અરવલ્લી)', 'ઉપરકોટ (જૂનાગઢ)', 'કડિયા ડુંગર (ભરૂચ)'],
-              correctOptionIndex: 1,
+              options: ['ઉપરકોટ (જૂનાગઢ)', 'વડનગર', 'દેવની મોરી (શામળાજી, અરવલ્લી)', 'કડિયા ડુંગર (ભરૂચ)'],
+              correctOptionIndex: 2,
               explanation: 'અરવલ્લી જિલ્લાના શામળાજી પાસે મેશ્વો નદી કિનારે આવેલા દેવની મોરી સ્તૂપમાંથી ભગવાન બુદ્ધના અસ્થિ (દાંત/ભસ્મ) ધરાવતી સોના-તાંબાની મંજૂષા પ્રાપ્ત થઈ હતી, જે એમ.એસ. યુનિવર્સિટી વડોદરામાં સુરક્ષિત છે.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_5',
               question: 'ગૌતમ બુદ્ધે જ્ઞાન પ્રાપ્તિ બાદ પોતાનો પ્રથમ ઉપદેશ (ધર્મચક્ર પ્રવર્તન) કયા સ્થળે આપ્યો હતો?',
-              options: ['બોધગયા (બિહાર)', 'લુમ્બિની (નેપાળ)', 'સારનાથ (ઋષિપત્તન)', 'કુશીનગર'],
-              correctOptionIndex: 2,
+              options: ['બોધગયા (બિહાર)', 'સારનાથ (ઋષિપત્તન)', 'લુમ્બિની (નેપાળ)', 'કુશીનગર'],
+              correctOptionIndex: 1,
               explanation: 'બોધગયા ખાતે પીપળા નીચે સંબોધિ પામ્યા બાદ ગૌતમ બુદ્ધે સારનાથ (ઋષિપત્તન) ના હરણ વનમાં પોતાના ૫ સાથી સંન્યાસીઓને પાલી ભાષામાં પ્રથમ ઉપદેશ આપ્યો, જેને ધર્મચક્ર પ્રવર્તન કહેવાય છે.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_6',
               question: 'બૌદ્ધ ધર્મનું "હીનયાન" અને "મહાયાન" શાખાઓમાં કાયમી વિભાજન કઈ બૌદ્ધ સંગીતિમાં થયું હતું?',
-              options: ['પ્રથમ સંગીતિ (રાજગૃહ)', 'દ્વિતીય સંગીતિ (વૈશાલી)', 'તૃતીય સંગીતિ (પાટલીપુત્ર)', 'ચતુર્થ સંગીતિ (કુંડલવન, કાશ્મીર)'],
-              correctOptionIndex: 3,
+              options: ['દ્વિતીય સંગીતિ (વૈશાલી)', 'ચતુર્થ સંગીતિ (કુંડલવન, કાશ્મીર)', 'પ્રથમ સંગીતિ (રાજગૃહ)', 'તૃતીય સંગીતિ (પાટલીપુત્ર)'],
+              correctOptionIndex: 1,
               explanation: 'કુષાણ રાજા કનિષ્કના સમયમાં કુંડલવન (કાશ્મીર) ખાતે વસુમિત્ર અને અશ્વઘોષની આગેવાનીમાં મળેલી ચોથી સંગીતિમાં બૌદ્ધ ધર્મ હીનયાન અને મહાયાનમાં વિભાજિત થયો.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_7',
               question: 'ભાવનગર જિલ્લાના પાલિતાણામાં આવેલો ૮૬૩ જિનાલયો ધરાવતો "શત્રુંજય પર્વત" કયા જૈન તીર્થંકર સાથે વિશેષ રીતે સંકળાયેલો છે?',
-              options: ['ઋષભદેવ (આદિનાથ)', 'મહાવીર સ્વામી', 'શાંતિનાથ', 'મલ્લિનાથ'],
+              options: ['ઋષભદેવ (આદિનાથ)', 'મહાવીર સ્વામી', 'મલ્લિનાથ', 'શાંતિનાથ'],
               correctOptionIndex: 0,
               explanation: 'શત્રુંજય પર્વત જૈન ધર્મના પ્રથમ તીર્થંકર ઋષભદેવ (આદિનાથ) નું પવિત્ર ધામ ગણાય છે. અહીં ૮૬૩ થી વધુ ભવ્ય શ્વેતાંબર જૈન મંદિરો આવેલાં છે.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
@@ -16079,7 +16079,7 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_jain_buddha_8',
               question: 'ચીની યાત્રી હ્યુઅન ત્સાંગે ઈ.સ. ૬૪૦ માં ગુજરાતના કયા નગરમાં ૧૦૦ થી વધુ બૌદ્ધ મઠો અને ૬૦૦૦ ભિક્ષુઓ હોવાની નોંધ કરી હતી?',
-              options: ['ભૃગુકચ્છ (ભરૂચ)', 'વલભી (ભાવનગર)', 'દ્વારકા', 'પાટણ'],
+              options: ['ભૃગુકચ્છ (ભરૂચ)', 'વલભી (ભાવનગર)', 'પાટણ', 'દ્વારકા'],
               correctOptionIndex: 1,
               explanation: 'હ્યુઅન ત્સાંગે વલભી અને આનર્તપુર (વડનગર) ની મુલાકાત લીધી હતી અને વલભીને બૌદ્ધ ધર્મ અને શિક્ષણનું વિશાળ આંતરરાષ્ટ્રીય વિદ્યાધામ ગણાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
@@ -16087,87 +16087,87 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_jain_buddha_9',
               question: 'નીચેનામાંથી કઈ ગુફાઓ બૌદ્ધ ધર્મ સાથે સંકળાયેલી છે અને તેમાં પ્રસિદ્ધ "એભલ મંડપ" આવેલો છે?',
-              options: ['ઢાંકની ગુફાઓ (રાજકોટ)', 'તળાજાની ગુફાઓ (ભાવનગર)', 'ખંભાલીડાની ગુફાઓ (ગોંડલ)', 'કડિયા ડુંગરની ગુફાઓ (ભરૂચ)'],
-              correctOptionIndex: 1,
+              options: ['કડિયા ડુંગરની ગુફાઓ (ભરૂચ)', 'ઢાંકની ગુફાઓ (રાજકોટ)', 'તળાજાની ગુફાઓ (ભાવનગર)', 'ખંભાલીડાની ગુફાઓ (ગોંડલ)'],
+              correctOptionIndex: 2,
               explanation: 'ભાવનગરના તળાજા ડુંગર પર આવેલી ૩૦ બૌદ્ધ ગુફાઓમાં વિશાળ પથ્થર-કંડારેલો સભામંડપ "એભલ મંડપ" તરીકે ઓળખાય છે.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_jain_buddha_10',
               question: 'ગૌતમ બુદ્ધના જીવનમાં ૨૯ વર્ષની વયે થયેલા ગૃહત્યાગની ઘટના બૌદ્ધ પરંપરામાં કયા નામે ઓળખાય છે?',
-              options: ['સંબોધિ (જ્ઞાન પ્રાપ્તિ)', 'મહાભિનિષ્ક્રમણ', 'ધર્મચક્ર પ્રવર્તન', 'મહાપરિનિર્વાણ'],
-              correctOptionIndex: 1,
+              options: ['મહાપરિનિર્વાણ', 'ધર્મચક્ર પ્રવર્તન', 'સંબોધિ (જ્ઞાન પ્રાપ્તિ)', 'મહાભિનિષ્ક્રમણ'],
+              correctOptionIndex: 3,
               explanation: 'ગૌતમ બુદ્ધે ૨૯ વર્ષની વયે સારથી છન્ન અને ઘોડા કંથક સાથે સંસારના દુઃખો નિવારવા સત્યની શોધમાં ગૃહત્યાગ કર્યો હતો, જેને "મહાભિનિષ્ક્રમણ" કહેવામાં આવે છે.',
               sourceVideoTitle: 'Gujarat History 06 : જૈન ધર્મ અને બૌદ્ધ ધર્મ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_1',
               question: 'ગંગા અને સોણ નદીના સંગમ પર "પાટલીપુત્ર" (કુસુમપુરા) નગરની સ્થાપના કરી તેને મગધની રાજધાની કયા રાજાએ બનાવી હતી?',
-              options: ['બિંબિસાર', 'અજાતશત્રુ', 'ઉદયિન (ઉદયભદ્ર)', 'અનિરુદ્ધ'],
-              correctOptionIndex: 2,
+              options: ['અનિરુદ્ધ', 'અજાતશત્રુ', 'બિંબિસાર', 'ઉદયિન (ઉદયભદ્ર)'],
+              correctOptionIndex: 3,
               explanation: 'હર્યંક વંશના રાજા ઉદયિને ગંગા અને સોણ નદીના સંગમ પર પાટલીપુત્ર નગર વસાવી મગધની રાજધાની રાજગૃહથી પાટલીપુત્ર ખસેડી હતી.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_2',
               question: 'સિકંદરના ભારત પર આક્રમણ (ઈ.સ. પૂર્વે ૩૨૬) સમયે મગધ પર કયા વંશના રાજાનું શાસન હતું?',
-              options: ['હર્યંક વંશ – અજાતશત્રુ', 'શિશુનાગ વંશ – કાલાશોક', 'નંદ વંશ – ધનાનંદ', 'મૌર્ય વંશ – ચંદ્રગુપ્ત મૌર્ય'],
-              correctOptionIndex: 2,
+              options: ['મૌર્ય વંશ – ચંદ્રગુપ્ત મૌર્ય', 'નંદ વંશ – ધનાનંદ', 'શિશુનાગ વંશ – કાલાશોક', 'હર્યંક વંશ – અજાતશત્રુ'],
+              correctOptionIndex: 1,
               explanation: 'સિકંદરના ભારત આક્રમણ વખતે મગધ પર નંદ વંશના અત્યાચારી અને ધનલોભી રાજા ધનાનંદનું શાસન હતું, જેની પાસે વિશાળ સેના અને યુદ્ધ-હાથીઓ હતા.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_3',
               question: 'ઈ.સ. પૂર્વે ૩૨૬ માં ઝેલમ નદીના કિનારે થયેલું પ્રસિદ્ધ "હાઇડાસપીસનું યુદ્ધ" સિકંદર અને કયા ભારતીય વીર રાજા વચ્ચે લડાયું હતું?',
-              options: ['તક્ષશિલાના આંભી', 'પંજાબના રાજા પોરસ (પુરુ)', 'મગધના ધનાનંદ', 'ચંદ્રગુપ્ત મૌર્ય'],
-              correctOptionIndex: 1,
+              options: ['પંજાબના રાજા પોરસ (પુરુ)', 'તક્ષશિલાના આંભી', 'મગધના ધનાનંદ', 'ચંદ્રગુપ્ત મૌર્ય'],
+              correctOptionIndex: 0,
               explanation: 'ઝેલમ (ગ્રીક: હાઇડાસપીસ / સંસ્કૃત: વિતસ્તા) નદી કાંઠે સિકંદર અને રાજા પોરસ વચ્ચે ભીષણ યુદ્ધ થયું હતું. પોરસની વીરતા જોઈ સિકંદરે તેનું રાજ્ય પાછું સોંપી મિત્રતા કરી હતી.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_4',
               question: 'ભારતીય ઇતિહાસમાં પ્રથમ બિન-ક્ષત્રિય (શૂદ્ર) શાસક તરીકે "સર્વક્ષત્રાંતક" અને "એકરાટ" ની ઉપાધિ કોણે ધારણ કરી હતી?',
-              options: ['મહાપદ્મનંદ', 'શિશુનાગ', 'બિંબિસાર', 'પુષ્યમિત્ર શૃંગ'],
-              correctOptionIndex: 0,
+              options: ['પુષ્યમિત્ર શૃંગ', 'શિશુનાગ', 'મહાપદ્મનંદ', 'બિંબિસાર'],
+              correctOptionIndex: 2,
               explanation: 'નંદ વંશના સંસ્થાપક મહાપદ્મનંદે તમામ ક્ષત્રિયોનો નાશ કરી એકચક્રી શાસન સ્થાપી "સર્વક્ષત્રાંતક" અને "એકરાટ" (બીજો પરશુરામ) ની ઉપાધિ ધારણ કરી હતી.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_5',
               question: 'ભારત પર સૌપ્રથમ સફળ વિદેશી આક્રમણ કરનાર ઈરાની (હખામની) શાસક કોણ હતો?',
-              options: ['સાયરસ ધી ગ્રેટ', 'ડેરિયસ ૧લો (દારા ૧લો)', 'ઝર્ક્સીસ', 'દારા ૩જો'],
-              correctOptionIndex: 1,
+              options: ['ડેરિયસ ૧લો (દારા ૧લો)', 'દારા ૩જો', 'ઝર્ક્સીસ', 'સાયરસ ધી ગ્રેટ'],
+              correctOptionIndex: 0,
               explanation: 'ઈરાનના રાજા ડેરિયસ ૧લાએ ઈ.સ. પૂર્વે ૫૧૬ માં વાયવ્ય ભારત (સિંધ અને પંજાબ) પર સફળ આક્રમણ કર્યું હતું, જેના પરિણામે ભારતમાં ખરોષ્ઠી લિપિનો પ્રવેશ થયો.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_6',
               question: 'સિકંદરના સૈનિકોએ કઈ નદીના તટે પહોંચીને આગળ વધવાનો સ્પષ્ટ ઈનકાર કરી દીધો હતો?',
-              options: ['સિંધુ નદી', 'ઝેલમ નદી', 'ચિનાબ નદી', 'વ્યાસ નદી (બિયાસ / Hyphasis)'],
-              correctOptionIndex: 3,
+              options: ['સિંધુ નદી', 'ઝેલમ નદી', 'વ્યાસ નદી (બિયાસ / Hyphasis)', 'ચિનાબ નદી'],
+              correctOptionIndex: 2,
               explanation: 'વ્યાસ (બિયાસ) નદીના કાંઠે સિકંદરના સૈનિકોએ હોમસિકનેસ, થાક અને મગધના ધનાનંદની વિશાળ સેનાના ભયથી આગળ વધવાનો ઈનકાર કરતાં સિકંદરે પીછેહઠ કરવી પડી હતી.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_7',
               question: 'આચાર્ય ચાણક્ય (કૌટિલ્ય) કઈ પ્રાચીન વિશ્વવિખ્યાત વિદ્યાપીઠના અર્થશાસ્ત્ર અને રાજનીતિના મહાન આચાર્ય હતા?',
-              options: ['નાલંદા વિદ્યાપીઠ', 'વલ્લભી વિદ્યાપીઠ', 'તક્ષશિલા વિદ્યાપીઠ', 'વિક્રમશીલા વિદ્યાપીઠ'],
-              correctOptionIndex: 2,
+              options: ['વિક્રમશીલા વિદ્યાપીઠ', 'વલ્લભી વિદ્યાપીઠ', 'નાલંદા વિદ્યાપીઠ', 'તક્ષશિલા વિદ્યાપીઠ'],
+              correctOptionIndex: 3,
               explanation: 'આચાર્ય ચાણક્ય ગાંધારની રાજધાની તક્ષશિલા ખાતે આવેલી વિશ્વની પ્રાચીનતમ તક્ષશિલા વિદ્યાપીઠના પ્રખર રાજનીતિજ્ઞ અને આચાર્ય હતા.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_8',
               question: 'અજાતશત્રુએ વૈશાલી અને લિચ્છવી ગણરાજ્યો સામેના યુદ્ધમાં કયા બે નવા શસ્ત્રોનો ઉપયોગ કર્યો હતો?',
-              options: ['ત્રિશૂલ અને ગદા', 'રથમુસલ અને મહાશિલાકંટક', 'તોપ અને અગ્નિબાણ', 'વજ્ર અને પાશ'],
-              correctOptionIndex: 1,
+              options: ['ત્રિશૂલ અને ગદા', 'તોપ અને અગ્નિબાણ', 'રથમુસલ અને મહાશિલાકંટક', 'વજ્ર અને પાશ'],
+              correctOptionIndex: 2,
               explanation: 'અજાતશત્રુએ તીક્ષ્ણ બ્લેડવાળા સ્વચાલિત રથ "રથમુસલ" અને મોટા પથ્થરો ફેંકવાના યંત્ર "મહાશિલાકંટક" દ્વારા વૈશાલી સામે નિર્ણાયક વિજય મેળવ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_prag_maurya_9',
               question: 'ચાણક્યએ વિંધ્યાચલના જંગલોમાંથી "રાજકીલમ" રમત રમતા બાળક ચંદ્રગુપ્તને તેના પાલક પાસેથી કેટલા સિક્કા ચૂકવીને પ્રાપ્ત કર્યો હતો?',
-              options: ['૧૦૦ સુવર્ણ મુદ્રાઓ', '૫૦૦ દીનાર', '૧,૦૦૦ કાર્ષાપણ (ચાંદીના સિક્કા)', '૨,૦૦૦ તાંબાના સિક્કા'],
+              options: ['૫૦૦ દીનાર', '૧૦૦ સુવર્ણ મુદ્રાઓ', '૧,૦૦૦ કાર્ષાપણ (ચાંદીના સિક્કા)', '૨,૦૦૦ તાંબાના સિક્કા'],
               correctOptionIndex: 2,
               explanation: 'ન્યાય તોળવાની રાજા-પ્રજાની રમત રમતા બાળક ચંદ્રગુપ્તની પ્રતિભા જોઈ ચાણક્યએ ૧,૦૦૦ કાર્ષાપણ (પ્રાચીન ચાંદીના સિક્કા) આપી તેને ખરીદી તક્ષશિલામાં તાલીમ આપી હતી.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
@@ -16175,31 +16175,31 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_prag_maurya_10',
               question: 'આચાર્ય કૌટિલ્યના રાજનીતિ વિષયક મહાન ગ્રંથ "અર્થશાસ્ત્ર" માં કુલ કેટલા અધિકરણ (મુખ્ય ભાગ) આવેલા છે?',
-              options: ['૧૦ અધિકરણ', '૧૨ અધિકરણ', '૧૫ અધિકરણ', '૧૮ અધિકરણ'],
-              correctOptionIndex: 2,
+              options: ['૧૫ અધિકરણ', '૧૦ અધિકરણ', '૧૮ અધિકરણ', '૧૨ અધિકરણ'],
+              correctOptionIndex: 0,
               explanation: 'કૌટિલ્યના અર્થશાસ્ત્રમાં ૧૫ અધિકરણ, ૧૫૦ અધ્યાય, ૧૮૦ પ્રકરણ અને લગભગ ૬,૦૦૦ શ્લોકો આવેલા છે. તેમાં રાજ્યના ૭ અંગો (સપ્તાંગ સિદ્ધાંત) દર્શાવેલા છે.',
               sourceVideoTitle: 'Gujarat History 07 : પ્રાગ મોર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_1',
               question: 'ચંદ્રગુપ્ત મૌર્યના શાસનકાળ દરમિયાન ગિરિનગર (જૂનાગઢ) ખાતે સુદર્શન તળાવનું મૂળ નિર્માણ કોણે કરાવ્યું હતું?',
-              options: ['તુષાસ્ફ', 'પુષ્યગુપ્ત વૈશ્ય', 'સુવિશાખ', 'ચક્રપાલિત'],
-              correctOptionIndex: 1,
+              options: ['ચક્રપાલિત', 'સુવિશાખ', 'પુષ્યગુપ્ત વૈશ્ય', 'તુષાસ્ફ'],
+              correctOptionIndex: 2,
               explanation: 'ચંદ્રગુપ્ત મૌર્યના સૌરાષ્ટ્રના રાષ્ટ્રીય (રાજ્યપાલ) પુષ્યગુપ્ત વૈશ્યે સુવર્ણસિક્તા અને પલાશિની નદીઓ પર બંધ બાંધી સુદર્શન તળાવનું નિર્માણ કરાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_2',
               question: 'સમ્રાટ અશોકના કયા યવન રાજ્યપાલે (સૂબાએ) સુદર્શન તળાવમાંથી સિંચાઈ માટે નહેરો કઢાવી હતી?',
-              options: ['પુષ્યગુપ્ત', 'સુવિશાખ', 'તુષાસ્ફ (યવનરાજ)', 'પર્ણદત્ત'],
-              correctOptionIndex: 2,
+              options: ['તુષાસ્ફ (યવનરાજ)', 'સુવિશાખ', 'પર્ણદત્ત', 'પુષ્યગુપ્ત'],
+              correctOptionIndex: 0,
               explanation: 'સમ્રાટ અશોકના સમયમાં સૌરાષ્ટ્રના યવન રાજ્યપાલ તુષાસ્ફે સુદર્શન તળાવમાંથી સિંચાઈ માટે નહેરોનું નિર્માણ કરાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_3',
               question: 'જૂનાગઢ ખાતે આવેલા સમ્રાટ અશોકના શિલાલેખની શોધ ઈ.સ. ૧૮૨૨ માં કયા બ્રિટિશ ઇતિહાસકાર દ્વારા કરવામાં આવી હતી?',
-              options: ['જેમ્સ પ્રિન્સેપ', 'કર્નલ જેમ્સ ટોડ', 'ડૉ. ભગવાનલાલ ઇન્દ્રજી', 'એલેક્ઝાન્ડર કનિંગહામ'],
+              options: ['ડૉ. ભગવાનલાલ ઇન્દ્રજી', 'કર્નલ જેમ્સ ટોડ', 'એલેક્ઝાન્ડર કનિંગહામ', 'જેમ્સ પ્રિન્સેપ'],
               correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૮૨૨ માં કર્નલ જેમ્સ ટોડે જૂનાગઢમાં ગિરનાર તળેટી ખાતે અશોકના શિલાલેખની શોધ કરી હતી. ઈ.સ. ૧૮૩૭ માં જેમ્સ પ્રિન્સેપે તેનું વાંચન કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
@@ -16207,7 +16207,7 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_maurya_kal_4',
               question: 'જૂનાગઢના અશોક શિલાલેખની ક્ષતિઓ સુધારીને તેનું સંપૂર્ણ શુદ્ધ અને અધિકૃત વાંચન કયા ગુજરાતી વિદ્વાન દ્વારા કરવામાં આવ્યું હતું?',
-              options: ['ડૉ. હસમુખ સાંકળિયા', 'કવિ નર્મદ', 'પંડિત ભગવાનલાલ ઇન્દ્રજી', 'રત્નમણિરાવ જોટે'],
+              options: ['રત્નમણિરાવ જોટે', 'ડૉ. હસમુખ સાંકળિયા', 'પંડિત ભગવાનલાલ ઇન્દ્રજી', 'કવિ નર્મદ'],
               correctOptionIndex: 2,
               explanation: 'વિશ્વવિખ્યાત પુરાતત્વવિદ્ ડૉ. ભગવાનલાલ ઇન્દ્રજીએ જૂનાગઢના અશોક શિલાલેખનું ક્ષતિરહિત શુદ્ધ વાંચન તૈયાર કરી ઇતિહાસ જગતમાં મોટું પ્રદાન આપ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
@@ -16215,71 +16215,71 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_maurya_kal_5',
               question: 'ચંદ્રગુપ્ત મૌર્યએ પોતાના જીવનના અંતિમ દિવસોમાં કયા જૈન મુનિ સાથે શ્રવણબેલગોલા (કર્ણાટક) જઈ સંલેખના વ્રત દ્વારા દેહત્યાગ કર્યો હતો?',
-              options: ['સ્થૂલભદ્ર', 'ભદ્રબાહુ', 'હેમચંદ્રાચાર્ય', 'દેવર્ધિ ક્ષમાશ્રમણ'],
-              correctOptionIndex: 1,
+              options: ['હેમચંદ્રાચાર્ય', 'સ્થૂલભદ્ર', 'ભદ્રબાહુ', 'દેવર્ધિ ક્ષમાશ્રમણ'],
+              correctOptionIndex: 2,
               explanation: 'ચંદ્રગુપ્ત મૌર્ય જૈન આચાર્ય ભદ્રબાહુ સાથે શ્રવણબેલગોલા (ચંદ્રગિરિ પર્વત) ગયા અને ઈ.સ. પૂર્વે ૨૯૮ માં સંલેખના (સંથારા) દ્વારા દેહત્યાગ કર્યો હતો.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_6',
               question: 'સેલ્યુકસ નિકેટર દ્વારા ચંદ્રગુપ્ત મૌર્યના દરબારમાં મોકલવામાં આવેલા ગ્રીક રાજદૂત મેગસ્થનીઝે કયા પ્રસિદ્ધ ગ્રંથની રચના કરી હતી?',
-              options: ['અર્થશાસ્ત્ર', 'ઇન્ડિકા (Indica)', 'મુદ્રારાક્ષસ', 'પરિશિષ્ટપર્વન'],
-              correctOptionIndex: 1,
+              options: ['મુદ્રારાક્ષસ', 'અર્થશાસ્ત્ર', 'પરિશિષ્ટપર્વન', 'ઇન્ડિકા (Indica)'],
+              correctOptionIndex: 3,
               explanation: 'મેગસ્થનીઝે મૌર્યકાલીન પાટલીપુત્રનું વહીવટી તંત્ર, નગર વ્યવસ્થા અને સમાજ દર્શાવતા પ્રસિદ્ધ ગ્રંથ "ઇન્ડિકા" ની રચના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_7',
               question: 'મૌર્ય સમ્રાટ બિંદુસારને ગ્રીક અને જૈન સાહિત્યમાં કઈ ઉપાધિથી ઓળખવામાં આવ્યો છે?',
-              options: ['દેવાનામપ્રિય', 'અમિત્રઘાત (અમિત્રોચેટ્સ)', 'એકરાટ', 'સર્વક્ષત્રાંતક'],
-              correctOptionIndex: 1,
+              options: ['એકરાટ', 'દેવાનામપ્રિય', 'સર્વક્ષત્રાંતક', 'અમિત્રઘાત (અમિત્રોચેટ્સ)'],
+              correctOptionIndex: 3,
               explanation: 'બિંદુસારને શત્રુઓનો સંહાર કરનાર અર્થાત્ "અમિત્રઘાત" (ગ્રીક: અમિત્રોચેટ્સ) અને જૈન સાહિત્યમાં "સિંહસેન" તરીકે ઓળખવામાં આવ્યો છે.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_8',
               question: 'સમ્રાટ અશોકના કયા શિલાલેખમાંથી કલિંગના ઐતિહાસિક યુદ્ધ (ઈ.સ. પૂર્વે ૨૬૧) અને તેના હૃદયપરિવર્તનની વિગતો મળે છે?',
-              options: ['૫મો શિલાલેખ', '૮મો શિલાલેખ', '૧૧મો શિલાલેખ', '૧૩મો શિલાલેખ'],
-              correctOptionIndex: 3,
+              options: ['૫મો શિલાલેખ', '૧૧મો શિલાલેખ', '૧૩મો શિલાલેખ', '૮મો શિલાલેખ'],
+              correctOptionIndex: 2,
               explanation: 'અશોકના ૧૩મા મુખ્ય શિલાલેખમાં કલિંગ યુદ્ધના ભયાનક નરસંહાર અને ભેરીઘોષમાંથી ધમ્મઘોષ અપનાવવાની ઐતિહાસિક વિગતો કોતરાયેલી છે.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_9',
               question: 'સુદર્શન તળાવ ગિરનાર પર્વતમાંથી નીકળતી કઈ બે પવિત્ર નદીઓના વહેણ પર બંધ બાંધીને નિર્માણ કરાયું હતું?',
-              options: ['હિરણ્ય અને કપિલા', 'સુવર્ણસિક્તા (સોનરેખ) અને પલાશિની', 'શેત્રુંજી અને ભાદર', 'સાબરમતી અને હાથમતી'],
-              correctOptionIndex: 1,
+              options: ['સુવર્ણસિક્તા (સોનરેખ) અને પલાશિની', 'શેત્રુંજી અને ભાદર', 'સાબરમતી અને હાથમતી', 'હિરણ્ય અને કપિલા'],
+              correctOptionIndex: 0,
               explanation: 'ગિરનાર પર્વતમાંથી વહેતી સુવર્ણસિક્તા (સોનરેખ) અને પલાશિની નદીઓના સંગમ પર પથ્થરનો પાકો બંધ બાંધી સુદર્શન તળાવનું નિર્માણ થયું હતું.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maurya_kal_10',
               question: 'મૌર્ય સામ્રાજ્યના અંતિમ શાસક બૃહદ્રથની હત્યા કરી મગધ પર શૃંગ વંશની સ્થાપના કોણે કરી હતી?',
-              options: ['અગ્નિમિત્ર', 'પુષ્યમિત્ર શૃંગ', 'વાસુદેવ કણ્વ', 'સિમુક'],
-              correctOptionIndex: 1,
+              options: ['પુષ્યમિત્ર શૃંગ', 'સિમુક', 'વાસુદેવ કણ્વ', 'અગ્નિમિત્ર'],
+              correctOptionIndex: 0,
               explanation: 'ઈ.સ. પૂર્વે ૧૮૫ માં બૃહદ્રથના બ્રાહ્મણ સેનાપતિ પુષ્યમિત્ર શૃંગે લશ્કરી પરેડના નિરીક્ષણ વખતે તેની હત્યા કરી શૃંગ વંશની સ્થાપના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 08 : મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maurya_1',
               question: 'મૌર્ય સામ્રાજ્યના અંતિમ શાસક બૃહદ્રથની લશ્કરી નિરીક્ષણ વખતે હત્યા કરી શૃંગ વંશની સ્થાપના કોણે કરી હતી?',
-              options: ['અગ્નિમિત્ર', 'પુષ્યમિત્ર શૃંગ', 'વાસુદેવ કણ્વ', 'સિમુક'],
-              correctOptionIndex: 1,
+              options: ['અગ્નિમિત્ર', 'સિમુક', 'વાસુદેવ કણ્વ', 'પુષ્યમિત્ર શૃંગ'],
+              correctOptionIndex: 3,
               explanation: 'ઈ.સ. પૂર્વે ૧૮૫ માં મૌર્ય સેનાપતિ પુષ્યમિત્ર શૃંગે અંતિમ મૌર્ય રાજા બૃહદ્રથની હત્યા કરી મગધ પર શૃંગ વંશની સ્થાપના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maurya_2',
               question: 'પુષ્યમિત્ર શૃંગ દ્વારા કરવામાં આવેલા બે અશ્વમેઘ યજ્ઞોના મુખ્ય પુરોહિત નીચેનામાંથી કોણ હતા?',
-              options: ['મહર્ષિ પતંજલિ', 'કાલિદાસ', 'પાણિનિ', 'હેમચંદ્રાચાર્ય'],
-              correctOptionIndex: 0,
+              options: ['હેમચંદ્રાચાર્ય', 'કાલિદાસ', 'મહર્ષિ પતંજલિ', 'પાણિનિ'],
+              correctOptionIndex: 2,
               explanation: 'સંસ્કૃત વ્યાકરણ ગ્રંથ "મહાભાષ્ય" અને યોગસૂત્રના રચયિતા મહર્ષિ પતંજલિ પુષ્યમિત્ર શૃંગના અશ્વમેઘ યજ્ઞના મુખ્ય પુરોહિત હતા.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maurya_3',
               question: 'ભાગવત (વૈષ્ણવ) ધર્મ સ્વીકારી વિદિશા (મધ્ય પ્રદેશ) ખાતે પ્રસિદ્ધ "ગરુડ સ્તંભ" ની સ્થાપના કરનાર ગ્રીક રાજદૂત કોણ હતો?',
-              options: ['મેગસ્થનીઝ', 'ડાયમેકસ', 'હેલિયોડોરસ', 'ડાયોનિસિયસ'],
+              options: ['ડાયોનિસિયસ', 'ડાયમેકસ', 'હેલિયોડોરસ', 'મેગસ્થનીઝ'],
               correctOptionIndex: 2,
               explanation: 'તક્ષશિલાના ગ્રીક શાસક એન્ટિઆલ્કીડાસના રાજદૂત હેલિયોડોરસે શૃંગ રાજા ભાગભદ્રના દરબારમાં આવી ભાગવત ધર્મ અપનાવી વિદિશા (બેસનગર) માં ગરુડ સ્તંભ સ્થાપ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
@@ -16287,7 +16287,7 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_anu_maurya_4',
               question: 'ભારતમાં બ્રાહ્મણો અને બૌદ્ધ ભિક્ષુઓને કરમુક્ત જમીનદાન (Land Grant) આપવાનો સર્વપ્રથમ લિખિત પુરાવો કયા શિલાલેખમાંથી મળે છે?',
-              options: ['જૂનાગઢ શિલાલેખ', 'નાનાઘાટ શિલાલેખ (મહારાષ્ટ્ર)', 'હાથીગુમ્ફા શિલાલેખ', 'અલાહાબાદ સ્તંભલેખ'],
+              options: ['અલાહાબાદ સ્તંભલેખ', 'નાનાઘાટ શિલાલેખ (મહારાષ્ટ્ર)', 'જૂનાગઢ શિલાલેખ', 'હાથીગુમ્ફા શિલાલેખ'],
               correctOptionIndex: 1,
               explanation: 'સાતવાહન રાજા સાતકર્ણી ૧લાની રાણી નાગનિકાના નાનાઘાટ અભિલેખમાંથી ભારતમાં સૌપ્રથમ ભૂમિદાન આપવાનો અભિલેખીય પુરાવો મળે છે.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
@@ -16295,23 +16295,23 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_anu_maurya_5',
               question: 'કયા સાતવાહન સમ્રાટને નાસિક પ્રશસ્તિમાં "ત્રિસમુદ્રતોયપીતવાહન" અને "અદ્વિતીય બ્રાહ્મણ" કહેવામાં આવ્યો છે?',
-              options: ['સિમુક', 'સાતકર્ણી ૧લો', 'ગૌતમીપુત્ર સાતકર્ણી', 'યજ્ઞશ્રી સાતકર્ણી'],
-              correctOptionIndex: 2,
+              options: ['સાતકર્ણી ૧લો', 'ગૌતમીપુત્ર સાતકર્ણી', 'યજ્ઞશ્રી સાતકર્ણી', 'સિમુક'],
+              correctOptionIndex: 1,
               explanation: 'ગૌતમીપુત્ર સાતકર્ણી સાતવાહન વંશનો સૌથી મહાન રાજા હતો, જેણે શક શાસક નહપાનનો વધ કર્યો હતો. તેની માતા ગૌતમી બલશ્રીએ નાસિક પ્રશસ્તિ કંડારાવી હતી.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maurya_6',
               question: 'સાતવાહન શાસકોએ નીચેનામાંથી મુખ્યત્વે કઈ ધાતુના સિક્કાઓનું સૌથી વધુ ચલણ શરૂ કર્યું હતું?',
-              options: ['સોનું (Gold)', 'સીસું (Lead)', 'પ્લેટિનમ', 'લોખંડ'],
-              correctOptionIndex: 1,
+              options: ['લોખંડ', 'પ્લેટિનમ', 'સોનું (Gold)', 'સીસું (Lead)'],
+              correctOptionIndex: 3,
               explanation: 'સાતવાહનોએ મોટા પાયે સીસાના (Lead) સિક્કાઓ ચલાવ્યા હતા, ઉપરાંત પોટીન અને તાંબાના સિક્કા પણ બનાવ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maurya_7',
               question: 'બૌદ્ધ સાધુ નાગસેન અને ગ્રીક રાજા મિનાન્ડર વચ્ચેનો ઐતિહાસિક આધ્યાત્મિક સંવાદ કયા ગ્રંથમાં સંગ્રહિત છે?',
-              options: ['દીપવંશ', 'મહાવંશ', 'મિલિન્દપન્હો (Milinda Panha)', 'બુદ્ધચરિત'],
+              options: ['મહાવંશ', 'દીપવંશ', 'મિલિન્દપન્હો (Milinda Panha)', 'બુદ્ધચરિત'],
               correctOptionIndex: 2,
               explanation: 'પાલી ભાષાના પ્રસિદ્ધ ગ્રંથ "મિલિન્દપન્હો" (મિલિન્દના પ્રશ્નો) માં ઈન્ડો-ગ્રીક રાજા મિનાન્ડર અને બૌદ્ધ ભિક્ષુ નાગસેન વચ્ચેના પ્રશ્નોત્તરી સંવાદની વિગતો છે.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
@@ -16319,7 +16319,7 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_anu_maurya_8',
               question: 'ભારતમાં સર્વપ્રથમ સોનાના સિક્કા (Gold Coins) જારી કરવાનો શ્રેય કયા શાસકોને જાય છે?',
-              options: ['મૌર્ય શાસકો', 'ઈન્ડો-ગ્રીક (હિન્દ-યવન) શાસકો', 'સાતવાહન શાસકો', 'ગુપ્ત શાસકો'],
+              options: ['સાતવાહન શાસકો', 'ઈન્ડો-ગ્રીક (હિન્દ-યવન) શાસકો', 'મૌર્ય શાસકો', 'ગુપ્ત શાસકો'],
               correctOptionIndex: 1,
               explanation: 'ભારતમાં સર્વપ્રથમ સોનાના સિક્કા ઈન્ડો-ગ્રીક શાસકોએ જારી કર્યા હતા, જ્યારે સૌથી વધુ શુદ્ધ સોનાના સિક્કા કુષાણોએ ચલાવ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
@@ -16327,15 +16327,15 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_anu_maurya_9',
               question: 'સમ્રાટ કનિષ્કે પોતાના રાજ્યાભિષેક સમયે ઈ.સ. ૭૮ માં કયો સંવત શરૂ કર્યો હતો, જે ભારતનું રાષ્ટ્રીય પંચાંગ છે?',
-              options: ['વિક્રમ સંવત', 'ગુપ્ત સંવત', 'શક સંવત (Saka Samvat)', 'હર્ષ સંવત'],
-              correctOptionIndex: 2,
+              options: ['શક સંવત (Saka Samvat)', 'વિક્રમ સંવત', 'હર્ષ સંવત', 'ગુપ્ત સંવત'],
+              correctOptionIndex: 0,
               explanation: 'કનિષ્કે ઈ.સ. ૭૮ માં શક સંવત શરૂ કર્યો હતો, જેને ભારત સરકાર દ્વારા ૨૨ માર્ચ ૧૯૫૭ ના રોજ રાષ્ટ્રીય કેલેન્ડર તરીકે માન્યતા આપવામાં આવી છે.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maurya_10',
               question: '"ભારતના આઈન્સ્ટાઈન" તરીકે જાણીતા બૌદ્ધ વિદ્વાન નાગાર્જુને કયા પ્રસિદ્ધ ગ્રંથમાં સાપેક્ષતાવાદ (Relativity) નો સિદ્ધાંત આપ્યો હતો?',
-              options: ['ચરકસંહિતા', 'માધ્યમિક સૂત્ર (Madhyamika Sutra)', 'બુદ્ધચરિત', 'મહાવિભાષાશાસ્ત્ર'],
+              options: ['મહાવિભાષાશાસ્ત્ર', 'માધ્યમિક સૂત્ર (Madhyamika Sutra)', 'બુદ્ધચરિત', 'ચરકસંહિતા'],
               correctOptionIndex: 1,
               explanation: 'આચાર્ય નાગાર્જુને "માધ્યમિક સૂત્ર" માં શૂન્યવાદ અને સાપેક્ષતાવાદનો સિદ્ધાંત આપ્યો હતો. તેઓ કુષાણ સમ્રાટ કનિષ્કના દરબારી રત્ન હતા.',
               sourceVideoTitle: 'Gujarat History 09 : અનુ મૌર્યકાળ (Teaching Kishan)',
@@ -16343,7 +16343,7 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_1',
               question: 'ભારતીય ઇતિહાસનો સર્વપ્રથમ વિશુદ્ધ સંસ્કૃત ભાષાનો દીર્ઘ ગદ્ય શિલાલેખ કયા શાસક દ્વારા જૂનાગઢ ખાતે કંડારવામાં આવ્યો હતો?',
-              options: ['સમ્રાટ અશોક', 'મહાક્ષત્રપ રુદ્રદામા ૧લો', 'સ્કંદગુપ્ત', 'કુમારપાળ'],
+              options: ['કુમારપાળ', 'મહાક્ષત્રપ રુદ્રદામા ૧લો', 'સ્કંદગુપ્ત', 'સમ્રાટ અશોક'],
               correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૫૦ (શક સંવત ૭૨) માં મહાક્ષત્રપ રુદ્રદામા ૧લાએ જૂનાગઢ ગિરનાર તળેટી ખાતે સંસ્કૃત ભાષા અને બ્રાહ્મી લિપિમાં ભારતનો પ્રથમ વિશુદ્ધ સંસ્કૃત શિલાલેખ કોતરાવ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
@@ -16351,87 +16351,87 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_2',
               question: 'મહાક્ષત્રપ રુદ્રદામાના સમયમાં સુદર્શન તળાવનું પુનઃનિર્માણ (પ્રથમ જીર્ણોદ્ધાર) કયા રાજ્યપાલની દેખરેખ હેઠળ થયું હતું?',
-              options: ['પુષ્યગુપ્ત વૈશ્ય', 'તુષાસ્ફ', 'સુવિશાખ (પહલવ)', 'ચક્રપાલિત'],
-              correctOptionIndex: 2,
+              options: ['તુષાસ્ફ', 'ચક્રપાલિત', 'પુષ્યગુપ્ત વૈશ્ય', 'સુવિશાખ (પહલવ)'],
+              correctOptionIndex: 3,
               explanation: 'રુદ્રદામાના સૌરાષ્ટ્રના પહલવ સૂબા સુવિશાખે પ્રજા પર કોઈ નવો વેરો લાદ્યા વગર રાજકોષના ખર્ચે સુદર્શન તળાવનો ત્રણ ગણો મજબૂત પાકો પથ્થરનો બંધ બંધાવ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_3',
               question: 'ક્ષહરાત વંશના કયા શક્તિશાળી શાસકની રાજધાની "ભૃગુકચ્છ" (ભરૂચ) હતી?',
-              options: ['ભૂમક', 'નહપાન', 'ચષ્ટન', 'રુદ્રસિંહ'],
-              correctOptionIndex: 1,
+              options: ['ભૂમક', 'ચષ્ટન', 'રુદ્રસિંહ', 'નહપાન'],
+              correctOptionIndex: 3,
               explanation: 'ક્ષહરાત વંશના સૌથી પ્રતાપી શાસક નહપાનની રાજધાની ભૃગુકચ્છ (ભરૂચ) હતી, જેનું શાસન ગુજરાત, સૌરાષ્ટ્ર અને મહારાષ્ટ્ર સુધી વિસ્તરેલું હતું.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_4',
               question: 'મહારાષ્ટ્રના નાસિક પાસે થયેલા "જોગલથંબીના યુદ્ધ" માં સાતવાહન રાજા ગૌતમીપુત્ર સાતકર્ણીએ કયા ક્ષત્રપ રાજાનો વધ કર્યો હતો?',
-              options: ['ભૂમક', 'નહપાન', 'રુદ્રદામા', 'જયદામા'],
-              correctOptionIndex: 1,
+              options: ['જયદામા', 'ભૂમક', 'નહપાન', 'રુદ્રદામા'],
+              correctOptionIndex: 2,
               explanation: 'ગૌતમીપુત્ર સાતકર્ણીએ નહપાનને હરાવી તેનો વધ કર્યો હતો. જોગલથંબીમાંથી નહપાનના ૧૩,૦૦૦ સિક્કાઓ પર ગૌતમીપુત્ર સાતકર્ણીએ પોતાના પુનઃમુદ્રિત સિક્કા જારી કર્યા હતા.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_5',
               question: 'પશ્ચિમી ક્ષત્રપોમાં "કાર્દમક વંશ" ની સ્થાપના ઉજ્જૈન ખાતે કયા શાસકે કરી હતી?',
-              options: ['ચષ્ટન', 'ઘસમોતિક', 'રુદ્રદામા', 'રુદ્રસેન'],
-              correctOptionIndex: 0,
+              options: ['ઘસમોતિક', 'રુદ્રદામા', 'રુદ્રસેન', 'ચષ્ટન'],
+              correctOptionIndex: 3,
               explanation: 'ઘસમોતિકના પુત્ર ચષ્ટને ઉજ્જૈનને રાજધાની બનાવી કાર્દમક વંશની સ્થાપના કરી અને ચાંદીના સિક્કાઓ પર સત્તાવાર શક સંવત લખવાનું શરૂ કર્યું.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_6',
               question: 'ગુજરાતના કયા પુરાતત્વીય સ્થળેથી ક્ષત્રપ રાજા રુદ્રસેન ૩જાના સમયનો શિલાલેખ અને બુદ્ધના અસ્થિ ધરાવતી સુવર્ણ મંજૂષા મળી આવી છે?',
-              options: ['વડનગર', 'દેવની મોરી (શામળાજી, અરવલ્લી)', 'ઉપરકોટ (જૂનાગઢ)', 'તળાજા'],
-              correctOptionIndex: 1,
+              options: ['તળાજા', 'ઉપરકોટ (જૂનાગઢ)', 'દેવની મોરી (શામળાજી, અરવલ્લી)', 'વડનગર'],
+              correctOptionIndex: 2,
               explanation: 'અરવલ્લી જિલ્લાના શામળાજી પાસે મેશ્વો નદી તટે આવેલા દેવની મોરી સ્તૂપમાંથી ક્ષત્રપ રાજા રુદ્રસેન ૩જાના સમયનો શિલાલેખ અને બુદ્ધના અસ્થિ ધરાવતી મંજૂષા પ્રાપ્ત થઈ છે.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_7',
               question: 'શક ક્ષત્રપ વંશના અંતિમ શાસક રુદ્રસિંહ ૩જાની હત્યા કરી ગુજરાતમાંથી ક્ષત્રપ સત્તાનો અંત કોણે આણ્યો હતો?',
-              options: ['સમુદ્રગુપ્ત', 'ચંદ્રગુપ્ત ૨જો (વિક્રમાદિત્ય)', 'સ્કંદગુપ્ત', 'કુમારગુપ્ત'],
-              correctOptionIndex: 1,
+              options: ['સમુદ્રગુપ્ત', 'કુમારગુપ્ત', 'સ્કંદગુપ્ત', 'ચંદ્રગુપ્ત ૨જો (વિક્રમાદિત્ય)'],
+              correctOptionIndex: 3,
               explanation: 'ઈ.સ. ૩૮૮-૩૯૫ માં ગુપ્ત સમ્રાટ ચંદ્રગુપ્ત ૨જાએ રુદ્રસિંહ ૩જાની હત્યા કરી ગુજરાતને ગુપ્ત સામ્રાજ્યમાં ભેળવી "શકારિ" (શકોનો નાશ કરનાર) ઉપાધિ ધારણ કરી હતી.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_8',
               question: 'ક્ષત્રપ શાસકોએ પોતાના ચાંદીના સિક્કાઓ પર પાછળના ભાગે મુખ્યત્વે કયું ધાર્મિક-રાજકીય પ્રતીક અંકિત કરાવ્યું હતું?',
-              options: ['ગરુડ અને ધનુષ', 'ચૈત્ય (ત્રણ ટેકરીઓ), સૂર્ય અને અર્ધચંદ્ર', 'વરાહ અને શંખ', 'શિવ અને નંદી'],
-              correctOptionIndex: 1,
+              options: ['ચૈત્ય (ત્રણ ટેકરીઓ), સૂર્ય અને અર્ધચંદ્ર', 'ગરુડ અને ધનુષ', 'શિવ અને નંદી', 'વરાહ અને શંખ'],
+              correctOptionIndex: 0,
               explanation: 'ક્ષત્રપ સિક્કાઓ પાછળ ચૈત્ય (ત્રણ પહાડીઓ), સૂર્ય અને ચંદ્રનું પ્રતીક તથા બ્રાહ્મી લિપિમાં રાજા અને પિતાનું નામ તેમજ શક સંવતનું વર્ષ અંકિત રહેતું.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_9',
               question: 'મહાક્ષત્રપ રુદ્રદામાએ દક્ષિણાપથપતિ સાતવાહન રાજાને બે વાર પરાજિત કરવા છતાં જીવતદાન કેમ આપ્યું હતું?',
-              options: ['સાતવાહનો શક્તિશાળી હતા', 'ધાર્મિક ગુરુના કહેવાથી', 'પોતાની પુત્રીના લગ્ન સાતવાહન રાજા સાથે થયા હોવાથી (નજીકના સગા હોવાથી)', 'યુદ્ધ સંધિના ભાગરૂપે'],
-              correctOptionIndex: 2,
+              options: ['પોતાની પુત્રીના લગ્ન સાતવાહન રાજા સાથે થયા હોવાથી (નજીકના સગા હોવાથી)', 'સાતવાહનો શક્તિશાળી હતા', 'ધાર્મિક ગુરુના કહેવાથી', 'યુદ્ધ સંધિના ભાગરૂપે'],
+              correctOptionIndex: 0,
               explanation: 'ગિરનાર શિલાલેખ મુજબ રુદ્રદામાએ સાતવાહન શાસક (વાસિષ્ઠીપુત્ર પુલુમાવી) ને પોતાની પુત્રીનો પતિ અને નજીકનો સંબંધી ગણીને વધ ન કર્યો અને ક્ષમા આપી હતી.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_shak_kshatrapa_10',
               question: 'નહપાનના જમાઈ ઉષવદાતે (ઋષભદત્ત) ગુજરાતના કયા પવિત્ર તીર્થ ખાતે બ્રાહ્મણોને ગાયો અને સોનાનું દાન આપ્યું હતું?',
-              options: ['દ્વારકા', 'પ્રભાસ પાટણ (સોમનાથ) અને ભૃગુકચ્છ', 'પાલિતાણા', 'શામળાજી'],
-              correctOptionIndex: 1,
+              options: ['દ્વારકા', 'શામળાજી', 'પ્રભાસ પાટણ (સોમનાથ) અને ભૃગુકચ્છ', 'પાલિતાણા'],
+              correctOptionIndex: 2,
               explanation: 'નાસિક ગુફા અભિલેખો અનુસાર ઉષવદાતે પ્રભાસ પાટણ (સોમનાથ), ભરૂચ અને પુષ્કરમાં વિપુલ સુવર્ણ દાન કર્યું હતું અને નદીઓ પર ઘાટ બંધાવ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 10 : શક ક્ષત્રપ કાળ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_1',
               question: 'ગુપ્ત સામ્રાજ્યના કયા શાસકે પશ્ચિમી શક ક્ષત્રપોનો અંત આણીને ગુજરાત અને સૌરાષ્ટ્રને ગુપ્ત સામ્રાજ્યમાં સામેલ કર્યા હતા?',
-              options: ['સમુદ્રગુપ્ત', 'ચંદ્રગુપ્ત ૨જો (વિક્રમાદિત્ય)', 'કુમારગુપ્ત ૧લો', 'સ્કંદગુપ્ત'],
-              correctOptionIndex: 1,
+              options: ['કુમારગુપ્ત ૧લો', 'સમુદ્રગુપ્ત', 'સ્કંદગુપ્ત', 'ચંદ્રગુપ્ત ૨જો (વિક્રમાદિત્ય)'],
+              correctOptionIndex: 3,
               explanation: 'ચંદ્રગુપ્ત ૨જા વિક્રમાદિત્યએ ઈ.સ. ૩૮૮-૩૯૫ માં અંતિમ ક્ષત્રપ રાજા રુદ્રસિંહ ૩જાનો વધ કરી ગુજરાત જીત્યું અને શકારી તથા વિક્રમાદિત્યનું બિરુદ ધારણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_2',
               question: 'શક ક્ષત્રપોના પરાજય બાદ ચંદ્રગુપ્ત ૨જાએ ગુજરાતમાં સૌપ્રથમ કયા સિક્કા શરૂ કર્યા હતા?',
-              options: ['સોનાના દિનાર', 'તાંબાના જીતલ', 'ગરુડ લાંછનવાળા ચાંદીના રૂપક', 'સીસાના સિક્કા'],
+              options: ['સીસાના સિક્કા', 'તાંબાના જીતલ', 'ગરુડ લાંછનવાળા ચાંદીના રૂપક', 'સોનાના દિનાર'],
               correctOptionIndex: 2,
               explanation: 'ચંદ્રગુપ્ત ૨જાએ ક્ષત્રપોના ચાંદીના સિક્કાઓના અનુકરણમાં ગુપ્ત સામ્રાજ્યમાં સર્વપ્રથમ ચાંદીના સિક્કા (રૂપક) શરૂ કર્યા હતા, જેના પર ગરુડનું ચિહ્ન હતું.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
@@ -16439,23 +16439,23 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_gupta_empire_3',
               question: 'સમ્રાટ સ્કંદગુપ્તના શાસનકાળ દરમિયાન ઈ.સ. ૪૫૬ માં સુદર્શન તળાવનો દ્વિતીય જીર્ણોદ્ધાર કોના દ્વારા કરવામાં આવ્યો હતો?',
-              options: ['પુષ્યગુપ્ત વૈશ્ય', 'તુષાસ્ફ', 'સુવિશાખ', 'ચક્રપાલિત'],
-              correctOptionIndex: 3,
+              options: ['સુવિશાખ', 'પુષ્યગુપ્ત વૈશ્ય', 'ચક્રપાલિત', 'તુષાસ્ફ'],
+              correctOptionIndex: 2,
               explanation: 'સ્કંદગુપ્તના સમયમાં સૌરાષ્ટ્રના ગોપ્તા પર્ણદત્તના પુત્ર અને ગિરિનગરના નગરપતિ ચક્રપાલિતે માત્ર બે મહિનામાં પથ્થરનો વિશાળ બંધ બાંધી સુદર્શન તળાવનું પુનઃનિર્માણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_4',
               question: 'ચક્રપાલિતે સુદર્શન તળાવના કિનારે ઈ.સ. ૪૫૭-૪૫૮ માં કયા ભગવાનનું ભવ્ય મંદિર બંધાવ્યું હતું?',
-              options: ['સોમનાથ શિવ મંદિર', 'ચક્રધારી વિષ્ણુ મંદિર (ચક્રભૃત)', 'સૂર્ય મંદિર', 'કાર્તિકેય મંદિર'],
-              correctOptionIndex: 1,
+              options: ['કાર્તિકેય મંદિર', 'સોમનાથ શિવ મંદિર', 'સૂર્ય મંદિર', 'ચક્રધારી વિષ્ણુ મંદિર (ચક્રભૃત)'],
+              correctOptionIndex: 3,
               explanation: 'જૂનાગઢ શિલાલેખ અનુસાર તળાવના સમારકામ બાદ ચક્રપાલિતે તળાવની પાળ પાસે ભગવાન ચક્રધારી વિષ્ણુ (ચક્રભૃત) નું મંદિર સ્થાપિત કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_5',
               question: 'ગુપ્ત સંવત (Gupta Samvat - ઈ.સ. ૩૧૯-૩૨૦) ની શરૂઆત કયા ગુપ્ત શાસકના રાજ્યાભિષેક નિમિત્તે થઈ હતી?',
-              options: ['શ્રીગુપ્ત', 'ઘટોત્કચ ગુપ્ત', 'ચંદ્રગુપ્ત ૧લો', 'સમુદ્રગુપ્ત'],
+              options: ['સમુદ્રગુપ્ત', 'ઘટોત્કચ ગુપ્ત', 'ચંદ્રગુપ્ત ૧લો', 'શ્રીગુપ્ત'],
               correctOptionIndex: 2,
               explanation: 'ચંદ્રગુપ્ત ૧લાએ પોતાના રાજ્યાભિષેક સમયે ઈ.સ. ૩૧૯-૩૨૦ માં ગુપ્ત સંવતની શરૂઆત કરી હતી અને મહારાજાધિરાજ બિરુદ ધારણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
@@ -16463,31 +16463,31 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_gupta_empire_6',
               question: 'ઇતિહાસકાર વિન્સેન્ટ સ્મિથે કયા ગુપ્ત સમ્રાટને "ભારતનો નેપોલિયન" કહ્યો છે?',
-              options: ['ચંદ્રગુપ્ત ૧લો', 'સમુદ્રગુપ્ત', 'ચંદ્રગુપ્ત ૨જો', 'સ્કંદગુપ્ત'],
-              correctOptionIndex: 1,
+              options: ['ચંદ્રગુપ્ત ૨જો', 'સ્કંદગુપ્ત', 'ચંદ્રગુપ્ત ૧લો', 'સમુદ્રગુપ્ત'],
+              correctOptionIndex: 3,
               explanation: 'પ્રયાગ પ્રશસ્તિ અનુસાર ૧૦૦ થી વધુ યુદ્ધોમાં અજેય રહેનાર સમુદ્રગુપ્તને વિન્સેન્ટ સ્મિથે ભારતનો નેપોલિયન કહ્યો છે.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_7',
               question: 'સમુદ્રગુપ્તની સૈન્ય સિદ્ધિઓનું વર્ણન કરતો "પ્રયાગ પ્રશસ્તિ" શિલાલેખ કોના દ્વારા રચાયો હતો?',
-              options: ['કાલિદાસ', 'હરિષેણ', 'બાણભટ્ટ', 'રવિકીર્તિ'],
-              correctOptionIndex: 1,
+              options: ['કાલિદાસ', 'રવિકીર્તિ', 'હરિષેણ', 'બાણભટ્ટ'],
+              correctOptionIndex: 2,
               explanation: 'સમુદ્રગુપ્તના સાંધિવિગ્રહિક અને દરબારી કવિ હરિષેણે સંસ્કૃત ચમ્પૂ શૈલીમાં પ્રયાગ પ્રશસ્તિ (અલ્હાબાદ સ્તંભલેખ) ની રચના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_8',
               question: 'વિશ્વપ્રસિદ્ધ નાલંદા મહાવિહાર (નાલંદા વિશ્વવિદ્યાલય) ની સ્થાપના કયા ગુપ્ત સમ્રાટ દ્વારા કરવામાં આવી હતી?',
-              options: ['સમુદ્રગુપ્ત', 'ચંદ્રગુપ્ત વિક્રમાદિત્ય', 'કુમારગુપ્ત ૧લો (મહેન્દ્રાદિત્ય)', 'સ્કંદગુપ્ત'],
-              correctOptionIndex: 2,
+              options: ['કુમારગુપ્ત ૧લો (મહેન્દ્રાદિત્ય)', 'સમુદ્રગુપ્ત', 'સ્કંદગુપ્ત', 'ચંદ્રગુપ્ત વિક્રમાદિત્ય'],
+              correctOptionIndex: 0,
               explanation: '૫મી સદીમાં કુમારગુપ્ત ૧લા (મહેન્દ્રાદિત્ય/શક્રાદિત્ય) દ્વારા નાલંદા વિશ્વવિદ્યાલયની સ્થાપના કરવામાં આવી હતી, જે મહાયાન બૌદ્ધ ધર્મનું મુખ્ય કેન્દ્ર હતું.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_gupta_empire_9',
               question: 'ભારતીય ઇતિહાસમાં "સતી પ્રથા" નો સર્વપ્રથમ અભિલેખીય પુરાવો કયા શિલાલેખમાંથી પ્રાપ્ત થાય છે?',
-              options: ['મેહરૌલી લોહસ્તંભ', 'ભાનુગુપ્તનો એરણ અભિલેખ (ઈ.સ. ૫૧૦)', 'ભીતરી સ્તંભલેખ', 'જૂનાગઢ શિલાલેખ'],
+              options: ['મેહરૌલી લોહસ્તંભ', 'ભાનુગુપ્તનો એરણ અભિલેખ (ઈ.સ. ૫૧૦)', 'જૂનાગઢ શિલાલેખ', 'ભીતરી સ્તંભલેખ'],
               correctOptionIndex: 1,
               explanation: 'મધ્ય પ્રદેશના સાગરમાં સ્થિત એરણ અભિલેખ (ઈ.સ. ૫૧૦) માં સેનાપતિ ગોપરાજ વીરગતિ પામતાં તેની પત્ની સતી થઈ હોવાનો પ્રથમ પુરાવો છે.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
@@ -16495,8 +16495,8 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_gupta_empire_10',
               question: 'ગુપ્ત સામ્રાજ્યના પતન બાદ ગુજરાતના સૌરાષ્ટ્રમાં વલભી ખાતે સ્વતંત્ર મૈત્રક વંશનો પાયો કોણે નાખ્યો હતો?',
-              options: ['ધ્રુવસેન ૧લો', 'શિલાદિત્ય ૧લો', 'સેનાપતિ ભટ્ટાર્ક', 'ગુહસેન'],
-              correctOptionIndex: 2,
+              options: ['સેનાપતિ ભટ્ટાર્ક', 'ધ્રુવસેન ૧લો', 'શિલાદિત્ય ૧લો', 'ગુહસેન'],
+              correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૪૭૦ માં ગુપ્ત સામ્રાજ્ય નબળું પડતાં સેનાપતિ ભટ્ટાર્કે વલભીને રાજધાની બનાવી મૈત્રક વંશની સ્થાપના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 11 : ગુપ્ત યુગ (Teaching Kishan)',
             ),
@@ -17298,87 +17298,87 @@ RevisionNoteModel(
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_1',
               question: 'ગુજરાતના મૈત્રક વંશના કયા સ્થાપક શાસકે વલભીને રાજધાની બનાવી આજીવન માત્ર "સેનાપતિ" બિરુદ જાળવી રાખ્યું હતું?',
-              options: ['દ્રોણસિંહ', 'ધરસેન ૧લો', 'સેનાપતિ ભટ્ટાર્ક', 'ગુહસેન'],
-              correctOptionIndex: 2,
+              options: ['ધરસેન ૧લો', 'સેનાપતિ ભટ્ટાર્ક', 'ગુહસેન', 'દ્રોણસિંહ'],
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૪૭૦ માં સેનાપતિ ભટ્ટાર્કે વલભીમાં મૈત્રક સત્તા સ્થાપી હતી, પરંતુ ગુપ્તો પ્રત્યેની વફાદારી દર્શાવવા આજીવન માત્ર સેનાપતિ પદવી જ રાખી હતી.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_2',
               question: 'મૈત્રક વંશનો પ્રથમ શાસક કોણ હતો જેણે ગુપ્ત સમ્રાટની ઉપસ્થિતિમાં વિધિવત્ રાજ્યાભિષેક કરાવી "મહારાજા" બિરુદ ધારણ કર્યું હતું?',
-              options: ['સેનાપતિ ભટ્ટાર્ક', 'દ્રોણસિંહ', 'ધ્રુવસેન ૧લો', 'શિલાદિત્ય ૧લો'],
-              correctOptionIndex: 1,
+              options: ['ધ્રુવસેન ૧લો', 'સેનાપતિ ભટ્ટાર્ક', 'શિલાદિત્ય ૧લો', 'દ્રોણસિંહ'],
+              correctOptionIndex: 3,
               explanation: 'ભટ્ટાર્કનો પુત્ર દ્રોણસિંહ મૈત્રક વંશનો પ્રથમ શાસક હતો જેણે ગુપ્ત સમ્રાટની હાજરીમાં રાજ્યાભિષેક કરાવી મહારાજા બિરુદ ધારણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_3',
               question: 'ઈ.સ. ૫૧૨ માં આચાર્ય દેવર્ધિગણી ક્ષમાશ્રમણના અધ્યક્ષસ્થાને વલભી ખાતે દ્વિતીય જૈન સભા કયા મૈત્રક રાજાના સમયમાં યોજાઈ હતી?',
-              options: ['દ્રોણસિંહ', 'ધ્રુવસેન ૧લો', 'ધરપટ્ટ', 'ગુહસેન'],
-              correctOptionIndex: 1,
+              options: ['ધરપટ્ટ', 'ગુહસેન', 'ધ્રુવસેન ૧લો', 'દ્રોણસિંહ'],
+              correctOptionIndex: 2,
               explanation: 'પરમ ભાગવત ધ્રુવસેન ૧લાના શાસનકાળમાં વલભી વાચના (દ્વિતીય જૈન સભા) યોજાઈ હતી, જેમાં જૈન આગમોનું પુસ્તકારૂઢ લિપિબદ્ધ સંકલન થયું હતું.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_4',
               question: 'મૈત્રક વંશના કયા પ્રતાપી સમ્રાટે સર્વપ્રથમ "પરમભટ્ટારક", "મહારાજાધિરાજ" અને "ચક્રવર્તી" ઉપાધિઓ ધારણ કરી હતી?',
-              options: ['શિલાદિત્ય ૧લો', 'ધ્રુવસેન ૨જો', 'ધરસેન ૪થો', 'શિલાદિત્ય ૭મો'],
-              correctOptionIndex: 2,
+              options: ['શિલાદિત્ય ૧લો', 'શિલાદિત્ય ૭મો', 'ધ્રુવસેન ૨જો', 'ધરસેન ૪થો'],
+              correctOptionIndex: 3,
               explanation: 'ધરસેન ૪થો મૈત્રક વંશનો સૌથી શક્તિશાળી સમ્રાટ હતો, જેણે ચક્રવર્તી અને પરમભટ્ટારક જેવા સર્વોચ્ચ સામ્રાજ્યવાદી બિરુદો ધારણ કર્યા હતા.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_5',
               question: 'સંસ્કૃત વ્યાકરણ-મહાકાવ્ય "રાવણવધ" (ભટ્ટિકાવ્ય) ના રચયિતા મહાકવિ ભટ્ટિ કયા મૈત્રક રાજાના રાજદરબારમાં આશ્રય પામ્યા હતા?',
-              options: ['સેનાપતિ ભટ્ટાર્ક', 'ધરસેન ૪થો', 'શિલાદિત્ય ૧લો', 'ધ્રુવસેન ૨જો'],
-              correctOptionIndex: 1,
+              options: ['સેનાપતિ ભટ્ટાર્ક', 'ધ્રુવસેન ૨જો', 'શિલાદિત્ય ૧લો', 'ધરસેન ૪થો'],
+              correctOptionIndex: 3,
               explanation: 'મહાકવિ ભટ્ટિ ધરસેન ૪થાના દરબારમાં રાજ્યાશ્રય મેળવતા હતા અને તેમણે વલભીમાં રહીને પ્રસિદ્ધ ભટ્ટિકાવ્ય (રાવણવધ) ની રચના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_6',
               question: 'ચીની યાત્રી હ્યુ-એન-ત્સાંગ (Hiuen Tsang) એ ઈ.સ. ૬૪૦ માં વલભીની મુલાકાત લીધી ત્યારે વલભીના શાસક કોણ હતા?',
-              options: ['શિલાદિત્ય ૧લો', 'ધ્રુવસેન ૨જો (બાલાદિત્ય)', 'ધરસેન ૪થો', 'શિલાદિત્ય ૩જો'],
-              correctOptionIndex: 1,
+              options: ['ધ્રુવસેન ૨જો (બાલાદિત્ય)', 'શિલાદિત્ય ૧લો', 'ધરસેન ૪થો', 'શિલાદિત્ય ૩જો'],
+              correctOptionIndex: 0,
               explanation: 'હ્યુ-એન-ત્સાંગના વલભી આગમન સમયે સમ્રાટ હર્ષવર્ધનના જમાઈ ધ્રુવસેન ૨જા (બાલાદિત્ય) નું શાસન હતું. હ્યુ-એન-ત્સાંગે સી-યુ-કી ગ્રંથમાં વલભીની સમૃદ્ધિ વર્ણવી છે.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_7',
               question: 'વલભી વિદ્યાપીઠમાં અધ્યાપન કરાવનાર પ્રખર આચાર્યો "સ્થિરમતિ" અને "ગુણમતિ" ના નામો ક્યાં કંડારાયેલા હતા?',
-              options: ['રાજદરબારના સિંહાસન પર', 'વિદ્યાપીઠના મુખ્ય પ્રવેશદ્વાર પર', 'શત્રુંજય તીર્થ પર', 'ગોપના મંદિર પર'],
-              correctOptionIndex: 1,
+              options: ['વિદ્યાપીઠના મુખ્ય પ્રવેશદ્વાર પર', 'શત્રુંજય તીર્થ પર', 'રાજદરબારના સિંહાસન પર', 'ગોપના મંદિર પર'],
+              correctOptionIndex: 0,
               explanation: 'નાલંદાના પ્રખર પંડિતો સ્થિરમતિ અને ગુણમતિ વલભી વિદ્યાપીઠના મુખ્ય આચાર્ય હતા અને તેમના નામો વિદ્યાપીઠના મુખ્ય પ્રવેશદ્વાર પર સુવર્ણાક્ષરે અંકિત હતા.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_8',
               question: 'ગુજરાત રાજ્યનું સૌથી પ્રાચીન હયાત પથ્થરનું મંદિર "ગોપનું મંદિર" કયા જિલ્લામાં આવેલું છે?',
-              options: ['જૂનાગઢ', 'જામનગર (જામજોધપુર)', 'પાટણ', 'ભાવનગર'],
-              correctOptionIndex: 1,
+              options: ['જૂનાગઢ', 'પાટણ', 'જામનગર (જામજોધપુર)', 'ભાવનગર'],
+              correctOptionIndex: 2,
               explanation: 'જામનગર જિલ્લાના જામજોધપુર તાલુકાના ઝીણાવારી ગામ પાસે વર્તુ નદીના કાંઠે આવેલું ૬ઠ્ઠી સદીનું મૈત્રકકાલીન ગોપનું મંદિર ગુજરાતનું સૌથી પ્રાચીન હયાત મંદિર છે.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_9',
               question: 'મૈત્રકકાલીન વહીવટમાં રાજાના દાનશાસનો અને તામ્રપત્રોનો અમલ કરાવનાર સર્વોચ્ચ અધિકારી કયા નામે ઓળખાતા હતા?',
-              options: ['પ્રમાતૃ', 'દૂતક (Dutaka)', 'દંડપાશિક', 'મહામાત્ર'],
-              correctOptionIndex: 1,
+              options: ['દૂતક (Dutaka)', 'પ્રમાતૃ', 'દંડપાશિક', 'મહામાત્ર'],
+              correctOptionIndex: 0,
               explanation: 'મૈત્રક તામ્રપત્રોમાં દાનશાસનોનો અમલ કરાવનાર અમલદારને "દૂતક" કહેવાતો, જે સામાન્ય રીતે રાજકુમાર કે યુવરાજ રહેતો.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_maitraka_dynasty_10',
               question: 'ઈ.સ. ૭૮૮ માં સિંધના આરબો દ્વારા વલભીનો નાશ થયો ત્યારે વલભીના અંતિમ મૈત્રક શાસક કોણ હતા?',
-              options: ['શિલાદિત્ય ૧લો', 'ધરસેન ૪થો', 'શિલાદિત્ય ૭મો (ધ્રુવભટ્ટ)', 'ખરગ્રહ ૨જો'],
-              correctOptionIndex: 2,
+              options: ['શિલાદિત્ય ૭મો (ધ્રુવભટ્ટ)', 'ખરગ્રહ ૨જો', 'ધરસેન ૪થો', 'શિલાદિત્ય ૧લો'],
+              correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૭૮૮ માં વેપારી કાકુ રંકના વિશ્વાસઘાત અને આરબ આક્રમણ દરમિયાન અંતિમ રાજા શિલાદિત્ય ૭મો વીરગતિ પામ્યો અને વલભીનો વિનાશ થયો.',
               sourceVideoTitle: 'Gujarat History 12 : મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_1',
               question: 'કનોજ પર સર્વોચ્ચ આધિપત્ય જમાવવા ૮મીથી ૧૦મી સદી દરમિયાન લડાયેલા "ત્રિપક્ષીય સંઘર્ષ" (Tripartite Struggle) માં કયા ત્રણ રાજવંશો સામેલ હતા?',
-              options: ['મૌર્ય, ગુપ્ત અને કુષાણ', 'ગુર્જર-પ્રતિહાર, રાષ્ટ્રકૂટ અને પાલ વંશ', 'ચાવડા, સોલંકી અને વાઘેલા', 'ચોલ, પલ્લવ અને પાંડ્ય'],
+              options: ['મૌર્ય, ગુપ્ત અને કુષાણ', 'ગુર્જર-પ્રતિહાર, રાષ્ટ્રકૂટ અને પાલ વંશ', 'ચોલ, પલ્લવ અને પાંડ્ય', 'ચાવડા, સોલંકી અને વાઘેલા'],
               correctOptionIndex: 1,
               explanation: 'કનોજની ગાદી માટે પશ્ચિમ ભારતના ગુર્જર-પ્રતિહારો, દક્ષિણ ભારતના રાષ્ટ્રકૂટો અને બંગાળના પાલ વંશ વચ્ચે ૨૦૦ વર્ષ સુધી ત્રિપક્ષીય સંઘર્ષ ચાલ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
@@ -17386,96 +17386,96 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_anu_maitraka_2',
               question: 'ગુર્જર-પ્રતિહાર વંશના કયા મહાન સમ્રાટે "આદિવરાહ" અને "પ્રભાસ" બિરુદ ધારણ કર્યું હતું અને જેના રાજ્યની પ્રશંસા અરબ મુસાફર સુલેમાને કરી હતી?',
-              options: ['નાગભટ્ટ ૧લો', 'વત્સરાજ', 'મિહિર ભોજ (ભોજ ૧લો)', 'મહેન્દ્રપાલ ૧લો'],
-              correctOptionIndex: 2,
+              options: ['વત્સરાજ', 'મહેન્દ્રપાલ ૧લો', 'નાગભટ્ટ ૧લો', 'મિહિર ભોજ (ભોજ ૧લો)'],
+              correctOptionIndex: 3,
               explanation: 'મિહિર ભોજે આદિવરાહ બિરુદ ધારણ કર્યું હતું. ઈ.સ. ૮૫૧ માં અરબ યાત્રી સુલેમાને તેને "બરુઆ" કહ્યો હતો અને તેની શ્રેષ્ઠ અશ્વસેના તથા સુરક્ષિત રાજ્યની પ્રશંસા કરી હતી.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_3',
               question: 'અરબ પ્રવાસીઓ સુલેમાન અને અલ-મસૂદીએ દક્ષિણ ગુજરાત અને મહારાષ્ટ્રના રાષ્ટ્રકૂટ સમ્રાટોને કયા ઉપનામથી સંબોધ્યા હતા?',
-              options: ['શકારી', 'બલ્હરા (વલ્લભરાજ)', 'ચક્રવર્તી', 'મહારાજાધિરાજ'],
-              correctOptionIndex: 1,
+              options: ['મહારાજાધિરાજ', 'ચક્રવર્તી', 'બલ્હરા (વલ્લભરાજ)', 'શકારી'],
+              correctOptionIndex: 2,
               explanation: 'અરબ યાત્રીઓએ રાષ્ટ્રકૂટોની વલ્લભરાજ ઉપાધિ પરથી તેમને "બલ્હરા" કહ્યા હતા અને વિશ્વના ૪ સૌથી શક્તિશાળી સમ્રાટોમાં ગણાવ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_4',
               question: 'પશ્ચિમ સૌરાષ્ટ્રમાં ઘૂમલી (ભૂતંબિલિકા) ને રાજધાની બનાવી શાસન કરનાર કયા વંશના રાજાઓ શક્તિશાળી નૌકાદળને લીધે "અપર-સમુદ્રાધિપતિ" કહેવાતા હતા?',
-              options: ['મૈત્રક વંશ', 'સૈંધવ વંશ', 'ચાપ વંશ', 'ગારૂલક વંશ'],
-              correctOptionIndex: 1,
+              options: ['મૈત્રક વંશ', 'ચાપ વંશ', 'સૈંધવ વંશ', 'ગારૂલક વંશ'],
+              correctOptionIndex: 2,
               explanation: 'ઘૂમલીના સૈંધવ વંશના રાજાઓનું નૌકાદળ અરબી સમુદ્રમાં સર્વોચ્ચ હતું, તેથી તેમને "અપર-સમુદ્રાધિપતિ" કહેવાતા. તેમણે સિંધના આરબોના દરિયાઈ હુમલા નિષ્ફળ બનાવ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_5',
               question: 'ઈ.સ. ૭૩૮-૭૩૯ માં નવસારી ખાતે આરબો (તાજિકો) ની વિશાળ સેનાને કારમો પરાજય આપનાર ચાલુક્ય શાસક કોણ હતા?',
-              options: ['પુલકેશી ૧લો', 'પુલકેશી ૨જો', 'પુલકેશી અવનિજનાશ્રય', 'કીર્તિવર્મા'],
-              correctOptionIndex: 2,
+              options: ['પુલકેશી અવનિજનાશ્રય', 'પુલકેશી ૨જો', 'પુલકેશી ૧લો', 'કીર્તિવર્મા'],
+              correctOptionIndex: 0,
               explanation: 'નવસારીના ચાલુક્ય રાજા પુલકેશી અવનિજનાશ્રયે આરબોને હરાવી દક્ષિણ ભારતનું રક્ષણ કર્યું હતું, જેથી તેને "અવનિજનાશ્રય" અને "દક્ષિણાપથ સાધક" બિરુદ મળ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_6',
               question: 'મહાન સંસ્કૃત કવિ અને નાટકકાર રાજશેખર (કાવ્યમીમાંસા અને કર્પૂરમંજરીના રચયિતા) કયા પ્રતિહાર શાસકના રાજદરબારમાં હતા?',
-              options: ['મિહિર ભોજ', 'મહેન્દ્રપાલ ૧લો', 'નાગભટ્ટ ૨જો', 'વત્સરાજ'],
-              correctOptionIndex: 1,
+              options: ['મિહિર ભોજ', 'વત્સરાજ', 'નાગભટ્ટ ૨જો', 'મહેન્દ્રપાલ ૧લો'],
+              correctOptionIndex: 3,
               explanation: 'રાજશેખર ગુર્જર-પ્રતિહાર સમ્રાટ મહેન્દ્રપાલ ૧લા અને તેના પુત્ર મહિપાલના રાજગુરુ અને દરબારી કવિ હતા.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_7',
               question: 'ઈ.સ. ૭૭૮ માં જાલોર ખાતે ૧૮ દેશી ભાષાઓમાં "ગુર્જર ભાષા" નો ઉલ્લેખ કરતો પ્રાકૃત ગ્રંથ "કુવલયમાલા" કોના દ્વારા રચાયો હતો?',
-              options: ['હરિભદ્રસૂરિ', 'ઉદ્યોતનસૂરિ', 'હેમચંદ્રાચાર્ય', 'જિનસેનસૂરિ'],
-              correctOptionIndex: 1,
+              options: ['હેમચંદ્રાચાર્ય', 'હરિભદ્રસૂરિ', 'જિનસેનસૂરિ', 'ઉદ્યોતનસૂરિ'],
+              correctOptionIndex: 3,
               explanation: 'જૈન આચાર્ય ઉદ્યોતનસૂરિએ પ્રતિહાર રાજા વત્સરાજના સમયમાં ઈ.સ. ૭૭૮ માં કુવલયમાલા ગ્રંથની રચના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_8',
               question: 'સુરેન્દ્રનગર જિલ્લાના વઢવાણ (વર્ધમાનપુર) માં શાસન કરનાર ચાપ વંશના રાજા ધરણીવરાહનું પ્રસિદ્ધ તામ્રપત્ર કયા ગામમાંથી મળ્યું છે?',
-              options: ['હડ્ડાલા (Haddala)', 'મૂળી', 'ચોટીલા', 'ધ્રાંગધ્રા'],
-              correctOptionIndex: 0,
+              options: ['ધ્રાંગધ્રા', 'હડ્ડાલા (Haddala)', 'ચોટીલા', 'મૂળી'],
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૯૧૪ નું હડ્ડાલા તામ્રપત્ર ચાપ રાજા ધરણીવરાહનું છે, જેમાં તેણે ગુર્જર-પ્રતિહાર રાજા મહિપાલને પોતાના ઉપરી સમ્રાટ દર્શાવ્યા છે.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_9',
               question: 'પંચાસરના ચાવડા રાજા જયશિખરી ચાવડા પર કલ્યાણના કયા ચાલુક્ય રાજાએ આક્રમણ કર્યું હતું?',
-              options: ['પુલકેશી ૨જો', 'રાજા ભૂવડ', 'વિક્રમાદિત્ય ૬ઠ્ઠો', 'સોમેશ્વર'],
-              correctOptionIndex: 1,
+              options: ['પુલકેશી ૨જો', 'સોમેશ્વર', 'વિક્રમાદિત્ય ૬ઠ્ઠો', 'રાજા ભૂવડ'],
+              correctOptionIndex: 3,
               explanation: 'કલ્યાણના રાજા ભૂવડે પંચાસર પર આક્રમણ કરી જયશિખરી ચાવડાનો વધ કર્યો હતો. બાદમાં જયશિખરીના પુત્ર વનરાજ ચાવડાએ પાટણમાં ચાવડા સામ્રાજ્ય સ્થાપ્યું.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_anu_maitraka_10',
               question: 'સાબરકાંઠા જિલ્લાના હિંમતનગર નજીક આવેલો ૮મી-૯મી સદીનાં પ્રાચીન પંચાયતન શિવ મંદિરોનો સમૂહ કયા નામે ઓળખાય છે?',
-              options: ['શામળાજી મંદિરો', 'રોડાનાં મંદિરો (Roda Temples)', 'કુંભારીયાનાં દેરાં', 'તારંગા મંદિરો'],
-              correctOptionIndex: 1,
+              options: ['રોડાનાં મંદિરો (Roda Temples)', 'કુંભારીયાનાં દેરાં', 'તારંગા મંદિરો', 'શામળાજી મંદિરો'],
+              correctOptionIndex: 0,
               explanation: 'રોડાનાં મંદિરો અનુ-મૈત્રક કાળની પ્રારંભિક મહા-ગુર્જર સ્થાપત્ય શૈલીના નમૂના છે, જે ૮મી-૯મી સદી દરમિયાન સાબરકાંઠામાં નિર્માણ પામ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 13: અનુ-મૈત્રક વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_1',
               question: 'વનરાજ ચાવડાએ સરસ્વતી નદીના કિનારે ઈ.સ. ૭૪૬ (વિક્રમ સંવત ૮૦૨) માં કયા પવિત્ર દિવસે અણહિલવાડ પાટણની સ્થાપના કરી હતી?',
-              options: ['વિજયાદશમી (દશેરા)', 'અખાત્રીજ (વૈશાખ સુદ ત્રીજ)', 'દેવદિવાળી', 'રામનવમી'],
-              correctOptionIndex: 1,
+              options: ['અખાત્રીજ (વૈશાખ સુદ ત્રીજ)', 'રામનવમી', 'દેવદિવાળી', 'વિજયાદશમી (દશેરા)'],
+              correctOptionIndex: 0,
               explanation: 'મેરુતુંગ રચિત પ્રબંધ ચિંતામણી અનુસાર વનરાજ ચાવડાએ વિક્રમ સંવત ૮૦૨ ના વૈશાખ સુદ ત્રીજ (અખાત્રીજ) ના રોજ અણહિલવાડ પાટણનો પાયો નાખ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_2',
               question: 'વનરાજ ચાવડાના રાજ્યાભિષેક પ્રસંગે પોતાના હાથે રાજતિલક કરનાર બહેન શ્રીદેવી કયા પ્રદેશની કન્યા હતી?',
-              options: ['ભરૂચ', 'વલભી', 'કાંકરેજ', 'સોમનાથ'],
-              correctOptionIndex: 2,
+              options: ['સોમનાથ', 'ભરૂચ', 'વલભી', 'કાંકરેજ'],
+              correctOptionIndex: 3,
               explanation: 'વનરાજ જ્યારે અજ્ઞાતવાસમાં હતો ત્યારે કાંકરેજના વ્યાપારી પરિવારની બહેન શ્રીદેવીએ તેને આશરો આપ્યો હતો, જેથી વનરાજે રાજતિલક કરવાનો અધિકાર તેને આપ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_3',
               question: 'વનરાજ ચાવડાએ પાવાગઢની તળેટીમાં પોતાના કયા મુત્સદ્દી મિત્ર અને સેનાપતિની સ્મૃતિમાં "ચાંપાનેર" નગર વસાવ્યું હતું?',
-              options: ['અણહિલ ભરવાડ', 'ચાંપા વાણિયા (ચાંપરાજ)', 'સુરપાળ', 'શીલગુણસૂરિ'],
-              correctOptionIndex: 1,
+              options: ['સુરપાળ', 'અણહિલ ભરવાડ', 'ચાંપા વાણિયા (ચાંપરાજ)', 'શીલગુણસૂરિ'],
+              correctOptionIndex: 2,
               explanation: 'વનરાજે પોતાના સાહસિક મિત્ર ચાંપા વાણિયાની યાદમાં પાવાગઢની તળેટીમાં ચાંપાનેર નગર વસાવી તેને રાજ્યના મુખ્ય પ્રધાન બનાવ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
@@ -17490,32 +17490,32 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_5',
               question: 'સોમનાથ બંદરે આવેલા વિદેશી વ્યાપારી વહાણોને પોતાના પુત્ર ક્ષેમરાજે લૂંટી લેતાં અન્ન-જળ ત્યાગી પ્રાયશ્ચિત કરનાર ચાવડા રાજા કોણ હતા?',
-              options: ['વનરાજ ચાવડા', 'યોગરાજ', 'વૈરસિંહ', 'સામંતસિંહ'],
-              correctOptionIndex: 1,
+              options: ['વનરાજ ચાવડા', 'વૈરસિંહ', 'સામંતસિંહ', 'યોગરાજ'],
+              correctOptionIndex: 3,
               explanation: 'યોગરાજ અત્યંત ન્યાયપ્રિય રાજા હતો. દરિયાઈ ચાંચિયાગીરીથી ગુજરાતની વ્યાપારી શાખ ખરડાતાં તેણે અન્ન-જળ ત્યાગી પશ્ચાત્તાપ કર્યો હતો.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_6',
               question: 'ચાવડા વંશના અંતિમ રાજા સામંતસિંહની હત્યા કરી ઈ.સ. ૯૪૨ માં પાટણમાં સોલંકી વંશની સ્થાપના કોણે કરી હતી?',
-              options: ['ભીમદેવ ૧લો', 'ચામુંડરાજ', 'મૂળરાજ સોલંકી (મૂળરાજ ૧લો)', 'દુર્લભરાજ'],
-              correctOptionIndex: 2,
+              options: ['મૂળરાજ સોલંકી (મૂળરાજ ૧લો)', 'ભીમદેવ ૧લો', 'દુર્લભરાજ', 'ચામુંડરાજ'],
+              correctOptionIndex: 0,
               explanation: 'સામંતસિંહના અપમાનજનક વર્તનથી કંટાળીને તેના ભાણેજ મૂળરાજ સોલંકીએ ઈ.સ. ૯૪૨ માં સામંતસિંહનો વધ કરી પાટણમાં સોલંકી વંશની સ્થાપના કરી હતી.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_7',
               question: 'મૂળરાજ સોલંકીના પિતા રાજા રાજી કયા રાજવંશના રાજકુમાર હતા?',
-              options: ['ગુર્જર-પ્રતિહાર વંશ', 'ચાલુક્ય (સોલંકી) વંશ', 'રાષ્ટ્રકૂટ વંશ', 'પરમાર વંશ'],
-              correctOptionIndex: 1,
+              options: ['ગુર્જર-પ્રતિહાર વંશ', 'રાષ્ટ્રકૂટ વંશ', 'પરમાર વંશ', 'ચાલુક્ય (સોલંકી) વંશ'],
+              correctOptionIndex: 3,
               explanation: 'રાજા રાજી ચાલુક્ય (સોલંકી) વંશના રાજકુમાર હતા, જેમના લગ્ન સામંતસિંહની બહેન લીલાદેવી સાથે થયા હતા.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_8',
               question: 'પંચાસરના રાજા જયશિખરી ચાવડા અને રાજા ભૂવડ વચ્ચેના યુદ્ધનું વિગતવાર કાવ્યાત્મક વર્ણન કયા ગ્રંથમાં મળે છે?',
-              options: ['રત્નમાલા (કવિ કૃષ્ણ)', 'પ્રબંધ ચિંતામણી', 'કુમારપાળ ચરિત્ર', 'દ્વયાશ્રય કાવ્ય'],
-              correctOptionIndex: 0,
+              options: ['કુમારપાળ ચરિત્ર', 'પ્રબંધ ચિંતામણી', 'દ્વયાશ્રય કાવ્ય', 'રત્નમાલા (કવિ કૃષ્ણ)'],
+              correctOptionIndex: 3,
               explanation: 'કવિ કૃષ્ણ રચિત રત્નમાલા ગ્રંથમાં જયશિખરી ચાવડા, રાજા ભૂવડનું આક્રમણ અને પંચાસરના યુદ્ધનું જીવંત વર્ણન કરવામાં આવ્યું છે.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
@@ -17530,80 +17530,80 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_chavada_dynasty_10',
               question: 'બાળ વનરાજ ચાવડાને આશ્રય આપી સંસ્કાર આપનાર અને ગુજરાતના શાસક બનવાની ભવિષ્યવાણી કરનાર જૈન આચાર્ય કોણ હતા?',
-              options: ['હેમચંદ્રાચાર્ય', 'શીલગુણસૂરિ', 'દેવર્ધિગણી', 'ઉદ્યોતનસૂરિ'],
-              correctOptionIndex: 1,
+              options: ['હેમચંદ્રાચાર્ય', 'ઉદ્યોતનસૂરિ', 'શીલગુણસૂરિ', 'દેવર્ધિગણી'],
+              correctOptionIndex: 2,
               explanation: 'જૈન મુનિ શીલગુણસૂરિએ બાળ વનરાજમાં રાજતેજ જોઈ તેને આશ્રય આપ્યો હતો અને તે ગુજરાતનો શાસક બનશે તેવી આગાહી કરી હતી.',
               sourceVideoTitle: 'Gujarat History 14: ચાવડા વંશ (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_1',
               question: 'મૂળરાજ ૧લાએ સૌરાષ્ટ્રના ચુડાસમા રાજા રા\' ગ્રહરિપુ સામે કઈ નદીના કિનારે ઐતિહાસિક યુદ્ધ લડ્યું હતું?',
-              options: ['સરસ્વતી નદી', 'જંબુમાલી નદી', 'શેત્રુંજી નદી', 'ભાદર નદી'],
-              correctOptionIndex: 1,
+              options: ['સરસ્વતી નદી', 'ભાદર નદી', 'જંબુમાલી નદી', 'શેત્રુંજી નદી'],
+              correctOptionIndex: 2,
               explanation: 'હેમચંદ્રાચાર્ય કૃત દ્વયાશ્રય કાવ્ય અનુસાર મૂળરાજ ૧લાએ રા\' ગ્રહરિપુ સામે જંબુમાલી નદીના કાંઠે યુદ્ધ કરી તેને પરાજિત કર્યો હતો.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_2',
               question: 'કચ્છના પ્રતાપી જાડેજા રાજા લાખા ફુલાણીનો વધ મૂળરાજ ૧લા દ્વારા કયા સ્થળે થયેલી લડાઈમાં થયો હતો?',
-              options: ['કંથકોટ', 'આટકોટ (રાજકોટ જિલ્લો)', 'ભુજ', 'અંજાર'],
-              correctOptionIndex: 1,
+              options: ['આટકોટ (રાજકોટ જિલ્લો)', 'કંથકોટ', 'ભુજ', 'અંજાર'],
+              correctOptionIndex: 0,
               explanation: 'રાજકોટ જિલ્લાના આટકોટ ખાતે થયેલી લડાઈમાં મૂળરાજ ૧લાના હાથે કચ્છના લોકપ્રિય રાજા લાખા ફુલાણી વીરગતિ પામ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_3',
               question: 'સિદ્ધપુર (શ્રીસ્થલ) ખાતે સરસ્વતી નદી કિનારે ભવ્ય "રુદ્રમહાલય" શિવ મંદિરનું નિર્માણ કાર્ય કોણે શરૂ કરાવ્યું હતું?',
-              options: ['સિદ્ધરાજ જયસિંહ', 'મૂળરાજ ૧લો', 'ભીમદેવ ૧લો', 'કુમારપાળ'],
-              correctOptionIndex: 1,
+              options: ['કુમારપાળ', 'સિદ્ધરાજ જયસિંહ', 'મૂળરાજ ૧લો', 'ભીમદેવ ૧લો'],
+              correctOptionIndex: 2,
               explanation: 'રુદ્રમહાલયનું મૂળ નિર્માણ સોલંકી સ્થાપક મૂળરાજ ૧લાએ શરૂ કરાવ્યું હતું, જેને આગળ જતાં સિદ્ધરાજ જયસિંહે ભવ્ય સ્વરૂપે પૂર્ણ કરાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_4',
               question: 'પાટણમાં પોતાના નામ પરથી પ્રસિદ્ધ "દુર્લભ સરોવર" (જે પાછળથી સહસ્રલિંગ તળાવ બન્યું) કયા સોલંકી રાજાએ બંધાવ્યું હતું?',
-              options: ['ચામુંડરાજ', 'વલ્લભરાજ', 'દુર્લભરાજ', 'કર્ણદેવ ૧લો'],
-              correctOptionIndex: 2,
+              options: ['કર્ણદેવ ૧લો', 'ચામુંડરાજ', 'વલ્લભરાજ', 'દુર્લભરાજ'],
+              correctOptionIndex: 3,
               explanation: 'દુર્લભરાજે પાટણમાં દુર્લભ સરોવર બંધાવ્યું હતું, જેનું સિદ્ધરાજ જયસિંહે પુનઃનિર્માણ કરી સહસ્રલિંગ તળાવ બનાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_5',
               question: 'મહમૂદ ગઝનવીએ જાન્યુઆરી ૧૦૨૬ માં સોમનાથ મંદિર પર આક્રમણ કર્યું ત્યારે પાટણ પર કયા સોલંકી સમ્રાટનું શાસન હતું?',
-              options: ['મૂળરાજ ૧લો', 'ભીમદેવ ૧લો (બાણાવળી ભીમ)', 'ચામુંડરાજ', 'સિદ્ધરાજ જયસિંહ'],
-              correctOptionIndex: 1,
+              options: ['મૂળરાજ ૧લો', 'ચામુંડરાજ', 'સિદ્ધરાજ જયસિંહ', 'ભીમદેવ ૧લો (બાણાવળી ભીમ)'],
+              correctOptionIndex: 3,
               explanation: 'ગઝનવીના આક્રમણ સમયે બાણાવળી ભીમદેવ ૧લો શાસક હતો. તેણે કંથકોટ કિલ્લામાં રહી સેના સંગઠિત કરી હતી અને બાદમાં સોમનાથનું પથ્થરથી પુનઃનિર્માણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_6',
               question: 'આબુ પર્વત પર દેલવાડા ખાતે ઈ.સ. ૧૦૩૧ માં ભગવાન આદિનાથનું વિશ્વપ્રસિદ્ધ આરસપહાણનું મંદિર "વિમલવસહી" કોણે બંધાવ્યું હતું?',
-              options: ['વસ્તુપાળ-તેજપાળ', 'વિમલ મંત્રી (વિમલશાહ)', 'પેથડશાહ', 'કુમારપાળ'],
-              correctOptionIndex: 1,
+              options: ['વિમલ મંત્રી (વિમલશાહ)', 'કુમારપાળ', 'પેથડશાહ', 'વસ્તુપાળ-તેજપાળ'],
+              correctOptionIndex: 0,
               explanation: 'ભીમદેવ ૧લાના દંડનાયક વિમલ મંત્રીએ આબુ વિજય બાદ દેલવાડા ખાતે શિલ્પકળાનું અજોડ વિમલવસહી જૈન દેરાસર બંધાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_7',
               question: 'મહેસાણા જિલ્લામાં પુષ્પાવતી નદીના કિનારે આવેલું વિશ્વપ્રસિદ્ધ "મોઢેરાનું સૂર્ય મંદિર" કયા સોલંકી શાસકના સમયમાં બંધાયું હતું?',
-              options: ['ભીમદેવ ૧લો (ઈ.સ. ૧૦૨૬-૧૦૨૭)', 'કર્ણદેવ ૧લો', 'સિદ્ધરાજ જયસિંહ', 'કુમારપાળ'],
-              correctOptionIndex: 0,
+              options: ['કર્ણદેવ ૧લો', 'ભીમદેવ ૧લો (ઈ.સ. ૧૦૨૬-૧૦૨૭)', 'કુમારપાળ', 'સિદ્ધરાજ જયસિંહ'],
+              correctOptionIndex: 1,
               explanation: 'ભીમદેવ ૧લાના સમયમાં ઈ.સ. ૧૦૨૬-૧૦૨૭ માં પુષ્પાવતી નદી કાંઠે મોઢેરા સૂર્ય મંદિર અને સૂર્યકુંડનું ભવ્ય નિર્માણ થયું હતું.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_8',
               question: 'યુનેસ્કો દ્વારા ૨૦૧૪ માં વર્લ્ડ હેરિટેજ સાઇટ જાહેર કરાયેલી પાટણની "રાણકી વાવ" ભીમદેવ ૧લાની સ્મૃતિમાં કોણે બંધાવી હતી?',
-              options: ['મીનળદેવી (મયણલ્લાદેવી)', 'રાણી ઉદયમતી', 'નાયિકાદેવી', 'બકુલાદેવી (ચૌલાદેવી)'],
-              correctOptionIndex: 1,
+              options: ['બકુલાદેવી (ચૌલાદેવી)', 'નાયિકાદેવી', 'મીનળદેવી (મયણલ્લાદેવી)', 'રાણી ઉદયમતી'],
+              correctOptionIndex: 3,
               explanation: 'ભીમદેવ ૧લાના પત્ની રાણી ઉદયમતીએ પતિની યાદમાં પાટણમાં ૭ માળની અજોડ જયા પ્રકારની રાણકી વાવ બંધાવી હતી.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_solanki_dynasty_9',
               question: 'ભારતીય રિઝર્વ બેંક (RBI) ની કયા મૂલ્યની નવી ચલણી નોટ પર પાટણની રાણકી વાવનું ચિત્ર અંકિત છે?',
-              options: ['₹૫૦ ની નોટ', '₹૧૦૦ ની નોટ', '₹૨૦૦ ની નોટ', '₹૫૦૦ ની નોટ'],
-              correctOptionIndex: 1,
+              options: ['₹૫૦૦ ની નોટ', '₹૫૦ ની નોટ', '₹૨૦૦ ની નોટ', '₹૧૦૦ ની નોટ'],
+              correctOptionIndex: 3,
               explanation: 'જાંબલી (Lavender) રંગની નવી ₹૧૦૦ ની ચલણી નોટની પાછળ પાટણની વિશ્વપ્રસિદ્ધ રાણકી વાવનું ચિત્ર અંકિત છે.',
               sourceVideoTitle: 'Gujarat History 15 : સોલંકી વંશ PART 01 (Teaching Kishan)',
             ),
@@ -17618,23 +17618,23 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_1',
               question: 'સાબરમતી નદીના પૂર્વ કિનારે આશા ભીલને હરાવી "કર્ણાવતી" નગરની સ્થાપના કયા સોલંકી શાસકે કરી હતી?',
-              options: ['ભીમદેવ ૧લો', 'કર્ણદેવ ૧લો (ત્રૈલોક્યમલ્લ)', 'સિદ્ધરાજ જયસિંહ', 'કુમારપાળ'],
-              correctOptionIndex: 1,
+              options: ['કર્ણદેવ ૧લો (ત્રૈલોક્યમલ્લ)', 'સિદ્ધરાજ જયસિંહ', 'કુમારપાળ', 'ભીમદેવ ૧લો'],
+              correctOptionIndex: 0,
               explanation: 'કર્ણદેવ ૧લા ત્રૈલોક્યમલ્લે આશાપલ્લીના આશા ભીલને હરાવી ૧૧મી સદીમાં સાબરમતી કાંઠે કર્ણાવતી નગર વસાવ્યું હતું, જે પાછળથી અમદાવાદ બન્યું.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_2',
               question: '"ન્યાય જોવો હોય તો મલાવ તળાવ જુઓ!" - આ પ્રસિદ્ધ લોકોક્તિ સાથે સંકળાયેલું મલાવ તળાવ ક્યાં આવેલું છે અને તે કોણે બંધાવ્યું હતું?',
-              options: ['પાટણ - રાણી ઉદયમતી', 'ધોળકા - રાજમાતા મીનળદેવી', 'વિરમગામ - સિદ્ધરાજ જયસિંહ', 'મોઢેરા - કર્ણદેવ ૧લો'],
-              correctOptionIndex: 1,
+              options: ['ધોળકા - રાજમાતા મીનળદેવી', 'વિરમગામ - સિદ્ધરાજ જયસિંહ', 'મોઢેરા - કર્ણદેવ ૧લો', 'પાટણ - રાણી ઉદયમતી'],
+              correctOptionIndex: 0,
               explanation: 'ધોળકામાં ગરીબ વિધવાનું ઘર બચાવવા માટે તળાવમાં વાંકો વળાંક રાખીને રાજમાતા મીનળદેવીએ ન્યાયપ્રિયતાનું ઉત્તમ ઉદાહરણ પૂરું પાડ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_3',
               question: 'રાજમાતા મીનળદેવીના આદેશથી સિદ્ધરાજ જયસિંહે સોમનાથ જતા યાત્રાળુઓ પરનો વાર્ષિક કેટલી આવક આપતો યાત્રાવેરો રદ કર્યો હતો?',
-              options: ['૧૨ લાખ રૂપિયા', '૫૦ લાખ રૂપિયા', '૭૨ લાખ રૂપિયા', '૧ કરોડ રૂપિયા'],
+              options: ['૫૦ લાખ રૂપિયા', '૧ કરોડ રૂપિયા', '૭૨ લાખ રૂપિયા', '૧૨ લાખ રૂપિયા'],
               correctOptionIndex: 2,
               explanation: 'બાહુલવાડ ખાતે ગરીબ યાત્રાળુઓની પીડા જોઈને માતા મીનળદેવીએ સોમનાથનો વાર્ષિક ૭૨ લાખ રૂપિયાની આવક આપતો યાત્રાવેરો કાયમ માટે રદ કરાવ્યો હતો.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
@@ -17642,56 +17642,56 @@ McqModel(
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_4',
               question: 'સમ્રાટ સિદ્ધરાજ જયસિંહનો જન્મ કયા ઐતિહાસિક નગરમાં થયો હતો?',
-              options: ['અણહિલવાડ પાટણ', 'પાલનપુર (પ્રહલાદનપુર)', 'સિદ્ધપુર', 'કર્ણાવતી'],
-              correctOptionIndex: 1,
+              options: ['પાલનપુર (પ્રહલાદનપુર)', 'કર્ણાવતી', 'સિદ્ધપુર', 'અણહિલવાડ પાટણ'],
+              correctOptionIndex: 0,
               explanation: 'સિદ્ધરાજ જયસિંહનો જન્મ ઈ.સ. ૧૦૯૧ માં પાલનપુર ખાતે થયો હતો અને ઈ.સ. ૧૦૯૪ માં માત્ર ૩ વર્ષની વયે તેમનો રાજ્યાભિષેક થયો હતો.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_5',
               question: 'સિદ્ધપુર અને ગિરનારના સાધુઓને ત્રાસ આપતા અનાર્ય બળવાન સરદાર બરબરકને હરાવી સિદ્ધરાજે કયું બિરુદ ધારણ કર્યું હતું?',
-              options: ['અવન્તીનાથ', 'બરબરકજિષ્ણુ', 'ત્રિભુવનગંડ', 'સિદ્ધચક્રવર્તી'],
-              correctOptionIndex: 1,
+              options: ['સિદ્ધચક્રવર્તી', 'અવન્તીનાથ', 'ત્રિભુવનગંડ', 'બરબરકજિષ્ણુ'],
+              correctOptionIndex: 3,
               explanation: 'બરબરક (બાબરો) સાથે દ્વંદ્વયુદ્ધ કરી તેને જીવતદાન આપતાં સિદ્ધરાજે "બરબરકજિષ્ણુ" બિરુદ ધારણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_6',
               question: 'જૂનાગઢના રા\' ખેંગાર ૨જા સામેના યુદ્ધ બાદ સતી થયેલી રાણકદેવીનું ઐતિહાસિક મંદિર કઈ નદીના કિનારે આવેલું છે?',
-              options: ['સરસ્વતી નદી - પાટણ', 'ભોગાવો નદી - વઢવાણ (સુરેન્દ્રનગર)', 'સાબરમતી નદી - કર્ણાવતી', 'શેત્રુંજી નદી - પાલીતાણા'],
-              correctOptionIndex: 1,
+              options: ['સાબરમતી નદી - કર્ણાવતી', 'સરસ્વતી નદી - પાટણ', 'ભોગાવો નદી - વઢવાણ (સુરેન્દ્રનગર)', 'શેત્રુંજી નદી - પાલીતાણા'],
+              correctOptionIndex: 2,
               explanation: 'વઢવાણ ખાતે ભોગાવો નદીના પટમાં રાણકદેવી સતી થયાં હતાં, જ્યાં આજે પણ રાણકદેવીનું પ્રાચીન મંદિર આવેલું છે.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_7',
               question: 'માળવાના પરમાર રાજા યશોવર્માને હરાવી પાટણમાં લોખંડના પાંજરામાં કેદ કરનાર સિદ્ધરાજ જયસિંહે કયું બિરુદ ધારણ કર્યું હતું?',
-              options: ['બરબરકજિષ્ણુ', 'અવન્તીનાથ', 'કલિકાલસર્વજ્ઞ', 'રાજમદનશંકર'],
-              correctOptionIndex: 1,
+              options: ['બરબરકજિષ્ણુ', 'રાજમદનશંકર', 'કલિકાલસર્વજ્ઞ', 'અવન્તીનાથ'],
+              correctOptionIndex: 3,
               explanation: '૧૨ વર્ષના યુદ્ધ બાદ માળવા (અવન્તી) જીતી લેતાં સિદ્ધરાજે "અવન્તીનાથ" નું ગૌરવશાળી બિરુદ ધારણ કર્યું હતું.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_8',
               question: 'હેમચંદ્રાચાર્ય રચિત પ્રસિદ્ધ વ્યાકરણ ગ્રંથ "સિદ્ધહેમ શબ્દાનુશાસન" ની શોભાયાત્રા પાટણમાં કયા હાથીની અંબાડી પર કાઢવામાં આવી હતી?',
-              options: ['ઐરાવત હાથી', 'શ્રીકર (કુમુદ) હાથી', 'રામપ્રસાદ હાથી', 'વિજયરાજ હાથી'],
-              correctOptionIndex: 1,
+              options: ['ઐરાવત હાથી', 'રામપ્રસાદ હાથી', 'શ્રીકર (કુમુદ) હાથી', 'વિજયરાજ હાથી'],
+              correctOptionIndex: 2,
               explanation: 'પાટણના રાજવી હાથી શ્રીકરની સુવર્ણ અંબાડી પર ગ્રંથ પધરાવી શોભાયાત્રા કાઢવામાં આવી હતી, જેમાં સિદ્ધરાજ અને હેમચંદ્રાચાર્ય બંને પગપાળા ચાલ્યા હતા.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_9',
               question: 'કલિકાલસર્વજ્ઞ હેમચંદ્રાચાર્યનો જન્મ કયા સ્થળે થયો હતો અને તેમનું બાળપણનું મૂળ નામ શું હતું?',
-              options: ['ખંભાત - સોમચંદ્ર', 'ધંધૂકા - ચંગદેવ', 'પાટણ - હેમચંદ્ર', 'સિદ્ધપુર - દેવચંદ્ર'],
-              correctOptionIndex: 1,
+              options: ['સિદ્ધપુર - દેવચંદ્ર', 'ખંભાત - સોમચંદ્ર', 'ધંધૂકા - ચંગદેવ', 'પાટણ - હેમચંદ્ર'],
+              correctOptionIndex: 2,
               explanation: 'હેમચંદ્રાચાર્યનો જન્મ અમદાવાદ જિલ્લાના ધંધૂકામાં થયો હતો અને માતા પાહિણીદેવીએ તેમનું નામ ચંગદેવ રાખ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
 McqModel(
               id: 'mcq_sec7_siddhraj_solanki_10',
               question: 'પાટણ ખાતે ૧,૦૦૮ શિવાલયો અને જળ સંચય નહેરો ધરાવતા ભવ્ય "સહસ્રલિંગ તળાવ" નું પુનઃનિર્માણ કોણે કરાવ્યું હતું?',
-              options: ['દુર્લભરાજ', 'સિદ્ધરાજ જયસિંહ', 'કુમારપાળ', 'ભીમદેવ ૨જો'],
-              correctOptionIndex: 1,
+              options: ['સિદ્ધરાજ જયસિંહ', 'ભીમદેવ ૨જો', 'કુમારપાળ', 'દુર્લભરાજ'],
+              correctOptionIndex: 0,
               explanation: 'દુર્લભરાજના દુર્લભ સરોવરને ભવ્ય સ્વરૂપ આપી સિદ્ધરાજ જયસિંહે ૧૦૦૮ શિવાલયો સાથે સહસ્રલિંગ તળાવ બનાવ્યું હતું.',
               sourceVideoTitle: 'Gujarat History 16 : સોલંકી વંશ PART 02 (Teaching Kishan)',
             ),
@@ -17699,10 +17699,10 @@ McqModel(
               id: 'mcq_sec7_kumarpal_solanki_1',
               question: 'સોલંકી વંશના કયા પ્રતાપી શાસકને તેમની અહિંસક નીતિઓ, જૈન ધર્મના પ્રચાર અને લોકકલ્યાણ કાર્યોના કારણે "ગુજરાતના અશોક" તરીકે ઓળખવામાં આવે છે?',
               options: [
-                'સિદ્ધરાજ જયસિંહ',
-                'કુમારપાળ',
                 'ભીમદેવ ૧લો',
-                'કર્ણદેવ ૧લો',
+                'કુમારપાળ',
+                'સિદ્ધરાજ જયસિંહ',
+                'કર્ણદેવ ૧લો'
               ],
               correctOptionIndex: 1,
               explanation: 'કુમારપાળે હેમચંદ્રાચાર્યના ઉપદેશથી જૈન ધર્મ અંગીકાર કરી રાજ્યમાં અહિંસાની કડક અમલવારી કરાવી હતી, જેથી તેમને "ગુજરાતના અશોક" કહેવામાં આવે છે.',
@@ -17711,10 +17711,10 @@ McqModel(
               id: 'mcq_sec7_kumarpal_solanki_2',
               question: 'કુમારપાળે કલિકાલસર્વજ્ઞ હેમચંદ્રાચાર્યના ઉપદેશથી પ્રભાવિત થઈ સમગ્ર રાજ્યમાં ૧૪ વર્ષ સુધી જીવહિંસા પર સંપૂર્ણ પ્રતિબંધ મૂકતો કયો ઐતિહાસિક વટહુકમ બહાર પાડ્યો હતો?',
               options: [
-                'અમૃત ઘોષણા',
+                'જીવદયા ઘોષણા',
                 'અમારી ઘોષણા',
                 'અભય વચન',
-                'જીવદયા ઘોષણા',
+                'અમૃત ઘોષણા'
               ],
               correctOptionIndex: 1,
               explanation: 'કુમારપાળે સમગ્ર ગુજરાત અને આધીન પ્રદેશોમાં પશુબલિ, શિકાર અને કસાઈખાના બંધ કરાવતો "અમારી ઘોષણા" નામનો અહિંસા વટહુકમ બહાર પાડ્યો હતો.',
@@ -17723,48 +17723,48 @@ McqModel(
               id: 'mcq_sec7_kumarpal_solanki_3',
               question: 'પ્રાચીન સમયથી ચાલતી અમાનવીય પ્રથા જેમાં કોઈ પુરુષ પુત્ર વિના અવસાન પામે તો રાજ્ય તેની તમામ સંપત્તિ જપ્ત કરી લેતું (રુદતી ધન), તે "અપુત્રિકા ધન હરણ" નો કાયદો કયા સોલંકી શાસકે રદ કર્યો હતો?',
               options: [
-                'મૂળરાજ ૧લો',
                 'કુમારપાળ',
-                'સિદ્ધરાજ જયસિંહ',
+                'મૂળરાજ ૧લો',
                 'અજયપાળ',
+                'સિદ્ધરાજ જયસિંહ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'કુમારપાળે કરોડો રૂપિયાની રાજ્યની આવક જતી કરીને વિધવા સ્ત્રીઓની સંપત્તિ જપ્ત કરવાનો અન્યાયી કાયદો ("રુદતી ધન") સદંતર નાબૂદ કર્યો હતો.',
             ),
 McqModel(
               id: 'mcq_sec7_kumarpal_solanki_4',
               question: 'કુમારપાળના શાસનકાળ દરમિયાન પ્રભાસ પાટણ ખાતે સોમનાથ મહાદેવના ભવ્ય પાષાણ મંદિરનો જીર્ણોદ્ધાર કયા શૈવ આચાર્યના વડપણ હેઠળ કરવામાં આવ્યો હતો?',
               options: [
-                'ભાવ બૃહસ્પતિ',
-                'આચાર્ય હેમચંદ્ર',
-                'શાંતિસૂરિ',
                 'સોમપ્રભાચાર્ય',
+                'શાંતિસૂરિ',
+                'ભાવ બૃહસ્પતિ',
+                'આચાર્ય હેમચંદ્ર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'કુમારપાળે પાશુપત શૈવ આચાર્ય ગંડો ભાવ બૃહસ્પતિને સોમનાથના મુખ્ય અધ્યક્ષ બનાવી લાકડાના સ્થાને પથ્થરનું મેરુપ્રાસાદ શૈલીનું ભવ્ય મંદિર બંધાવ્યું હતું.',
             ),
 McqModel(
               id: 'mcq_sec7_kumarpal_solanki_5',
               question: 'ઉત્તર ગુજરાતના મહેસાણા જિલ્લામાં આવેલા તારંગા પર્વત પર ૨જા જૈન તીર્થંકર ભગવાન અજિતનાથનું ભવ્ય શ્વેતાંબર જૈન દેરાસર કોણે બંધાવ્યું હતું?',
               options: [
-                'વિમલ મંત્રી',
-                'સિદ્ધરાજ જયસિંહ',
-                'કુમારપાળ',
                 'વસ્તુપાળ-તેજપાળ',
+                'કુમારપાળ',
+                'વિમલ મંત્રી',
+                'સિદ્ધરાજ જયસિંહ'
               ],
-              correctOptionIndex: 2,
+              correctOptionIndex: 1,
               explanation: 'કુમારપાળે મહેસાણા પાસે આવેલી તારંગા ટેકરીઓ પર ભગવાન અજિતનાથનું અદભુત શિખરબદ્ધ જૈન દેરાસર બંધાવ્યું હતું.',
             ),
 McqModel(
               id: 'mcq_sec7_kumarpal_solanki_6',
               question: 'ઈ.સ. ૧૧૭૮ માં આબુ પર્વતની તળેટીમાં કયાદ્રા નજીક ગાડરઘટ્ટાના ઐતિહાસિક મેદાનમાં આક્રમણકારી શહાબુદ્દીન મુહમ્મદ ઘોરીને કારમો પરાજય આપનાર વીરાંગના કોણ હતા?',
               options: [
-                'રાજમાતા મીનળદેવી',
                 'રાણી નાયિકાદેવી',
-                'રાણી ઉદયમતી',
                 'અનુપમાદેવી',
+                'રાજમાતા મીનળદેવી',
+                'રાણી ઉદયમતી'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 0,
               explanation: 'અજયપાળની પત્ની અને ગોવાના કદંબ વંશની રાજકુમારી રાણી નાયિકાદેવીએ ગાડરઘટ્ટાના યુદ્ધમાં મુહમ્મદ ઘોરીને હરાવી ભગાડ્યો હતો. ભારતમાં ઘોરીનો આ સર્વપ્રથમ પરાજય હતો.',
             ),
 McqModel(
@@ -17772,11 +17772,11 @@ McqModel(
               question: 'ગાડરઘટ્ટાના યુદ્ધ (ઈ.સ. ૧૧૭૮) વખતે પાટણની ગાદી પર કયા અલ્પવયસ્ક સોલંકી શાસક બિરાજમાન હતા, જેમના વતી માતા નાયિકાદેવીએ સેનાનું નેતૃત્વ લીધું હતું?',
               options: [
                 'મૂળરાજ ૧લો',
-                'મૂળરાજ ૨જો (બાળ મૂળરાજ)',
                 'ભીમદેવ ૨જો',
                 'અજયપાળ',
+                'મૂળરાજ ૨જો (બાળ મૂળરાજ)'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'અજયપાળના અવસાન પછી તેમના નાના બાળક મૂળરાજ ૨જા (બાળ મૂળરાજ) ગાદી પર હતા, જેથી માતા નાયિકાદેવીએ સેનાપતિ તરીકે યુદ્ધનું નેતૃત્વ કર્યું હતું.',
             ),
 McqModel(
@@ -17785,8 +17785,8 @@ McqModel(
               options: [
                 'ભીમદેવ ૧લો',
                 'ભીમદેવ ૨જો',
-                'ચામુંડરાજ',
                 'ત્રિભુવનપાળ',
+                'ચામુંડરાજ'
               ],
               correctOptionIndex: 1,
               explanation: 'ભીમદેવ ૨જાએ આશરે ૬૩ વર્ષ સુધી સૌથી લાંબુ શાસન કર્યું. તેઓ સરળ સ્વભાવના હોવાથી લોકમુખે "ભોળો ભીમ" કહેવાયા.',
@@ -17795,204 +17795,204 @@ McqModel(
               id: 'mcq_sec7_kumarpal_solanki_9',
               question: 'ભીમદેવ ૨જાના નબળા શાસન દરમિયાન સોલંકી સામ્રાજ્યને વિદેશી આક્રમણો અને આંતરિક વિદ્રોહથી બચાવનાર ધોળકાના વાઘેલા શાસક અને તેમના પરાક્રમી પુત્ર કોણ હતા?',
               options: [
-                'લવણપ્રસાદ અને વીરધવલ વાઘેલા',
                 'સારંગદેવ અને કરણ ઘેલા',
                 'વિસલદેવ અને અર્ણોરાજ',
                 'પ્રતાપમલ્લ અને સારંગદેવ',
+                'લવણપ્રસાદ અને વીરધવલ વાઘેલા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ધોળકાના રાણા લવણપ્રસાદ અને તેમના પુત્ર વીરધવલ વાઘેલાએ ભીમદેવ ૨જાના સમયમાં ગુજરાતનું રક્ષણ કર્યું અને તેમના જૈન મંત્રીઓ વસ્તુપાળ-તેજપાળ હતા.',
             ),
 McqModel(
               id: 'mcq_sec7_kumarpal_solanki_10',
               question: 'ઈ.સ. ૧૨૪૪ માં સોલંકી વંશના અંતિમ શાસક ત્રિભુવનપાળ પાસેથી પાટણની સત્તા હસ્તગત કરી ગુજરાતમાં વિધિવત રીતે "વાઘેલા વંશ" ની સ્થાપના કોણે કરી હતી?',
               options: [
-                'વીરધવલ વાઘેલા',
-                'વિસલદેવ વાઘેલા',
-                'કરણદેવ વાઘેલા (કરણ ઘેલો)',
                 'લવણપ્રસાદ વાઘેલા',
+                'કરણદેવ વાઘેલા (કરણ ઘેલો)',
+                'વીરધવલ વાઘેલા',
+                'વિસલદેવ વાઘેલા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'વીરધવલ વાઘેલાના પુત્ર વિસલદેવ વાઘેલાએ ત્રિભુવનપાળને પદભ્રષ્ટ કરી ઈ.સ. ૧૨૪૪ માં પાટણમાં સત્તાવાર રીતે વાઘેલા વંશની સ્થાપના કરી.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_1',
               question: 'સોલંકી રાજા કુમારપાળે તેમના માસીના પુત્ર અર્ણોરાજને લશ્કરી સહાયના બદલામાં કયું ગામ જાગીરમાં આપ્યું હતું, જેના પરથી વાઘેલા વંશનું નામકરણ થયું?',
               options: [
-                'વ્યાઘ્રપલ્લી (વાઘેલ ગામ)',
-                'વિસલનગર',
                 'વર્ધમાનપુર (વઢવાણ)',
+                'વ્યાઘ્રપલ્લી (વાઘેલ ગામ)',
                 'ચંદ્રાવતી',
+                'વિસલનગર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કુમારપાળે અર્ણોરાજને પાટણ નજીક આવેલું વ્યાઘ્રપલ્લી (વાઘેલ) ગામ આપ્યું હતું, જેના પરથી આ વંશ "વાઘેલા વંશ" (વ્યાઘ્રપલ્લીય ચાલુક્ય) તરીકે ઓળખાયો.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_2',
               question: 'ભીમદેવ ૨જાના નબળા શાસનકાળ દરમિયાન ધોળકાને કેન્દ્ર બનાવી સોલંકી સામ્રાજ્યને વિદેશી અને આંતરિક આક્રમણોથી બચાવનાર વાઘેલા રાણા કોણ હતા?',
               options: [
-                'લવણપ્રસાદ અને વીરધવલ વાઘેલા',
-                'વિસલદેવ અને સારંગદેવ',
                 'કર્ણદેવ અને અર્ણોરાજ',
+                'લવણપ્રસાદ અને વીરધવલ વાઘેલા',
                 'પ્રતાપમલ્લ અને ત્રિભુવનપાળ',
+                'વિસલદેવ અને સારંગદેવ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ભીમદેવ ૨જાના સમયમાં ધોળકાના મહામાંડલિક લવણપ્રસાદ અને તેમના પુત્ર વીરધવલ વાઘેલાએ મુસ્લિમ આક્રમણો અને માળવા-યાદવો સામે ગુજરાતનું રક્ષણ કર્યું હતું.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_3',
               question: 'ધોળકાના રાણા વીરધવલ વાઘેલાએ પોતાના પ્રધાનમંત્રી તરીકે કયા બે સમર્થ પોરવાડ જૈન વણિક બંધુઓની નિમણૂક કરી હતી?',
               options: [
-                'વસ્તુપાળ અને તેજપાળ',
-                'વિમલ મંત્રી અને આનંદ મંત્રી',
-                'ચાંપો અને આલિંગ',
                 'શાંતૂ અને મુંજાલ',
+                'વિમલ મંત્રી અને આનંદ મંત્રી',
+                'વસ્તુપાળ અને તેજપાળ',
+                'ચાંપો અને આલિંગ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'વીરધવલ વાઘેલાએ આશરાજ અને કુમારદેવીના પુત્રો વસ્તુપાળ અને તેજપાળને પ્રધાનમંત્રી બનાવી રાજ્યનો વહીવટ સોંપ્યો હતો.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_4',
               question: 'આબુ પર્વત પર દિલવાડા ખાતે ૨૨મા તીર્થંકર ભગવાન નેમિનાથનું જગપ્રસિદ્ધ સંગેમરમરનું "લૂણવસહી" જૈન દેરાસર કોણે બંધાવ્યું હતું?',
               options: [
-                'વિમલ મંત્રી',
-                'મંત્રી તેજપાળ',
-                'કુમારપાળ સોલંકી',
                 'વિસલદેવ વાઘેલા',
+                'વિમલ મંત્રી',
+                'કુમારપાળ સોલંકી',
+                'મંત્રી તેજપાળ'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 3,
               explanation: 'તેજપાળે પોતાના સ્વર્ગસ્થ મોટા ભાઈ લુણિગની સ્મૃતિમાં ઈ.સ. ૧૨૩૦-૩૧ માં આબુ પર લૂણવસહી દેરાસર બંધાવ્યું હતું (મુખ્ય શિલ્પી: શોભનદેવ).',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_5',
               question: 'આબુના લૂણવસહી જૈન મંદિરમાં કોના માનમાં કલાત્મક આરસપહાણના પ્રસિદ્ધ "દેરાણી-જેઠાણીના ગોખલા" બનાવવામાં આવ્યા છે?',
               options: [
-                'લલિતાદેવી અને અનુપમાદેવી',
-                'મીનળદેવી અને નાયિકાદેવી',
-                'ઉદયમતી અને બકુલાદેવી',
                 'કમલાદેવી અને દેવલદેવી',
+                'લલિતાદેવી અને અનુપમાદેવી',
+                'ઉદયમતી અને બકુલાદેવી',
+                'મીનળદેવી અને નાયિકાદેવી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'વસ્તુપાળની પત્ની લલિતાદેવી (જેઠાણી) અને તેજપાળની પત્ની અનુપમાદેવી (દેરાણી) ના માનમાં લૂણવસહી મંદિરમાં કલાત્મક ગોખલા બનાવવામાં આવ્યા છે.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_6',
               question: 'સંસ્કૃત મહાકાવ્ય "નરનારાયણાનંદ" ની રચના કરવા બદલ કયા વિદ્વાન મંત્રીને "લઘુ ભોજરાજ" અથવા "કવિકુંજર" નું બિરુદ મળ્યું હતું?',
               options: [
-                'મંત્રી વસ્તુપાળ',
-                'મંત્રી તેજપાળ',
-                'કવિ સોમેશ્વર',
                 'હેમચંદ્રાચાર્ય',
+                'મંત્રી તેજપાળ',
+                'મંત્રી વસ્તુપાળ',
+                'કવિ સોમેશ્વર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'મંત્રી વસ્તુપાળ પોતે ઉત્તમ કવિ હતા અને તેમણે "નરનારાયણાનંદ" મહાકાવ્ય રચ્યું હોવાથી તેમને સાહિત્યજગતમાં "લઘુ ભોજરાજ" કહેવામાં આવ્યા.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_7',
               question: 'ઈ.સ. ૧૨૪૪ માં પાટણની ગાદી પરથી ત્રિભુવનપાળને હટાવી વિધિવત રીતે "વાઘેલા વંશ" ની સ્થાપના કરનાર પ્રથમ પાટણપતિ શાસક કોણ હતા?',
               options: [
-                'વીરધવલ વાઘેલા',
-                'વિસલદેવ વાઘેલા',
                 'સારંગદેવ વાઘેલા',
                 'કર્ણદેવ વાઘેલા',
+                'વિસલદેવ વાઘેલા',
+                'વીરધવલ વાઘેલા'
               ],
-              correctOptionIndex: 1,
+              correctOptionIndex: 2,
               explanation: 'વીરધવલના પુત્ર વિસલદેવ વાઘેલાએ ઈ.સ. ૧૨૪૪ માં પાટણની ગાદી હસ્તગત કરી સત્તાવાર રીતે સ્વતંત્ર વાઘેલા વંશની સ્થાપના કરી.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_8',
               question: 'વિસલદેવ વાઘેલાએ પોતાની ન્યાયપ્રિયતા અને પરાક્રમના કારણે કયું લોકપ્રિય બિરુદ ધારણ કર્યું હતું?',
               options: [
-                'અભિનવ સિદ્ધરાજ',
                 'સિદ્ધચક્રવર્તી',
-                'પરમાર્હત',
                 'ત્રૈલોક્યમલ્લ',
+                'પરમાર્હત',
+                'અભિનવ સિદ્ધરાજ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'વિસલદેવ વાઘેલાએ સિદ્ધરાજ જયસિંહ જેવા જ પ્રતાપી હોવાથી "અભિનવ સિદ્ધરાજ", "અમરગંડ" અને "પ્રૌઢપ્રતાપ ચક્રવર્તી" બિરુદો ધારણ કર્યા હતા.',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_9',
               question: 'વિસલદેવ વાઘેલાના શાસનકાળ દરમિયાન પડેલા ૩ વર્ષના ભયાનક દુષ્કાળમાં પ્રજા માટે પોતાના અનાજના કોઠારો વિનામૂલ્યે ખુલ્લા મૂકનાર કચ્છના દાનવીર મહાજન કોણ હતા?',
               options: [
+                'આશરાજ શ્રેષ્ઠી',
                 'શેઠ જગડૂશા',
                 'શાંતૂ મહેતા',
-                'આશરાજ શ્રેષ્ઠી',
-                'ઉદયન મંત્રી',
+                'ઉદયન મંત્રી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કચ્છના ભદ્રેશ્વરના દાનવીર શેઠ જગડૂશાએ વિક્રમ સંવત ૧૩૧૨-૧૩૧૫ ના દુષ્કાળમાં તમામ અનાજના ભંડારો પ્રજા માટે ખુલ્લા મૂકી લાખો જીવો બચાવ્યા હતા (ચરિત્ર: જગડૂચરિત્ર).',
             ),
 McqModel(
               id: 'mcq_sec7_vaghela_dynasty_10',
               question: 'ડભોઈ (દર્ભવતી) ના ઐતિહાસિક કિલ્લાનો પ્રખ્યાત "હીરા ભાગોળ" દરવાજો કયા મુખ્ય સ્થપતિ (શિલ્પી) ની સ્મૃતિ અને લોકવાયકા સાથે જોડાયેલો છે?',
               options: [
-                'હીરો કડીયો (હીરાધર)',
-                'શોભનદેવ',
                 'મંડન સૂત્રધાર',
                 'દેવપ્રસાદ',
+                'હીરો કડીયો (હીરાધર)',
+                'શોભનદેવ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ડભોઈના કિલ્લા અને હીરા ભાગોળ દરવાજાના મુખ્ય સ્થપતિ શિલ્પી હીરાધર (હીરો કડીયો) હતા, જેમની પ્રેમકથા અને સ્થાપત્ય લોકમુખે પ્રખ્યાત છે.',
             ),
             McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_1',
               question: 'ઈ.સ. ૧૨૬૪ માં વેરાવળ (સોમનાથ) બંદરે હોર્મુઝના મુસ્લિમ વેપારી નૂરુદ્દીન ફિરોઝ (પીરોજ) ને મસ્જિદ બાંધવા જમીન અને દાન આપનાર વાઘેલા રાજા કોણ હતા?',
               options: [
-                'અર્જુનદેવ વાઘેલા',
-                'વિસલદેવ વાઘેલા',
                 'સારંગદેવ વાઘેલા',
                 'કર્ણદેવ વાઘેલા',
+                'અર્જુનદેવ વાઘેલા',
+                'વિસલદેવ વાઘેલા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અર્જુનદેવ વાઘેલાએ નૂરુદ્દીન ફિરોઝને વેરાવળ ખાતે મસ્જિદ બાંધવા જમીન આપી હતી, જેનો સંસ્કૃત-અરબી દ્વિભાષી શિલાલેખ ઈ.સ. ૧૨૬૪ નો પ્રાપ્ત થયો છે.',
             ),
             McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_2',
               question: 'પાટણ અને સમગ્ર ગુજરાતનો અંતિમ હિન્દુ (રજપૂત) શાસક કોણ હતો?',
               options: [
+                'સારંગદેવ વાઘેલા',
                 'કર્ણદેવ વાઘેલા ૨જો (કરણ ઘેલો)',
                 'ત્રિભુવનપાળ સોલંકી',
-                'સારંગદેવ વાઘેલા',
-                'વીરધવલ વાઘેલા',
+                'વીરધવલ વાઘેલા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કર્ણદેવ વાઘેલા ૨જો (કરણ ઘેલો) પાટણ અને ગુજરાતનો અંતિમ હિન્દુ રજપૂત રાજા હતો, જેનું શાસન ઈ.સ. ૧૩૦૪ માં સમાપ્ત થયું.',
             ),
             McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_3',
               question: 'કર્ણદેવ વાઘેલાને કયા કારણોસર ઇતિહાસમાં લોકમુખે "કરણ ઘેલો" તરીકે ઓળખવામાં આવ્યો?',
               options: [
+                'તેઓ ધાર્મિક રીતે અંધશ્રદ્ધાળુ હોવાથી',
                 'તેમના અવિચારી, વિલાસી અને સ્વચ્છંદી નિર્ણયોને કારણે',
                 'તેઓ સતત યુદ્ધોમાં હારતા હોવાથી',
-                'તેઓ ધાર્મિક રીતે અંધશ્રદ્ધાળુ હોવાથી',
-                'તેઓ વિદેશી પ્રવાસી હતા તેથી',
+                'તેઓ વિદેશી પ્રવાસી હતા તેથી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કર્ણદેવની વિવેકહીનતા, વિલાસી વૃત્તિ અને મંત્રીની પત્નીના અપહરણ જેવા અવિચારી નિર્ણયોને લીધે પ્રજામાં તેઓ "કરણ ઘેલો" તરીકે કુખ્યાત થયા.',
             ),
             McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_4',
               question: 'પત્ની રૂપસુંદરીના અપહરણ અને ભાઈ કેશવની હત્યાના વેર માટે દિલ્હીના સુલતાન અલાઉદ્દીન ખિલજીને ગુજરાત પર આક્રમણ કરવા કોણે આમંત્રણ આપ્યું હતું?',
               options: [
-                'માધવ મંત્રી',
                 'શાંતૂ મહેતા',
-                'ઉદયન મંત્રી',
                 'તેજપાળ મંત્રી',
+                'ઉદયન મંત્રી',
+                'માધવ મંત્રી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'કર્ણદેવના મુખ્ય વહીવટકર્તા માધવ મંત્રીએ ભાઈની હત્યા અને પત્નીના અપહરણના બદલામાં દિલ્હી જઈ અલાઉદ્દીન ખિલજીને આક્રમણ માટે તેડાવ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_5',
               question: 'ઈ.સ. ૧૨૯૯ માં અલાઉદ્દીન ખિલજીએ ગુજરાત પર ચડાઈ કરવા માટે પોતાના કયા બે શક્તિશાળી સેનાપતિઓને મોકલ્યા હતા?',
               options: [
-                'ઉલુઘ ખાન અને નુસરત ખાન',
                 'મલિક કાફુર અને અલ્પ ખાન',
-                'ઝફર ખાન અને તાતાર ખાન',
                 'બખ્તિયાર ખિલજી અને ઐબક',
+                'ઝફર ખાન અને તાતાર ખાન',
+                'ઉલુઘ ખાન અને નુસરત ખાન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'અલાઉદ્દીને ઈ.સ. ૧૨૯૯ ના પ્રથમ આક્રમણમાં ઉલુઘ ખાન અને નુસરત ખાનને મોકલ્યા હતા, જેમણે પાટણ, મોઢેરા, સોમનાથ અને ખંભાત લૂંટ્યા હતા.',
             ),
             McqModel(
@@ -18001,8 +18001,8 @@ McqModel(
               options: [
                 'રાણી કમલાદેવી',
                 'રૂપસુંદરી',
-                'નાયિકાદેવી',
                 'દેવલદેવી',
+                'નાયિકાદેવી'
               ],
               correctOptionIndex: 0,
               explanation: 'પાટણની લૂંટ દરમિયાન પકડાયેલી રાણી કમલાદેવીના રૂપથી મોહિત થઈ અલાઉદ્દીન ખિલજીએ તેની સાથે નિકાહ કરી બેગમ બનાવી હતી.',
@@ -18011,12 +18011,12 @@ McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_7',
               question: 'રાજકુમારી દેવલદેવી અને અલાઉદ્દીન ખિલજીના પુત્ર ખિઝ્ર ખાનના પ્રેમસંબંધ પર દિલ્હીના કયા પ્રખ્યાત કવિએ "આશિકા" (દેવલરાની ખિઝ્ર ખાન) મસનવી રચી હતી?',
               options: [
-                'અમીર ખુસરો',
-                'ઝિયાઉદ્દીન બરની',
-                'અબુલ ફઝલ',
                 'અલ-બરુની',
+                'અબુલ ફઝલ',
+                'ઝિયાઉદ્દીન બરની',
+                'અમીર ખુસરો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'દિલ્હી સલ્તનતના રાજકવિ અમીર ખુસરોએ ઈ.સ. ૧૩૧૫ માં "મસનવી દેવલરાની ખિઝ્ર ખાન" (આશિકા) નામક પ્રસિદ્ધ પ્રેમકાવ્ય રચ્યું હતું.',
             ),
             McqModel(
@@ -18024,9 +18024,9 @@ McqModel(
               question: 'ઈ.સ. ૧૮૬૬ માં પ્રસિદ્ધ થયેલી ગુજરાતી સાહિત્યની સર્વપ્રથમ મૌલિક ઐતિહાસિક નવલકથા "કરણ ઘેલો" ના લેખક કોણ છે?',
               options: [
                 'નંદશંકર તુળજાશંકર મહેતા',
-                'કવિ નર્મદ',
-                'ગોવર્ધનરામ ત્રિપાઠી',
                 'કનૈયાલાલ મુનશી',
+                'ગોવર્ધનરામ ત્રિપાઠી',
+                'કવિ નર્મદ'
               ],
               correctOptionIndex: 0,
               explanation: 'સુરતના શિક્ષણવિદ્ નંદશંકર તુળજાશંકર મહેતાએ ઈ.સ. ૧૮૬૬ માં ગુજરાતીની પ્રથમ ઐતિહાસિક નવલકથા "કરણ ઘેલો" (ગુજરાતનો છેલ્લો રજપૂત રાજા) રચી હતી.',
@@ -18035,24 +18035,24 @@ McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_9',
               question: 'ઈ.સ. ૧૩૦૪ માં ગુજરાતમાં હિન્દુ શાસનનો કાયમી અંત આવ્યા પછી અલાઉદ્દીન ખિલજી દ્વારા ગુજરાતના પ્રથમ મુસ્લિમ સુબા (નાઝિમ) તરીકે કોની નિમણૂક કરવામાં આવી?',
               options: [
-                'અલ્પ ખાન',
-                'મલિક કાફુર',
-                'ઉલુઘ ખાન',
                 'ઝફર ખાન',
+                'અલ્પ ખાન',
+                'ઉલુઘ ખાન',
+                'મલિક કાફુર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૩૦૪ માં ગુજરાત દિલ્હી સલ્તનતના તાબામાં આવતાં અલાઉદ્દીને તેના સાળા અલ્પ ખાનને ગુજરાતનો પ્રથમ સુબો (ગવર્નર) બનાવ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_karan_ghelo_vaghela_10',
               question: 'કવિ પદ્મનાભ દ્વારા રચાયેલા કયા સુપ્રસિદ્ધ ઐતિહાસિક ગ્રંથમાં માધવ મંત્રીનો વિશ્વાસઘાત અને અલાઉદ્દીનના સૈન્યની ગુજરાત ચડાઈનું વિગતવાર વર્ણન મળે છે?',
               options: [
-                'કાન્હડદે પ્રબંધ',
                 'પ્રબંધચિંતામણિ',
-                'કીર્તિકૌમુદી',
+                'કાન્હડદે પ્રબંધ',
                 'હમ્મીરમર્દન',
+                'કીર્તિકૌમુદી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કવિ પદ્મનાભ કૃત "કાન્હડદે પ્રબંધ" (ઈ.સ. ૧૪૫૫) માં માધવ મંત્રીના વિશ્વાસઘાત અને ઝાલોર-ગુજરાત પર ખિલજી સૈન્યના આક્રમણનું વિગતે આલેખન છે.',
             ),
             McqModel(
@@ -18060,9 +18060,9 @@ McqModel(
               question: 'ઈ.સ. ૧૩૦૪ માં અલાઉદ્દીન ખિલજી દ્વારા ગુજરાત જીત્યા પછી ગુજરાતના પ્રથમ મુસ્લિમ સુબા (નાઝિમ) તરીકે કોની નિમણૂક કરવામાં આવી હતી?',
               options: [
                 'અલ્પ ખાન',
-                'મલિક કાફુર',
-                'નુસરત ખાન',
                 'ઉલુઘ ખાન',
+                'નુસરત ખાન',
+                'મલિક કાફુર'
               ],
               correctOptionIndex: 0,
               explanation: 'અલાઉદ્દીન ખિલજીએ પોતાના સાળા અલ્પ ખાનને ગુજરાતનો પ્રથમ સુબો બનાવ્યો હતો, જેમણે પાટણમાં ૧,૦૦૦ આરસ સ્તંભવાળી "અદિના મસ્જિદ" બંધાવી હતી.',
@@ -18071,24 +18071,24 @@ McqModel(
               id: 'mcq_sec7_delhi_sultanate_mughal_2',
               question: 'દિલ્હી સલ્તનતનો કયો સુલતાન પોતાના સુબેદાર તગીના બળવાને ડામવા સતત ૩ વર્ષ (ઈ.સ. ૧૩૪૭-૧૩૫૦) સુધી ગુજરાતમાં રહ્યો હતો?',
               options: [
-                'મુહમ્મદ બિન તુગલક (MBT)',
                 'ગ્યાસુદ્દીન તુગલક',
-                'ફિરોઝશાહ તુગલક',
+                'મુહમ્મદ બિન તુગલક (MBT)',
                 'અલાઉદ્દીન ખિલજી',
+                'ફિરોઝશાહ તુગલક'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'મુહમ્મદ બિન તુગલક (MBT) તગીના બળવાને ડામવા ગુજરાત આવ્યો અને ૧૩૪૭ થી ૧૩૫૦ સુધી ગુજરાતમાં રહ્યો, ગિરનારના રા ખેંગારને પણ હરાવ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_delhi_sultanate_mughal_3',
               question: 'ઈ.સ. ૧૩૯૧ માં પાટણ નજીક કંબોઈના યુદ્ધમાં રાસ્તી ખાનને હરાવી ૧૪૦૭ માં સ્વતંત્ર ગુજરાત સલ્તનતની સ્થાપના કરનાર સુબો કોણ હતો?',
               options: [
+                'મહમૂદ બેગડો',
                 'ઝફર ખાન (મુઝફ્ફર શાહ ૧લો)',
                 'તાતાર ખાન',
-                'અહમદ શાહ ૧લો',
-                'મહમૂદ બેગડો',
+                'અહમદ શાહ ૧લો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઝફર ખાને કંબોઈના યુદ્ધ (૧૩૯૧) માં રાસ્તી ખાનને હરાવ્યો અને તૈમૂરના આક્રમણ બાદ ૧૪૦૭ માં બીરપુર ખાતે મુઝફ્ફર શાહ ૧લા તરીકે સ્વતંત્ર સલ્તનત સ્થાપી.',
             ),
             McqModel(
@@ -18096,9 +18096,9 @@ McqModel(
               question: 'મુઘલ સમ્રાટ અકબરે પોતાના જીવનમાં સૌપ્રથમ વખત દરિયો (સમુદ્ર) ગુજરાતના કયા ઐતિહાસિક બંદરે જોયો હતો?',
               options: [
                 'ખંભાત (સ્તંભતીર્થ)',
-                'સુરત',
-                'ભરૂચ',
                 'માંડવી',
+                'સુરત',
+                'ભરૂચ'
               ],
               correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૧૫૭૨ માં ગુજરાત વિજય વખતે અકબરે ખંભાત બંદરે જીવનમાં પ્રથમવાર દરિયો જોયો અને પોર્ટુગીઝ વેપારીઓ સાથે મુલાકાત કરી હતી.',
@@ -18110,7 +18110,7 @@ McqModel(
                 '૯ દિવસમાં',
                 '૧૫ દિવસમાં',
                 '૨૧ દિવસમાં',
-                '૩૦ દિવસમાં',
+                '૩૦ દિવસમાં'
               ],
               correctOptionIndex: 0,
               explanation: 'અકબરે બળવો ડામવા ફતેહપુર સીકરીથી અમદાવાદ માત્ર ૯ દિવસમાં ૬૦૦ કિમીનું અંતર કાપ્યું હતું, જેને વિશ્વનું સૌથી ઝડપી લશ્કરી અભિયાન માનવામાં આવે છે.',
@@ -18119,48 +18119,48 @@ McqModel(
               id: 'mcq_sec7_delhi_sultanate_mughal_6',
               question: 'સમ્રાટ અકબરે પોતાના ઐતિહાસિક ગુજરાત વિજયની સ્મૃતિમાં ફતેહપુર સીકરી ખાતે કયા વિશ્વવિખ્યાત સ્થાપત્યનું નિર્માણ કરાવ્યું હતું?',
               options: [
-                'બુલંદ દરવાજો',
                 'લાલ કિલ્લો',
+                'બુલંદ દરવાજો',
                 'દીવાન-એ-ખાસ',
-                'તાજમહેલ',
+                'તાજમહેલ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અકબરે ઈ.સ. ૧૫૭૩ ના ગુજરાત વિજયની યાદમાં ફતેહપુર સીકરી ખાતે વિશ્વનો સૌથી ઊંચો ૫૪ મીટરનો "બુલંદ દરવાજો" બંધાવ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_delhi_sultanate_mughal_7',
               question: 'અકબરના સમયમાં ગુજરાતમાં જમીન માપણી અને મહેસૂલની નવી આધુનિક "જબતી પદ્ધતિ" કોણે દાખલ કરી હતી?',
               options: [
-                'રાજા ટોડરમલ',
                 'રાજા માનસિંહ',
                 'બીરબલ',
-                'મિર્ઝા અઝીઝ કોકા',
+                'રાજા ટોડરમલ',
+                'મિર્ઝા અઝીઝ કોકા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અકબરના નાણામંત્રી રાજા ટોડરમલે ગુજરાતમાં જમીનનું વર્ગીકરણ કરી આધુનિક મહેસૂલી જબતી પદ્ધતિ અમલમાં મૂકી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_delhi_sultanate_mughal_8',
               question: 'અમદાવાદની અતિશય ધૂળ, ઉનાળાની ગરમી અને રોગચાળાથી કંટાળીને અમદાવાદને "ગરદાબાદ" (ધૂળિયું શહેર) અને "બીમારાબાદ" નામ કોણે આપ્યું હતું?',
               options: [
-                'બાદશાહ જહાંગીર',
-                'બાદશાહ અકબર',
-                'બાદશાહ શાહજહાં',
                 'બાદશાહ ઔરંગઝેબ',
+                'બાદશાહ શાહજહાં',
+                'બાદશાહ અકબર',
+                'બાદશાહ જહાંગીર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'બાદશાહ જહાંગીરે ઈ.સ. ૧૬૧૭-૧૮ માં ૯ મહિના અમદાવાદ રોકાણ દરમિયાન કંટાળીને અમદાવાદને "ગરદાબાદ" અને "બીમારાબાદ" કહ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_delhi_sultanate_mughal_9',
               question: 'મુઘલ બાદશાહ ઔરંગઝેબનો જન્મ ઈ.સ. ૧૬૧૮ માં ગુજરાતના કયા ઐતિહાસિક સ્થળે થયો હતો?',
               options: [
-                'દાહોદ',
-                'અમદાવાદ',
                 'સુરત',
                 'ચાંપાનેર',
+                'દાહોદ',
+                'અમદાવાદ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'મુઘલ બાદશાહ ઔરંગઝેબનો જન્મ ૩ નવેમ્બર ૧૬૧૮ ના રોજ ગુજરાતના દાહોદ (ગઢી કિલ્લો) ખાતે થયો હતો.',
             ),
             McqModel(
@@ -18168,9 +18168,9 @@ McqModel(
               question: 'છત્રપતિ શિવાજી મહારાજે મુઘલ સામ્રાજ્યના સૌથી સમૃદ્ધ બંદર સુરત પર કયા કયા વર્ષોમાં ઐતિહાસિક ચડાઈ (લૂંટ) કરી હતી?',
               options: [
                 'ઈ.સ. ૧૬૬૪ અને ૧૬૭૦ માં',
-                'ઈ.સ. ૧૬૫૬ અને ૧૬૬૦ માં',
                 'ઈ.સ. ૧૬૭૪ અને ૧૬૮૦ માં',
                 'ઈ.સ. ૧૭૦૭ અને ૧૭૧૫ માં',
+                'ઈ.સ. ૧૬૫૬ અને ૧૬૬૦ માં'
               ],
               correctOptionIndex: 0,
               explanation: 'છત્રપતિ શિવાજી મહારાજે જાન્યુઆરી ૧૬૬૪ (પ્રથમ) અને ઓક્ટોબર ૧૬૭૦ (દ્વિતીય) માં સુરત પર આક્રમણ કરી અઢળક સંપત્તિ મેળવી હતી.',
@@ -18512,60 +18512,60 @@ McqModel(
               id: 'mcq_sec7_european_settlements_1',
               question: 'ઈ.સ. ૧૪૯૮ માં પોર્ટુગીઝ નાવિક વાસ્કો-દ-ગામાને આફ્રિકાના માલિન્દી બંદરેથી કાલીકટ (ભારત) પહોંચાડવામાં કયા ગુજરાતી ખલાસીએ માર્ગદર્શન આપ્યું હતું?',
               options: [
-                'કાનજી માલમ (માંડવી - કચ્છ)',
-                'લવજી વાડિયા',
-                'દામોદર મુકાદમ',
                 'કાલીદાસ પટેલ',
+                'દામોદર મુકાદમ',
+                'લવજી વાડિયા',
+                'કાનજી માલમ (માંડવી - કચ્છ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'કચ્છના માંડવીના વતની કાનજી માલમે વાસ્કો-દ-ગામાને હિંદ મહાસાગર પાર કરી કાલીકટ પહોંચાડવામાં મહત્વનું માર્ગદર્શન આપ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_2',
               question: 'ઈ.સ. ૧૫૩૭ માં દીવના દરિયામાં જહાજ પર વાટાઘાટો દરમિયાન પોર્ટુગીઝ ગવર્નર નૂનો દા કુન્હા દ્વારા ગુજરાતના કયા સુલતાનની કપટપૂર્વક હત્યા કરવામાં આવી હતી?',
               options: [
-                'સુલતાન બહાદુર શાહ',
                 'મહમૂદ બેગડો',
-                'મુઝફ્ફર શાહ ૨જો',
                 'અહમદ શાહ ૧લો',
+                'મુઝફ્ફર શાહ ૨જો',
+                'સુલતાન બહાદુર શાહ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'સુલતાન બહાદુર શાહને ઈ.સ. ૧૫૩૭ માં દીવના દરિયામાં પોર્ટુગીઝોએ દગાખોરી કરી જહાજ પરથી દરિયામાં ફેંકી મારી નાખ્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_3',
               question: 'પોર્ટુગીઝો દ્વારા અરબી સમુદ્રમાં વેપાર કરતા ભારતીય અને વિદેશી જહાજો માટે ફરજિયાત બનાવવામાં આવેલી દરિયાઈ પાસ (પરમિટ) પદ્ધતિ કયા નામે ઓળખાતી હતી?',
               options: [
+                'ઇજારા પદ્ધતિ',
                 'કાર્તાઝ પદ્ધતિ',
                 'દસ્તક પદ્ધતિ',
-                'ચોથાઈ પદ્ધતિ',
-                'ઇજારા પદ્ધતિ',
+                'ચોથાઈ પદ્ધતિ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'પોર્ટુગીઝોએ સમુદ્ર પર આધિપત્ય જમાવી કાર્તાઝ (Cartaz) નામક દરિયાઈ પરમિટ ફરજિયાત બનાવી હતી, જે મુઘલ બાદશાહોએ પણ લેવી પડતી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_4',
               question: 'ઈ.સ. ૧૬૦૮ માં બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપનીનું પ્રથમ જહાજ "હેક્ટર" લઈને સુરત બંદરે ઉતરનાર અંગ્રેજ કેપ્ટન કોણ હતા?',
               options: [
-                'કેપ્ટન વિલિયમ હોકિન્સ',
-                'સર થોમસ રો',
-                'કેપ્ટન બેસ્ટ',
                 'જોબ ચાર્નોક',
+                'કેપ્ટન વિલિયમ હોકિન્સ',
+                'કેપ્ટન બેસ્ટ',
+                'સર થોમસ રો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કેપ્ટન વિલિયમ હોકિન્સ ૨૪ ઓગસ્ટ ૧૬૦૮ ના રોજ "હેક્ટર" જહાજ સાથે સુરત બંદરે ઉતર્યા હતા અને આગ્રા જઈ જહાંગીરને મળ્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_5',
               question: 'મુઘલ બાદશાહ જહાંગીરે તુર્કી ભાષાના જાણકાર કેપ્ટન હોકિન્સને ૪૦૦ ની મનસબ સાથે કયો ખિતાબ આપ્યો હતો?',
               options: [
-                'ઇંગ્લિશ ખાન',
-                'ફિરંગી ખાન',
                 'ખાન-એ-દૌરાન',
+                'ફિરંગી ખાન',
                 'બ્રિટિશ રાય',
+                'ઇંગ્લિશ ખાન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'કેપ્ટન હોકિન્સ તુર્કી ભાષામાં બોલતો હોવાથી જહાંગીર અત્યંત પ્રભાવિત થયો અને તેને ૪૦૦ ની મનસબ સાથે "ઇંગ્લિશ ખાન" નો ખિતાબ આપ્યો હતો.',
             ),
             McqModel(
@@ -18573,9 +18573,9 @@ McqModel(
               question: 'ઈ.સ. ૧૬૧૨ માં સુરત નજીક તાપી નદીના મુખ પાસે થયેલા ઐતિહાસિક "સુવાલી (સ્વાલી) ના નૌકા યુદ્ધ" માં કયા અંગ્રેજ કેપ્ટને પોર્ટુગીઝ નૌકાદળને હરાવ્યું હતું?',
               options: [
                 'કેપ્ટન થોમસ બેસ્ટ',
-                'કેપ્ટન હોકિન્સ',
                 'સર થોમસ રો',
                 'કેપ્ટન ડાઉનટન',
+                'કેપ્ટન હોકિન્સ'
               ],
               correctOptionIndex: 0,
               explanation: 'કેપ્ટન થોમસ બેસ્ટે ઈ.સ. ૧૬૧૨ માં સુવાલીના નૌકા યુદ્ધમાં પોર્ટુગીઝોને સજ્જડ હાર આપી જહાંગીરને પ્રભાવિત કર્યો હતો.',
@@ -18584,132 +18584,132 @@ McqModel(
               id: 'mcq_sec7_european_settlements_7',
               question: 'મુઘલ બાદશાહ જહાંગીરના શાહી ફરમાનથી અંગ્રેજોએ ગુજરાતના કયા શહેરમાં ઈ.સ. ૧૬૧૩ માં પોતાની સર્વપ્રથમ કાયમી વેપારી કોઠી સ્થાપી હતી?',
               options: [
-                'સુરત',
                 'અમદાવાદ',
                 'ભરૂચ',
                 'ખંભાત',
+                'સુરત'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'જહાંગીરના શાહી ફરમાનથી ઈ.સ. ૧૬૧૩ માં સુરત ખાતે અંગ્રેજોએ પોતાની પ્રથમ કાયમી કોઠી સ્થાપી, જે પશ્ચિમ ભારતની મુખ્ય પ્રેસિડેન્સી બની.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_8',
               question: 'ઈંગ્લેન્ડના રાજા જેમ્સ ૧લાના સત્તાવાર રાજદૂત તરીકે ઈ.સ. ૧૬૧૫ માં સુરત આવી જહાંગીરના દરબારમાંથી વેપારી છૂટછાટો મેળવનાર બ્રિટિશ પ્રતિનિધિ કોણ હતા?',
               options: [
-                'સર થોમસ રો',
-                'સર જ્યોર્જ ઓક્સિન્ડેન',
                 'વિલિયમ હોકિન્સ',
-                'ચાર્લ્સ આયરે',
+                'સર જ્યોર્જ ઓક્સિન્ડેન',
+                'સર થોમસ રો',
+                'ચાર્લ્સ આયરે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'સર થોમસ રો સપ્ટેમ્બર ૧૬૧૫ માં સુરત આવ્યા અને અજમેર ખાતે જહાંગીરને મળી સમગ્ર મુઘલ સામ્રાજ્યમાં વેપાર કરવાનાં શાહી ફરમાનો મેળવ્યાં હતાં.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_9',
               question: 'હોલેન્ડના ડચ (વલંદાઓ) એ ઈ.સ. ૧૬૧૬ માં સુરત ખાતે કોઠી સ્થાપી મુખ્યત્વે અમદાવાદના કયા વિસ્તારની વિશ્વપ્રસિદ્ધ ગળી (નીલ) નો વિશાળ વેપાર કર્યો હતો?',
               options: [
-                'સરખેજની ગળી',
-                'ધંધૂકાની ગળી',
                 'વટવાની ગળી',
+                'સરખેજની ગળી',
                 'ચાંપાનેરની ગળી',
+                'ધંધૂકાની ગળી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ડચ (વલંદા) વેપારીઓએ સુરત કેન્દ્ર બનાવી અમદાવાદના સરખેજની ઉચ્ચ ગુણવત્તાવાળી ગળી (નીલ) અને સુતરાઉ કાપડનો યુરોપમાં મોટો વેપાર કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_european_settlements_10',
               question: 'ઈ.સ. ૧૬૬૮ માં ફ્રેન્કોઈસ કેરોનના નેતૃત્વમાં ફ્રેન્ચ ઈસ્ટ ઈન્ડિયા કંપનીએ ભારતમાં પોતાની સૌપ્રથમ વેપારી કોઠી ક્યાં સ્થાપી હતી?',
               options: [
-                'સુરત',
-                'પોંડિચેરી',
                 'ચંદરનગર',
                 'મછલીપટ્ટનમ',
+                'સુરત',
+                'પોંડિચેરી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ફ્રેન્કોઈસ કેરોને ઈ.સ. ૧૬૬૮ માં સુરત ખાતે ફ્રેન્ચોની ભારતની સર્વપ્રથમ વેપારી કોઠી સ્થાપી હતી (બાદમાં ૧૬૬૯ માં મછલીપટ્ટનમ સ્થાપી).',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_1',
               question: 'ગુજરાતમાં ગાયકવાડ સત્તાના વાસ્તવિક સ્થાપક કોણ હતા અને તેમણે પોતાની પ્રથમ રાજધાની ક્યાં બનાવી હતી?',
               options: [
-                'પીલાજીરાવ ગાયકવાડ (સોનગઢ)',
-                'દામાજીરાવ ૧લા (વડોદરા)',
                 'દામાજીરાવ ૨જા (અમદાવાદ)',
-                'સયાજીરાવ ૧લા (પાટણ)',
+                'દામાજીરાવ ૧લા (વડોદરા)',
+                'પીલાજીરાવ ગાયકવાડ (સોનગઢ)',
+                'સયાજીરાવ ૧લા (પાટણ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'પીલાજીરાવ ગાયકવાડ ગુજરાતમાં ગાયકવાડ સત્તાના વાસ્તવિક સ્થાપક હતા, જેમણે તાપી જિલ્લાના સોનગઢને પોતાની પ્રથમ રાજધાની બનાવી કિલ્લો બંધાવ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_2',
               question: 'ઈ.સ. ૧૭૩૪ માં મુઘલો પાસેથી વડોદરા જીતીને તેને ગાયકવાડ રાજ્યની કાયમી રાજધાની બનાવનાર પરાક્રમી શાસક કોણ હતા?',
               options: [
-                'દામાજીરાવ ૨જા',
+                'આનંદરાવ ગાયકવાડ',
                 'પીલાજીરાવ ગાયકવાડ',
                 'ફતેહસિંહરાવ ૧લા',
-                'આનંદરાવ ગાયકવાડ',
+                'દામાજીરાવ ૨જા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'પીલાજીરાવના પુત્ર દામાજીરાવ ૨જાએ ઈ.સ. ૧૭૩૪ માં શેરખાન બાબી પાસેથી વડોદરા જીતી ગાયકવાડ રાજ્યની કાયમી રાજધાની બનાવી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_3',
               question: 'ઈ.સ. ૧૭૬૧ ના ઐતિહાસિક પાણીપતના ત્રીજા યુદ્ધમાં અહેમદ શાહ અબ્દાલી સામે મરાઠા પક્ષે કયા ગાયકવાડ શાસકે ભાગ લીધો હતો?',
               options: [
-                'દામાજીરાવ ૨જા',
-                'પીલાજીરાવ ગાયકવાડ',
-                'ગોવિંદરાવ ગાયકવાડ',
                 'સયાજીરાવ ૧લા',
+                'દામાજીરાવ ૨જા',
+                'ગોવિંદરાવ ગાયકવાડ',
+                'પીલાજીરાવ ગાયકવાડ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'દામાજીરાવ ૨જાએ ૧૭૬૧ ના પાણીપતના ત્રીજા યુદ્ધમાં સદાશિવરાવ ભાઉ સાથે ભાગ લીધો હતો અને સૈન્ય સાથે સુરક્ષિત પરત ફર્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_4',
               question: 'ઈ.સ. ૧૮૦૭-૧૮૦૮ માં સૌરાષ્ટ્ર (કાઠિયાવાડ) ના રજવાડાઓ પાસેથી મુલકગીરી (ખંડણી) નાબૂદ કરી કાયમી કર વ્યવસ્થા સ્થાપનાર બ્રિટિશ અધિકારી કોણ હતા?',
               options: [
-                'કર્નલ એલેક્ઝાન્ડર વોકર',
-                'મેજર ચાર્લ્સ મન્ટ',
-                'લોર્ડ વેલેસ્લી',
                 'કર્નલ ફેર',
+                'મેજર ચાર્લ્સ મન્ટ',
+                'કર્નલ એલેક્ઝાન્ડર વોકર',
+                'લોર્ડ વેલેસ્લી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'કર્નલ એલેક્ઝાન્ડર વોકરે કાઠિયાવાડના રાજાઓ સાથે "વોકર સેટલમેન્ટ" (૧૮૦૭) કરી મુલકગીરી નાબૂદ કરી અને દૂધપીતી રિવાજ રોક્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_5',
               question: 'ઈ.સ. ૧૮૭૫ માં વડોદરાના કયા ગાયકવાડ શાસક પર બ્રિટિશ રેસિડેન્ટ કર્નલ ફેરને ઝેર આપવાનો આરોપ મૂકી પદભ્રષ્ટ કરવામાં આવ્યા હતા?',
               options: [
-                'મલ્હારરાવ ગાયકવાડ',
-                'ખંડેરાવ ગાયકવાડ',
-                'ગણપતરાવ ગાયકવાડ',
                 'પ્રતાપસિંહરાવ ગાયકવાડ',
+                'ખંડેરાવ ગાયકવાડ',
+                'મલ્હારરાવ ગાયકવાડ',
+                'ગણપતરાવ ગાયકવાડ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'મલ્હારરાવ ગાયકવાડ પર કર્નલ ફેરને હીરાની ભસ્મ (ઝેર) આપવાનો આરોપ લાગતાં અંગ્રેજોએ કમિશન નીમી ૧૮૭૫ માં તેમને પદભ્રષ્ટ કર્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_6',
               question: 'મહારાણી જમનાબાઈ દ્વારા દત્તક લેવાયેલા મહારાજા સયાજીરાવ ગાયકવાડ ત્રીજાનું બાળપણનું મૂળ નામ શું હતું?',
               options: [
-                'ગોપાળરાવ કાશીરાવ ગાયકવાડ',
                 'આનંદરાવ ગાયકવાડ',
-                'ફતેહસિંહરાવ ગાયકવાડ',
+                'ગોપાળરાવ કાશીરાવ ગાયકવાડ',
                 'સંભાળીરાવ ગાયકવાડ',
+                'ફતેહસિંહરાવ ગાયકવાડ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ખાનદેશના કવલાણા ગામના કાશીરાવના પુત્ર ગોપાળરાવને દત્તક લઈ "સયાજીરાવ ત્રીજા" નામ આપી ૧૮૭૫ માં ગાદી પર બેસાડાયા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_7',
               question: 'મહારાજા સયાજીરાવ ગાયકવાડ ત્રીજાએ ઈ.સ. ૧૮૯૩ માં ભારતમાં સૌપ્રથમ વખત પ્રાયોગિક ધોરણે મફત અને ફરજિયાત પ્રાથમિક શિક્ષણ ક્યાં શરૂ કર્યું હતું?',
               options: [
-                'અમરેલી તાલુકામાં',
                 'નવસારી તાલુકામાં',
-                'ડભોઈ તાલુકામાં',
                 'પાટણ તાલુકામાં',
+                'અમરેલી તાલુકામાં',
+                'ડભોઈ તાલુકામાં'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'સયાજીરાવે ૧૮૯૩ માં અમરેલી તાલુકાના ૧૦ ગામોમાં પ્રાયોગિક ધોરણે મફત અને ફરજિયાત પ્રાથમિક શિક્ષણની શરૂઆત કરી હતી.',
             ),
             McqModel(
@@ -18719,7 +18719,7 @@ McqModel(
                 'ઈ.સ. ૧૯૦૬ માં',
                 'ઈ.સ. ૧૮૯૩ માં',
                 'ઈ.સ. ૧૯૧૧ માં',
-                'ઈ.સ. ૧૮૮૧ માં',
+                'ઈ.સ. ૧૮૮૧ માં'
               ],
               correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૧૯૦૬ માં સમગ્ર વડોદરા રાજ્યમાં મફત અને ફરજિયાત પ્રાથમિક શિક્ષણનો કાયદો લાગુ કરાયો, આવું કરનાર વડોદરા ભારતનું પ્રથમ રાજ્ય હતું.',
@@ -18728,108 +18728,108 @@ McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_9',
               question: 'મહારાજા સયાજીરાવ ગાયકવાડ ત્રીજાએ વડોદરા રાજ્યમાં આધુનિક પુસ્તકાલય વ્યવસ્થા વિકસાવવા માટે અમેરિકાથી કયા ગ્રંથાલય નિષ્ણાતને બોલાવ્યા હતા?',
               options: [
-                'ડબલ્યુ. એ. બોર્ડન (W. A. Borden)',
-                'જોન માર્શલ',
                 'ચાર્લ્સ મન્ટ',
-                'કર્નલ વોકર',
+                'જોન માર્શલ',
+                'ડબલ્યુ. એ. બોર્ડન (W. A. Borden)',
+                'કર્નલ વોકર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'સયાજીરાવે અમેરિકન પુસ્તકાલય નિષ્ણાત ડબલ્યુ. એ. બોર્ડનને રાજ્યના લાઈબ્રેરી ડાયરેક્ટર તરીકે બોલાવી અદ્યતન પુસ્તકાલય વ્યવસ્થા ઊભી કરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gaekwad_sayajirao_10',
               question: 'મેજર ચાર્લ્સ મન્ટ દ્વારા ડિઝાઇન કરાયેલો અને ભારતનો સૌથી વિશાળ ખાનગી મહેલ ગણાતો વડોદરાનો "લક્ષ્મી વિલાસ પેલેસ" કયા વર્ષે પૂર્ણ થયો હતો?',
               options: [
+                'ઈ.સ. ૧૯૦૬ માં',
                 'ઈ.સ. ૧૮૯૦ માં',
                 'ઈ.સ. ૧૮૭૫ માં',
-                'ઈ.સ. ૧૯૦૬ માં',
-                'ઈ.સ. ૧૯૧૧ માં',
+                'ઈ.સ. ૧૯૧૧ માં'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઇન્ડો-સારાસેનિક શૈલીનો ભવ્ય લક્ષ્મી વિલાસ પેલેસ ઈ.સ. ૧૮૯૦ માં પૂર્ણ થયો હતો, જે બકિંગહામ પેલેસ કરતાં ૪ ગણો મોટો છે.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_1',
               question: 'ગુજરાતમાં ૧૮૫૭ ના સ્વાતંત્ર્ય સંગ્રામનો સૌપ્રથમ પ્રારંભ જૂન ૧૮૫૭ માં ક્યાં થયો હતો?',
               options: [
-                'અમદાવાદ ખાતે (૭મી દેશી પલટન દ્વારા)',
-                'આણંદ ખાતે (ગરબડદાસ પટેલ દ્વારા)',
                 'દ્વારકા ખાતે (જોધા માણેક દ્વારા)',
                 'છોટાઉદેપુર ખાતે (તાત્યા ટોપે દ્વારા)',
+                'આણંદ ખાતે (ગરબડદાસ પટેલ દ્વારા)',
+                'અમદાવાદ ખાતે (૭મી દેશી પલટન દ્વારા)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગુજરાતમાં જૂન ૧૮૫૭ માં અમદાવાદ ખાતે બ્રિટિશ સેનાની ૭મી દેશી પલટન (૭મી નેટિવ ઇન્ફન્ટ્રી) દ્વારા ૧૮૫૭ ના સંગ્રામની સૌપ્રથમ શરૂઆત થઈ હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_2',
               question: '૧૮૫૭ ના વિપ્લવ દરમિયાન આણંદ પંથકમાં કોળી, ભીલ અને નાયકડા લોકોને સંગઠિત કરી અંગ્રેજો સામે ભયાનક બળવો કરનાર મુખી કોણ હતા?',
               options: [
-                'ગરબડદાસ પટેલ (ગરબડદાસ મુખી)',
-                'જોધા માણેક',
                 'રૂપા નાયક',
                 'મગનલાલ પટેલ',
+                'જોધા માણેક',
+                'ગરબડદાસ પટેલ (ગરબડદાસ મુખી)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'આણંદના મુખી ગરબડદાસ પટેલે ચરોતર પંથકમાં ૨,૦૦૦ થી વધુ સ્થાનિક લોકોને એકત્ર કરી અંગ્રેજો સામે બળવો કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_3',
               question: 'અંગ્રેજ સરકારે આણંદના મુખી ગરબડદાસ પટેલની ધરપકડ કરી તેમને કઈ સજા ફરમાવી હતી?',
               options: [
-                'આંદામાન (કાળાપાણી) ની આજીવન કેદ',
                 'તોપના મોઢે બાંધી ઉડાવી દેવાની સજા',
                 'અમદાવાદ સેન્ટ્રલ જેલમાં ફાંસી',
-                'રંગૂન દેશવટો',
+                'આંદામાન (કાળાપાણી) ની આજીવન કેદ',
+                'રંગૂન દેશવટો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગરબડદાસ પટેલને અંગ્રેજોએ આજીવન કાળાપાણી (આંદામાન) ની સજા કરી, જ્યાં જેલમાં જ તેમણે શહાદત વહોરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_4',
               question: 'ગરબડદાસ પટેલ સાથે જોડાઈ અંગ્રેજો સામે લડત આપનાર ખાનપુર ગામના કયા ઠાકોર શહીદ થયા હતા?',
               options: [
-                'ઠાકોર જીવાભાઈ',
-                'ઠાકોર સુરજમલ',
                 'ઠાકોર કરણસિંહ',
+                'ઠાકોર જીવાભાઈ',
                 'ઠાકોર પ્રતાપસિંહ',
+                'ઠાકોર સુરજમલ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'મહિસાગર કાંઠાના ખાનપુરના ઠાકોર જીવાભાઈ અંગ્રેજો સામે લડતાં શહીદ થયા અને અંગ્રેજોએ આખા ખાનપુર ગામને તોપોથી ઉડાવી દીધું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_5',
               question: '૧૮૫૭ ના સંગ્રામ દરમિયાન સૌરાષ્ટ્રના ઓખામંડળ (દ્વારકા અને બેટ દ્વારકા) માં વાઘેર જાતિના પ્રતિકારનું નેતૃત્વ કોણે કર્યું હતું?',
               options: [
-                'જોધા માણેક અને મૂળુ માણેક',
+                'કાનજી માલમ અને ખેંગારજી',
                 'રૂપા નાયક અને કેવલ નાયક',
                 'ગરબડદાસ પટેલ અને જીવાભાઈ',
-                'કાનજી માલમ અને ખેંગારજી',
+                'જોધા માણેક અને મૂળુ માણેક'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ઓખામંડળમાં જોધા માણેક અને તેમના ભત્રીજા મૂળુ માણેકના નેતૃત્વમાં વાઘેર જાતિએ બેટ દ્વારકા અને દ્વારકા કબજે કરી અંગ્રેજો સામે ભીષણ યુદ્ધ કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_6',
               question: 'બેટ દ્વારકા પર બ્રિટિશ સેનાપતિ કર્નલ ડોનોવનના નૌકાદળ દ્વારા થયેલા તોપમારા વખતે પાણીમાં પલાળેલાં ગાદલાં પોતાના શરીર પર રાખી તોપના ગોળા ઝીલી લેનાર વીરાંગનાઓ કયા પ્રદેશની હતી?',
               options: [
-                'ઓખામંડળની વાઘેર સ્ત્રીઓ',
-                'ચરોતરની પાટીદાર સ્ત્રીઓ',
                 'પંચમહાલની નાયકડા સ્ત્રીઓ',
+                'ચરોતરની પાટીદાર સ્ત્રીઓ',
                 'કચ્છની રબારી સ્ત્રીઓ',
+                'ઓખામંડળની વાઘેર સ્ત્રીઓ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ઓખામંડળની વાઘેર વીરાંગનાઓએ દ્વારકાધીશ મંદિર અને સૈનિકોને બચાવવા ભીંજવેલાં ગાદલાં પોતાના શરીર પર રાખી તોપના ધગધગતા ગોળાઓ ઝીલી લીધા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_7',
               question: 'પંચમહાલ (જાંબુઘોડા-હાલોલ) વિસ્તારમાં ૧૮૫૭ ના વિપ્લવ દરમિયાન નાયકડા જનજાતિના બળવાનું નેતૃત્વ કોણે કર્યું હતું?',
               options: [
-                'રૂપા નાયક અને કેવલ નાયક',
                 'જોધા માણેક અને મૂળુ માણેક',
-                'જોરિયા પરમેશ્વર અને ગરબડદાસ',
+                'રૂપા નાયક અને કેવલ નાયક',
                 'ગોવિંદ ગુરુ અને સુરજી ભગત',
+                'જોરિયા પરમેશ્વર અને ગરબડદાસ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'પંચમહાલમાં રૂપા નાયક અને કેવલ નાયકે નાયકડા લોકોને સંગઠિત કરી અંગ્રેજો સામે છાપામાર ગેરિલા પદ્ધતિથી ભયાનક લડત આપી હતી.',
             ),
             McqModel(
@@ -18837,9 +18837,9 @@ McqModel(
               question: '૧૮૫૭ ના સંગ્રામના મહાનાયક તાત્યા ટોપે ઈ.સ. ૧૮૫૮ માં ગુજરાત આવ્યા ત્યારે છોટાઉદેપુર ખાતે કયા બ્રિટિશ જનરલની સેના સાથે તેમનું ઐતિહાસિક યુદ્ધ થયું હતું?',
               options: [
                 'જનરલ પાર્કે (General Parke)',
-                'કર્નલ ડોનોવન',
-                'કર્નલ વોકર',
                 'જનરલ હ્યુરોઝ',
+                'કર્નલ ડોનોવન',
+                'કર્નલ વોકર'
               ],
               correctOptionIndex: 0,
               explanation: '૧ ડિસેમ્બર ૧૮૫૮ ના રોજ છોટાઉદેપુર ખાતે તાત્યા ટોપે અને બ્રિટિશ જનરલ પાર્કેના સૈન્ય વચ્ચે ભીષણ યુદ્ધ થયું હતું.',
@@ -18848,60 +18848,60 @@ McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_9',
               question: '૧૮૫૭ ના સંગ્રામ બાદ ૧ નવેમ્બર ૧૮૫૮ ના રોજ રાણી વિક્ટોરિયાનો ઢંઢેરો અલ્હાબાદ ખાતે કોણે વાંચી સંભળાવ્યો હતો?',
               options: [
-                'લોર્ડ કેનિંગ (ભારતના પ્રથમ વાઇસરોય)',
                 'લોર્ડ ડેલહાઉસી',
+                'લોર્ડ કેનિંગ (ભારતના પ્રથમ વાઇસરોય)',
                 'લોર્ડ વેલેસ્લી',
-                'લોર્ડ કર્ઝન',
+                'લોર્ડ કર્ઝન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'લોર્ડ કેનિંગે ૧ નવેમ્બર ૧૮૫૮ ના રોજ અલ્હાબાદ દરબારમાં રાણી વિક્ટોરિયાનો ઢંઢેરો વાંચી સંભળાવ્યો અને તેઓ ભારતના પ્રથમ વાઇસરોય બન્યા.',
             ),
             McqModel(
               id: 'mcq_sec7_1857_revolt_gujarat_10',
               question: '૧૮૫૭ ના વિપ્લવના પરિણામે ભારતમાં કઈ સંસ્થાના શાસનનો સત્તાવાર અંત આવ્યો અને સીધું બ્રિટિશ તાજ (Crown) નું શાસન શરૂ થયું?',
               options: [
-                'બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપની',
-                'ફ્રેન્ચ ઈસ્ટ ઈન્ડિયા કંપની',
                 'મુઘલ સામ્રાજ્ય સલ્તનત',
                 'મરાઠા સંઘ પેશ્વાઈ',
+                'ફ્રેન્ચ ઈસ્ટ ઈન્ડિયા કંપની',
+                'બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપની'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગવર્નમેન્ટ ઓફ ઈન્ડિયા એક્ટ ૧૮૫૮ દ્વારા બ્રિટિશ ઈસ્ટ ઈન્ડિયા કંપનીનું શાસન સમાપ્ત કરી ભારતીય પ્રદેશોને સીધા બ્રિટિશ તાજના તાબામાં મૂકવામાં આવ્યા.',
             ),
             McqModel(
               id: 'mcq_sec7_inc_gujarat_1',
               question: 'ભારતીય રાષ્ટ્રીય કોંગ્રેસ (INC) ની સ્થાપના ૨૮ ડિસેમ્બર ૧૮૮૫ ના રોજ ક્યાં કરવામાં આવી હતી?',
               options: [
-                'ગોકુલદાસ તેજપાલ સંસ્કૃત કોલેજ, મુંબઈ',
-                'પ્રેસિડેન્સી કોલેજ, કોલકાતા',
                 'ગુજરાત કોલેજ, અમદાવાદ',
                 'સેન્ટ ઝેવિયર્સ કોલેજ, મુંબઈ',
+                'ગોકુલદાસ તેજપાલ સંસ્કૃત કોલેજ, મુંબઈ',
+                'પ્રેસિડેન્સી કોલેજ, કોલકાતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૨૮ ડિસેમ્બર ૧૮૮૫ ના રોજ મુંબઈની ગોકુલદાસ તેજપાલ સંસ્કૃત કોલેજમાં એ. ઓ. હ્યુમ દ્વારા કોંગ્રેસની સ્થાપના થઈ અને પ્રથમ અધ્યક્ષ ડબલ્યુ. સી. બેનર્જી હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_inc_gujarat_2',
               question: 'ઈ.સ. ૧૮૯૨ માં બ્રિટિશ સંસદ (હાઉસ ઓફ કોમન્સ - ફિન્સબરી બેઠક) માં ચૂંટાનારા સર્વપ્રથમ ભારતીય અને એશિયન કોણ હતા?',
               options: [
-                'દાદાભાઈ નવરોજી',
                 'ગોપાલકૃષ્ણ ગોખલે',
-                'ફિરોઝશાહ મહેતા',
                 'સુરેન્દ્રનાથ બેનર્જી',
+                'દાદાભાઈ નવરોજી',
+                'ફિરોઝશાહ મહેતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'નવસારીના વતની દાદાભાઈ નવરોજી ૧૮૯૨ માં લિબરલ પાર્ટીની ટિકિટ પર ફિન્સબરી સેન્ટ્રલ બેઠક પરથી બ્રિટિશ સંસદમાં ચૂંટાનાર પ્રથમ ભારતીય બન્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_inc_gujarat_3',
               question: 'દાદાભાઈ નવરોજીએ કયા કોંગ્રેસ અધિવેશનમાં અધ્યક્ષીય મંચ પરથી સૌપ્રથમ વખત "સ્વરાજ" (Swaraj) શબ્દનો ઉદ્ઘોષ કર્યો હતો?',
               options: [
-                'ઈ.સ. ૧૯૦૬ - કોલકાતા અધિવેશન',
-                'ઈ.સ. ૧૮૮૬ - કોલકાતા અધિવેશન',
-                'ઈ.સ. ૧૮૯૩ - લાહોર અધિવેશન',
                 'ઈ.સ. ૧૯૦૨ - અમદાવાદ અધિવેશન',
+                'ઈ.સ. ૧૮૯૩ - લાહોર અધિવેશન',
+                'ઈ.સ. ૧૮૮૬ - કોલકાતા અધિવેશન',
+                'ઈ.સ. ૧૯૦૬ - કોલકાતા અધિવેશન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૧૯૦૬ ના કોલકાતા અધિવેશનમાં પ્રમુખપદેથી દાદાભાઈ નવરોજીએ કોંગ્રેસના મુખ્ય ધ્યેય તરીકે સૌપ્રથમ વખત "સ્વરાજ" ની ઐતિહાસિક ઘોષણા કરી હતી.',
             ),
             McqModel(
@@ -18911,7 +18911,7 @@ McqModel(
                 'Poverty and Un-British Rule in India (દાદાભાઈ નવરોજી)',
                 'The Economic History of India (આર. સી. દત્ત)',
                 'Gitanjali (રવીન્દ્રનાથ ટાગોર)',
-                'Hind Swaraj (મહાત્મા ગાંધી)',
+                'Hind Swaraj (મહાત્મા ગાંધી)'
               ],
               correctOptionIndex: 0,
               explanation: 'દાદાભાઈ નવરોજીએ પોતાના પ્રખ્યાત પુસ્તક "Poverty and Un-British Rule in India" (૧૯૦૧) માં ડ્રેઈન ઓફ વેલ્થ થિયરી આપી ભારતનું આર્થિક શોષણ સાબિત કર્યું.',
@@ -18920,12 +18920,12 @@ McqModel(
               id: 'mcq_sec7_inc_gujarat_5',
               question: 'ગુજરાતની ધરતી પર યોજાયેલું ભારતીય રાષ્ટ્રીય કોંગ્રેસનું સર્વપ્રથમ અધિવેશન કયું હતું?',
               options: [
-                '૧૮મું અધિવેશન - ૧૯૦૨, અમદાવાદ',
-                '૨૩મું અધિવેશન - ૧૯૦૭, સુરત',
                 '૩૬મું અધિવેશન - ૧૯૨૧, અમદાવાદ',
+                '૧૮મું અધિવેશન - ૧૯૦૨, અમદાવાદ',
                 '૫૧મું અધિવેશન - ૧૯૩૮, હરિપુરા',
+                '૨૩મું અધિવેશન - ૧૯૦૭, સુરત'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૯૦૨ માં અમદાવાદ ખાતે કોંગ્રેસનું ૧૮મું અધિવેશન યોજાયું હતું, જે ગુજરાતમાં યોજાયેલું સર્વપ્રથમ કોંગ્રેસ અધિવેશન હતું.',
             ),
             McqModel(
@@ -18935,7 +18935,7 @@ McqModel(
                 'સુરેન્દ્રનાથ બેનર્જી',
                 'ડૉ. રાસબિહારી ઘોષ',
                 'લાલા લજપત રાય',
-                'દાદાભાઈ નવરોજી',
+                'દાદાભાઈ નવરોજી'
               ],
               correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૧૯૦૨ ના અમદાવાદ અધિવેશનના અધ્યક્ષ સુરેન્દ્રનાથ બેનર્જી હતા અને સ્વાગત અધ્યક્ષ અંબાલાલ સાકરલાલ દેસાઈ હતા.',
@@ -18944,72 +18944,72 @@ McqModel(
               id: 'mcq_sec7_inc_gujarat_7',
               question: 'કોંગ્રેસના ઈતિહાસમાં મવાળવાદી અને જહાલવાદી જૂથો વચ્ચે થયેલું ઐતિહાસિક "સુરત વિભાજન" (Surat Split) કયા વર્ષે થયું હતું?',
               options: [
-                'ઈ.સ. ૧૯૦૭ માં (૨૩મું અધિવેશન)',
                 'ઈ.સ. ૧૯૦૫ માં (૨૧મું અધિવેશન)',
-                'ઈ.સ. ૧૯૦૬ માં (૨૨મું અધિવેશન)',
+                'ઈ.સ. ૧૯૦૭ માં (૨૩મું અધિવેશન)',
                 'ઈ.સ. ૧૯૧૬ માં (૩૧મું અધિવેશન)',
+                'ઈ.સ. ૧૯૦૬ માં (૨૨મું અધિવેશન)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૯૦૭ માં સુરત ખાતે તાપી નદીના કિનારે યોજાયેલા ૨૩મા અધિવેશનમાં મવાળવાદીઓ અને જહાલવાદીઓ વચ્ચે ભાગલા પડ્યા હતા (સુરત સ્પ્લિટ).',
             ),
             McqModel(
               id: 'mcq_sec7_inc_gujarat_8',
               question: 'ઈ.સ. ૧૯૦૭ ના સુરત કોંગ્રેસ અધિવેશનના પ્રમુખ તરીકે કોની પસંદગી કરવામાં આવી હતી?',
               options: [
-                'ડૉ. રાસબિહારી ઘોષ',
-                'બાળ ગંગાધર તિલક',
-                'લાલા લજપત રાય',
                 'ગોપાલકૃષ્ણ ગોખલે',
+                'ડૉ. રાસબિહારી ઘોષ',
+                'લાલા લજપત રાય',
+                'બાળ ગંગાધર તિલક'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'મવાળવાદી જૂથે ડૉ. રાસબિહારી ઘોષને પ્રમુખ બનાવ્યા હતા, જેનો જહાલવાદીઓએ ઉગ્ર વિરોધ કરતાં સભામાં ભારે હોબાળો થયો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_inc_gujarat_9',
               question: 'ઈ.સ. ૧૯૩૮ માં સુરતના હરિપુરા ગામે યોજાયેલા ૫૧મા ઐતિહાસિક કોંગ્રેસ અધિવેશનના અધ્યક્ષ કોણ હતા?',
               options: [
-                'નેતાજી સુભાષચંદ્ર બોઝ',
                 'પંડિત જવાહરલાલ નેહરુ',
-                'સરદાર વલ્લભભાઈ પટેલ',
                 'મૌલાના અબુલ કલામ આઝાદ',
+                'નેતાજી સુભાષચંદ્ર બોઝ',
+                'સરદાર વલ્લભભાઈ પટેલ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૧૯૩૮ ના હરિપુરા અધિવેશનના અધ્યક્ષ નેતાજી સુભાષચંદ્ર બોઝ હતા, જેમનું ૫૧ બળદોના ભવ્ય રથમાં સ્વાગત કરાયું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_inc_gujarat_10',
               question: 'હરિપુરા કોંગ્રેસ અધિવેશન (૧૯૩૮) ના વિશાળ પંડાલને સ્થાનિક કલા અને ગ્રામીણ વિષયો આધારિત પોસ્ટર્સ બનાવી કલાત્મક સજાવટ આપનાર મહાન ચિત્રકાર કોણ હતા?',
               options: [
-                'નંદલાલ બોઝ (શાંતિનિકેતન)',
                 'રવિશંકર રાવળ',
-                'રાજા રવિ વર્મા',
+                'નંદલાલ બોઝ (શાંતિનિકેતન)',
                 'અવનીન્દ્રનાથ ટાગોર',
+                'રાજા રવિ વર્મા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ગાંધીજીના આગ્રહથી શાંતિનિકેતનના વિખ્યાત કલાકાર નંદલાલ બોઝે સ્થાનિક સામગ્રી અને ગ્રામીણ જીવન આધારિત ઐતિહાસિક "હરિપુરા પોસ્ટર્સ" તૈયાર કર્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_reformers_gujarat_1',
               question: '૧૯મી સદીમાં ગુજરાતમાં અંધશ્રદ્ધા, વહેમ અને કુરિવાજો સામે લડનાર "ગુજરાતના સુધારાના પિતા" કોણ ગણાય છે?',
               options: [
+                'કવિ દલપતરામ',
                 'દુર્ગારામ મંચારામ મહેતા',
                 'કવિ નર્મદ',
-                'કરસનદાસ મૂળજી',
-                'કવિ દલપતરામ',
+                'કરસનદાસ મૂળજી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'દુર્ગારામ મંચારામ મહેતાને ગુજરાતના આદ્ય સુધારક અને સુધારાના પિતા ગણવામાં આવે છે, જેમણે અંધશ્રદ્ધા સામે આજીવન લડત આપી.',
             ),
             McqModel(
               id: 'mcq_sec7_reformers_gujarat_2',
               question: 'દુર્ગારામ મહેતાએ ૨૨ જૂન ૧૮૪૪ ના રોજ સુરત ખાતે કઈ સંસ્થાની સ્થાપના કરી હતી?',
               options: [
-                'માનવધર્મ સભા',
-                'ગુજરાત વર્નાક્યુલર સોસાયટી',
                 'પ્રાર્થના સમાજ',
                 'સત્યશોધક સમાજ',
+                'માનવધર્મ સભા',
+                'ગુજરાત વર્નાક્યુલર સોસાયટી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'દુર્ગારામ મહેતા, દલપતરામ માસ્ટર અને દાદોબા પાંડુરંગે ૨૨ જૂન ૧૮૪૪ ના રોજ સુરતમાં માનવધર્મ સભાની સ્થાપના કરી હતી.',
             ),
             McqModel(
@@ -19017,9 +19017,9 @@ McqModel(
               question: 'ક. મા. મુનશીએ કયા મહાન સુધારક અને સાહિત્યકારને "અર્વાચીનોમાં આદ્ય" તરીકે નવાજ્યા છે?',
               options: [
                 'કવિ નર્મદ (નર્મદાશંકર દવે)',
-                'કવિ દલપતરામ',
-                'નવલરામ પંડ્યા',
                 'ગોવર્ધનરામ ત્રિપાઠી',
+                'કવિ દલપતરામ',
+                'નવલરામ પંડ્યા'
               ],
               correctOptionIndex: 0,
               explanation: 'કનૈયાલાલ મુનશીએ કવિ નર્મદને ગુજરાતી સાહિત્ય અને સમાજના "અર્વાચીનોમાં આદ્ય" અને યુગવિધાયક સર્જક કહ્યા છે.',
@@ -19028,12 +19028,12 @@ McqModel(
               id: 'mcq_sec7_reformers_gujarat_4',
               question: 'કવિ નર્મદના જન્મદિવસ (૨૪ ઓગસ્ટ) ને કયા દિવસ તરીકે ઉજવવામાં આવે છે?',
               options: [
-                'વિશ્વ ગુજરાતી ભાષા દિવસ',
-                'ગુજરાત સાહિત્ય દિવસ',
-                'માતૃભાષા ગૌરવ દિવસ',
                 'સામાજિક સુધારણા દિવસ',
+                'માતૃભાષા ગૌરવ દિવસ',
+                'ગુજરાત સાહિત્ય દિવસ',
+                'વિશ્વ ગુજરાતી ભાષા દિવસ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'કવિ નર્મદના જન્મદિન ૨૪ ઓગસ્ટને સમગ્ર વિશ્વમાં "વિશ્વ ગુજરાતી ભાષા દિવસ" તરીકે ઉજવવામાં આવે છે.',
             ),
             McqModel(
@@ -19041,9 +19041,9 @@ McqModel(
               question: 'કવિ નર્મદે સામાજિક કુરિવાજો, અંધશ્રદ્ધા અને દંભ સામે પ્રહારો કરવા ઈ.સ. ૧૮૬૪ માં કયું પાક્ષિક શરૂ કર્યું હતું?',
               options: [
                 'ડાંડિયો',
-                'સત્યપ્રકાશ',
-                'બુદ્ધિપ્રકાશ',
                 'જ્ઞાનપ્રસારક',
+                'સત્યપ્રકાશ',
+                'બુદ્ધિપ્રકાશ'
               ],
               correctOptionIndex: 0,
               explanation: 'કવિ નર્મદે ઈ.સ. ૧૮૬૪ માં નીડર પત્રકારત્વ દ્વારા સામાજિક કુરિવાજોનો પર્દાફાશ કરવા "ડાંડિયો" પાક્ષિક શરૂ કર્યું હતું.',
@@ -19052,60 +19052,60 @@ McqModel(
               id: 'mcq_sec7_reformers_gujarat_6',
               question: 'ગુજરાતી ભાષાની સર્વપ્રથમ આત્મકથા "મારી હકીકત" (૧૮૬૬) કોણે લખી હતી?',
               options: [
+                'મહિપતરામ રૂપરામ',
                 'કવિ નર્મદ',
                 'કવિ દલપતરામ',
-                'દુર્ગારામ મહેતા',
-                'મહિપતરામ રૂપરામ',
+                'દુર્ગારામ મહેતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કવિ નર્મદે ઈ.સ. ૧૮૬૬ માં ગુજરાતી સાહિત્યની સૌપ્રથમ આત્મકથા "મારી હકીકત" લખી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_reformers_gujarat_7',
               question: 'ઈ.સ. ૧૮૫૫ માં કરસનદાસ મૂળજીએ સામાજિક-ધાર્મિક સુધારણા માટે કયું સાપ્તાહિક શરૂ કર્યું હતું?',
               options: [
-                'સત્યપ્રકાશ',
-                'ડાંડિયો',
                 'રાસ્ત ગોફતાર',
                 'વર્તમાન',
+                'સત્યપ્રકાશ',
+                'ડાંડિયો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'કરસનદાસ મૂળજીએ ૧૮૫૫ માં ધાર્મિક દંભ અને વહેમ સામે લોકજાગૃતિ ફેલાવવા "સત્યપ્રકાશ" સાપ્તાહિક શરૂ કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_reformers_gujarat_8',
               question: 'ભારતીય કાનૂની અને સુધારણા ઇતિહાસમાં સીમાચિહ્નરૂપ ગણાતો "મહારાજ લાઈબેલ કેસ" (૧૮૬૨) કયા સુધારક સામે થયો હતો?',
               options: [
-                'કરસનદાસ મૂળજી',
                 'દુર્ગારામ મહેતા',
                 'કવિ નર્મદ',
                 'ભોળાનાથ સારાભાઈ',
+                'કરસનદાસ મૂળજી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'જદુનાથજી મહારાજે સત્યપ્રકાશમાં લેખ લખવા બદલ કરસનદાસ મૂળજી સામે ૧૮૬૨ માં માનહાનિ (લાઈબેલ) નો કેસ કર્યો હતો, જેમાં કરસનદાસ વિજયી થયા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_reformers_gujarat_9',
               question: '૨૬ ડિસેમ્બર ૧૮૪૮ ના રોજ અમદાવાદ ખાતે "ગુજરાત વર્નાક્યુલર સોસાયટી" (હવે ગુજરાત વિદ્યાસભા) ની સ્થાપના કોણે કરી હતી?',
               options: [
-                'એલેક્ઝાન્ડર કિન્લોક ફાર્બસ અને કવિ દલપતરામ',
                 'દુર્ગારામ મહેતા અને કવિ નર્મદ',
-                'કરસનદાસ મૂળજી અને રણછોડલાલ છોટાલાલ',
                 'ભોળાનાથ સારાભાઈ અને મહિપતરામ રૂપરામ',
+                'કરસનદાસ મૂળજી અને રણછોડલાલ છોટાલાલ',
+                'એલેક્ઝાન્ડર કિન્લોક ફાર્બસ અને કવિ દલપતરામ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૨૬ ડિસેમ્બર ૧૮૪૮ ના રોજ એ. કે. ફાર્બસ અને કવિ દલપતરામ દ્વારા અમદાવાદમાં ગુજરાત વર્નાક્યુલર સોસાયટીની સ્થાપના કરવામાં આવી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_reformers_gujarat_10',
               question: 'ગુજરાત વર્નાક્યુલર સોસાયટી દ્વારા ઈ.સ. ૧૮૫૦ માં શરૂ થયેલું અને આજે પણ પ્રગટ થતું સૌથી પ્રાચીન સામાયિક કયું છે?',
               options: [
-                'બુદ્ધિપ્રકાશ',
-                'પરબ',
-                'કુમાર',
                 'શબ્દસૃષ્ટિ',
+                'પરબ',
+                'બુદ્ધિપ્રકાશ',
+                'કુમાર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ઈ.સ. ૧૮૫૦ માં શરૂ થયેલું "બુદ્ધિપ્રકાશ" સામાયિક ગુજરાત વર્નાક્યુલર સોસાયટી (ગુજરાત વિદ્યાસભા) નું મુખપત્ર છે અને આજે પણ પ્રગટ થાય છે.',
             ),
           ],
@@ -19693,12 +19693,12 @@ McqModel(
               id: 'mcq_sec7_swadeshi_gujarat_1',
               question: 'બ્રિટિશ ભારતમાં "ભાગલા પાડો અને રાજ કરો" ની નીતિ હેઠળ ઈ.સ. ૧૯૦૫ માં બંગાળના ભાગલા (બંગભંગ) કયા વાઇસરોયે કર્યા હતા?',
               options: [
-                'લોર્ડ કર્ઝન',
-                'લોર્ડ ડેલહાઉસી',
-                'લોર્ડ કેનિંગ',
                 'લોર્ડ વેલેસ્લી',
+                'લોર્ડ કેનિંગ',
+                'લોર્ડ ડેલહાઉસી',
+                'લોર્ડ કર્ઝન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'વાઇસરોય લોર્ડ કર્ઝને ભારતીય રાષ્ટ્રવાદની એકતા તોડવા માટે ૧૯૦૫ માં બંગાળના ભાગલા જાહેર કર્યા હતા.',
             ),
             McqModel(
@@ -19708,7 +19708,7 @@ McqModel(
                 '૧૬ ઓક્ટોબર ૧૯૦૫',
                 '૨૦ જુલાઈ ૧૯૦૫',
                 '૧૫ ઓગસ્ટ ૧૯૦૫',
-                '૨૬ જાન્યુઆરી ૧૯૦૬',
+                '૨૬ જાન્યુઆરી ૧૯૦૬'
               ],
               correctOptionIndex: 0,
               explanation: '૧૬ ઓક્ટોબર ૧૯૦૫ ના રોજ બંગાળના ભાગલાનો કાયદો અમલમાં આવતાં સમગ્ર ભારતમાં શોક દિન અને રાખી બંધન દિવસ મનાવાયો હતો.',
@@ -19717,36 +19717,36 @@ McqModel(
               id: 'mcq_sec7_swadeshi_gujarat_3',
               question: '૧૬ ઓક્ટોબર ૧૯૦૫ ના રોજ હિન્દુ-મુસ્લિમ એકતા પ્રદર્શિત કરવા "રાખી બંધન દિવસ" ઉજવવાનું આહ્વાન કોણે કર્યું હતું?',
               options: [
+                'બંકિમચંદ્ર ચટ્ટોપાધ્યાય',
                 'કવિવર રવીન્દ્રનાથ ટાગોર',
                 'સ્વામી વિવેકાનંદ',
-                'બંકિમચંદ્ર ચટ્ટોપાધ્યાય',
-                'સુરેન્દ્રનાથ બેનર્જી',
+                'સુરેન્દ્રનાથ બેનર્જી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'રવીન્દ્રનાથ ટાગોરના સૂચનથી બંગાળના ભાગલાના દિવસે હિન્દુ-મુસ્લિમોએ એકબીજાના કાંડે રાખડી બાંધી અખંડતાનું પ્રદર્શન કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_swadeshi_gujarat_4',
               question: '૧૯૦૫ ના સ્વદેશી આંદોલનનું મુખ્ય રાષ્ટ્રીય ગીત અને પ્રેરક નારો કયું બન્યું હતું?',
               options: [
+                'જય હિન્દ',
                 'વંદે માતરમ્',
                 'જન ગણ મન',
-                'જય હિન્દ',
-                'ઇન્કિલાબ ઝિંદાબાદ',
+                'ઇન્કિલાબ ઝિંદાબાદ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બંકિમચંદ્ર ચટ્ટોપાધ્યાય રચિત "વંદે માતરમ્" ગીત સ્વદેશી ચળવળ દરમિયાન સમગ્ર દેશનું મુખ્ય રાષ્ટ્રીય નારો બન્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_swadeshi_gujarat_5',
               question: 'સ્વદેશી આંદોલનમાં વિદેશી માલનો બહિષ્કાર થતાં ગુજરાતના કયા સ્થાનિક ઉદ્યોગને અભૂતપૂર્વ પ્રોત્સાહન મળ્યું હતું?',
               options: [
-                'અમદાવાદના કાપડ મિલ ઉદ્યોગને',
-                'સુરતના હીરા ઉદ્યોગને',
-                'મોરબીના સિરામિક ઉદ્યોગને',
                 'જામનગરના બ્રાસ ઉદ્યોગને',
+                'સુરતના હીરા ઉદ્યોગને',
+                'અમદાવાદના કાપડ મિલ ઉદ્યોગને',
+                'મોરબીના સિરામિક ઉદ્યોગને'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'વિદેશી કાપડના બહિષ્કારથી અમદાવાદની કાપડ મિલોને મોટો વેગ મળ્યો અને અમદાવાદ ભારતનું માન્ચેસ્ટર બનવા તરફ આગળ વધ્યું.',
             ),
             McqModel(
@@ -19754,9 +19754,9 @@ McqModel(
               question: 'સ્વદેશી ચળવળ દરમિયાન ગુજરાતમાં રાષ્ટ્રીય શિક્ષણ આપવા માટે ચાંદોદ (વડોદરા) ખાતે "ગંગાનાથ ભારતીય વિદ્યાલય" ની સ્થાપના કોણે કરી હતી?',
               options: [
                 'કેશવરાવ દેશપાંડે અને કાકાસાહેબ કાલેલકર',
-                'અંબાલાલ સાકરલાલ દેસાઈ અને નર્મદ',
                 'દુર્ગારામ મહેતા અને દલપતરામ',
                 'મહાદેવ દેસાઈ અને નરહરિ પરીખ',
+                'અંબાલાલ સાકરલાલ દેસાઈ અને નર્મદ'
               ],
               correctOptionIndex: 0,
               explanation: '૧૯૦૭-૦૮ માં નર્મદા કિનારે ચાંદોદ ખાતે કેશવરાવ દેશપાંડે અને કાકાસાહેબ કાલેલકરે ગંગાનાથ ભારતીય વિદ્યાલયની સ્થાપના કરી હતી.',
@@ -19765,12 +19765,12 @@ McqModel(
               id: 'mcq_sec7_swadeshi_gujarat_7',
               question: 'ક્રાંતિકારી વિચારોના પ્રચાર માટે ૧૯૦૫ માં વડોદરાથી "ભવાની મંદિર" નામક પ્રખ્યાત પુસ્તિકા કોણે લખી હતી?',
               options: [
-                'અરવિંદ ઘોષ (શ્રી અરવિંદ)',
                 'બારીન્દ્ર ઘોષ',
-                'શ્યામજી કૃષ્ણ વર્મા',
                 'વીર સાવરકર',
+                'શ્યામજી કૃષ્ણ વર્મા',
+                'અરવિંદ ઘોષ (શ્રી અરવિંદ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'શ્રી અરવિંદ ઘોષે વડોદરા રોકાણ દરમિયાન ક્રાંતિકારી સંન્યાસીઓની યોજના દર્શાવતી "ભવાની મંદિર" (૧૯૦૫) પુસ્તિકા લખી હતી.',
             ),
             McqModel(
@@ -19778,9 +19778,9 @@ McqModel(
               question: 'અમદાવાદમાં સ્વદેશી પ્રચાર મંડળ અને સભાઓ યોજી સ્વદેશી સ્ટોર્સ ખોલવામાં કયા અગ્રણી નેતાએ મુખ્ય ભૂમિકા ભજવી હતી?',
               options: [
                 'અંબાલાલ સાકરલાલ દેસાઈ',
-                'રણછોડલાલ છોટાલાલ',
-                'ચીમનલાલ સેતલવાડ',
                 'મંગળદાસ ગિરધરદાસ',
+                'રણછોડલાલ છોટાલાલ',
+                'ચીમનલાલ સેતલવાડ'
               ],
               correctOptionIndex: 0,
               explanation: 'અંબાલાલ સાકરલાલ દેસાઈએ અમદાવાદમાં સ્વદેશી આંદોલનનું નેતૃત્વ કરી સ્વદેશી સ્ટોર્સ અને પ્રચાર સભાઓ યોજી હતી.',
@@ -19791,8 +19791,8 @@ McqModel(
               options: [
                 'સ્વદેશી સ્વીકાર, વિદેશી માલનો બહિષ્કાર અને રાષ્ટ્રીય શિક્ષણ',
                 'સત્યાગ્રહ, અહિંસા અને ઉપવાસ',
-                'સવિનય કાનૂનભંગ, કરબંધી અને જેલભરો',
                 'પંચાયતી રાજ, દારૂબંધી અને અસ્પૃશ્યતા નિવારણ',
+                'સવિનય કાનૂનભંગ, કરબંધી અને જેલભરો'
               ],
               correctOptionIndex: 0,
               explanation: 'સ્વદેશી આંદોલન ત્રિસૂત્રીય કાર્યક્રમો આધારિત હતું: સ્વદેશી માલ વાપરવો, વિદેશી માલનો બહિષ્કાર કરવો અને રાષ્ટ્રીય શિક્ષણ અપનાવવું.',
@@ -19801,240 +19801,240 @@ McqModel(
               id: 'mcq_sec7_swadeshi_gujarat_10',
               question: 'સ્વદેશી ચળવળ દરમિયાન દેશી ઔષધિઓ અને સાબુ બનાવવાના બહાને કઈ પ્રતિબંધિત સામગ્રી બનાવવાની પુસ્તિકાઓ ગુજરાતમાં છૂપી રીતે પ્રગટ થતી હતી?',
               options: [
-                'બોમ્બ બનાવવાની રીતો',
                 'તોપો ઢાળવાની રીતો',
-                'બંદૂકો બનાવવાની રીતો',
                 'ઝેરી ગેસ બનાવવાની રીતો',
+                'બોમ્બ બનાવવાની રીતો',
+                'બંદૂકો બનાવવાની રીતો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગુજરાતના ક્રાંતિકારીઓએ સાબુ, અત્તર કે ગુલાબજળ બનાવવાના મથાળા નીચે છૂપી રીતે બોમ્બ બનાવવાની રીતો દર્શાવતી પુસ્તિકાઓ પ્રગટ કરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_1',
               question: 'ક્રાંતિગુરુ પંડિત શ્યામજી કૃષ્ણ વર્માનું જન્મસ્થળ ગુજરાતના કયા જિલ્લામાં આવેલું છે?',
               options: [
-                'માંડવી (કચ્છ જિલ્લો)',
                 'પોરબંદર (પોરબંદર જિલ્લો)',
-                'કંથારિયા (સુરેન્દ્રનગર જિલ્લો)',
                 'નવસારી (નવસારી જિલ્લો)',
+                'માંડવી (કચ્છ જિલ્લો)',
+                'કંથારિયા (સુરેન્દ્રનગર જિલ્લો)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'પંડિત શ્યામજી કૃષ્ણ વર્માનો જન્મ ૪ ઓક્ટોબર ૧૮૫૭ ના રોજ કચ્છ જિલ્લાના માંડવી બંદરે થયો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_2',
               question: 'પંડિત શ્યામજી કૃષ્ણ વર્માએ ૧ જુલાઈ ૧૯૦૫ ના રોજ લંડનમાં ભારતીય ક્રાંતિકારીઓ માટે કઈ સંસ્થાની સ્થાપના કરી હતી?',
               options: [
-                'ઇન્ડિયા હાઉસ (India House)',
-                'ગદર પાર્ટી',
-                'યુગાંતર આશ્રમ',
                 'ફ્રી ઇન્ડિયા સેન્ટર',
+                'યુગાંતર આશ્રમ',
+                'ગદર પાર્ટી',
+                'ઇન્ડિયા હાઉસ (India House)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'શ્યામજી કૃષ્ણ વર્માએ લંડનના હાઇગેટમાં ૧ જુલાઈ ૧૯૦૫ ના રોજ "ઇન્ડિયા હાઉસ" ની સ્થાપના કરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_3',
               question: 'લંડન ખાતે શ્યામજી કૃષ્ણ વર્મા દ્વારા કયું ક્રાંતિકારી માસિક મુખપત્ર શરૂ કરવામાં આવ્યું હતું?',
               options: [
-                'ધ ઇન્ડિયન સોશિયોલોજિસ્ટ (The Indian Sociologist)',
-                'વંદે માતરમ્',
                 'ધ તલવાર',
+                'વંદે માતરમ્',
                 'ઇન્ડિયન ઓપિનિયન',
+                'ધ ઇન્ડિયન સોશિયોલોજિસ્ટ (The Indian Sociologist)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'જાન્યુઆરી ૧૯૦૫ માં શ્યામજી કૃષ્ણ વર્માએ લંડનથી "ધ ઇન્ડિયન સોશિયોલોજિસ્ટ" માસિક શરૂ કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_4',
               question: 'પંડિત શ્યામજી કૃષ્ણ વર્મા અને તેમના પત્ની ભાનુમતી દેવીના અસ્થિ સ્વિટ્ઝર્લેન્ડથી લાવી કચ્છના માંડવી ખાતે કયું ભવ્ય સ્મારક બનાવવામાં આવ્યું છે?',
               options: [
-                'ક્રાંતિતીર્થ (ઇન્ડિયા હાઉસ પ્રતિકૃતિ)',
                 'સ્વાતંત્ર્ય સ્મૃતિ',
+                'ક્રાંતિતીર્થ (ઇન્ડિયા હાઉસ પ્રતિકૃતિ)',
                 'વીરભૂમિ સ્મારક',
-                'અમર જ્યોત કેન્દ્ર',
+                'અમર જ્યોત કેન્દ્ર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૨૦૦૩ માં નરેન્દ્ર મોદી તેમના અસ્થિ લાવ્યા અને માંડવી ખાતે લંડનના ઇન્ડિયા હાઉસની આબેહૂબ પ્રતિકૃતિરૂપ "ક્રાંતિતીર્થ" બનાવ્યું.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_5',
               question: 'સમગ્ર ભારતીય સ્વાતંત્ર્ય સંગ્રામમાં "ભારતીય ક્રાંતિના માતા" (Mother of Indian Revolution) તરીકે કોણ ઓળખાય છે?',
               options: [
-                'મેડમ ભિખાઈજી કામા',
-                'સરોજિની નાયડુ',
                 'એની બેસન્ટ',
+                'સરોજિની નાયડુ',
                 'કસ્તૂરબા ગાંધી',
+                'મેડમ ભિખાઈજી કામા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'મેડમ ભિખાઈજી રુસ્તમ કામાને ભારતીય ક્રાંતિકારી આંદોલનના જનની અથવા "ભારતીય ક્રાંતિના માતા" કહેવામાં આવે છે.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_6',
               question: 'મેડમ ભિખાઈજી કામાએ ૨૨ ઓગસ્ટ ૧૯૦૭ ના રોજ આંતરરાષ્ટ્રીય સમાજવાદી પરિષદમાં ભારતનો પ્રથમ ત્રિરંગો રાષ્ટ્રધ્વજ કયા દેશમાં લહેરાવ્યો હતો?',
               options: [
+                'જિનીવા (સ્વિટ્ઝર્લેન્ડ)',
                 'સ્ટુટગાર્ટ (જર્મની)',
                 'પેરિસ (ફ્રાન્સ)',
-                'લંડન (ઇંગ્લેન્ડ)',
-                'જિનીવા (સ્વિટ્ઝર્લેન્ડ)',
+                'લંડન (ઇંગ્લેન્ડ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'જર્મનીના સ્ટુટગાર્ટ ખાતે ૨૨ ઓગસ્ટ ૧૯૦૭ ના રોજ મેડમ કામાએ ભારતનો પ્રથમ ત્રિરંગો રાષ્ટ્રધ્વજ લહેરાવ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_7',
               question: 'પેરિસમાં રહીને ભારત મોકલવા માટે બ્રાઉનિંગ પિસ્તોલો અને ક્રાંતિકારી સાહિત્યની વ્યવસ્થા કરનાર ગુજરાતી ક્રાંતિવીર કોણ હતા?',
               options: [
-                'સરદારસિંહ રાણા (કંથારિયા)',
                 'શ્યામજી કૃષ્ણ વર્મા',
-                'મોહનલાલ પંડ્યા',
+                'સરદારસિંહ રાણા (કંથારિયા)',
                 'છોટુભાઈ પુરાણી',
+                'મોહનલાલ પંડ્યા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'સુરેન્દ્રનગરના કંથારિયાના સરદારસિંહ રાણાએ પેરિસ ઇન્ડિયન સોસાયટી સ્થાપી વિદેશમાંથી ભારતમાં હથિયારો મોકલ્યાં હતાં.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_8',
               question: '૧૩ નવેમ્બર ૧૯૦૯ ના રોજ અમદાવાદના કયા સ્થળે બ્રિટિશ વાઇસરોય લોર્ડ મિન્ટો અને લેડી મિન્ટોની બગી પર બોમ્બ ફેંકવામાં આવ્યો હતો?',
               options: [
-                'રાયપુર દરવાજા બહાર',
                 'દિલ્હી દરવાજા બહાર',
                 'કાળુપુર રેલવે સ્ટેશન',
                 'ભદ્રના કિલ્લા પાસે',
+                'રાયપુર દરવાજા બહાર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૧૩ નવેમ્બર ૧૯૦૯ ના રોજ અમદાવાદના રાયપુર દરવાજા બહાર વાઇસરોય લોર્ડ મિન્ટોની બગી પર બોમ્બ ફેંકાયો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_9',
               question: 'ગુજરાતમાં ગામેગામ અખાડા અને વ્યાયામશાળાઓ સ્થાપી યુવાનોને સશસ્ત્ર ક્રાંતિ અને શારીરિક તાલીમ આપનાર અગ્રણી બંધુઓ કોણ હતા?',
               options: [
-                'છોટુભાઈ પુરાણી અને અંબુભાઈ પુરાણી',
-                'મોહનલાલ પંડ્યા અને નરસિંહભાઈ પટેલ',
                 'બારીન્દ્ર ઘોષ અને અરવિંદ ઘોષ',
                 'સરદાર પટેલ અને વિઠ્ઠલભાઈ પટેલ',
+                'મોહનલાલ પંડ્યા અને નરસિંહભાઈ પટેલ',
+                'છોટુભાઈ પુરાણી અને અંબુભાઈ પુરાણી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'છોટુભાઈ અને અંબુભાઈ પુરાણીએ ગુજરાતમાં અખાડા પ્રવૃત્તિ શરૂ કરી યુવાનોમાં રાષ્ટ્રવાદ અને શારીરિક સૌષ્ઠવનું સિંચન કર્યું.',
             ),
             McqModel(
               id: 'mcq_sec7_revolutionary_gujarat_10',
               question: 'રાયપુર દરવાજા બોમ્બ કેસ અને ગુજરાતમાં સશસ્ત્ર ક્રાંતિકારી ગતિવિધિઓ સાથે સંકળાયેલા કઠલાલના ક્રાંતિકારી નેતા કોણ હતા?',
               options: [
+                'દુર્ગારામ મહેતા',
                 'મોહનલાલ પંડ્યા',
                 'અંબાલાલ સાકરલાલ દેસાઈ',
-                'દુર્ગારામ મહેતા',
-                'કરસનદાસ મૂળજી',
+                'કરસનદાસ મૂળજી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કઠલાલના મોહનલાલ પંડ્યા ગુજરાતમાં સશસ્ત્ર ક્રાંતિના મુખ્ય સંચાલક હતા, જેમને પાછળથી ગાંધીજીએ "ડુંગળી ચોર" નું બિરુદ આપ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_1',
               question: 'માનગઢ પહાડી હત્યાકાંડ કઈ તારીખે બન્યો હતો, જેમાં ૧,૫૦૦ થી વધુ નિર્દોષ આદિવાસીઓ શહીદ થયા હતા?',
               options: [
-                '૧૭ નવેમ્બર ૧૯૧૩ (માગશર સુદ પૂનમ)',
                 '૧૩ એપ્રિલ ૧૯૧૯',
-                '૭ માર્ચ ૧૯૨૨',
                 '૧૬ ઓક્ટોબર ૧૯૦૫',
+                '૭ માર્ચ ૧૯૨૨',
+                '૧૭ નવેમ્બર ૧૯૧૩ (માગશર સુદ પૂનમ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૧૭ નવેમ્બર ૧૯૧૩ (માગશર સુદ પૂનમ - ગોવિંદ ગુરુના જન્મદિવસે) માનગઢ પહાડી પર બ્રિટિશ લશ્કરે ૧,૫૦૦ થી વધુ આદિવાસીઓનો નરસંહાર કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_2',
               question: 'આદિવાસી સમાજમાં વ્યસનમુક્તિ અને જાગૃતિ લાવવા "ભગત આંદોલન" અને ૧૮૮૩ માં "સંપ સભા" ની સ્થાપના કોણે કરી હતી?',
               options: [
-                'ગોવિંદ ગુરુ (ગોવિંદગીરી)',
+                'જોરિયા પરમેશ્વર',
                 'મોતીલાલ તેજાવત',
                 'રૂપા નાયક',
-                'જોરિયા પરમેશ્વર',
+                'ગોવિંદ ગુરુ (ગોવિંદગીરી)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગોવિંદ ગુરુએ ભીલ અને ગરાસિયા પ્રજામાં એકતા અને સંસ્કાર સિંચન માટે ૧૮૮૩ માં સંપ સભા અને ભગત આંદોલન શરૂ કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_3',
               question: 'માનગઢ પહાડી ગુજરાતના કયા જિલ્લા અને તાલુકાની સરહદ પાસે રાજસ્થાનની સીમા પર આવેલી છે?',
               options: [
-                'મહિસાગર જિલ્લો (સંતરામપુર તાલુકો)',
                 'દાહોદ જિલ્લો (ઝાલોદ તાલુકો)',
-                'સાબરકાંઠા જિલ્લો (વિજયનગર તાલુકો)',
+                'મહિસાગર જિલ્લો (સંતરામપુર તાલુકો)',
                 'પંચમહાલ જિલ્લો (હાલોલ તાલુકો)',
+                'સાબરકાંઠા જિલ્લો (વિજયનગર તાલુકો)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'માનગઢ ટેકરી ગુજરાતના મહિસાગર જિલ્લાના સંતરામપુર તાલુકા અને રાજસ્થાનના બાંસવાડા જિલ્લાની સરહદ પર આવેલી છે.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_4',
               question: 'જીવનના અંતિમ વર્ષો વિતાવ્યા બાદ ગોવિંદ ગુરુનું અવસાન ક્યાં થયું હતું, જ્યાં તેમની પવિત્ર સમાધિ આવેલી છે?',
               options: [
-                'કંબોઈ (ઝાલોદ તાલુકો, દાહોદ જિલ્લો)',
-                'બાંસિયા (ડુંગરપુર)',
                 'ચાંદોદ (વડોદરા)',
+                'બાંસિયા (ડુંગરપુર)',
                 'માંડવી (કચ્છ)',
+                'કંબોઈ (ઝાલોદ તાલુકો, દાહોદ જિલ્લો)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગોવિંદ ગુરુએ જીવનના અંતિમ વર્ષો દાહોદ જિલ્લાના કંબોઈ (ઝાલોદ) ખાતે વિતાવ્યા હતા, જ્યાં તેમની પવિત્ર સમાધિ આવેલી છે.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_5',
               question: '૧૯૧૯ ના જલિયાંવાલા બાગ હત્યાકાંડના ૬ વર્ષ પહેલાં ઘટેલા કયા હત્યાકાંડને "આદિવાસી જલિયાંવાલા બાગ હત્યાકાંડ" કહેવાય છે?',
               options: [
+                'રાયપુર દરવાજા બોમ્બ કાંડ (૧૯૦૯)',
                 'માનગઢ હત્યાકાંડ (૧૯૧૩)',
                 'પાલ-દઢવાવ હત્યાકાંડ (૧૯૨૨)',
-                'રાયપુર દરવાજા બોમ્બ કાંડ (૧૯૦૯)',
-                'બેટ દ્વારકા વાઘેર નરસંહાર (૧૮૫૮)',
+                'બેટ દ્વારકા વાઘેર નરસંહાર (૧૮૫૮)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૯૧૩ માં માનગઢ ટેકરી પર ૧,૫૦૦ થી વધુ આદિવાસીઓ શહીદ થયા હતા, જે જલિયાંવાલા બાગ કરતાં પણ મોટો નરસંહાર ગણાય છે.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_6',
               question: '૭ માર્ચ ૧૯૨૨ ના રોજ સાબરકાંઠાના વિજયનગર તાલુકામાં ૧,૨૦૦ થી વધુ આદિવાસીઓ શહીદ થયા તે હત્યાકાંડ કયા નામે ઓળખાય છે?',
               options: [
-                'પાલ-દઢવાવ-ચિતરીયા હત્યાકાંડ',
+                'ખેડબ્રહ્મા બળવો',
                 'માનગઢ હત્યાકાંડ',
                 'શામળાજી સત્યાગ્રહ',
-                'ખેડબ્રહ્મા બળવો',
+                'પાલ-દઢવાવ-ચિતરીયા હત્યાકાંડ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૭ માર્ચ ૧૯૨૨ ના રોજ સાબરકાંઠાના વિજયનગર તાલુકાના પાલ, દઢવાવ અને ચિતરીયા ગામે બ્રિટિશ લશ્કરે ૧,૨૦૦ થી વધુ આદિવાસીઓનો નરસંહાર કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_7',
               question: 'પાલ-દઢવાવ હત્યાકાંડ કઈ પવિત્ર નદીના કિનારે બન્યો હતો, જેનું પાણી શહીદોના લોહીથી લાલ થઈ ગયું હતું?',
               options: [
-                'હેર નદી (Her River)',
                 'સાબરમતી નદી',
                 'મહી નદી',
                 'હાથમતી નદી',
+                'હેર નદી (Her River)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'પાલ-દઢવાવ હત્યાકાંડ હેર નદીના કાંઠે બન્યો હતો, જ્યાં ગોળીબાર બાદ શહીદોની લાશો દૂધિયા કૂવામાં ફેંકી દેવાઈ હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_8',
               question: 'આદિવાસીઓમાં "બાવજી" તરીકે પૂજાતા અને "એકી આંદોલન" (૧૯૨૧) ચલાવનાર મહાન લોકનાયક કોણ હતા?',
               options: [
-                'મોતીલાલ તેજાવત',
-                'ગોવિંદ ગુરુ',
                 'કાકાસાહેબ કાલેલકર',
                 'ઠક્કરબાપા',
+                'મોતીલાલ તેજાવત',
+                'ગોવિંદ ગુરુ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'મોતીલાલ તેજાવતે એકી આંદોલન દ્વારા ભીલો પર લદાતા અન્યાયી કરવેરા અને વેઠપ્રથા સામે લડત આપી હતી; આદિવાસીઓ તેમને બાવજી કહેતા.',
             ),
             McqModel(
               id: 'mcq_sec7_tribal_massacres_9',
               question: 'પાલ-દઢવાવ ખાતે આમલી અગિયારસના દિવસે શાંતિપૂર્ણ આદિવાસી સભા પર ગોળીબાર કરવાનો ક્રૂર આદેશ કયા બ્રિટિશ અધિકારીએ આપ્યો હતો?',
               options: [
-                'મેજર એચ. જી. સટન (Major Sutton)',
                 'જનરલ ડાયર',
-                'કર્નલ ડોનોવન',
                 'લોર્ડ કર્ઝન',
+                'મેજર એચ. જી. સટન (Major Sutton)',
+                'કર્નલ ડોનોવન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'મેવાડ ભીલ કોર્પ્સ (MBC) ના કમાન્ડર મેજર એચ. જી. સટને પાલ-દઢવાવ ખાતે નિઃશસ્ત્ર આદિવાસીઓ પર અંધાધૂંધ ગોળીબાર કરાવ્યો હતો.',
             ),
             McqModel(
@@ -20042,9 +20042,9 @@ McqModel(
               question: 'મોતીલાલ તેજાવતે મેવાડ અને દેશી રજવાડાંઓ સમક્ષ રજૂ કરેલી આદિવાસીઓની ૨૧ સૂત્રીય માંગણીઓને કયા નામે ઓળખવામાં આવે છે?',
               options: [
                 'મેવાડ કી પુકાર',
-                'આદિવાસી અધિકાર પત્ર',
                 'ભીલ પ્રજા મેનિફેસ્ટો',
-                'એકી ઘોષણાપત્ર',
+                'આદિવાસી અધિકાર પત્ર',
+                'એકી ઘોષણાપત્ર'
               ],
               correctOptionIndex: 0,
               explanation: 'મોતીલાલ તેજાવતે મહારાણા સમક્ષ રજૂ કરેલી ૨૧ પ્રકારના અન્યાયી વેરા અને વેઠપ્રથા નાબૂદીની માંગણીઓને "મેવાડ કી પુકાર" કહે છે.',
@@ -20054,9 +20054,9 @@ McqModel(
               question: 'ભારતમાં ઈ.સ. ૧૯૧૬ ના હોમરૂલ આંદોલનનો મુખ્ય હેતુ શું હતો?',
               options: [
                 'બ્રિટિશ સામ્રાજ્ય હેઠળ સ્વશાસન (Home Rule / સ્વરાજ) મેળવવું',
-                'સંપૂર્ણ આઝાદી અને સશસ્ત્ર ક્રાંતિ',
                 'જમીન મહેસૂલ સંપૂર્ણ માફ કરાવવું',
-                'પ્રથમ વિશ્વયુદ્ધમાં સૈનિકો મોકલવાનો વિરોધ',
+                'સંપૂર્ણ આઝાદી અને સશસ્ત્ર ક્રાંતિ',
+                'પ્રથમ વિશ્વયુદ્ધમાં સૈનિકો મોકલવાનો વિરોધ'
               ],
               correctOptionIndex: 0,
               explanation: 'આયર્લેન્ડની તર્જ પર બંધારણીય માર્ગે બ્રિટિશ સામ્રાજ્ય હેઠળ ભારતીયો માટે સ્વશાસન (સ્વરાજ) સ્થાપવું એ હોમરૂલ આંદોલનનો મુખ્ય ઉદ્દેશ હતો.',
@@ -20065,36 +20065,36 @@ McqModel(
               id: 'mcq_sec7_home_rule_gujarat_2',
               question: 'એપ્રિલ ૧૯૧૬ માં બેલ્ગાવ/પુણે ખાતે "ઇન્ડિયન હોમરૂલ લીગ" ની સ્થાપના કોણે કરી હતી?',
               options: [
-                'લોકમાન્ય બાળ ગંગાધર તિલક',
-                'ડૉ. એની બેસન્ટ',
-                'મહાત્મા ગાંધી',
                 'ગોપાલકૃષ્ણ ગોખલે',
+                'લોકમાન્ય બાળ ગંગાધર તિલક',
+                'મહાત્મા ગાંધી',
+                'ડૉ. એની બેસન્ટ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'લોકમાન્ય તિલકે ૨૮ એપ્રિલ ૧૯૧૬ ના રોજ બેલ્ગાવ ખાતે ઇન્ડિયન હોમરૂલ લીગની સ્થાપના કરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_home_rule_gujarat_3',
               question: 'સપ્ટેમ્બર ૧૯૧૬ માં મદ્રાસના અડયાર ખાતે "ઓલ ઇન્ડિયા હોમરૂલ લીગ" ની સ્થાપના કોણે કરી હતી?',
               options: [
-                'ડૉ. એની બેસન્ટ',
-                'સરોજિની નાયડુ',
-                'મેડમ ભિખાઈજી કામા',
                 'બાળ ગંગાધર તિલક',
+                'ડૉ. એની બેસન્ટ',
+                'મેડમ ભિખાઈજી કામા',
+                'સરોજિની નાયડુ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ડૉ. એની બેસન્ટે સપ્ટેમ્બર ૧૯૧૬ માં મદ્રાસ (અડયાર) ખાતે ઓલ ઇન્ડિયા હોમરૂલ લીગની સ્થાપના કરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_home_rule_gujarat_4',
               question: 'ડૉ. એની બેસન્ટે હોમરૂલ વિચારોના પ્રચાર માટે કયા બે વર્તમાનપત્રો ચલાવ્યા હતા?',
               options: [
-                'ન્યુ ઇન્ડિયા (દૈનિક) અને કોમનવીલ (સાપ્તાહિક)',
-                'મરાઠા અને કેસરી',
-                'હરિજન અને યંગ ઇન્ડિયા',
                 'ધ ઇન્ડિયન સોશિયોલોજિસ્ટ અને વંદે માતરમ્',
+                'હરિજન અને યંગ ઇન્ડિયા',
+                'ન્યુ ઇન્ડિયા (દૈનિક) અને કોમનવીલ (સાપ્તાહિક)',
+                'મરાઠા અને કેસરી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ડૉ. એની બેસન્ટે હોમરૂલ આંદોલન માટે અંગ્રેજીમાં "ન્યુ ઇન્ડિયા" અને "કોમનવીલ" પત્રો દ્વારા રાષ્ટ્રવાદી પ્રચાર કર્યો હતો.',
             ),
             McqModel(
@@ -20102,9 +20102,9 @@ McqModel(
               question: 'ગુજરાતમાં સક્રિય બનેલી હોમરૂલ લીગ કઈ લીગની શાખા તરીકે કાર્ય કરતી હતી?',
               options: [
                 'ડૉ. એની બેસન્ટની ઓલ ઇન્ડિયા હોમરૂલ લીગ',
-                'તિલકની ઇન્ડિયન હોમરૂલ લીગ',
-                'શ્યામજી કૃષ્ણ વર્માની હોમરૂલ સોસાયટી',
                 'ગદર પાર્ટી લીગ',
+                'તિલકની ઇન્ડિયન હોમરૂલ લીગ',
+                'શ્યામજી કૃષ્ણ વર્માની હોમરૂલ સોસાયટી'
               ],
               correctOptionIndex: 0,
               explanation: 'ગુજરાત અને મુંબઈ એની બેસન્ટની ઓલ ઇન્ડિયા હોમરૂલ લીગના કાર્યક્ષેત્રમાં હતા અને તેની શાખાઓ અહીં સ્થપાઈ હતી.',
@@ -20113,36 +20113,36 @@ McqModel(
               id: 'mcq_sec7_home_rule_gujarat_6',
               question: 'અમદાવાદ ખાતે હોમરૂલ લીગની શાખા સ્થાપવામાં મુખ્ય મંત્રી તરીકે કોણે ભૂમિકા ભજવી હતી?',
               options: [
-                'મગનભાઈ ચતુરભાઈ પટેલ અને ઇન્દુલાલ યાજ્ઞિક',
-                'કવિ નર્મદ અને દુર્ગારામ મહેતા',
-                'અંબાલાલ સાકરલાલ દેસાઈ અને રણછોડલાલ',
                 'મોહનલાલ પંડ્યા અને પુરાણી બંધુઓ',
+                'મગનભાઈ ચતુરભાઈ પટેલ અને ઇન્દુલાલ યાજ્ઞિક',
+                'અંબાલાલ સાકરલાલ દેસાઈ અને રણછોડલાલ',
+                'કવિ નર્મદ અને દુર્ગારામ મહેતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અમદાવાદમાં મગનભાઈ ચતુરભાઈ પટેલ અને ઇન્દુલાલ યાજ્ઞિકે હોમરૂલ લીગની શાખા સ્થાપી સરદાર પટેલ સાથે કામ કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_home_rule_gujarat_7',
               question: 'હોમરૂલ આંદોલનના પ્રચાર માટે ઇન્દુલાલ યાજ્ઞિક દ્વારા સંપાદિત કયું માસિક પાછળથી ગાંધીજીનું મુખ્ય મુખપત્ર બન્યું હતું?',
               options: [
-                'નવજીવન અને સત્ય',
-                'બુદ્ધિપ્રકાશ',
-                'સત્યપ્રકાશ',
                 'ડાંડિયો',
+                'સત્યપ્રકાશ',
+                'બુદ્ધિપ્રકાશ',
+                'નવજીવન અને સત્ય'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ઇન્દુલાલ યાજ્ઞિક સંપાદિત "નવજીવન અને સત્ય" પાછળથી ૧૯૧૯ માં ગાંધીજીને સોંપવામાં આવ્યું અને તે "નવજીવન" બન્યું.',
             ),
             McqModel(
               id: 'mcq_sec7_home_rule_gujarat_8',
               question: 'નવેમ્બર ૧૯૧૭ માં ગોધરા ખાતે યોજાયેલી પ્રથમ ગુજરાત રાજકીય પરિષદના અધ્યક્ષ કોણ હતા, જ્યાં ગાંધીજી અને સરદાર પટેલનું પ્રથમ ઐતિહાસિક રાજકીય મિલન થયું હતું?',
               options: [
-                'મહાત્મા ગાંધી',
-                'બાળ ગંગાધર તિલક',
-                'સરદાર વલ્લભભાઈ પટેલ',
                 'મહમદ અલી ઝીણા',
+                'બાળ ગંગાધર તિલક',
+                'મહાત્મા ગાંધી',
+                'સરદાર વલ્લભભાઈ પટેલ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગોધરા પરિષદ (નવેમ્બર ૧૯૧૭) ના અધ્યક્ષ મહાત્મા ગાંધી હતા અને અહીં વલ્લભભાઈ પટેલ ગાંધીજીના રંગે રંગાયા હતા.',
             ),
             McqModel(
@@ -20150,9 +20150,9 @@ McqModel(
               question: '૧૯૧૬ ના કયા કોંગ્રેસ અધિવેશનમાં તિલક અને એની બેસન્ટના પ્રયાસોથી મવાળવાદી અને જહાલવાદી જૂથો પુનઃ એક થયા અને લખનૌ કરાર થયો?',
               options: [
                 'લખનૌ અધિવેશન (અધ્યક્ષ: અંબિકાચરણ મજુમદાર)',
-                'સુરત અધિવેશન (અધ્યક્ષ: રાસબિહારી ઘોષ)',
-                'કોલકાતા અધિવેશન (અધ્યક્ષ: એની બેસન્ટ)',
                 'અમદાવાદ અધિવેશન (અધ્યક્ષ: હકીમ અજમલ ખાન)',
+                'સુરત અધિવેશન (અધ્યક્ષ: રાસબિહારી ઘોષ)',
+                'કોલકાતા અધિવેશન (અધ્યક્ષ: એની બેસન્ટ)'
               ],
               correctOptionIndex: 0,
               explanation: '૧૯૧૬ ના લખનૌ અધિવેશનમાં મવાળ-જહાલ સમાધાન થયું અને કોંગ્રેસ-મુસ્લિમ લીગ વચ્ચે લખનૌ પેક્ટ થયો હતો.',
@@ -20161,12 +20161,12 @@ McqModel(
               id: 'mcq_sec7_home_rule_gujarat_10',
               question: 'હોમરૂલ આંદોલનના દબાણને કારણે ૨૦ ઓગસ્ટ ૧૯૧૭ ના રોજ બ્રિટિશ ભારત સચિવ દ્વારા કઈ ઐતિહાસિક ઘોષણા કરવામાં આવી હતી?',
               options: [
-                'મોન્ટેગ્યુ ઘોષણા (ઓગસ્ટ ડિક્લેરેશન)',
                 'મોર્લે-મિન્ટો ઘોષણા',
-                'રાણી વિક્ટોરિયાનો ઢંઢેરો',
                 'સાયમન કમિશન ઘોષણા',
+                'રાણી વિક્ટોરિયાનો ઢંઢેરો',
+                'મોન્ટેગ્યુ ઘોષણા (ઓગસ્ટ ડિક્લેરેશન)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ભારત સચિવ એડવિન મોન્ટેગ્યુએ ૨૦ ઓગસ્ટ ૧૯૧૭ ના રોજ બ્રિટિશ સંસદમાં ભારતમાં ક્રમશઃ સ્વશાસન આપવાની ઘોષણા કરી હતી.',
             ),
             McqModel(
@@ -20174,9 +20174,9 @@ McqModel(
               question: 'મહાત્મા ગાંધીજીનો જન્મ ૨ ઓક્ટોબર ૧૮૬૯ ના રોજ ગુજરાતના કયા શહેરમાં થયો હતો?',
               options: [
                 'પોરબંદર (કીર્તિ મંદિર)',
-                'રાજકોટ',
-                'ભાવનગર',
                 'અમદાવાદ',
+                'ભાવનગર',
+                'રાજકોટ'
               ],
               correctOptionIndex: 0,
               explanation: 'ગાંધીજીનો જન્મ ૨ ઓક્ટોબર ૧૮૬૯ ના રોજ પોરબંદર ખાતે થયો હતો, જ્યાં આજે પૂજ્ય કસ્તૂરબા અને ગાંધીજીનું સ્મારક "કીર્તિ મંદિર" આવેલું છે.',
@@ -20185,60 +20185,60 @@ McqModel(
               id: 'mcq_sec7_gandhiji_part1_2',
               question: 'ગાંધીજી કયા વેપારીનો કાનૂની કેસ લડવા માટે ઈ.સ. ૧૮૯૩ માં દક્ષિણ આફ્રિકા ગયા હતા?',
               options: [
-                'શેઠ દાદા અબ્દુલ્લાહ',
                 'જીવનલાલ દેસાઈ',
-                'અંબાલાલ સારાભાઈ',
+                'શેઠ દાદા અબ્દુલ્લાહ',
                 'મગનલાલ ગાંધી',
+                'અંબાલાલ સારાભાઈ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૮૯૩ માં પોરબંદરના મુસ્લિમ વેપારી શેઠ દાદા અબ્દુલ્લાહના કેસના સિલસિલામાં ગાંધીજી ડરબન (દક્ષિણ આફ્રિકા) ગયા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part1_3',
               question: '૭ જૂન ૧૮૯૩ ના રોજ દક્ષિણ આફ્રિકાના કયા રેલવે સ્ટેશને રંગભેદને કારણે ગાંધીજીને પ્રથમ વર્ગના ડબ્બામાંથી પ્લેટફોર્મ પર ધકેલી દેવાયા હતા?',
               options: [
-                'પીટરમેરિત્ઝબર્ગ (Pietermaritzburg)',
                 'જોહાનિસબર્ગ',
                 'ડરબન',
-                'પ્રિટોરિયા',
+                'પીટરમેરિત્ઝબર્ગ (Pietermaritzburg)',
+                'પ્રિટોરિયા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'પીટરમેરિત્ઝબર્ગ રેલવે સ્ટેશને રંગભેદના કડવા અનુભવ બાદ ગાંધીજીએ અન્યાય સામે અહિંસક લડત લડવાનો ઐતિહાસિક સંકલ્પ કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part1_4',
               question: 'દક્ષિણ આફ્રિકામાં ગાંધીજીએ જ્હોન રસ્કિનના પુસ્તક "અનટુ ધીસ લાસ્ટ" થી પ્રેરિત થઈ ૧૯૦૪ માં કયો આશ્રમ સ્થાપ્યો હતો?',
               options: [
-                'ફિનિક્સ આશ્રમ (Phoenix Settlement)',
-                'ટોલ્સટોય ફાર્મ',
-                'સાબરમતી આશ્રમ',
                 'કોચરબ આશ્રમ',
+                'સાબરમતી આશ્રમ',
+                'ફિનિક્સ આશ્રમ (Phoenix Settlement)',
+                'ટોલ્સટોય ફાર્મ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગાંધીજીએ ૧૯૦૪ માં ડરબન નજીક રસ્કિનના વિચારોથી પ્રેરિત થઈ ફિનિક્સ આશ્રમ સ્થાપ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part1_5',
               question: 'ગાંધીજીએ ઈ.સ. ૧૯૦૯ માં લંડનથી દક્ષિણ આફ્રિકા આવતી સ્ટીમર પર કયું ઐતિહાસિક પુસ્તક મૂળ ગુજરાતી ભાષામાં લખ્યું હતું?',
               options: [
+                'ગીતા બોધ',
                 'હિંદ સ્વરાજ',
                 'સત્યના પ્રયોગો',
-                'મંગલ પ્રભાત',
-                'ગીતા બોધ',
+                'મંગલ પ્રભાત'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ઈ.સ. ૧૯૦૯ માં "કિલ્ડોનન કેસલ" સ્ટીમર પર ગાંધીજીએ માત્ર ૯ દિવસમાં ગુજરાતીમાં "હિંદ સ્વરાજ" પુસ્તક લખ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part1_6',
               question: '૨૧ વર્ષના દક્ષિણ આફ્રિકા રોકાણ બાદ ગાંધીજી કાયમ માટે કઈ તારીખે ભારત પરત ફર્યા, જે દિવસે "પ્રવાસી ભારતીય દિવસ" મનાવાય છે?',
               options: [
-                '૯ જાન્યુઆરી ૧૯૧૫',
-                '૨ ઓક્ટોબર ૧૯૧૪',
                 '૨૫ મે ૧૯૧૫',
                 '૧૫ ઓગસ્ટ ૧૯૧૫',
+                '૨ ઓક્ટોબર ૧૯૧૪',
+                '૯ જાન્યુઆરી ૧૯૧૫'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગાંધીજી ૯ જાન્યુઆરી ૧૯૧૫ ના રોજ મુંબઈ બંદરે ઉતર્યા હતા, તેથી દર વર્ષે ૯ જાન્યુઆરી "પ્રવાસી ભારતીય દિવસ" તરીકે ઉજવાય છે.',
             ),
             McqModel(
@@ -20246,9 +20246,9 @@ McqModel(
               question: 'ગાંધીજીના રાજકીય ગુરુ અને આધ્યાત્મિક ગુરુ અનુક્રમે કોણ હતા?',
               options: [
                 'ગોપાલકૃષ્ણ ગોખલે અને શ્રીમદ્ રાજચંદ્ર',
-                'બાળ ગંગાધર તિલક અને સ્વામી વિવેકાનંદ',
                 'દાદાભાઈ નવરોજી અને મહાદેવ ગોવિંદ રાનડે',
                 'સુરેન્દ્રનાથ બેનર્જી અને દયાનંદ સરસ્વતી',
+                'બાળ ગંગાધર તિલક અને સ્વામી વિવેકાનંદ'
               ],
               correctOptionIndex: 0,
               explanation: 'ગાંધીજીના રાજકીય ગુરુ ગોપાલકૃષ્ણ ગોખલે હતા અને આધ્યાત્મિક ગુરુ જૈન ફિલસૂફ કવિ શ્રીમદ્ રાજચંદ્ર (રાયચંદભાઈ) હતા.',
@@ -20257,24 +20257,24 @@ McqModel(
               id: 'mcq_sec7_gandhiji_part1_8',
               question: 'ગાંધીજીએ ૨૫ મે ૧૯૧૫ ના રોજ અમદાવાદમાં સૌપ્રથમ કોચરબ આશ્રમની સ્થાપના કોના બંગલામાં કરી હતી?',
               options: [
-                'બેરિસ્ટર જીવનલાલ કાળિદાસ દેસાઈ',
                 'શેઠ અંબાલાલ સારાભાઈ',
-                'મંગળદાસ ગિરધરદાસ',
+                'બેરિસ્ટર જીવનલાલ કાળિદાસ દેસાઈ',
                 'રણછોડલાલ છોટાલાલ',
+                'મંગળદાસ ગિરધરદાસ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ગાંધીજીએ પાલડી-કોચરબ ખાતે બેરિસ્ટર જીવનલાલ દેસાઈના બંગલામાં ભાડેથી સત્યાગ્રહ આશ્રમ (કોચરબ આશ્રમ) શરૂ કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part1_9',
               question: 'સાબરમતી નદીના કિનારે "સાબરમતી આશ્રમ" ની વિધિવત્ સ્થાપના કઈ તારીખે કરવામાં આવી હતી?',
               options: [
-                '૧૭ જૂન ૧૯૧૭',
                 '૨૫ મે ૧૯૧૫',
-                '૧૨ માર્ચ ૧૯૩૦',
+                '૧૭ જૂન ૧૯૧૭',
                 '૯ જાન્યુઆરી ૧૯૧૫',
+                '૧૨ માર્ચ ૧૯૩૦'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કોચરબમાં પ્લેગનો ઉપદ્રવ થતાં ૧૭ જૂન ૧૯૧૭ ના રોજ સાબરમતી નદીના પવિત્ર તટ પર આશ્રમ ખસેડવામાં આવ્યો હતો.',
             ),
             McqModel(
@@ -20283,8 +20283,8 @@ McqModel(
               options: [
                 'હૃદયકુંજ',
                 'વિનોબા કુટીર',
-                'ઉદ્યોગ મંદિર',
                 'મગન નિવાસ',
+                'ઉદ્યોગ મંદિર'
               ],
               correctOptionIndex: 0,
               explanation: 'સાબરમતી આશ્રમમાં ગાંધીજી અને કસ્તૂરબાના નિવાસસ્થાનને કાકાસાહેબ કાલેલકરે "હૃદયકુંજ" નામ આપ્યું હતું.',
@@ -20293,120 +20293,120 @@ McqModel(
               id: 'mcq_sec7_gandhiji_part2_1',
               question: 'ભારતમાં ગાંધીજીનો સર્વપ્રથમ સત્યાગ્રહ કયો હતો?',
               options: [
-                'ચંપારણ સત્યાગ્રહ (૧૯૧૭ - બિહાર)',
                 'ખેડા સત્યાગ્રહ (૧૯૧૮)',
-                'અમદાવાદ મિલ મજૂર આંદોલન (૧૯૧૮)',
                 'બારડોલી સત્યાગ્રહ (૧૯૨૮)',
+                'અમદાવાદ મિલ મજૂર આંદોલન (૧૯૧૮)',
+                'ચંપારણ સત્યાગ્રહ (૧૯૧૭ - બિહાર)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગાંધીજીએ ભારતમાં સૌપ્રથમ સત્યાગ્રહ ૧૯૧૭ માં બિહારના ચંપારણ ખાતે ગળીના ખેડૂતો માટે કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_2',
               question: 'ચંપારણ સત્યાગ્રહમાં કઈ અન્યાયી પ્રથા વિરુદ્ધ ગાંધીજીએ અહિંસક લડત આપી હતી?',
               options: [
-                'તિનકઠિયા પદ્ધતિ (જમીનના ૩/૨૦ ભાગ પર ગળીનું વાવેતર)',
-                'રૈયતવારી પદ્ધતિ',
-                'હાળી પ્રથા',
                 'વેઠ પ્રથા',
+                'હાળી પ્રથા',
+                'રૈયતવારી પદ્ધતિ',
+                'તિનકઠિયા પદ્ધતિ (જમીનના ૩/૨૦ ભાગ પર ગળીનું વાવેતર)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ખેડૂતોને પોતાની જમીનના ૩/૨૦ ભાગ પર ફરજિયાત ગળી વાવવાની "તિનકઠિયા પ્રથા" ચંપારણ સત્યાગ્રહનું મુખ્ય કારણ હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_3',
               question: 'ચંપારણ સત્યાગ્રહની ઐતિહાસિક સફળતા બાદ કવિવર રવીન્દ્રનાથ ટાગોરે ગાંધીજીને કયું બિરુદ આપ્યું હતું?',
               options: [
-                'મહાત્મા (Mahatma)',
                 'રાષ્ટ્રપિતા',
                 'બાપુ',
-                'મલંગ બાબા',
+                'મહાત્મા (Mahatma)',
+                'મલંગ બાબા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ચંપારણના અહિંસક વિજયથી પ્રભાવિત થઈ કવિવર રવીન્દ્રનાથ ટાગોરે મોહનદાસ ગાંધીને "મહાત્મા" નું બિરુદ આપ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_4',
               question: 'ભારતમાં પોતાના જીવનની સર્વપ્રથમ ભૂખ હડતાળ (ઉપવાસ) ગાંધીજીએ કયા આંદોલન દરમિયાન કરી હતી?',
               options: [
-                'અમદાવાદ મિલ મજૂર આંદોલન (૧૫ માર્ચ ૧૯૧૮)',
-                'ચંપારણ સત્યાગ્રહ (૧૯૧૭)',
-                'ખેડા સત્યાગ્રહ (૧૯૧૮)',
                 'અસહકાર આંદોલન (૧૯૨૦)',
+                'અમદાવાદ મિલ મજૂર આંદોલન (૧૫ માર્ચ ૧૯૧૮)',
+                'ખેડા સત્યાગ્રહ (૧૯૧૮)',
+                'ચંપારણ સત્યાગ્રહ (૧૯૧૭)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ગાંધીજીએ ૧૫ માર્ચ ૧૯૧૮ ના રોજ અમદાવાદ મિલ મજૂરો માટે ભારતમાં સૌપ્રથમ વખત ભૂખ હડતાળ (ઉપવાસ) કરી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_5',
               question: 'અમદાવાદ મિલ મજૂર હડતાળમાં ગાંધીજીના સત્યાગ્રહ બાદ લવાદે મજૂરોને કેટલા ટકા વેતન વધારો મંજૂર કર્યો હતો?',
               options: [
-                '૩૫% વેતન વધારો',
-                '૨૦% વેતન વધારો',
                 '૫૦% વેતન વધારો',
-                '૨૫% વેતન વધારો',
+                '૨૦% વેતન વધારો',
+                '૩૫% વેતન વધારો',
+                '૨૫% વેતન વધારો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગાંધીજીની ન્યાયી માંગણી મુજબ લવાદ પ્રોફેસર આનંદશંકર ધ્રુવે મજૂરોને પૂરા ૩૫% વેતન વધારો મંજૂર કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_6',
               question: 'અમદાવાદમાં ઈ.સ. ૧૯૨૦ માં સ્થપાયેલા "મજૂર મહાજન સંઘ" (TLA) ના સર્વપ્રથમ પ્રમુખ કોણ બન્યા હતા?',
               options: [
-                'અનસૂયાબહેન સારાભાઈ',
-                'અંબાલાલ સારાભાઈ',
                 'ઇન્દુલાલ યાજ્ઞિક',
                 'સરદાર વલ્લભભાઈ પટેલ',
+                'અનસૂયાબહેન સારાભાઈ',
+                'અંબાલાલ સારાભાઈ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અમદાવાદ મિલ મજૂર આંદોલનમાંથી ૧૯૨૦ માં સ્થપાયેલા મજૂર મહાજન સંઘના પ્રથમ પ્રમુખ અનસૂયાબહેન સારાભાઈ બન્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_7',
               question: 'ગુજરાતની ધરતી પર થયેલો સર્વપ્રથમ ખેડૂત સત્યાગ્રહ કયો હતો?',
               options: [
-                'ખેડા સત્યાગ્રહ (૧૯૧૮)',
                 'બારડોલી સત્યાગ્રહ (૧૯૨૮)',
-                'બોરસદ સત્યાગ્રહ (૧૯૨૩)',
                 'ધરાસણા સત્યાગ્રહ (૧૯૩૦)',
+                'બોરસદ સત્યાગ્રહ (૧૯૨૩)',
+                'ખેડા સત્યાગ્રહ (૧૯૧૮)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'પાક નિષ્ફળ જવા છતાં જમીન મહેસૂલ માફ ન કરવા સામે ૧૯૧૮ માં થયેલો ખેડા સત્યાગ્રહ ગુજરાતનો પ્રથમ ખેડૂત સત્યાગ્રહ હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_8',
               question: 'ખેડા સત્યાગ્રહ (૧૯૧૮) માં પોતાની ધીકતી વકીલાત કાયમ માટે છોડી ગાંધીજી સાથે સત્યાગ્રહના મુખ્ય સેનાપતિ તરીકે કોણ જોડાયા હતા?',
               options: [
-                'સરદાર વલ્લભભાઈ પટેલ',
                 'વિઠ્ઠલભાઈ પટેલ',
                 'મહાદેવ દેસાઈ',
-                'નરહરિ પરીખ',
+                'સરદાર વલ્લભભાઈ પટેલ',
+                'નરહરિ પરીખ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'બેરિસ્ટર વલ્લભભાઈ પટેલે ખેડા સત્યાગ્રહ વખતે પોતાની વકીલાત છોડી સત્યાગ્રહનું ક્ષેત્રીય સેનાપતિ પદ સંભાળ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_9',
               question: 'ખેડા સત્યાગ્રહ દરમિયાન કઠલાલના કયા ક્રાંતિવીરને સરકારી જપ્ત ખેતરમાંથી પાક લણી લેવા બદલ ગાંધીજીએ "ડુંગળી ચોર" નું બિરુદ આપ્યું હતું?',
               options: [
-                'મોહનલાલ પંડ્યા',
-                'શંકરલાલ પરીખ',
-                'અમૃતલાલ ઠક્કર',
                 'ઇન્દુલાલ યાજ્ઞિક',
+                'મોહનલાલ પંડ્યા',
+                'અમૃતલાલ ઠક્કર',
+                'શંકરલાલ પરીખ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'મોહનલાલ પંડ્યાએ જપ્ત ખેતરમાંથી ડુંગળી લણી સવિનય કાનૂનભંગ કર્યો હતો, જેથી ગાંધીજીએ તેમને "ડુંગળી ચોર" નું બિરુદ આપ્યું.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhiji_part2_10',
               question: '૧૩ એપ્રિલ ૧૯૧૯ ના રોજ અમૃતસર ખાતે બનેલા જલિયાંવાલા બાગ હત્યાકાંડના વિરોધમાં કવિવર રવીન્દ્રનાથ ટાગોરે કયો બ્રિટિશ ખિતાબ પરત કર્યો હતો?',
               options: [
-                'નાઈટહૂડ (સર)',
-                'કેસરે હિન્દ',
                 'રાય બહાદુર',
-                'ઓર્ડર ઓફ બ્રિટિશ એમ્પાયર',
+                'કેસરે હિન્દ',
+                'નાઈટહૂડ (સર)',
+                'ઓર્ડર ઓફ બ્રિટિશ એમ્પાયર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'જલિયાંવાલા બાગ હત્યાકાંડના વિરોધમાં રવીન્દ્રનાથ ટાગોરે "નાઈટહૂડ" (સર) નો ખિતાબ અને ગાંધીજીએ "કેસરે હિન્દ" ચંદ્રક પરત કર્યો હતો.',
             ),
             McqModel(
@@ -20415,8 +20415,8 @@ McqModel(
               options: [
                 'કૈસર-એ-હિન્દ (Kaisar-i-Hind)',
                 'નાઈટહૂડ (Knighthood)',
-                'રાય બહાદુર',
                 'દીવાન બહાદુર',
+                'રાય બહાદુર'
               ],
               correctOptionIndex: 0,
               explanation: 'ગાંધીજીએ બોઅર યુદ્ધ અને એમ્બ્યુલન્સ સેવા બદલ મળેલો કૈસર-એ-હિન્દ સુવર્ણ ચંદ્રક ૧ ઓગસ્ટ ૧૯૨૦ ના રોજ અસહકાર આંદોલનની શરૂઆતમાં પરત કર્યો હતો.',
@@ -20428,7 +20428,7 @@ McqModel(
                 'સા વિદ્યા યા વિમુક્તયે',
                 'યોગઃ કર્મસુ કૌશલમ્',
                 'સત્યમેવ જયતે',
-                'વિદ્યા દદાતિ વિનયમ્',
+                'વિદ્યા દદાતિ વિનયમ્'
               ],
               correctOptionIndex: 0,
               explanation: 'ગુજરાત વિદ્યાપીઠનું ધ્યેય વાક્ય "સા વિદ્યા યા વિમુક્તયે" (જે મુક્તિ અપાવે તે જ સાચી વિદ્યા છે) છે.',
@@ -20437,84 +20437,84 @@ McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_3',
               question: 'ગુજરાત વિદ્યાપીઠની સ્થાપના વખતે તેના આજીવન કુલપતિ (Chancellor) અને પ્રથમ કુલનાયક (Vice Chancellor) અનુક્રમે કોણ બન્યા હતા?',
               options: [
-                'કુલપતિ: મહાત્મા ગાંધી, કુલનાયક: ડૉ. પ્રણજીવનદાસ મહેતા',
-                'કુલપતિ: સરદાર પટેલ, કુલનાયક: કાકાસાહેબ કાલેલકર',
                 'કુલપતિ: મહાત્મા ગાંધી, કુલનાયક: આચાર્ય ગિડવાણી',
+                'કુલપતિ: સરદાર પટેલ, કુલનાયક: કાકાસાહેબ કાલેલકર',
                 'કુલપતિ: આનંદશંકર ધ્રુવ, કુલનાયક: કિશોરલાલ મશરૂવાળા',
+                'કુલપતિ: મહાત્મા ગાંધી, કુલનાયક: ડૉ. પ્રણજીવનદાસ મહેતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'મહાત્મા ગાંધીજી આજીવન કુલપતિ રહ્યા અને ગાંધીજીના પરમ મિત્ર ડૉ. પ્રણજીવનદાસ મહેતા ગુજરાત વિદ્યાપીઠના પ્રથમ કુલનાયક (વાઈસ ચાન્સેલર) બન્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_4',
               question: 'અસહકાર આંદોલન મોકૂફ રાખવાનું મુખ્ય કારણ બનેલો હિંસક "ચોરી-ચૌરા કાંડ" ક્યારે બન્યો હતો?',
               options: [
-                '૪ ફેબ્રુઆરી ૧૯૨૨',
-                '૧૨ ફેબ્રુઆરી ૧૯૨૨',
                 '૧ ઓગસ્ટ ૧૯૨૦',
+                '૧૨ ફેબ્રુઆરી ૧૯૨૨',
                 '૧૦ માર્ચ ૧૯૨૨',
+                '૪ ફેબ્રુઆરી ૧૯૨૨'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૪ ફેબ્રુઆરી ૧૯૨૨ ના રોજ ઉત્તર પ્રદેશના ગોરખપુર નજીક ચોરી-ચૌરા ગામે પોલીસ ચોકી સળગાવી ૨૨ પોલીસકર્મીઓની હત્યા થઈ હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_5',
               question: 'ચોરી-ચૌરા હિંસા બાદ ગાંધીજીએ ૧૨ ફેબ્રુઆરી ૧૯૨૨ ના રોજ કયા સ્થળે મળેલી કોંગ્રેસ કારોબારીમાં અસહકાર આંદોલન પાછું ખેંચવાની જાહેરાત કરી?',
               options: [
-                'બારડોલી',
                 'અમદાવાદ',
+                'બારડોલી',
                 'નાગપુર',
-                'કોલકાતા',
+                'કોલકાતા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ગાંધીજીએ ૧૨ ફેબ્રુઆરી ૧૯૨૨ ના રોજ બારડોલી ખાતે કોંગ્રેસ કારોબારીની બેઠકમાં અસહકાર આંદોલન મોકૂફ રાખ્યું અને તેને પોતાની "હિમાલય જેવડી ભૂલ" ગણાવી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_6',
               question: 'માર્ચ ૧૯૨૨ માં અમદાવાદ સરકિટ હાઉસ ખાતે રાજદ્રોહના ઐતિહાસિક ખટલામાં કયા બ્રિટિશ જજે ગાંધીજીને ૬ વર્ષની જેલની સજા ફટકારી હતી?',
               options: [
-                'જજ સી. એન. બ્રુમફિલ્ડ (C.N. Broomfield)',
-                'જજ સર સિડની રોલેટ',
-                'જજ એલિજાહ ઇમ્પે',
                 'જજ જેમ્સ મેકફર્સન',
+                'જજ એલિજાહ ઇમ્પે',
+                'જજ સી. એન. બ્રુમફિલ્ડ (C.N. Broomfield)',
+                'જજ સર સિડની રોલેટ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'અમદાવાદના સેશન્સ જજ સી. એન. બ્રુમફિલ્ડે ૧૮ માર્ચ ૧૯૨૨ ના રોજ ગાંધીજી સમક્ષ ચાલતા ઐતિહાસિક મુકદ્દમામાં ૬ વર્ષની સાદી કેદની સજા સંભળાવી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_7',
               question: 'ઈ.સ. ૧૯૨૩ માં રાષ્ટ્રધ્વજ (ત્રિરંગો) ફરકાવવા પર મુકાયેલા બ્રિટિશ પ્રતિબંધ સામે થયેલા વિખ્યાત "ઝંડા સત્યાગ્રહ" નું મુખ્ય કેન્દ્ર કયું શહેર હતું?',
               options: [
-                'નાગપુર',
                 'અમદાવાદ',
+                'નાગપુર',
                 'સુરત',
-                'જબલપુર',
+                'જબલપુર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૯૨૩ માં ઝંડા સત્યાગ્રહનું મુખ્ય કેન્દ્ર નાગપુર બન્યું હતું, જેમાં સરદાર વલ્લભભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલે કુનેહપૂર્વક નેતૃત્વ કરી વિજય મેળવ્યો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_8',
               question: '૧૯૨૩-૨૪ ના બોરસદ સત્યાગ્રહ દરમિયાન બ્રિટિશ સરકારે ડાકુ બાબર દેવા અને અલીયાના આતંકના બહાને પ્રજા પર માથાદીઠ કયો દંડાત્મક વેરો નાખ્યો હતો?',
               options: [
-                'હૈડિયા વેરો (રૂ. ૨ અને ૭ આના)',
-                'ચોથ વેરો (રૂ. ૫)',
-                'ખંડણી વેરો (રૂ. ૧ અને ૪ આના)',
                 'તીનકઠિયા વેરો (રૂ. ૩)',
+                'ચોથ વેરો (રૂ. ૫)',
+                'હૈડિયા વેરો (રૂ. ૨ અને ૭ આના)',
+                'ખંડણી વેરો (રૂ. ૧ અને ૪ આના)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'પોલીસની નિષ્ફળતા છુપાવવા સરકારે બોરસદની પ્રજા પર માથાદીઠ રૂ. ૨ અને ૭ આનાનો દંડાત્મક "હૈડિયા વેરો" (બાબરીયો વેરો) લાદ્યો હતો, જે સરદાર પટેલની લડત બાદ રદ થયો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part1_9',
               question: '૧૯૨૮ ના ઐતિહાસિક બારડોલી સત્યાગ્રહની તપાસ બાદ "બ્રુમફિલ્ડ-મેક્સવેલ કમિટી" એ જમીન મહેસૂલનો ૨૨% વધારો ઘટાડીને આખરે કેટલા ટકા માન્ય રાખ્યો?',
               options: [
+                '૧૦.૦%',
                 '૬.૦૩%',
                 '૧૨.૫%',
-                '૩.૫%',
-                '૧૦.૦%',
+                '૩.૫%'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બ્રુમફિલ્ડ-મેક્સવેલ કમિટીએ ખેડૂતોની દલીલો માન્ય રાખી ૨૨% નો અન્યાયી વધારો રદ કરી માત્ર ૬.૦૩% મહેસૂલ વધારો મંજૂર કર્યો અને જપ્ત જમીનો પાછી સોંપી.',
             ),
             McqModel(
@@ -20524,7 +20524,7 @@ McqModel(
                 'બારડોલીની મહિલાઓ વતી મહાત્મા ગાંધીજી દ્વારા',
                 'સુભાષચંદ્ર બોઝ દ્વારા',
                 'પંડિત જવાહરલાલ નેહરુ દ્વારા',
-                'રવીન્દ્રનાથ ટાગોર દ્વારા',
+                'રવીન્દ્રનાથ ટાગોર દ્વારા'
               ],
               correctOptionIndex: 0,
               explanation: 'બારડોલીના અદ્વિતીય અહિંસક સંગઠન અને ખેડૂતોના વિજયથી ગદ્ગદ થઈ બારડોલીની મહિલાઓ વતી ગાંધીજીએ વલ્લભભાઈ પટેલને "સરદાર" નું બિરુદ અર્પણ કર્યું.',
@@ -20535,8 +20535,8 @@ McqModel(
               options: [
                 '૧૨ માર્ચ ૧૯૩૦',
                 '૬ એપ્રિલ ૧૯૩૦',
-                '૧૨ ફેબ્રુઆરી ૧૯૩૦',
                 '૨૬ જાન્યુઆરી ૧૯૩૦',
+                '૧૨ ફેબ્રુઆરી ૧૯૩૦'
               ],
               correctOptionIndex: 0,
               explanation: 'ગાંધીજીએ ૧૨ માર્ચ ૧૯૩૦ ના રોજ સવારે ૬:૩૦ વાગ્યે સાબરમતી આશ્રમથી ૭૮ સાથીઓ સાથે દાંડીકૂચનું પ્રસ્થાન કર્યું હતું.',
@@ -20545,24 +20545,24 @@ McqModel(
               id: 'mcq_sec7_dandi_march_2',
               question: '૧૨ માર્ચ ૧૯૩૦ ના રોજ દાંડીકૂચના પ્રસ્થાન વખતે ગાંધીજી સાથે સાબરમતી આશ્રમના કેટલા સાથી સત્યાગ્રહીઓ જોડાયા હતા?',
               options: [
-                '૭૮ સાથીઓ',
                 '૭૨ સાથીઓ',
+                '૭૮ સાથીઓ',
                 '૮૫ સાથીઓ',
-                '૧૦૧ સાથીઓ',
+                '૧૦૧ સાથીઓ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'સાબરમતી આશ્રમમાંથી ગાંધીજી સહિત ૭૮ સાથીઓ નીકળ્યા હતા, પાછળથી નેપાળના ખડગબહાદુર સિંહ જોડાતાં કુલ સંખ્યા ૭૯ થઈ હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_dandi_march_3',
               question: 'દાંડીકૂચમાં જોડાયેલા ૭૮ સત્યાગ્રહીઓમાં સૌથી નાની ઉંમરના (માત્ર ૧૬ વર્ષના) સત્યાગ્રહી કોણ હતા?',
               options: [
-                'વિઠ્ઠલ લીલાધર ઠક્કર',
-                'કાંતિલાલ ગાંધી',
-                'રાઘવન પિલ્લઈ',
                 'ખડગબહાદુર સિંહ',
+                'રાઘવન પિલ્લઈ',
+                'વિઠ્ઠલ લીલાધર ઠક્કર',
+                'કાંતિલાલ ગાંધી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'દાંડીકૂચમાં સૌથી વરિષ્ઠ ૬૧ વર્ષના ગાંધીજી હતા અને સૌથી નાની વયના ૧૬ વર્ષીય વિઠ્ઠલ લીલાધર ઠક્કર હતા.',
             ),
             McqModel(
@@ -20570,9 +20570,9 @@ McqModel(
               question: 'સાબરમતી આશ્રમથી નવસારી જિલ્લાના દાંડી દરિયાકિનારા વચ્ચેનું આશરે અંતર કેટલા માઈલ (અથવા કિમી) હતું?',
               options: [
                 '૨૪૧ માઈલ (આશરે ૩૮૫ કિમી)',
-                '૧૫૦ માઈલ (આશરે ૨૪૦ કિમી)',
                 '૩૨૦ માઈલ (આશરે ૫૧૨ કિમી)',
-                '૧૮૫ માઈલ (આશરે ૨૯૬ કિમી)',
+                '૧૫૦ માઈલ (આશરે ૨૪૦ કિમી)',
+                '૧૮૫ માઈલ (આશરે ૨૯૬ કિમી)'
               ],
               correctOptionIndex: 0,
               explanation: 'દાંડીકૂચનું કુલ અંતર ૨૪૧ માઈલ (આશરે ૩૮૫ થી ૩૮૮ કિમી) હતું, જે ૨૪ દિવસમાં પગપાળા કાપવામાં આવ્યું હતું.',
@@ -20581,36 +20581,36 @@ McqModel(
               id: 'mcq_sec7_dandi_march_5',
               question: '"હું કાગડા-કૂતરાના મોતે મરીશ, પણ સ્વરાજ લીધા વિના આશ્રમમાં પાછો પગ નહીં મૂકું!" - આ ઐતિહાસિક પ્રતિજ્ઞા ગાંધીજીએ ક્યારે લીધી હતી?',
               options: [
-                '૧૨ માર્ચ ૧૯૩૦ - દાંડીકૂચના પ્રસ્થાન વખતે',
-                '૧ ઓગસ્ટ ૧૯૨૦ - અસહકાર વખતે',
-                '૧૨ ફેબ્રુઆરી ૧૯૨૨ - ચોરી-ચૌરા વખતે',
                 '૮ ઓગસ્ટ ૧૯૪૨ - હિન્દ છોડો વખતે',
+                '૧ ઓગસ્ટ ૧૯૨૦ - અસહકાર વખતે',
+                '૧૨ માર્ચ ૧૯૩૦ - દાંડીકૂચના પ્રસ્થાન વખતે',
+                '૧૨ ફેબ્રુઆરી ૧૯૨૨ - ચોરી-ચૌરા વખતે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૧૨ માર્ચ ૧૯૩૦ ના રોજ દાંડીકૂચ માટે સાબરમતી આશ્રમ છોડતી વખતે ગાંધીજીએ આ ભીષ્મ પ્રતિજ્ઞા લીધી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_dandi_march_6',
               question: '૬ એપ્રિલ ૧૯૩૦ ના રોજ દાંડીના દરિયાકિનારે ચપટી મીઠું ઉપાડી ગાંધીજીએ કયા શબ્દો ઉચ્ચાર્યા હતા?',
               options: [
-                'હું આનાથી બ્રિટિશ સામ્રાજ્યની ઇમારતના પાયામાં લૂણો લગાડું છું!',
+                'તુમ મુજે ખૂન દો, મેં તુમ્હે આઝાદી દૂંગા!',
                 'કરેંગે યા મરેંગે!',
                 'સ્વરાજ મારો જન્મસિદ્ધ અધિકાર છે!',
-                'તુમ મુજે ખૂન દો, મેં તુમ્હે આઝાદી દૂંગા!',
+                'હું આનાથી બ્રિટિશ સામ્રાજ્યની ઇમારતના પાયામાં લૂણો લગાડું છું!'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૬ એપ્રિલ ૧૯૩૦ ના રોજ સવારે ૬:૩૦ વાગ્યે ચપટી મીઠું ઉપાડી ગાંધીજીએ "બ્રિટિશ સામ્રાજ્યના પાયામાં લૂણો લગાડવાની" ઐતિહાસિક ઘોષણા કરી.',
             ),
             McqModel(
               id: 'mcq_sec7_dandi_march_7',
               question: 'મહાદેવભાઈ દેસાઈએ ગાંધીજીની ઐતિહાસિક દાંડીકૂચની સરખામણી કોની મહાન યાત્રા સાથે કરી હતી?',
               options: [
-                'ગૌતમ બુદ્ધના "મહાભિનિષ્ક્રમણ" સાથે',
                 'શ્રી રામના વનવાસ ગમન સાથે',
-                'નેપોલિયનની પેરિસ કૂચ સાથે',
+                'ગૌતમ બુદ્ધના "મહાભિનિષ્ક્રમણ" સાથે',
                 'મુસોલિનીની રોમ માર્ચ સાથે',
+                'નેપોલિયનની પેરિસ કૂચ સાથે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'મહાદેવભાઈ દેસાઈએ દાંડીકૂચને ગૌતમ બુદ્ધના "મહાભિનિષ્ક્રમણ" સાથે સરખાવી હતી, જ્યારે સુભાષચંદ્ર બોઝે નેપોલિયનની પેરિસ કૂચ સાથે સરખાવી હતી.',
             ),
             McqModel(
@@ -20619,8 +20619,8 @@ McqModel(
               options: [
                 'સરોજિની નાયડુ',
                 'કસ્તૂરબા ગાંધી',
-                'મીઠુબહેન પીટીટ',
                 'અનસૂયાબહેન સારાભાઈ',
+                'મીઠુબહેન પીટીટ'
               ],
               correctOptionIndex: 0,
               explanation: 'ધરાસણા સત્યાગ્રહમાં ગાંધીજી અને અબ્બાસ તૈયબજી પછી સરોજિની નાયડુ, ઇમામ સાહેબ અને મણિલાલ ગાંધીએ નેતૃત્વ લીધું હતું.',
@@ -20630,9 +20630,9 @@ McqModel(
               question: 'ધરાસણા સત્યાગ્રહમાં બ્રિટિશ પોલીસના અમાનુષી અત્યાચારનું પ્રત્યક્ષ દર્શન કરી વૈશ્વિક અહેવાલ પ્રસિદ્ધ કરનાર અમેરિકન પત્રકાર કોણ હતા?',
               options: [
                 'વેબ મિલર (Webb Miller)',
-                'લુઈસ ફિશર (Louis Fischer)',
-                'વિલિયમ શિરર',
                 'માર્ક ટ્વેઇન',
+                'લુઈસ ફિશર (Louis Fischer)',
+                'વિલિયમ શિરર'
               ],
               correctOptionIndex: 0,
               explanation: 'અમેરિકન પત્રકાર વેબ મિલરે ધરાસણામાં સત્યાગ્રહીઓ પર થયેલા નિર્દયી લાઠીચાર્જનો સનસનીખેજ અહેવાલ સમગ્ર વિશ્વમાં પ્રસિદ્ધ કર્યો હતો.',
@@ -20641,24 +20641,24 @@ McqModel(
               id: 'mcq_sec7_dandi_march_10',
               question: '૧૯૩૧ માં બીજી ગોળમેજી પરિષદમાં લંડન જતાં ગાંધીજીને "છેલ્લો કટોરો ઝેરનો આ પી જજો, બાપુ!" કાવ્ય સંભળાવનાર કવિ ઝવેરચંદ મેઘાણીને ગાંધીજીએ કયું અમર બિરુદ આપ્યું હતું?',
               options: [
-                'રાષ્ટ્રીય શાયર (National Bard)',
-                'કવિસમ્રાટ',
-                'યુગદ્રષ્ટા',
                 'સાહિત્ય દિવાકર',
+                'યુગદ્રષ્ટા',
+                'કવિસમ્રાટ',
+                'રાષ્ટ્રીય શાયર (National Bard)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ઝવેરચંદ મેઘાણીના કાવ્યસંગ્રહ સિંધુડોના કાવ્ય "છેલ્લો કટોરો" થી પ્રભાવિત થઈ ગાંધીજીએ તેમને "રાષ્ટ્રીય શાયર" નું બિરુદ આપ્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_1',
               question: '૧૬ ઓગસ્ટ ૧૯૩૨ ના રોજ બ્રિટિશ વડાપ્રધાન રામસે મેકડોનાલ્ડે કયો ચુકાદો જાહેર કરી દલિતો માટે અલગ મતદારમંડળની જાહેરાત કરી હતી?',
               options: [
+                'ઇલ્બર્ટ બિલ',
                 'સાંપ્રદાયિક પંચાટ (Communal Award)',
                 'રોલેટ એક્ટ',
-                'ઓગસ્ટ ઓફર',
-                'ઇલ્બર્ટ બિલ',
+                'ઓગસ્ટ ઓફર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'બ્રિટિશ વડાપ્રધાન રામસે મેકડોનાલ્ડે ૧૬ ઓગસ્ટ ૧૯૩૨ ના રોજ સાંપ્રદાયિક પંચાટ (Communal Award) જાહેર કર્યો હતો.',
             ),
             McqModel(
@@ -20668,7 +20668,7 @@ McqModel(
                 'પૂના કરાર (Poona Pact)',
                 'લખનૌ કરાર',
                 'ગાંધી-ઇરવિન કરાર',
-                'દિલ્હી કરાર',
+                'દિલ્હી કરાર'
               ],
               correctOptionIndex: 0,
               explanation: '૨૪ સપ્ટેમ્બર ૧૯૩૨ ના રોજ યેરવડા જેલમાં ગાંધીજી અને ડૉ. આંબેડકર વચ્ચે ઐતિહાસિક પૂના કરાર થયો, જેનાથી અલગ મતદારમંડળ રદ થયું.',
@@ -20679,8 +20679,8 @@ McqModel(
               options: [
                 '૧૪૭ બેઠકો',
                 '૧૧૫ બેઠકો',
-                '૧૮૫ બેઠકો',
                 '૨૦૦ બેઠકો',
+                '૧૮૫ બેઠકો'
               ],
               correctOptionIndex: 0,
               explanation: 'પૂના કરાર હેઠળ સંયુક્ત મતદારમંડળ સ્વીકારીને પ્રાંતીય વિધાનસભાઓમાં દલિતોની અનામત બેઠકો ૭૧ થી વધારીને ૧૪૭ કરવામાં આવી હતી.',
@@ -20689,48 +20689,48 @@ McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_4',
               question: '૧૯૩૨ માં મહાત્મા ગાંધી દ્વારા સ્થપાયેલા "હરિજન સેવક સંઘ" ના પ્રથમ પ્રમુખ અને મંત્રી અનુક્રમે કોણ હતા?',
               options: [
-                'પ્રમુખ: ઘનશ્યામદાસ બિરલા, મંત્રી: અમૃતલાલ ઠક્કર (ઠક્કર બાપા)',
                 'પ્રમુખ: સરદાર પટેલ, મંત્રી: મહાદેવભાઈ દેસાઈ',
-                'પ્રમુખ: ડૉ. આંબેડકર, મંત્રી: કિશોરલાલ મશરૂવાળા',
                 'પ્રમુખ: જમનાલાલ બજાજ, મંત્રી: કાકાસાહેબ કાલેલકર',
+                'પ્રમુખ: ઘનશ્યામદાસ બિરલા, મંત્રી: અમૃતલાલ ઠક્કર (ઠક્કર બાપા)',
+                'પ્રમુખ: ડૉ. આંબેડકર, મંત્રી: કિશોરલાલ મશરૂવાળા'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'હરિજન સેવક સંઘના પ્રથમ પ્રમુખ ઉદ્યોગપતિ ઘનશ્યામદાસ બિરલા અને મંત્રી પૂજ્ય ઠક્કર બાપા (અમૃતલાલ ઠક્કર) હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_5',
               question: 'ઓક્ટોબર ૧૯૪૦ માં શરૂ થયેલા "વ્યક્તિગત સત્યાગ્રહ" ના પ્રથમ સત્યાગ્રહી તરીકે ગાંધીજીએ કોની પસંદગી કરી હતી?',
               options: [
-                'આચાર્ય વિનોબા ભાવે',
                 'પંડિત જવાહરલાલ નેહરુ',
+                'આચાર્ય વિનોબા ભાવે',
                 'સરદાર વલ્લભભાઈ પટેલ',
-                'મૌલાના અબુલ કલામ આઝાદ',
+                'મૌલાના અબુલ કલામ આઝાદ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧૭ ઓક્ટોબર ૧૯૪૦ ના રોજ પવનાર આશ્રમથી પ્રથમ વ્યક્તિગત સત્યાગ્રહી તરીકે આચાર્ય વિનોબા ભાવે અને દ્વિતીય સત્યાગ્રહી તરીકે નેહરુની પસંદગી થઈ હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_6',
               question: '૮ ઓગસ્ટ ૧૯૪૨ ના રોજ મુંબઈના ગોવાળિયા ટેંક મેદાન ખાતેથી ગાંધીજીએ "હિન્દ છોડો" આંદોલન માટે કયો અમર નારો આપ્યો હતો?',
               options: [
-                'કરેંગે યા મરેંગે (Do or Die)',
-                'સ્વરાજ મારો જન્મસિદ્ધ અધિકાર છે',
                 'જય હિન્દ',
                 'તુમ મુજે ખૂન દો, મેં તુમ્હે આઝાદી દૂંગા',
+                'કરેંગે યા મરેંગે (Do or Die)',
+                'સ્વરાજ મારો જન્મસિદ્ધ અધિકાર છે'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'ગાંધીજીએ ૮ ઓગસ્ટ ૧૯૪૨ ના રોજ હિન્દ છોડો આંદોલન વખતે દેશવાસીઓને "કરેંગે યા મરેંગે" (Do or Die) નો અમર મંત્ર આપ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_7',
               question: 'હિન્દ છોડો આંદોલન દરમિયાન ૧૦ ઓગસ્ટ ૧૯૪૨ ના રોજ અમદાવાદની ગુજરાત કોલેજ સામે રાષ્ટ્રધ્વજ ફરકાવતાં શહીદી વહોરનાર વીર યુવાન કોણ હતા?',
               options: [
-                'વિનોદ કિનારીવાલા',
                 'ઉમાકાંત કડીયા',
+                'વિનોદ કિનારીવાલા',
                 'ભગતસિંહ',
-                'સુખદેવ',
+                'સુખદેવ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'માત્ર ૧૮ વર્ષની વયે ૧૦ ઓગસ્ટ ૧૯૪૨ ના રોજ ગુજરાત કોલેજ સામે તિરંગો લહેરાવતાં વિનોદ કિનારીવાલા અંગ્રેજ ગોળીબારમાં શહીદ થયા હતા.',
             ),
             McqModel(
@@ -20740,7 +20740,7 @@ McqModel(
                 'ઉમાકાંત કડીયા',
                 'વિનોદ કિનારીવાલા',
                 'પ્રહલાદ પટેલ',
-                'જગદીશ શાહ',
+                'જગદીશ શાહ'
               ],
               correctOptionIndex: 0,
               explanation: 'વડોદરાના રાવપુરા વિસ્તારમાં રાષ્ટ્રધ્વજ ફરકાવતાં પોલીસ ગોળીબારમાં યુવાન ઉમાકાંત કડીયા શહીદ થયા હતા.',
@@ -20749,24 +20749,24 @@ McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_9',
               question: '૧૯૪૨ ના હિન્દ છોડો આંદોલન વખતે અમદાવાદની કાપડ મિલોમાં મજૂરોએ સળંગ કેટલા દિવસ સુધી ઐતિહાસિક શાંતિપૂર્ણ હડતાળ પાડી હતી?',
               options: [
+                '૧૫૦ દિવસ',
                 '૧૦૫ દિવસ (૩ માસ ૧૫ દિવસ)',
                 '૫૦ દિવસ',
-                '૭૫ દિવસ',
-                '૧૫૦ દિવસ',
+                '૭૫ દિવસ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'અમદાવાદની ૭૫ મિલોમાં મજૂરોએ દેશભક્તિના પ્રતીકરૂપે સળંગ ૧૦૫ દિવસ (૩ મહિના અને ૧૫ દિવસ) સુધી સંપૂર્ણ શાંતિપૂર્ણ હડતાળ પાડી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_gandhi_satyagraho_part3_10',
               question: 'હિન્દ છોડો આંદોલન દરમિયાન ૯ ઓગસ્ટ ૧૯૪૨ ના રોજ ધરપકડ બાદ ગાંધીજી, કસ્તૂરબા અને મહાદેવભાઈ દેસાઈને કયા સ્થળે નજરકેદ રાખવામાં આવ્યા હતા?',
               options: [
-                'આગાખાન પેલેસ (પુણે)',
+                'સાબરમતી જેલ',
                 'અહમદનગર કિલ્લો',
                 'યેરવડા જેલ',
-                'સાબરમતી જેલ',
+                'આગાખાન પેલેસ (પુણે)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ગાંધીજી, કસ્તૂરબા અને મહાદેવભાઈ દેસાઈને પુણેના આગાખાન પેલેસમાં રાખવામાં આવ્યા હતા, જ્યાં મહાદેવભાઈ અને કસ્તૂરબાનું અવસાન થયું.',
             ),
           ],
@@ -20994,84 +20994,84 @@ McqModel(
               id: 'mcq_sec7_aarzi_hukumat_1',
               question: 'ઈ.સ. ૧૯૩૮-૩૯ માં થયેલા ઐતિહાસિક "રાજકોટ સત્યાગ્રહ" વખતે રાજકોટના ઠાકોર અને દીવાન અનુક્રમે કોણ હતા?',
               options: [
-                'ઠાકોર ધર્મેન્દ્રસિંહજી અને દીવાન દરબાર વિરાવાળા',
-                'ઠાકોર લખધીરસિંહજી અને દીવાન પ્રભાશંકર પટ્ટણી',
-                'ઠાકોર ભાવસિંહજી અને દીવાન ગૌરીશંકર ઓઝા',
                 'ઠાકોર દિગ્વિજયસિંહજી અને દીવાન રણજિતસિંહજી',
+                'ઠાકોર ભાવસિંહજી અને દીવાન ગૌરીશંકર ઓઝા',
+                'ઠાકોર ધર્મેન્દ્રસિંહજી અને દીવાન દરબાર વિરાવાળા',
+                'ઠાકોર લખધીરસિંહજી અને દીવાન પ્રભાશંકર પટ્ટણી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'રાજકોટના ઠાકોર ધર્મેન્દ્રસિંહજી અને આપખુદ દીવાન દરબાર વિરાવાળા સામે સરદાર પટેલ અને ગાંધીજીએ રાજકોટ સત્યાગ્રહ કર્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_aarzi_hukumat_2',
               question: 'રાજકોટ સત્યાગ્રહ દરમિયાન દીવાન વિરાવાળાના કરારભંગ સામે સત્યાગ્રહ કરતાં કસ્તૂરબા ગાંધી અને મણિબહેન પટેલની ધરપકડ કરી કઈ જેલમાં રખાયા હતા?',
               options: [
+                'સાબરમતી જેલ',
                 'ત્રંબા જેલ',
                 'યેરવડા જેલ',
-                'સાબરમતી જેલ',
-                'ભુજ જેલ',
+                'ભુજ જેલ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'કસ્તૂરબા ગાંધી અને મણિબહેન પટેલને રાજકોટ નજીક આવેલી ત્રંબા જેલમાં નજરકેદ રાખવામાં આવ્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_aarzi_hukumat_3',
               question: '૧૯૩૯ ના રાજકોટ સત્યાગ્રહમાં ગાંધીજીના ઉપવાસ બાદ બ્રિટિશ ફેડરલ કોર્ટના કયા ચીફ જસ્ટિસે સરદાર પટેલ અને પ્રજાની તરફેણમાં ઐતિહાસિક ચુકાદો આપ્યો હતો?',
               options: [
-                'સર મોરિસ ગ્વાયર (Sir Maurice Gwyer)',
-                'સર સિડની રોલેટ',
                 'જજ બ્રુમફિલ્ડ',
                 'જજ જેમ્સ મેકફર્સન',
+                'સર સિડની રોલેટ',
+                'સર મોરિસ ગ્વાયર (Sir Maurice Gwyer)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ફેડરલ કોર્ટના ચીફ જસ્ટિસ સર મોરિસ ગ્વાયરે લવાદ તરીકે સરદાર પટેલ અને ઠાકોર વચ્ચેના મૂળ કરારને માન્ય રાખી ચુકાદો આપ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_aarzi_hukumat_4',
               question: '૧ જુલાઈ ૧૯૪૬ ના રોજ અમદાવાદમાં રથયાત્રાના દિવસે કોમી રમખાણોમાં હિન્દુ-મુસ્લિમ એકતા માટે પ્રાણ ન્યોછાવર કરનાર બે અમર શહીદો કોણ હતા?',
               options: [
-                'વસંતરાવ હેગિષ્ટે અને રજબઅલી લાખાણી',
-                'વિનોદ કિનારીવાલા અને ઉમાકાંત કડીયા',
                 'મોહનલાલ પંડ્યા અને શંકરલાલ પરીખ',
+                'વિનોદ કિનારીવાલા અને ઉમાકાંત કડીયા',
                 'રવિશંકર મહારાજ અને બાબુભાઈ પટેલ',
+                'વસંતરાવ હેગિષ્ટે અને રજબઅલી લાખાણી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૧ જુલાઈ ૧૯૪૬ ના રોજ અમદાવાદ ખાડિયા ખાતે વસંતરાવ હેગિષ્ટે અને રજબઅલી લાખાણીએ કોમી એકતા માટે પ્રાણની આહુતિ આપી હતી.',
             ),
             McqModel(
               id: 'mcq_sec7_aarzi_hukumat_5',
               question: 'અમદાવાદના શહીદો વસંતરાવ અને રજબઅલીના સર્વોચ્ચ બલિદાનની યાદમાં ગુજરાતમાં દર વર્ષે ૧ જુલાઈ કયા દિવસ તરીકે ઉજવવામાં આવે છે?',
               options: [
-                'વસંત-રજબ કોમી એકતા દિન',
                 'શહીદ દિન',
                 'સ્વાતંત્ર્ય દિન',
-                'અહિંસા દિન',
+                'વસંત-રજબ કોમી એકતા દિન',
+                'અહિંસા દિન'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'દર વર્ષે ૧ જુલાઈને ગુજરાતમાં "વસંત-રજબ કોમી એકતા દિન" તરીકે ઉજવવામાં આવે છે.',
             ),
             McqModel(
               id: 'mcq_sec7_aarzi_hukumat_6',
               question: '૧૫ ઓગસ્ટ ૧૯૪૭ ના રોજ ૮૨% હિન્દુ પ્રજા હોવા છતાં જૂનાગઢનું પાકિસ્તાન સાથે જોડાણ જાહેર કરનાર નવાબ અને દીવાન કોણ હતા?',
               options: [
-                'નવાબ મોહબ્બતખાન ત્રીજા અને દીવાન શાહનવાઝ ભુટ્ટો',
-                'નવાબ રસુલખાન અને દીવાન બહાઉદ્દીન',
                 'નવાબ મહાબતખાન બીજા અને દીવાન સલીમ ખાન',
+                'નવાબ રસુલખાન અને દીવાન બહાઉદ્દીન',
                 'નવાબ શેરખાન બાબી અને દીવાન ફઝલ અલી',
+                'નવાબ મોહબ્બતખાન ત્રીજા અને દીવાન શાહનવાઝ ભુટ્ટો'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'જૂનાગઢના રંગીલા નવાબ મોહબ્બતખાન ત્રીજા અને દીવાન શાહનવાઝ ભુટ્ટોએ જૂનાગઢનું ગેરકાયદે પાકિસ્તાન સાથે જોડાણ કર્યું હતું.',
             ),
             McqModel(
               id: 'mcq_sec7_aarzi_hukumat_7',
               question: 'જૂનાગઢની મુક્તિ માટે ૨૫ સપ્ટેમ્બર ૧૯૪૭ ના રોજ મુંબઈના માધવબાગ ખાતે સ્થપાયેલી "આરઝી હુકુમત" ના વડાપ્રધાન કોણ બન્યા હતા?',
               options: [
-                'શામળદાસ ગાંધી',
-                'રતુભાઈ અદાણી',
                 'દુર્લભજી ખેતાણી',
                 'ઉચ્છંગરાય ઢેબર',
+                'રતુભાઈ અદાણી',
+                'શામળદાસ ગાંધી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'મહાત્મા ગાંધીજીના ભત્રીજા અને વંદે માતરમ્ અખબારના તંત્રી શામળદાસ ગાંધી આરઝી હુકુમતના વડાપ્રધાન બન્યા હતા.',
             ),
             McqModel(
@@ -21079,9 +21079,9 @@ McqModel(
               question: 'આરઝી હુકુમતની લડાયક "મુક્તિ સેના" ના સરસેનાપતિ (મુખ્ય સેનાપતિ) અને ગૃહમંત્રી કોણ હતા?',
               options: [
                 'રતુભાઈ અદાણી',
-                'શામળદાસ ગાંધી',
-                'સુરગભાઈ વરૂ',
                 'ભવાનીશંકર ઓઝા',
+                'શામળદાસ ગાંધી',
+                'સુરગભાઈ વરૂ'
               ],
               correctOptionIndex: 0,
               explanation: 'મુક્તિ સેનાના સરસેનાપતિ રતુભાઈ અદાણી હતા, જેમણે કુતિયાણા, માણાવદર સહિત ૧૬૦ થી વધુ ગામો મુક્ત કરાવ્યા હતા.',
@@ -21091,9 +21091,9 @@ McqModel(
               question: 'આરઝી હુકુમતની પ્રચંડ જીત અને નવાબના કરાંચી પલાયન બાદ ભારત સરકારે કઈ તારીખે જૂનાગઢનો સત્તાવાર વહીવટ સંભાળ્યો હતો?',
               options: [
                 '૯ નવેમ્બર ૧૯૪૭',
-                '૧૫ ઓગસ્ટ ૧૯૪૭',
-                '૨૫ સપ્ટેમ્બર ૧૯૪૭',
                 '૧૩ નવેમ્બર ૧૯૪૭',
+                '૨૫ સપ્ટેમ્બર ૧૯૪૭',
+                '૧૫ ઓગસ્ટ ૧૯૪૭'
               ],
               correctOptionIndex: 0,
               explanation: '૯ નવેમ્બર ૧૯૪૭ ના રોજ ભારત સરકારના પ્રાદેશિક કમિશનર નીલમ બુચ અને શામળદાસ ગાંધીએ જૂનાગઢનો કબજો લીધો હતો.',
@@ -21102,24 +21102,24 @@ McqModel(
               id: 'mcq_sec7_aarzi_hukumat_10',
               question: '૧૩ નવેમ્બર ૧૯૪૭ ના રોજ જૂનાગઢના બહાઉદ્દીન કોલેજના મેદાનમાં સભા સંબોધીને સરદાર વલ્લભભાઈ પટેલે કયા પવિત્ર તીર્થસ્થળના જીર્ણોદ્ધારનો ઐતિહાસિક સંકલ્પ કર્યો હતો?',
               options: [
-                'સોમનાથ જ્યોતિર્લિંગ મંદિર',
                 'દ્વારકાધીશ મંદિર',
-                'અંબાજી મંદિર',
+                'સોમનાથ જ્યોતિર્લિંગ મંદિર',
                 'મોઢેરા સૂર્યમંદિર',
+                'અંબાજી મંદિર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'સરદાર વલ્લભભાઈ પટેલે ૧૩ નવેમ્બર ૧૯૪૭ ના રોજ પ્રભાસ પાટણ ખાતે સમુદ્રજળ હાથમાં લઈ સોમનાથ મંદિરના ભવ્ય પુનઃનિર્માણનો સંકલ્પ લીધો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_post_independence_1',
               question: 'સમગ્ર ભારતના ૫૬૨ દેશી રજવાડાંઓ પૈકી માત્ર ગુજરાત, સૌરાષ્ટ્ર અને કચ્છ વિસ્તારમાં કુલ કેટલા રજવાડાં આવેલાં હતાં?',
               options: [
-                '૩૬૬ રજવાડાં (સૌરાષ્ટ્રમાં ૨૨૨)',
+                '૪૫૦ રજવાડાં',
                 '૨૨૨ રજવાડાં',
                 '૧૫૦ રજવાડાં',
-                '૪૫૦ રજવાડાં',
+                '૩૬૬ રજવાડાં (સૌરાષ્ટ્રમાં ૨૨૨)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'ભારતના ૫૬૨ દેશી રજવાડાંઓમાંથી ૩૬૬ રજવાડાં ગુજરાતમાં હતાં, જેમાં એકલા સૌરાષ્ટ્ર/કાઠિયાવાડમાં ૨૨૨ રજવાડાંઓ હતાં.',
             ),
             McqModel(
@@ -21127,9 +21127,9 @@ McqModel(
               question: 'અખંડ ભારતના નિર્માણ માટે કોઈપણ પૂર્વશરત વિના પોતાનું રજવાડું સૌપ્રથમ ભારત સંઘને અર્પણ કરનાર ઉદારદિલ રાજવી કોણ હતા?',
               options: [
                 'ભાવનગરના મહારાજા કૃષ્ણકુમારસિંહજી',
-                'વડોદરાના મહારાજા પ્રતાપસિંહ ગાયકવાડ',
-                'જામનગરના જામ સાહેબ દિગ્વિજયસિંહજી',
                 'ધ્રાંગધ્રાના મહારાજા મયુરધ્વજસિંહજી',
+                'જામનગરના જામ સાહેબ દિગ્વિજયસિંહજી',
+                'વડોદરાના મહારાજા પ્રતાપસિંહ ગાયકવાડ'
               ],
               correctOptionIndex: 0,
               explanation: 'ભાવનગરના મહારાજા કૃષ્ણકુમારસિંહજીએ અખંડ ભારતના નિર્માણ માટે કોઈપણ શરત વિના પોતાનું રાજ્ય સૌપ્રથમ ભારત સંઘને અર્પણ કર્યું હતું.',
@@ -21139,9 +21139,9 @@ McqModel(
               question: 'ભાવનગરના મહારાજા કૃષ્ણકુમારસિંહજીએ ૧૫ જાન્યુઆરી ૧૯૪૮ ના રોજ ભાવનગરમાં જવાબદાર સરકાર સ્થાપી કોને મુખ્ય પ્રધાન (વડાપ્રધાન) બનાવ્યા હતા?',
               options: [
                 'બલવંતરાય મહેતા',
-                'ઉચ્છંગરાય ઢેબર',
-                'રસિકલાલ પરીખ',
                 'જીવરાજ મહેતા',
+                'રસિકલાલ પરીખ',
+                'ઉચ્છંગરાય ઢેબર'
               ],
               correctOptionIndex: 0,
               explanation: 'મહારાજા કૃષ્ણકુમારસિંહજીએ ૧૫ જાન્યુઆરી ૧૯૪૮ ના રોજ પ્રજાપ્રિય નેતા બલવંતરાય મહેતાને ભાવનગર રાજ્યના વડાપ્રધાન બનાવ્યા હતા.',
@@ -21150,36 +21150,36 @@ McqModel(
               id: 'mcq_sec7_post_independence_4',
               question: 'આઝાદી પછી ભાવનગરના મહારાજા કૃષ્ણકુમારસિંહજી કયા રાજ્યના પ્રથમ ભારતીય રાજ્યપાલ (ગવર્નર) તરીકે નિયુક્ત થયા હતા?',
               options: [
-                'મદ્રાસ રાજ્ય (તમિલનાડુ)',
                 'મુંબઈ રાજ્ય',
                 'બિહાર રાજ્ય',
                 'પશ્ચિમ બંગાળ',
+                'મદ્રાસ રાજ્ય (તમિલનાડુ)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'મહારાજા કૃષ્ણકુમારસિંહજી આઝાદ ભારતમાં મદ્રાસ (તમિલનાડુ) ના પ્રથમ ભારતીય રાજ્યપાલ બન્યા હતા અને માત્ર ૧ રૂપિયો માનદ વેતન લેતા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_post_independence_5',
               question: '૧૫ ફેબ્રુઆરી ૧૯૪૮ ના રોજ જામનગર ખાતે સરદાર પટેલના હસ્તે રચાયેલા "સૌરાષ્ટ્ર રાજ્ય" ના પ્રથમ રાજપ્રમુખ કોણ બન્યા હતા?',
               options: [
-                'જામનગરના જામ સાહેબ દિગ્વિજયસિંહજી',
                 'ભાવનગરના કૃષ્ણકુમારસિંહજી',
-                'ધ્રાંગધ્રાના મયુરધ્વજસિંહજી',
                 'મોરબીના લખધીરસિંહજી',
+                'જામનગરના જામ સાહેબ દિગ્વિજયસિંહજી',
+                'ધ્રાંગધ્રાના મયુરધ્વજસિંહજી'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: 'સૌરાષ્ટ્ર રાજ્યના પ્રથમ રાજપ્રમુખ જામનગરના જામ સાહેબ દિગ્વિજયસિંહજી અને ઉપ-રાજપ્રમુખ ધ્રાંગધ્રાના મયુરધ્વજસિંહજી બન્યા હતા.',
             ),
             McqModel(
               id: 'mcq_sec7_post_independence_6',
               question: '૧૯૪૮ માં સ્થપાયેલા સૌરાષ્ટ્ર રાજ્યના પ્રથમ મુખ્યમંત્રી કોણ બન્યા હતા?',
               options: [
-                'ઉચ્છંગરાય નવલશંકર ઢેબર (યુ. એન. ઢેબર)',
-                'રસિકલાલ પરીખ',
                 'ડૉ. જીવરાજ મહેતા',
+                'રસિકલાલ પરીખ',
                 'બલવંતરાય મહેતા',
+                'ઉચ્છંગરાય નવલશંકર ઢેબર (યુ. એન. ઢેબર)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'સૌરાષ્ટ્ર રાજ્યના પ્રથમ મુખ્યમંત્રી ઉચ્છંગરાય ઢેબર બન્યા હતા, જેમણે ગિરાસદારી અને બારખલી નાબૂદી જેવા ઐતિહાસિક સુધારાઓ કર્યા.',
             ),
             McqModel(
@@ -21187,9 +21187,9 @@ McqModel(
               question: '૧૯૪૮ થી ૧૯૫૬ સુધી અસ્તિત્વ ધરાવતા સૌરાષ્ટ્ર રાજ્યની રાજધાની કયું શહેર હતું?',
               options: [
                 'રાજકોટ',
-                'જામનગર',
                 'ભાવનગર',
-                'જૂનાગઢ',
+                'જામનગર',
+                'જૂનાગઢ'
               ],
               correctOptionIndex: 0,
               explanation: 'સૌરાષ્ટ્ર રાજ્યની રાજધાની રાજકોટ હતી અને તેનું વિધાનસભા ભવન રાજકોટ ખાતે કાર્યરત હતું.',
@@ -21199,9 +21199,9 @@ McqModel(
               question: 'વડોદરા રાજ્યનું મહારાજા પ્રતાપસિંહ ગાયકવાડ દ્વારા મુંબઈ રાજ્ય સાથે ઔપચારિક વિલીનીકરણ કઈ તારીખે થયું હતું?',
               options: [
                 '૧ મે ૧૯૪૯',
-                '૧૫ ઓગસ્ટ ૧૯૪૭',
                 '૧ જૂન ૧૯૪૮',
-                '૧૫ ફેબ્રુઆરી ૧૯૪૮',
+                '૧૫ ઓગસ્ટ ૧૯૪૭',
+                '૧૫ ફેબ્રુઆરી ૧૯૪૮'
               ],
               correctOptionIndex: 0,
               explanation: '૧ મે ૧૯૪૯ ના રોજ વડોદરા રાજ્યનું મુંબઈ રાજ્ય સાથે સત્તાવાર વિલીનીકરણ થયું હતું.',
@@ -21210,24 +21210,24 @@ McqModel(
               id: 'mcq_sec7_post_independence_9',
               question: '૧૯૫૩ માં ભાષાવાર રાજ્યોની પુનઃરચના માટે કેન્દ્ર સરકાર દ્વારા સ્થપાયેલા "રાજ્ય પુનર્ગઠન પંચ" ના અધ્યક્ષ કોણ હતા?',
               options: [
-                'જસ્ટિસ ફઝલ અલી (Fazal Ali)',
-                'જસ્ટિસ એસ. કે. ધર',
                 'પંડિત હૃદયનાથ કુંઝરુ',
+                'જસ્ટિસ ફઝલ અલી (Fazal Ali)',
                 'સર કે. એમ. પર્ણિકર',
+                'જસ્ટિસ એસ. કે. ધર'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: 'ડિસેમ્બર ૧૯૫૩ માં સ્થપાયેલા રાજ્ય પુનર્ગઠન પંચ (SRC) ના અધ્યક્ષ જસ્ટિસ ફઝલ અલી હતા, જેથી તે "ફઝલ અલી કમિશન" કહેવાયું.',
             ),
             McqModel(
               id: 'mcq_sec7_post_independence_10',
               question: '૧ નવેમ્બર ૧૯૫૬ ના રોજ અસ્તિત્વમાં આવેલા બૃહદ દ્વિભાષી મુંબઈ રાજ્યના પ્રથમ મુખ્યમંત્રી કોણ બન્યા હતા?',
               options: [
-                'યશવંતરાવ ચવ્હાણ (Yashwantrao Chavan)',
-                'મોરારજી દેસાઈ',
                 'ડૉ. જીવરાજ મહેતા',
+                'યશવંતરાવ ચવ્હાણ (Yashwantrao Chavan)',
                 'બી. જી. ખેર',
+                'મોરારજી દેસાઈ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧ નવેમ્બર ૧૯૫૬ ના રોજ બૃહદ દ્વિભાષી મુંબઈ રાજ્યની સ્થાપના થઈ ત્યારે તેના પ્રથમ મુખ્યમંત્રી યશવંતરાવ ચવ્હાણ બન્યા હતા.',
             ),
             McqModel(
@@ -21236,8 +21236,8 @@ McqModel(
               options: [
                 'કનૈયાલાલ માણેકલાલ મુનશી (કે. એમ. મુનશી)',
                 'ઇન્દુલાલ યાજ્ઞિક',
-                'મહાત્મા ગાંધીજી',
                 'ઉમાશંકર જોશી',
+                'મહાત્મા ગાંધીજી'
               ],
               correctOptionIndex: 0,
               explanation: 'ઈ.સ. ૧૯૩૭ માં કરાચી ખાતે યોજાયેલી ગુજરાતી સાહિત્ય પરિષદના પ્રમુખપદેથી કનૈયાલાલ મુનશીએ સૌપ્રથમ "મહાગુજરાત" ની સંકલ્પના રજૂ કરી હતી.',
@@ -21246,12 +21246,12 @@ McqModel(
               id: 'mcq_sec7_mahagujarat_2',
               question: '૮ ઓગસ્ટ ૧૯૫૬ ના રોજ મહાગુજરાત આંદોલનના પ્રારંભે અમદાવાદમાં કઈ કોલેજના વિદ્યાર્થીઓ પર લાલ દરવાજા કોંગ્રેસ ભવન સામે ગોળીબાર થયો હતો?',
               options: [
-                'ગુજરાત કોલેજ',
                 'એલ. ડી. આર્ટ્સ કોલેજ',
-                'સેન્ટ ઝેવિયર્સ કોલેજ',
                 'એચ. એલ. કોમર્સ કોલેજ',
+                'ગુજરાત કોલેજ',
+                'સેન્ટ ઝેવિયર્સ કોલેજ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૮ ઓગસ્ટ ૧૯૫૬ ના રોજ ગુજરાત કોલેજના વિદ્યાર્થીઓ પર લાલ દરવાજા કોંગ્રેસ ભવન સામે ગોળીબાર થયો, જેમાં પૂનમચંદ, કૌશિક વ્યાસ વગેરે શહીદ થયા.',
             ),
             McqModel(
@@ -21259,9 +21259,9 @@ McqModel(
               question: 'અલગ ગુજરાત રાજ્યની લડત માટે ૯ સપ્ટેમ્બર ૧૯૫૬ ના રોજ સ્થપાયેલી "મહાગુજરાત જનતા પરિષદ" ના પ્રમુખ કોણ બન્યા હતા?',
               options: [
                 'પૂજ્ય ઇન્દુલાલ યાજ્ઞિક (ઇન્દુચાચા)',
-                'હરિહર ખંભોળજા',
                 'બ્રહ્મકુમાર ભટ્ટ',
                 'દિનકર મહેતા',
+                'હરિહર ખંભોળજા'
               ],
               correctOptionIndex: 0,
               explanation: 'મહાગુજરાત આંદોલનનું સુકાન સંભાળવા ૯ સપ્ટેમ્બર ૧૯૫૬ ના રોજ સ્થપાયેલી જનતા પરિષદના સર્વમાન્ય પ્રમુખ પૂજ્ય ઇન્દુલાલ યાજ્ઞિક બન્યા હતા.',
@@ -21270,24 +21270,24 @@ McqModel(
               id: 'mcq_sec7_mahagujarat_4',
               question: 'મહાગુજરાત આંદોલન દરમિયાન મહાગુજરાત જનતા પરિષદનું ઐતિહાસિક ચૂંટણી પ્રતીક (ચિહ્ન) કયું હતું?',
               options: [
-                'કૂકડો (Cock)',
+                'હાથી',
                 'ચરખો (રેંટિયો)',
                 'દીવો',
-                'હાથી',
+                'કૂકડો (Cock)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: 'મહાગુજરાત જનતા પરિષદનું સત્તાવાર ચૂંટણી પ્રતીક "કૂકડો" (Cock) હતું, જેના નિશાન પર ૧૯૫૭ ની ચૂંટણીમાં જવલંત વિજય મળ્યો હતો.',
             ),
             McqModel(
               id: 'mcq_sec7_mahagujarat_5',
               question: '૧ મે ૧૯૬૦ ના રોજ અલગ ગુજરાત રાજ્યનું ઉદ્ઘાટન સાબરમતી આશ્રમ ખાતે કોના પાવન હસ્તે કરવામાં આવ્યું હતું?',
               options: [
-                'પૂજ્ય રવિશંકર મહારાજ (મૂક સેવક)',
-                'પંડિત જવાહરલાલ નેહરુ',
                 'ડૉ. રાજેન્દ્ર પ્રસાદ',
+                'પંડિત જવાહરલાલ નેહરુ',
                 'ઇન્દુલાલ યાજ્ઞિક',
+                'પૂજ્ય રવિશંકર મહારાજ (મૂક સેવક)'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 3,
               explanation: '૧ મે ૧૯૬૦ ના રોજ અમદાવાદના સાબરમતી આશ્રમ ખાતે ગુજરાતના મુક સેવક પૂજ્ય રવિશંકર મહારાજના હસ્તે ગુજરાત રાજ્યનું ઉદ્ઘાટન થયું હતું.',
             ),
             McqModel(
@@ -21297,7 +21297,7 @@ McqModel(
                 'ડૉ. જીવરાજ નારાયણ મહેતા',
                 'બલવંતરાય મહેતા',
                 'હિતેન્દ્ર દેસાઈ',
-                'ઘનશ્યામ ઓઝા',
+                'ઘનશ્યામ ઓઝા'
               ],
               correctOptionIndex: 0,
               explanation: 'ગુજરાત રાજ્યના પ્રથમ મુખ્યમંત્રી અમરેલીના વતની ડૉ. જીવરાજ નારાયણ મહેતા બન્યા હતા.',
@@ -21306,12 +21306,12 @@ McqModel(
               id: 'mcq_sec7_mahagujarat_7',
               question: 'ગુજરાત રાજ્યના પ્રથમ રાજ્યપાલ (Governor) તરીકે કોણે કાર્યભાર સંભાળ્યો હતો?',
               options: [
-                'મહેંદી નવાઝ જંગ',
-                'શ્રીમન્નનારાયણ',
                 'નિત્યાનંદ કાનૂનગો',
                 'કે. કે. વિશ્વનાથન',
+                'મહેંદી નવાઝ જંગ',
+                'શ્રીમન્નનારાયણ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 2,
               explanation: '૧ મે ૧૯૬૦ ના રોજ ગુજરાતના પ્રથમ રાજ્યપાલ તરીકે મહેંદી નવાઝ જંગે શપથ લીધા હતા.',
             ),
             McqModel(
@@ -21319,9 +21319,9 @@ McqModel(
               question: 'ગુજરાત વિધાનસભાના પ્રથમ અધ્યક્ષ (સ્પીકર) તરીકે કોની વરણી કરવામાં આવી હતી?',
               options: [
                 'કલ્યાણજી વિઠ્ઠલભાઈ મહેતા',
-                'રાઘવજી લેઉવા',
-                'કુંદનલાલ ધોળકિયા',
                 'મનુભાઈ પાંડોર',
+                'રાઘવજી લેઉવા',
+                'કુંદનલાલ ધોળકિયા'
               ],
               correctOptionIndex: 0,
               explanation: 'બારડોલી સત્યાગ્રહના અગ્રણી નેતા કલ્યાણજી વિઠ્ઠલભાઈ મહેતા ગુજરાત વિધાનસભાના પ્રથમ સ્પીકર બન્યા હતા.',
@@ -21332,8 +21332,8 @@ McqModel(
               options: [
                 'સુંદરલાલ ત્રિકમલાલ દેસાઈ (એસ. ટી. દેસાઈ)',
                 'જે. એમ. શેઠ',
-                'પી. એન. ભગવતી',
                 'બી. જે. દીવાન',
+                'પી. એન. ભગવતી'
               ],
               correctOptionIndex: 0,
               explanation: 'ગુજરાત હાઇકોર્ટના પ્રથમ મુખ્ય ન્યાયમૂર્તિ તરીકે જસ્ટિસ એસ. ટી. દેસાઈ (સુંદરલાલ ત્રિકમલાલ દેસાઈ) ની નિમણૂક થઈ હતી.',
@@ -21342,12 +21342,12 @@ McqModel(
               id: 'mcq_sec7_mahagujarat_10',
               question: '૧ મે ૧૯૬૦ ના રોજ સ્થાપના વખતે નવરચિત ગુજરાત રાજ્યમાં કુલ કેટલા જિલ્લાઓ હતા?',
               options: [
-                '૧૭ જિલ્લાઓ',
-                '૧૯ જિલ્લાઓ',
-                '૨૫ જિલ્લાઓ',
                 '૩૩ જિલ્લાઓ',
+                '૧૭ જિલ્લાઓ',
+                '૨૫ જિલ્લાઓ',
+                '૧૯ જિલ્લાઓ'
               ],
-              correctOptionIndex: 0,
+              correctOptionIndex: 1,
               explanation: '૧ મે ૧૯૬૦ ના રોજ સ્થાપના વખતે ગુજરાતમાં કુલ ૧૭ જિલ્લાઓ અને ૧૮૫ તાલુકાઓ હતા (જે હાલ વધીને ૩૩ જિલ્લાઓ થયા છે).',
             ),
           ],

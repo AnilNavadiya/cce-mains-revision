@@ -11,12 +11,50 @@ class McqQuizWidget extends StatefulWidget {
 }
 
 class _McqQuizWidgetState extends State<McqQuizWidget> {
+  late List<McqModel> _displayMcqs;
   final Map<int, int?> _selectedAnswers = {};
   final Map<int, bool> _showExplanations = {};
 
   @override
+  void initState() {
+    super.initState();
+    _displayMcqs = List.from(widget.mcqs);
+  }
+
+  @override
+  void didUpdateWidget(covariant McqQuizWidget oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.mcqs != widget.mcqs) {
+      _displayMcqs = List.from(widget.mcqs);
+      _selectedAnswers.clear();
+      _showExplanations.clear();
+    }
+  }
+
+  void _shuffleQuestions() {
+    setState(() {
+      _displayMcqs.shuffle();
+      _selectedAnswers.clear();
+      _showExplanations.clear();
+    });
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('પ્રશ્નોનો ક્રમ શફલ કરવામાં આવ્યો! તમે ફરીથી મેમરી ટેસ્ટ આપી શકો છો.'),
+        duration: Duration(seconds: 2),
+      ),
+    );
+  }
+
+  void _resetQuiz() {
+    setState(() {
+      _selectedAnswers.clear();
+      _showExplanations.clear();
+    });
+  }
+
+  @override
   Widget build(BuildContext context) {
-    if (widget.mcqs.isEmpty) {
+    if (_displayMcqs.isEmpty) {
       return Center(
         child: Padding(
           padding: const EdgeInsets.all(32.0),
@@ -46,15 +84,101 @@ class _McqQuizWidgetState extends State<McqQuizWidget> {
       );
     }
 
+    final answeredCount = _selectedAnswers.values.where((v) => v != null).length;
+    int correctCount = 0;
+    _selectedAnswers.forEach((idx, selected) {
+      if (idx < _displayMcqs.length && selected == _displayMcqs[idx].correctOptionIndex) {
+        correctCount++;
+      }
+    });
+
     return ListView.builder(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-      itemCount: widget.mcqs.length,
+      itemCount: _displayMcqs.length + 1, // +1 for header
       itemBuilder: (context, index) {
-        final mcq = widget.mcqs[index];
-        final selectedIndex = _selectedAnswers[index];
+        if (index == 0) {
+          // Top Control Bar
+          return Container(
+            margin: const EdgeInsets.only(bottom: 14),
+            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+            decoration: BoxDecoration(
+              color: Colors.blue.shade50.withValues(alpha: 0.6),
+              borderRadius: BorderRadius.circular(12),
+              border: Border.all(color: Colors.blue.shade100),
+            ),
+            child: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: Colors.blue.shade700,
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: Text(
+                    'કુલ પ્રશ્નો: ${_displayMcqs.length}',
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+                if (answeredCount > 0) ...[
+                  const SizedBox(width: 8),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: correctCount == answeredCount
+                          ? Colors.green.shade700
+                          : Colors.orange.shade800,
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Text(
+                      'સાચા: $correctCount / $answeredCount',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 12,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                ],
+                const Spacer(),
+                Tooltip(
+                  message: 'પ્રશ્નોનો ક્રમ શફલ કરો',
+                  child: TextButton.icon(
+                    onPressed: _shuffleQuestions,
+                    icon: const Icon(Icons.shuffle_rounded, size: 16),
+                    label: const Text('શફલ', style: TextStyle(fontSize: 12)),
+                    style: TextButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                      visualDensity: VisualDensity.compact,
+                    ),
+                  ),
+                ),
+                Tooltip(
+                  message: 'બધા જવાબો રીસેટ કરો',
+                  child: TextButton.icon(
+                    onPressed: answeredCount > 0 ? _resetQuiz : null,
+                    icon: const Icon(Icons.refresh_rounded, size: 16),
+                    label: const Text('રીસેટ', style: TextStyle(fontSize: 12)),
+                    style: TextButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                      visualDensity: VisualDensity.compact,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          );
+        }
+
+        final qIndex = index - 1;
+        final mcq = _displayMcqs[qIndex];
+        final selectedIndex = _selectedAnswers[qIndex];
         final isAnswered = selectedIndex != null;
         final isCorrect = selectedIndex == mcq.correctOptionIndex;
-        final showExplanation = _showExplanations[index] ?? false;
+        final showExplanation = _showExplanations[qIndex] ?? false;
 
         return Card(
           margin: const EdgeInsets.only(bottom: 16),
@@ -83,7 +207,7 @@ class _McqQuizWidgetState extends State<McqQuizWidget> {
                         borderRadius: BorderRadius.circular(6),
                       ),
                       child: Text(
-                        'Q ${index + 1}',
+                        'Q ${qIndex + 1}',
                         style: TextStyle(
                           fontSize: 12,
                           fontWeight: FontWeight.bold,
@@ -135,8 +259,8 @@ class _McqQuizWidgetState extends State<McqQuizWidget> {
                       onTap: () {
                         if (!isAnswered) {
                           setState(() {
-                            _selectedAnswers[index] = optIndex;
-                            _showExplanations[index] = true;
+                            _selectedAnswers[qIndex] = optIndex;
+                            _showExplanations[qIndex] = true;
                           });
                         }
                       },
