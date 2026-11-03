@@ -247,6 +247,96 @@
    🎥 [Teaching Kishan - Gujarat Geography 05 : ગુજરાતના મેદાનો અને પ્રદેશો Video](https://youtu.be/RjzU2wMPsPQ)  
    *(વઢિયાર: બનાસ-સરસ્વતી વચ્ચે વઢિયારી ભેંસ & કાંકરેજી ગાય; ચરોતર: શેઢી-મહી વચ્ચે સુવર્ણ પર્ણ તમાકુ & AMUL; કાનમ: ઢાઢર-નર્મદા વચ્ચે કાળી રેગુર જમીન કપાસ સફેદ સોનું; ભાલ: સાબરમતી-ભોગાવો વચ્ચે ભાલિયા દાઉદખાની ઘઉં GI Tag; ઘેડ: માધવપુર-નવીબંદર-કેશોદ વચ્ચે જળબંબાકાર & શિયાળુ ડાંગર/જુવાર; બન્ની: એશિયાનું સૌથી મોટું ઘાસનું મેદાન, બન્ની ભેંસ, ભૂંગા & વાંઢ, રોગાન આર્ટ નિરોણા; ચુવાળ: બહુચરાજી ૪૪ ગામો; ખાખરીયા ટપ્પા: કડી-કલોલ તેલક્ષેત્રો; પોશીના પટ્ટો: માટીના ઘોડા ટેરાકોટા)*
 
+6. **કચ્છનું રણ (Great Rann & Little Rann of Kutch) - લેક્ચર ૦૬:**  
+   📖 [GUJARAT_GEOGRAPHY_06_DESERT_OF_GUJARAT_KUTCH_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_06_DESERT_OF_GUJARAT_KUTCH_NOTES_GUJARATI.md)  
+   🎥 [Teaching Kishan - Gujarat Geography 06 : કચ્છનું રણ Video](https://youtu.be/n3lZ9yX7298)  
+   *(મોટું રણ & નાનું રણ, સફેદ રણ, ઘુડખર અભયારણ્ય, સુરખાબ નગર ફ્લેમિંગો સિટી, લિગ્નાઇટ પાનંધ્રો, લાખો કચ્છી માડુ)*
+
+7. **કચ્છની નદીઓ (Rivers of Kutch) - લેક્ચર ૦૭:**  
+   📖 [GUJARAT_GEOGRAPHY_07_RIVERS_OF_GUJARAT_PART_01_KUTCH_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_07_RIVERS_OF_GUJARAT_PART_01_KUTCH_NOTES_GUJARATI.md)  
+   🎥 [Teaching Kishan - Gujarat Geography 07 : કચ્છની નદીઓ Video](https://youtu.be/N1QvJ7O4qP8)  
+   *(કચ્છની ૯૭ નદીઓ, શુષ્ક જળપ્રવાહ, રુકમાવતી, ભૂખી, કનકાવતી, ખારી, મીઠી, સુવી, માલણ)*
+
+8. **સૌરાષ્ટ્રની નદીઓ (Rivers of Saurashtra) - લેક્ચર ૦૮:**  
+   📖 [GUJARAT_GEOGRAPHY_08_RIVERS_OF_GUJARAT_PART_02_SAURASHTRA_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_08_RIVERS_OF_GUJARAT_PART_02_SAURASHTRA_NOTES_GUJARATI.md)  
+   🎥 [Teaching Kishan - Gujarat Geography 08 : સૌરાષ્ટ્રની નદીઓ Video](https://youtu.be/Hk17r5Zq4b0)  
+   *(સૌરાષ્ટ્રની ૭૧ ત્રિજ્યાકાર/કેન્દ્રત્યાગી નદીઓ, ભાદર ૧લી સૌથી લાંબી ૨૬૮ કિમી, શેત્રુંજી ૨જી સૌથી લાંબી, મચ્છુ ત્રિપલ હોનારત ૧૯૭૯, આજી, ઘેલો, સુકભાદર)*
+
+9. **તળ ગુજરાતની નદીઓ - ઉત્તર અને મધ્ય ગુજરાત - લેક્ચર ૦૯:**  
+   📖 [GUJARAT_GEOGRAPHY_09_RIVERS_OF_GUJARAT_PART_03_TALGUJARAT_NORTH_CENTRAL_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_09_RIVERS_OF_GUJARAT_PART_03_TALGUJARAT_NORTH_CENTRAL_NOTES_GUJARATI.md)  
+   🎥 [Teaching Kishan - Gujarat Geography 09 : તળ ગુજરાતની નદીઓ Part 01 Video](https://youtu.be/9w6QZJpL14U)  
+   *(કુંવારીકા નદીઓ: બનાસ, સરસ્વતી, રૂપેણ; સાબરમતી ૩૨૧ કિમી ગુજરાતની સૌથી લાંબી, મહી કર્કવૃત્તને બે વાર ઓળંગતી નદી & મહિસાગર)*
+
+10. **તળ ગુજરાતની નદીઓ - દક્ષિણ ગુજરાત - લેક્ચર ૧૦:**  
+    📖 [GUJARAT_GEOGRAPHY_10_RIVERS_OF_GUJARAT_PART_04_SOUTH_GUJARAT_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_10_RIVERS_OF_GUJARAT_PART_04_SOUTH_GUJARAT_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 10 : તળ ગુજરાતની નદીઓ Part 02 Video](https://youtu.be/QJp5Zc8f1eQ)  
+    *(નર્મદા રેવા - ગુજરાતની જીવાદોરી ૧,૩૧૨ કિમી, તાપી સૂર્યપુત્રી, મધ્ય/દક્ષિણ નદીઓ: નર્મદા, તાપી, કીમ, પૂર્ણા, અંબિકા, ઔરંગા, પાર, કોલક, દમણગંગા)*
+
+11. **નદીકાંઠાના શહેરો, ત્રિવેણી સંગમ અને ધોધ - લેક્ચર ૧૧:**  
+    📖 [GUJARAT_GEOGRAPHY_11_RIVERS_AND_RIVERBANK_CITIES_DAMS_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_11_RIVERS_AND_RIVERBANK_CITIES_DAMS_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 11 : નદીકાંઠાના શહેરો, સંગમ & ધોધ Video](https://youtu.be/Z3pGk3oH270)  
+    *(અમદાવાદ-સાબરમતી, સુરત-તાપી, ભરૂચ-નર્મદા, સિદ્ધપુર-સરસ્વતી; ત્રિવેણી સંગમ: સોમનાથ, ભાલકા, વાૌઠા ૭ નદીઓ; ગીરા ધોધ, હાથણી માતા ધોધ, નીનાઈ ધોધ)*
+
+12. **બહુહેતુક નદી યોજનાઓ - કલ્પસર, સરદાર સરોવર, સૌની & સુજલામ સુફલામ - લેક્ચર ૧૨:**  
+    📖 [GUJARAT_GEOGRAPHY_12_RIVER_PROJECTS_KALPSAR_SARDAR_SAROVAR_SAUNI_SUJALAM_SUFALAM_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_12_RIVER_PROJECTS_KALPSAR_SARDAR_SAROVAR_SAUNI_SUJALAM_SUFALAM_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 12 : નદી યોજનાઓ Video](https://youtu.be/qJ3bK_5u2Fw)  
+    *(સરદાર સરોવર ડેમ ૧૩૮.૬૮ મીટર, ૧,૪૫૦ મેગાવોટ વીજળી, સૌની યોજના ૧૧૫ જળાશયો, સુજલામ સુફલામ સ્પ્રેડિંગ કેનાલ, કલ્પસર ગલ્ફ ઓફ ખંભાત બેરેજ)*
+
+13. **ગુજરાતના બંદરો - ભાગ ૧ (દરિયાકિનારો, કચ્છના બંદરો: દીનદયાળ/કંડલા, મુંદ્રા) - લેક્ચર ૧૩:**  
+    📖 [GUJARAT_GEOGRAPHY_13_PORTS_OF_GUJARAT_PART_01_COASTLINE_KUTCH_KANDLA_MUNDRA_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_13_PORTS_OF_GUJARAT_PART_01_COASTLINE_KUTCH_KANDLA_MUNDRA_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 13 : બંદરો Part 01 Video](https://youtu.be/G2q7vP4k8aQ)  
+    *(૧,૬૦૦ કિમી દરિયાકાંઠો, ૧ મેજર પોર્ટ + ૪૮ નોન-મેજર પોર્ટ્સ, દીનદયાળ પોર્ટ કંડલા ૧૯૫૫ મુક્ત વ્યાપાર ક્ષેત્ર FTZ, મુંદ્રા અદાણી ભારતનું સૌથી મોટું ખાનગી કોમર્શિયલ પોર્ટ)*
+
+14. **ગુજરાતના બંદરો - ભાગ ૨ (સૌરાષ્ટ્રના બંદરો અને ટાપુઓ/બેટ્સ) - લેક્ચર ૧૪:**  
+    📖 [GUJARAT_GEOGRAPHY_14_PORTS_OF_GUJARAT_PART_02_SAURASHTRA_PORTS_ISLANDS_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_14_PORTS_OF_GUJARAT_PART_02_SAURASHTRA_PORTS_ISLANDS_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 14 : બંદરો Part 02 Video](https://youtu.be/h9J2k0mN3rU)  
+    *(ઓખા, પોરબંદર બારેમાસ ખુલ્લું બંદર, વેરાવળ મત્સ્ય બંદર, પીપાવાવ પ્રથમ ખાનગી બંદર, બેટ દ્વારકા સુદર્શન સેતુ, શિયાળ બેટ, પીરમ બેટ)*
+
+15. **ગુજરાતના બંદરો - ભાગ ૩ (તળ ગુજરાતના બંદરો, રો-રો ફેરી & અલંગ માસ્ટર રિવિઝન) - લેક્ચર ૧૫:**  
+    📖 [GUJARAT_GEOGRAPHY_15_PORTS_OF_GUJARAT_PART_03_TAL_GUJARAT_RO_RO_FERRY_MASTER_REVISION_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_15_PORTS_OF_GUJARAT_PART_03_TAL_GUJARAT_RO_RO_FERRY_MASTER_REVISION_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 15 : બંદરો Part 03 Video](https://youtu.be/U6x3k4pL8yQ)  
+    *(દહેજ કેમિકલ પોર્ટ, હજીરા, મગદલ્લા, ઉમરગામ; રો-રો અને રો-પેક્સ ફેરી સર્વિસ ઘોઘા થી દહેજ/હજીરા; અલંગ શિપ રિસાયક્લિંગ યાર્ડ)*
+
+16. **ગુજરાતની ખનિજ સંપત્તિ (Minerals of Gujarat) - લેક્ચર ૧૬:**  
+    📖 [GUJARAT_GEOGRAPHY_16_MINERALS_OF_GUJARAT_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_16_MINERALS_OF_GUJARAT_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 16 : ખનિજ સંપત્તિ Video](https://youtu.be/K7mP3l0v9rQ)  
+    *(ફ્લોરસપાર આંબાડુંગર છોટાઉદેપુર, બોક્સાઈટ દેવભૂમિ દ્વારકા/કચ્છ, લિગ્નાઈટ પાનંધ્રો/માતાનો મઢ, અકીક રાજપીપળા, ચીનાઈ માટી/ડોલોમાઇટ, GMDC સ્થાપના ૧૯૬૩)*
+
+17. **ગુજરાતની ખેતી અને પાકો (Crops & Agriculture of Gujarat) - લેક્ચર ૧૭:**  
+    📖 [GUJARAT_GEOGRAPHY_17_CROPS_AND_AGRICULTURE_OF_GUJARAT_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_17_CROPS_AND_AGRICULTURE_OF_GUJARAT_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 17 : ખેતી અને પાકો Video](https://youtu.be/Y5s9m2K8tQ0)  
+    *(ખરીફ, રવિ, જાયદ પાક; કપાસ કાનમ & સુરેન્દ્રનગર, મગફળી જૂનાગઢ સૌરાષ્ટ્ર તેલીબિયાં, તમાકુ ચરોતર સુવર્ણ પર્ણ, જીરું/વરિયાળી/ઈસબગુલ ઊંઝા એશિયાનું સૌથી મોટું માર્કેટ યાર્ડ, કેસર કેરી ગીર & હાફૂસ વલસાડ)*
+
+18. **વન્યજીવ અભયારણ્યો અને રાષ્ટ્રીય ઉદ્યાનો - લેક્ચર ૧૮:**  
+    📖 [GUJARAT_GEOGRAPHY_18_WILDLIFE_SANCTUARIES_AND_NATIONAL_PARKS_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_18_WILDLIFE_SANCTUARIES_AND_NATIONAL_PARKS_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 18 : અભયારણ્યો & રાષ્ટ્રીય ઉદ્યાનો Video](https://youtu.be/V2n7b0k8pQc)  
+    *(૪ રાષ્ટ્રીય ઉદ્યાનો: ગીર નેશનલ પાર્ક એશિયાટિક સિંહ, વેળાવદર કાળિયાર, વાંસદા, મરીન નેશનલ પાર્ક પિરોટન; ૨૩ વન્યજીવ અભયારણ્યો, ૧ રામસર સાઇટ નળ સરોવર, થોળ, વઢવાણા, ખીજડિયા)*
+
+19. **પશુપાલન અને પશુધન સંપત્તિ (Animal Husbandry & Livestock) - લેક્ચર ૧૯:**  
+    📖 [GUJARAT_GEOGRAPHY_19_ANIMAL_HUSBANDRY_AND_LIVESTOCK_WEALTH_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_19_ANIMAL_HUSBANDRY_AND_LIVESTOCK_WEALTH_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 19 : પશુપાલન Video](https://youtu.be/T3k9b7n4vQw)  
+    *(ગીર ગાય & કાંકરેજી ગાય સવાઈ ચાલ, જાફરાબાદી ભેંસ, બન્ની ભેંસ કૂંડી શીંગડાં, મહેસાણી ભેંસ, પટણવાડી & મારવાડી ઘેટાં, ઝાલાવાડી બકરી)*
+
+20. **વન સંપત્તિ અને વનીકરણ (Forest Wealth & ISFR Report) - લેક્ચર ૨૦:**  
+    📖 [GUJARAT_GEOGRAPHY_20_FOREST_WEALTH_AND_FORESTRY_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_20_FOREST_WEALTH_AND_FORESTRY_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 20 : જંગલ સંપત્તિ Video](https://youtu.be/Ca0HoAH3PhI)  
+    *(જંગલોના ૪ પ્રકારો: ભેજવાળા પાનખર, સૂકા પાનખર, કાંટાળા ઝાંખરા, મેન્ગ્રોવ; ISFR અહેવાલ ડાંગ સૌથી વધુ વન આચ્છાદન, વન પેદાશો: સાગ, વાંસ, ટીમરુ, કાથો ખેર)*
+
+21. **ગુજરાતના સાંસ્કૃતિક વનો (Cultural Forests / Sanskrutik Van) - લેક્ચર ૨૧:**  
+    📖 [GUJARAT_GEOGRAPHY_21_CULTURAL_FORESTS_SANSKRUTIK_VAN_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_21_CULTURAL_FORESTS_SANSKRUTIK_VAN_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 21 : સાંસ્ક્રુતિક વનો Video](https://youtu.be/cQcoUiRcylI)  
+    *(૫૫મો વન મહોત્સવ ૨૦૦૪ પુનીત વન ગાંધીનગર થી પ્રારંભ; માંગલ્ય વન અંબાજી, તીર્થંકર વન તારંગા, હરિહર વન સોમનાથ, ભક્તિ વન ચોટીલા, શ્યામલ વન શામળાજી, પાવક વન પાલીતાણા, વિરાસત વન પાવાગઢ, ગોવિંદગુરુ સ્મૃતિ વન માનગઢ હિલ)*
+
+22. **ગુજરાતના ઉદ્યોગો અને ડેરી ઉદ્યોગ (Industries & Dairy Sector) - લેક્ચર ૨૨:**  
+    📖 [GUJARAT_GEOGRAPHY_22_INDUSTRIES_OF_GUJARAT_UDHYOGO_DAIRY_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_22_INDUSTRIES_OF_GUJARAT_UDHYOGO_DAIRY_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Geography 22 : ગુજરાતના ઉદ્યોગો Video](https://youtu.be/mnJzOklm81Q)  
+    *(ઈજનેરી ઉદ્યોગો: મોરબી સિરામિક, જામનગર બ્રાસ, રાજકોટ ડીઝલ એન્જિન; જહાજ ભાંગવા/બાંધવા: અલંગ & સચાણા, દહેજ ABG & હજીરા L&T; ઓટોમોબાઇલ: સાણંદ ટાટા, હાલોલ MG, વિઠ્ઠલાપુર હોન્ડા, બેચરાજી મારુતિ; સિમેન્ટ: અંબુજા કોડીનાર, અલ્ટ્રાટેક અમરેલી, હિમાલય સફેદ સિમેન્ટ રાણાવાવ; રાસાયણિક ખાતર: GSFC બાજવા, IFFCO કલોલ નેનો યુરિયા, GNFC ચાવજ, KRIBHCO હજીરા; પેટ્રોકેમિકલ્સ: રિલાયન્સ જામનગર વિશ્વની સૌથી મોટી રિફાઇનરી, નાયરા વાડિનાર, PCPIR દહેજ; ડેરી ઉદ્યોગ: શ્વેત ક્રાંતિ, ડૉ. વર્ગીસ કુરિયન, ત્રિભુવનદાસ પટેલ, અમૂલ ૧૯૪૬, બનાસ એશિયાની સૌથી મોટી ડેરી અને ૨૩ જિલ્લાવાર ડેરીઓનું માસ્ટર કોષ્ટક)*
+
+23. **સંપૂર્ણ ગુજરાતની સામાજિક ભૂગોળ અને વસ્તીવિષયક પરિપ્રેક્ષ્ય (Social Geography & Census 2011) - લેક્ચર ૨૩ (શ્રેણી પૂર્ણાહુતિ):**  
+    📖 [GUJARAT_GEOGRAPHY_23_SOCIAL_GEOGRAPHY_DEMOGRAPHICS_CENSUS_2011_NOTES_GUJARATI.md](./gujarat_geography_notes/GUJARAT_GEOGRAPHY_23_SOCIAL_GEOGRAPHY_DEMOGRAPHICS_CENSUS_2011_NOTES_GUJARATI.md)  
+    🎥 [Teaching Kishan - Gujarat Social Geography Video](https://youtu.be/VjhgO6WKUC4)  
+    *(કુલ વસ્તી ૬,૦૪,૩૯,૬૯૨ ભારતમાં ૧૦મું સ્થાન, વસ્તી ગીચતા ૩૦૮ / ચો.કિમી: સૌથી વધુ સુરત ૧,૩૩૭ વિ. સૌથી ઓછી કચ્છ ૪૬; વસ્તી વૃદ્ધિ દર ૧૯.૧૭%: સુરત ૪૨.૧૯% વિ. નવસારી ૮.૨૪%; જાતિ પ્રમાણ ૯૧૯: તાપી ૧,૦૦૭ & ડાંગ ૧,૦૦૬ વિ. સુરત ૭૮૭; શિશુ લિંગ પ્રમાણ ૮૯૦: ડાંગ ૯૬૪ વિ. સુરત ૮૩૫; સાક્ષરતા દર ૭૯.૩૧%: સુરત ૮૫.૫% & અમદાવાદ ૮૫.૩% વિ. દાહોદ ૫૮.૮%, ગાંધીનગર પુરુષ સાક્ષરતા ૯૨% મોખરે; શહેરી વસ્તી ૪૨.૫૮% વિ. ગ્રામીણ ૫૭.૪૨%; SC વસ્તી ૬.૭% કચ્છ મોખરે & ST વસ્તી ૧૪.૮% ડાંગ મોખરે; બાળ મૃત્યુદર IMR અને માતા મૃત્યુ પ્રમાણ MMR)*
+
 ---
 
 ## 🚀 GitHub પર પુશ કરવા અને Web લાઈવ કરવાની રીત (How to Push & Go Live)
